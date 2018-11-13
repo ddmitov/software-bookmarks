@@ -32,11 +32,9 @@
         * [Collatinus - Lemmatiseur et analyseur morphologique de textes latins](http://outils.biblissima.fr/fr/collatinus/)  
         * [Collatinus-web - Lemmatiseur et analyseur morphologique de textes latins](http://outils.biblissima.fr/fr/collatinus-web/)  
         * [Glossa: a Latin dictionary - A Third Way Technologies](http://athirdway.com/glossa/)  
-        * [Latin Assistant: A Windows Interface for Use with William Whitaker's Words](http://ablemedia.com/ctcweb/showcase/grishin1.html)  
         * [Latin Dictionary for Windows. A complete Lewis & Short!](http://www.inrebus.com/latindictionary.php)  
         * [MundusLatinus - Freeware](http://www.munduslatinus.de/freeware.php)  
         * [Numen - An Online Latin Dictionary](http://latinlexicon.org/search_latin.php)  
-        * [WORDS Latin-to-English & English-to-Latin Dictionary](http://ablemedia.com/ctcweb/showcase/wordsonline.html)  
         * [Whitaker's WORDS Online](http://latin.ucant.org/)  
         * [Whitaker's Words: Overview](https://mk270.github.io/whitakers-words/)  
         * [auxilium-online.net - Wörterbuch und Community für Latein](http://www.auxilium-online.net/wb/woerterbuch.php)  
@@ -123,14 +121,12 @@
       * [Digital Camera OCR](http://www.topocr.com/)  
       * [ExactCODE: Hocr2PDF](http://www.exactcode.com/site/open_source/exactimage/hocr2pdf/)  
       * [Konrad Voelkel » Linux, OCR and PDF – problem solved «](http://www.konradvoelkel.com/2010/01/linux-ocr-and-pdf-problem-solved/)  
-      * [Rubuquet+ - Home](http://rubuquet.weebly.com/)  
       * [Scanning Software - Document Scanner Software - Paper Filing Software - OCR PDF - Document scanning software - Filing Cabinet](http://www.paperfile.net/)  
       * [Searchable PDFs with Linux | Thomas Fischer's Weblog](http://tfischernet.wordpress.com/2008/11/26/searchable-pdfs-with-linux/)  
       * [jbarlow83/OCRmyPDF: OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched](https://github.com/jbarlow83/OCRmyPDF)  
       * [naptha/tesseract.js: Pure Javascript OCR for 62 Languages](https://github.com/naptha/tesseract.js)  
     * Search  
       * Java  
-        * [DocFetcher - Fast Document Search](http://docfetcher.sourceforge.net/en/index.html)  
         * [Puggle Desktop Search](http://puggle.sourceforge.net/index.html)  
       * Xapian  
         * [Basic instructions](https://xapian.org/docs/omega/quickstart.html)  
@@ -191,8 +187,6 @@
         * [Minimal Linux Live](http://minimal.linux-bg.org/)  
         * [SliTaz GNU/Linux (en)](http://www.slitaz.org/en/)  
         * [Ubuntu Minimal CD](https://help.ubuntu.com/community/Installation/MinimalCD)  
-        * [Webconverger.org](http://webconverger.org/)  
-        * [d y n e : b o l i c -- a free multimedia studio in a GNU/Linux live CD](http://dynebolic.org/)  
         * [УСУ - Добре дошли!](http://learnfree.eu/)  
       * Linux How To  
         * Debian How To  
@@ -219,7 +213,6 @@
         * [Log in with an SSH private key on Linux and Mac](https://support.rackspace.com/how-to/logging-in-with-an-ssh-private-key-on-linuxmac/)  
         * [Running applications automatically when X starts](http://www.debian-administration.org/article/50/Running_applications_automatically_when_X_starts)  
         * [Starting Daemons from Cron](http://www.somacon.com/p38.php)  
-        * [The Linux Documentation Project: Guides](http://www.tldp.org/guides.html)  
         * [Which ports are considered unsafe on Chrome - Super User](https://superuser.com/questions/188058/which-ports-are-considered-unsafe-on-chrome)  
         * [WineHQ - SketchUp 8.x](https://appdb.winehq.org/objectManager.php?sClass=version&iId=21290)  
         * [Zenity Manual](http://library.gnome.org/users/zenity/stable/)  
@@ -293,27 +286,10 @@
       * [restarts - Command Line Windows Services Controlling Application](http://restarts.codeplex.com/)  
   * Software Development  
     * Best Practices  
-      * [Avoid these 35 habits that lead to unmaintainable code – Christian Maioli M.](https://chrismm.com/blog/avoid-these-35-habits-that-lead-to-unmaintainable-code/)  
-      * [Contributor Covenant: A Code of Conduct for Open Source Projects](http://contributor-covenant.org/)  
-      * [DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.](https://github.com/DovAmir/awesome-design-patterns)  
-      * [Droogans/unmaintainable-code: A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html](https://github.com/Droogans/unmaintainable-code)  
-      * [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)  
       * [Ind.ie — Ethical Design Manifesto](https://ind.ie/ethical-design/)  
-      * [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)  
-      * [Open Source Guide - A community guide for open source creators.](https://opensource.guide/)  
-      * [Quartz/bad-data-guide: An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.](https://github.com/Quartz/bad-data-guide)  
       * [Semantic Versioning 2.0.0](http://semver.org/)  
-      * [The Architecture of Open Source Applications](http://aosabook.org/en/)  
       * [Widdershin/programmers-oath: An oath for programmers, comparable to the Hippocratic Oath](https://github.com/Widdershin/programmers-oath)  
       * [google/styleguide: Style guides for Google-originated open-source projects](https://github.com/google/styleguide)  
-      * [mntnr/awesome-contributing: Awesome contributing guides for open source development.](https://github.com/mntnr/awesome-contributing)  
-      * [nayafia/lemonade-stand: A handy guide to financial support for open source](https://github.com/nayafia/lemonade-stand)  
-      * [thomasdavis/best-practices: This is a fork of timoxley - Tidbits of best practices information from around the web](https://github.com/thomasdavis/best-practices)  
-      * [weallcontribute/CONTRIBUTING.md at latest · WeAllJS/weallcontribute](https://github.com/WeAllJS/weallcontribute/blob/latest/CONTRIBUTING.md)  
-    * Containers  
-      * [Docker Hub](https://hub.docker.com/)  
-      * [dylanlrrb/Please-Contain-Yourself: A Docker tutorial written for people who don't actually know Docker already.](https://github.com/dylanlrrb/Please-Contain-Yourself)  
-      * [wsargent/docker-cheat-sheet: Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)  
     * Continuous Integration  
       * [Customizing the Build - Travis CI](https://docs.travis-ci.com/user/customizing-the-build)  
       * [How do I get Travis' build working directory in .travis.yml? - Stack Overflow](https://stackoverflow.com/questions/14006810/how-do-i-get-travis-build-working-directory-in-travis-yml)  
@@ -356,7 +332,6 @@
           * [xml - XPath with multiple conditions - Stack Overflow](https://stackoverflow.com/questions/10247978/xpath-with-multiple-conditions)  
           * [xml - xpath to get Node containing text - Stack Overflow](https://stackoverflow.com/questions/6442430/xpath-to-get-node-containing-text)  
       * [YAMLlint - The YAML Validator](http://www.yamllint.com/)  
-      * [sswf](http://www.m2osw.com/sswf.html)  
     * Databases  
       * Berkeley DB SQL  
         * [Berkeley DB Installation and Build Guide](https://docs.oracle.com/cd/E17076_05/html/installation/index.html)  
@@ -468,8 +443,6 @@
       * [pojala/electrino: Desktop runtime for apps built on web technologies, using the system's own web browser engine](https://github.com/pojala/electrino)  
     * Documentation  
       * Markdown  
-        * [A template to make good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)  
-        * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)  
         * [GitHub Flavored Markdown · GitHub Help](https://help.github.com/articles/github-flavored-markdown)  
         * [License Badges for your Project](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)  
         * [Markdown Basics - User Documentation](https://help.github.com/articles/markdown-basics/)  
@@ -477,6 +450,7 @@
         * [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)  
         * [MultiMarkdown/Documentation/Markdown Syntax.md at master · fletcher/MultiMarkdown](https://github.com/fletcher/MultiMarkdown/blob/master/Documentation/Markdown%20Syntax.md)  
         * [Shields.io: Quality metadata badges for open source projects](http://shields.io/)  
+        * [markdown - Is there a way to represent a directory tree in a Github README.md? - Stack Overflow](https://stackoverflow.com/questions/23989232/is-there-a-way-to-represent-a-directory-tree-in-a-github-readme-md)  
         * [matiassingers/awesome-readme: A curated list of awesome READMEs](https://github.com/matiassingers/awesome-readme)  
         * [scotch-io/All-Github-Emoji-Icons: A repo of every emoji icon as a separate file and commit.](https://github.com/scotch-io/All-Github-Emoji-Icons)  
         * [tiimgreen/github-cheat-sheet: A list of cool features of Git and GitHub.](https://github.com/tiimgreen/github-cheat-sheet)  
@@ -487,22 +461,13 @@
       * [Atom](https://atom.io/)  
       * [SciTE Text Editor Installer - EBSWIFT.COM](https://www.ebswift.com/scite-text-editor-installer.html)  
       * [Scintilla and SciTE](https://www.scintilla.org/SciTE.html)  
-    * Fundamentals  
-      * [karlseguin/Foundations-of-Programming-2](https://github.com/karlseguin/Foundations-of-Programming-2/blob/master/en/fop2.markdown)  
-      * [mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/mr-mig/every-programmer-should-know)  
-    * Learning  
-      * [DevTube - The best developer videos in one place](https://dev.tube/)  
-      * [Flashcards for Developers](https://nlaz.github.io/flashcards-for-developers/#/)  
-      * [MentoringBulgaria/MentorList: Software people from Bulgaria willing to mentor you](https://github.com/MentoringBulgaria/MentorList)  
-      * [chris-short/DevOps-README.md: What to Read to Learn More About DevOps](https://github.com/chris-short/DevOps-README.md)  
-      * [hellerve/programming-talks: Awesome & Interesting Talks concerning Programming](https://github.com/hellerve/programming-talks)  
-      * [vhf/free-programming-books: Freely available programming books](https://github.com/vhf/free-programming-books)  
     * Licensing  
       * [Choose an open source license | Choose a License](https://choosealicense.com/)  
       * [Licenses by Name | Open Source Initiative](https://opensource.org/licenses/alphabetical)  
       * [Open Source Licenses Demystified | Toptal](http://www.toptal.com/open-source/developers-guide-to-open-source-licenses)  
       * [Open source licensing - User Documentation](https://help.github.com/articles/open-source-licensing/)  
       * [The Open Source Definition (Annotated) | Open Source Initiative](https://opensource.org/docs/definition.php)  
+      * [idleberg/Creative-Commons-Markdown: Markdown-formatted Creative Commons licenses](https://github.com/idleberg/Creative-Commons-Markdown)  
     * Programming Languages  
       * AutoIt  
         * AutoIt How To  
@@ -516,6 +481,7 @@
           * [Bash Scripting Cheatsheet](https://gist.github.com/eashish93/b042c6367eb7061e6eff20b738d8baed)  
           * [Bash scripting cheatsheet](https://devhints.io/bash)  
           * [Basic Linux Shell Commands | Programming Logic](http://www.programminglogic.com/basic-linux-shell-commands/)  
+          * [How do I parse command line arguments in Bash? - Stack Overflow](https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments-in-bash)  
           * [Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide)  
           * [Show number of files in a directory tree using Shell](https://code-maven.com/number-of-files-in-a-directory-tree)  
           * [Writing Robust Bash Shell Scripts : David Pashley.com](http://www.davidpashley.com/articles/writing-robust-shell-scripts/)  
@@ -830,6 +796,11 @@
           * [sindresorhus/electron-util: Useful utilities for developing Electron apps and modules](https://github.com/sindresorhus/electron-util)  
           * [trodi/electron-splashscreen: Simple splashscreen for electron applications.](https://github.com/trodi/electron-splashscreen)  
         * JavaScript How To  
+          * Google Developers  
+            * [Hosted Libraries  |  Hosted Libraries  |  Google Developers](https://developers.google.com/speed/libraries/)  
+            * [Introduction to Service Worker  |  Web  |  Google Developers](https://developers.google.com/web/ilt/pwa/introduction-to-service-worker)  
+            * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)  
+            * [Progressive Web Apps  |  Web  |  Google Developers](https://developers.google.com/web/progressive-web-apps/)  
           * javascript.info  
             * [Objects](https://javascript.info/object)  
             * [The Modern Javascript Tutorial](https://javascript.info/)  
@@ -900,7 +871,6 @@
           * [JavaScript function that accepts any number of arguments](http://code-maven.com/javascript-function-that-accepts-any-number-of-arguments)  
           * [JavaScript: Allowed Characters in Identifier](http://xahlee.info/js/js_unicode_in_identifiers.html)  
           * [Modern JavaScript Cheatsheet | Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)  
-          * [Progressive Web Apps  |  Web  |  Google Developers](https://developers.google.com/web/progressive-web-apps/)  
           * [The Cost of JavaScript in 2018 | CSS-Tricks](https://css-tricks.com/the-cost-of-javascript-in-2018/)  
           * [Valid JavaScript variable names in ECMAScript 5 · Mathias Bynens](https://mathiasbynens.be/notes/javascript-identifiers)  
           * [You Can't Detect A Touchscreen | Blog | Stu Cox](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/)  
@@ -914,7 +884,6 @@
         * JavaScript Libraries  
           * Browser  
             * CDN  
-              * [Hosted Libraries  |  Hosted Libraries  |  Google Developers](https://developers.google.com/speed/libraries/)  
               * [cdnjs.com - The free and open source CDN for web related libraries to speed up your website!](https://cdnjs.com/)  
             * Dialogs - Menus  
               * [A11y Dialog](http://edenspiekermann.github.io/a11y-dialog/example/)  
@@ -924,6 +893,7 @@
               * [alertify.js - browser dialogs never looked so good](http://fabien-d.github.io/alertify.js/)  
               * [humane.js](http://wavded.github.io/humane-js/)  
             * Grids - Tables  
+              * [Tabulator](http://tabulator.info/)  
               * [dmaslov/csv-preview: A web component to preview csv data in table](https://github.com/dmaslov/csv-preview)  
               * [mleibman/SlickGrid: A lightning fast JavaScript grid/spreadsheet](https://github.com/mleibman/SlickGrid)  
               * [piecioshka/simple-data-table: Lightweight and simple data table with no dependencies](https://github.com/piecioshka/simple-data-table)  
@@ -963,6 +933,7 @@
               * [Zepto.js: the aerogel-weight jQuery-compatible JavaScript library](http://zeptojs.com/)  
               * [jQuery: The Write Less, Do More, JavaScript Library](http://jquery.com/)  
             * [Ace - The High Performance Code Editor for the Web](http://ace.c9.io/)  
+            * [Mithril.js](https://mithril.js.org/)  
             * [Vanilla JS](http://vanilla-js.com/)  
           * Databases  
             * SQLite  
@@ -1434,7 +1405,6 @@
           * [Modern Perl: The Book(Modern Perl 2014)](http://modernperlbooks.com/books/modern_perl_2014/)  
           * [Nikolai Bezroukov. Simplified Perl for Unix System Administrators](http://www.softpanorama.org/Scripting/Perlbook/index.shtml)  
           * [Packing the Fat | PerlDancer Advent Calendar](http://advent.perldancer.org/2014/5)  
-          * [Parsing JSON In Perl By Example – SouthParkStudios.com South Park Episodes](http://beerpla.net/2008/03/27/parsing-json-in-perl-by-example-southparkstudioscom-south-park-episodes/)  
           * [Perl $^O values for various operating systems](http://alma.ch/perl/perloses.htm)  
           * [Perl - Doing it Better - Piping to/from a child process without system or backtick](http://alumnus.caltech.edu/~svhwan/prodScript/avoidSystemBackticks.html)  
           * [Perl 5 UNLEASHED - CONTENTS](http://ods.com.ua/win/eng/program/Perl5Unleashed/)  
@@ -1456,6 +1426,7 @@
           * [Perl: Sorting an Array of Hashes | Storm Consultancy – Web Design Bath](https://www.stormconsultancy.co.uk/blog/development/code-snippets/perl-sorting-an-array-of-hashes/)  
           * [Perldoc Browser](https://perldoc.pl/)  
           * [Picking Up Perl - Table of Contents](http://www.ebb.org/PickingUpPerl/pickingUpPerl_toc.html)  
+          * [Practical Perl Programming](https://users.cs.cf.ac.uk/Dave.Marshall/PERL/perl_caller.html)  
           * [Redirecting STDOUT and STDERR to file in perl | Adventures in SCM](https://adventuresinscm.wordpress.com/2012/08/13/redirecting-stdout-and-stderr-to-file-in-perl/)  
           * [Regular expressions in Perl - a summary with examples](https://www.cs.tut.fi/~jkorpela/perl/regexp.html)  
           * [Schwartzian transform - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Schwartzian_transform)  
@@ -1521,7 +1492,7 @@
       * [Xitami - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Xitami)  
       * [ab - Apache HTTP server benchmarking tool - Apache HTTP Server Version 2.2](http://httpd.apache.org/docs/2.2/programs/ab.html)  
     * Utilities  
-      * [Boostnote | Boost Happiness, Productivity, and Creativity.](https://boostnote.io/#download)  
+      * [Boostnote | Boost Happiness, Productivity, and Creativity.](https://boostnote.io/)  
       * [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKVxuQiAtLT4gQ3tMZXQgbWUgdGhpbmt9XG5DIC0tPnxPbmV8IERbTGFwdG9wXVxuQyAtLT58VHdvfCBFW2lQaG9uZV1cbkMgLS0-fFRocmVlfCBGW0Nhcl1cbiIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In19)  
       * [Online icon converter for png, ico, and icns - iConvertIcons](https://iconverticons.com/online/#)  
       * [RANDOM.ORG - True Random Number Service](https://www.random.org/)  
@@ -1529,21 +1500,19 @@
       * [ggreer/the_silver_searcher: A code-searching tool similar to ack, but faster.](https://github.com/ggreer/the_silver_searcher)  
     * Version Control  
       * Git  
-        * [Configuring a remote for a fork - User Documentation](https://help.github.com/articles/configuring-a-remote-for-a-fork/)  
-        * [Creating Project Pages manually · GitHub Help](https://help.github.com/articles/creating-project-pages-manually)  
-        * [Creating Releases - User Documentation](https://help.github.com/articles/creating-releases/)  
-        * [Creating a personal access token for the command line - User Documentation](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/)  
+        * Git How To  
+          * [Configuring a remote for a fork - User Documentation](https://help.github.com/articles/configuring-a-remote-for-a-fork/)  
+          * [Creating Project Pages manually · GitHub Help](https://help.github.com/articles/creating-project-pages-manually)  
+          * [Creating Releases - User Documentation](https://help.github.com/articles/creating-releases/)  
+          * [Creating a personal access token for the command line - User Documentation](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/)  
+          * [How do I properly force a Git push? - Stack Overflow](https://stackoverflow.com/questions/5509543/how-do-i-properly-force-a-git-push)  
+          * [Ignoring files - User Documentation](https://help.github.com/articles/ignoring-files/#explicit-repository-excludes)  
+          * [Syncing a fork - User Documentation](https://help.github.com/articles/syncing-a-fork/)  
+          * [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)  
         * [Easily back up your Github repositories and/or issues | Steve Bertrand [blogs.perl.org]](http://blogs.perl.org/users/steve_bertrand/2018/02/easily-back-up-your-github-repositories-andor-issues.html)  
-        * [Git - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)  
         * [GitHub Pages](http://pages.github.com/)  
         * [GitHub Résumé](http://resume.github.io/)  
         * [Github Release Stats](http://www.somsubhra.com/github-release-stats/)  
-        * [Ignoring files - User Documentation](https://help.github.com/articles/ignoring-files/#explicit-repository-excludes)  
-        * [My Git Cheatsheet](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5)  
-        * [Syncing a fork - User Documentation](https://help.github.com/articles/syncing-a-fork/)  
-        * [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)  
-        * [git-tips/tips: Most commonly used git tips and tricks.](https://github.com/git-tips/tips)  
-        * [github-cheat-sheet/README.md at master · tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md)  
         * [github-profile-card by piotrl](http://github-profile.com/)  
       * [Fossil: Home](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki)  
     * Virtualization  
@@ -1647,7 +1616,6 @@
         * [HTML5test - How well does your browser support HTML5?](https://html5test.com/)  
         * [HTML: The Markup Language (an HTML language reference)](http://www.w3.org/TR/html-markup/)  
         * [Mobile Boilerplate: A best practice baseline for your mobile web app](https://html5boilerplate.com/mobile/)  
-        * [Open Source Web Design - Download free web design templates.](http://www.oswd.org/)  
         * [Page Valet Markup Validator](http://valet.webthing.com/page/)  
         * [The Other RGB Color Chart](http://www.tayloredmktg.com/rgb/)  
         * [The W3C Markup Validation Service](http://validator.w3.org/)  
@@ -1659,7 +1627,6 @@
         * [Check websites for broken links — LinkChecker](http://wummel.github.io/linkchecker/)  
         * [ImageKit.io - Website Analyzer](https://imagekit.io/website-analyzer)  
         * [Open Validator - Web Conformance Tool | Free software downloads at SourceForge.net](http://sourceforge.net/projects/webconformance/)  
-        * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)  
         * [Speedtest.net - The Global Broadband Speed Test](http://www.speedtest.net/)  
         * [shoreditch-ops/artillery: Flexible and powerful toolkit for load and functional testing. HTTP, Socket.io, WebSockets, Kinesis - you bring it, Artillery will blast it! Make your systems indestructible!](https://github.com/shoreditch-ops/artillery)  
       * Tools  
@@ -1674,7 +1641,6 @@
   * Web Downloaders  
     * [ClipGrab - Free YouTube Downloader & Converter](http://clipgrab.org/)  
     * [iawia002/annie: Fast, simple and clean video downloader](https://github.com/iawia002/annie)  
-  * [SubtitleEdit/subtitleedit: the subtitle editor](https://github.com/SubtitleEdit/subtitleedit)  
 
 Created using [Bookmark Extractor](https://github.com/ddmitov/bookmark-extractor)
 
