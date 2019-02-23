@@ -159,17 +159,17 @@
       * Boot  
         * [Kernel parameters - ArchWiki](https://wiki.archlinux.org/index.php/kernel_parameters)  
         * [SYSLINUX - Syslinux Wiki](http://www.syslinux.org/wiki/index.php/SYSLINUX)  
-      * Linux Distributions  
+      * Distributions  
         * [Clonezilla live](https://clonezilla.org/clonezilla-live.php)  
         * [GParted -- Live CD/USB/PXE/HD](https://gparted.org/livecd.php)  
         * [Linux From Scratch](http://www.linuxfromscratch.org/)  
         * [Minimal Linux Live](http://minimal.linux-bg.org/)  
+        * [Slax Linux - your pocket operating system](https://www.slax.org/)  
         * [Ubuntu Minimal CD](https://help.ubuntu.com/community/Installation/MinimalCD)  
         * [УСУ - Добре дошли!](http://learnfree.eu/)  
       * Linux How To  
         * Debian How To  
           * [Debian Code Search](http://codesearch.debian.net/)  
-          * [Debian Reference](http://www.debian.org/doc/manuals/debian-reference/index.en.html)  
           * [The Debian Administrator's Handbook](http://debian-handbook.info/)  
         * Ubuntu How To  
           * [16.04 - How to configure to start my application at boot time - Ask Ubuntu](https://askubuntu.com/questions/976906/how-to-configure-to-start-my-application-at-boot-time)  
@@ -184,24 +184,27 @@
         * [Linux List The Open Ports And The Process That Owns Them – nixCraft](https://www.cyberciti.biz/tips/linux-display-open-ports-owner.html)  
         * [Linux Standard Base (LSB) | The Linux Foundation](http://www.linuxfoundation.org/collaborate/workgroups/lsb)  
         * [Log in with an SSH private key on Linux and Mac](https://support.rackspace.com/how-to/logging-in-with-an-ssh-private-key-on-linuxmac/)  
+        * [NanXiao/read-nmon-code-to-learn-analyzing-linux-performance: Read Nmon Code To Learn Analyzing Linux Performance:](https://github.com/NanXiao/read-nmon-code-to-learn-analyzing-linux-performance)  
         * [Running applications automatically when X starts](http://www.debian-administration.org/article/50/Running_applications_automatically_when_X_starts)  
         * [Starting Daemons from Cron](http://www.somacon.com/p38.php)  
+        * [Vim Cheat Sheet - English](https://vim.rtorr.com/)  
         * [Which ports are considered unsafe on Chrome - Super User](https://superuser.com/questions/188058/which-ports-are-considered-unsafe-on-chrome)  
-        * [Zenity Manual](http://library.gnome.org/users/zenity/stable/)  
         * [badblocks(8): search device for bad blocks - Linux man page](http://linux.die.net/man/8/badblocks)  
         * [chrpath(1): change rpath/runpath in binaries - Linux man page](http://linux.die.net/man/1/chrpath)  
         * [ssh - How to upload local file to server through Linux terminal - Super User](https://superuser.com/questions/850740/how-to-upload-local-file-to-server-through-linux-terminal)  
         * [traceroute GNU Linux](http://www.perpetualpc.net/srtd_traceroute.html)  
-      * Linux Sandboxes  
+        * [trimstray/nginx-quick-reference: This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%.](https://github.com/trimstray/nginx-quick-reference)  
+      * Sandboxes  
         * [Firejail | security sandbox](https://firejail.wordpress.com/)  
         * [projectatomic/bubblewrap: Unprivileged sandboxing tool](https://github.com/projectatomic/bubblewrap)  
       * [Atoptool.nl](https://www.atoptool.nl/screenshots.php)  
-      * [BusyBox](http://www.busybox.net/)  
+      * [BorgBackup – Deduplicating archiver with compression and authenticated encryption](https://www.borgbackup.org/)  
       * [Grive2 - An Unofficial, Google Drive Client For Linux | Unixmen](http://www.unixmen.com/grive2-an-unofficial-google-drive-client-for-linux/)  
       * [Intoli/exodus: Painless relocation of Linux binaries–and all of their dependencies–without containers.](https://github.com/Intoli/exodus)  
       * [PhotoRec - CGSecurity](http://www.cgsecurity.org/wiki/PhotoRec)  
       * [TestDisk - CGSecurity](http://www.cgsecurity.org/wiki/TestDisk)  
       * [Tomas-M/iotop: A top utility for IO](https://github.com/Tomas-M/iotop)  
+      * [cjbassi/gotop: A terminal based graphical activity monitor inspired by gtop and vtop](https://github.com/cjbassi/gotop)  
       * [lookbusy -- a synthetic load generator](http://www.devin.com/lookbusy/)  
       * [luebking/qarma: Zenity Clone for Qt4/Qt5](https://github.com/luebking/qarma)  
       * [makeself - Make self-extractable archives on Unix](http://makeself.io/)  
@@ -227,6 +230,7 @@
       * [Simple Shutdown Timer | PcWinTech.com™](http://www.pcwintech.com/simple-shutdown-timer)  
       * [Software Don't Sleep 2.02 Prevent Shutdown, Stand By, Turn Off, Restart](http://www.softwareok.com/?seite=Microsoft/DontSleep)  
       * [USB drive letter manager - USBDLM](http://www.uwe-sieber.de/usbdlm_e.html)  
+      * [Where to download visual studio express 2005? - Stack Overflow](https://stackoverflow.com/questions/1330852/where-to-download-visual-studio-express-2005)  
       * [WinCDEmu - the easiest way to mount an ISO. And more...](http://wincdemu.sysprogs.org/)  
       * [XSearch - Search files on your computer](http://www.easexp.com/xsearch/index.html)  
       * [bmatzelle/gow: Unix command line utilities installer for Windows.](https://github.com/bmatzelle/gow)  
@@ -306,7 +310,7 @@
           * [SQLite Expert - SQLite Database Administration Tool](http://www.sqliteexpert.com/)  
           * [SQLite browser - Online SQL interpreter](https://extendsclass.com/sqlite-browser.html)  
           * [SQLiteSpy [Delphi Inspiration]](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  
-          * [SQLiteStudio](http://sqlitestudio.pl/)  
+          * [SQLiteStudio](https://sqlitestudio.pl/)  
           * [SourceForge.net: knjSQLAdmin](http://sourceforge.net/projects/knjsqladmin/)  
           * [rparkins999/sqliteman: http://sqliteman.com/](https://github.com/rparkins999/sqliteman)  
           * [sqlitebrowser/sqlitebrowser: Official home of the DB Browser for SQLite (DB4S) project](https://github.com/sqlitebrowser/sqlitebrowser)  
@@ -365,6 +369,9 @@
       * [dbeaver/dbeaver: Free universal database tool and SQL client](https://github.com/dbeaver/dbeaver)  
       * [mjgardner/dbcritic: Critique a database schema for best practices](https://github.com/mjgardner/dbcritic)  
     * Desktop Applications using Web Technologies  
+      * Cpp  
+        * [cztomczak/phpdesktop: PHP desktop GUI framework with HTML5 Chrome/IE engine.  ★ Forum:](https://github.com/cztomczak/phpdesktop)  
+        * [jscherer92/Quark: Create Applications with browser technologies using the native engine in your OS.](https://github.com/jscherer92/Quark)  
       * Go  
         * [alexflint/gallium: Build desktop applications in Go and HTML.](https://github.com/alexflint/gallium)  
         * [asticode/go-astilectron: Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)](https://github.com/asticode/go-astilectron)  
@@ -372,6 +379,7 @@
         * [zserge/lorca: Build cross-platform modern desktop apps in Go + HTML5](https://github.com/zserge/lorca)  
         * [zserge/webview: Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)](https://github.com/zserge/webview)  
       * JavaScript  
+        * [DeskGap](https://deskgap.com/)  
         * [GoogleChromeLabs/carlo: Web rendering surface for Node applications](https://github.com/GoogleChromeLabs/carlo)  
         * [Microsoft/react-native-windows: A framework for building native UWP and WPF apps with React.](https://github.com/Microsoft/react-native-windows)  
         * [francoislaberge/shrinkray: Lightweight alternative to Electron for making macOS apps using Javascript](https://github.com/francoislaberge/shrinkray)  
@@ -383,14 +391,12 @@
         * [ChrisKnott/Eel: A little Python library for making simple Electron-like HTML/JS GUI apps](https://github.com/ChrisKnott/Eel)  
         * [r0x0r/pywebview: A lightweight cross-platform native wrapper around a webview component that allows to display HTML content in its own dedicated window](https://github.com/r0x0r/pywebview)  
         * [tonimichel/webkitpony: building webapp-like desktop apps in python](https://github.com/tonimichel/webkitpony)  
-      * [cztomczak/phpdesktop: PHP desktop GUI framework with HTML5 Chrome/IE engine.  ★ Forum:](https://github.com/cztomczak/phpdesktop)  
       * [mattkol/Chromely: Lightweight Alternative to Electron for .NET/.NET Core HTML5 Desktop Apps](https://github.com/mattkol/Chromely)  
       * [pojala/electrino: Desktop runtime for apps built on web technologies, using the system's own web browser engine](https://github.com/pojala/electrino)  
     * Documentation  
       * Markdown  
         * [GitHub Flavored Markdown · GitHub Help](https://help.github.com/articles/github-flavored-markdown)  
         * [License Badges for your Project](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)  
-        * [Markdown Basics - User Documentation](https://help.github.com/articles/markdown-basics/)  
         * [Markdown Cheatsheet · adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
         * [MultiMarkdown/Documentation/Markdown Syntax.md at master · fletcher/MultiMarkdown](https://github.com/fletcher/MultiMarkdown/blob/master/Documentation/Markdown%20Syntax.md)  
         * [Shields.io: Quality metadata badges for open source projects](http://shields.io/)  
@@ -399,7 +405,6 @@
         * [matiassingers/awesome-readme: A curated list of awesome READMEs](https://github.com/matiassingers/awesome-readme)  
         * [scotch-io/All-Github-Emoji-Icons: A repo of every emoji icon as a separate file and commit.](https://github.com/scotch-io/All-Github-Emoji-Icons)  
         * [tiimgreen/github-cheat-sheet: A list of cool features of Git and GitHub.](https://github.com/tiimgreen/github-cheat-sheet)  
-      * [DevDocs](http://devdocs.io/)  
       * [Read the Docs](https://readthedocs.org/)  
     * Editors  
       * [.:: NOTEPAD++ ::.](http://notepad-plus.sourceforge.net/bg/site.htm)  
@@ -410,9 +415,9 @@
       * [Choose an open source license | Choose a License](https://choosealicense.com/)  
       * [Licenses by Name | Open Source Initiative](https://opensource.org/licenses/alphabetical)  
       * [Open Source Licenses Demystified | Toptal](http://www.toptal.com/open-source/developers-guide-to-open-source-licenses)  
-      * [Open source licensing - User Documentation](https://help.github.com/articles/open-source-licensing/)  
       * [The Open Source Definition (Annotated) | Open Source Initiative](https://opensource.org/docs/definition.php)  
       * [idleberg/Creative-Commons-Markdown: Markdown-formatted Creative Commons licenses](https://github.com/idleberg/Creative-Commons-Markdown)  
+      * [remy/mit-license: Hosted MIT License with details controlled through this repo](https://github.com/remy/mit-license)  
     * Programming Languages  
       * AutoIt  
         * AutoIt How To  
@@ -811,7 +816,6 @@
               * [Progressive Web App Checklist  |  Web  |  Google Developers](https://developers.google.com/web/progressive-web-apps/checklist)  
               * [Progressive Web Apps  |  Web  |  Google Developers](https://developers.google.com/web/progressive-web-apps/)  
               * [Progressive web apps | MDN](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)  
-              * [ServiceWorker Cookbook](https://serviceworke.rs/)  
               * [The Web App Manifest  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/web-app-manifest/)  
               * [The offline cookbook - JakeArchibald.com](https://jakearchibald.com/2014/offline-cookbook/)  
               * [We built a PWA from scratch - This is what we learned](https://14islands.com/blog/2017/01/19/progressive-web-app-from-scratch/)  
@@ -824,7 +828,7 @@
           * [Configuring Ace · ajaxorg/ace Wiki](https://github.com/ajaxorg/ace/wiki/Configuring-Ace)  
           * [Creating a downloadable text-file using blobs - JSFiddle](http://jsfiddle.net/UselessCode/qm5AG/)  
           * [ES2015+ cheatsheet](https://devhints.io/es6)  
-          * [Eloquent JavaScript](http://eloquentjavascript.net/3rd_edition/)  
+          * [Eloquent JavaScript](http://eloquentjavascript.net/)  
           * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)  
           * [How I'm (Not) Using jQuery](https://developer.telerik.com/content-types/tutorials/im-not-using-jquery/)  
           * [JavaScript Standard Style](https://standardjs.com/)  
@@ -1030,7 +1034,6 @@
           * [PHP: Options - Manual](http://php.net/manual/en/features.commandline.options.php)  
           * [PHP: The Right Way](http://www.phptherightway.com/)  
           * [Why You’re a Bad PHP Programmer | Nettuts+](http://net.tutsplus.com/tutorials/php/why-youre-a-bad-php-programmer/)  
-        * [Adminer - Database management in a single PHP file](https://www.adminer.org/)  
         * [Horus Plus, asynchronous I/O and network programming in pure PHP](http://alash3al.github.io/Plus/)  
         * [PHP Classes](http://www.phpclasses.org/)  
         * [PHP Code Checker - Syntax Check for Common PHP Mistakes](https://phpcodechecker.com/)  
@@ -1306,9 +1309,7 @@
           * [Manipulate dates and time with these 10 Perl CPAN modules - TechRepublic](http://www.techrepublic.com/article/manipulate-dates-and-time-with-these-10-perl-cpan-modules/)  
           * [Microperl - The Perl Journal, Fall 2000](http://www.foo.be/docs/tpj/issues/vol5_3/tpj0503-0003.html)  
           * [Minimum Viable Perl](http://mvp.kablamo.org/)  
-          * [Modern Perl 4e Table of Contents](http://modernperlbooks.com/books/modern_perl_2016/index.html)  
-          * [Modern Perl Books for modern Perl programming](http://modernperlbooks.com/mt/index.html)  
-          * [Modern Perl: The Book(Modern Perl 2014)](http://modernperlbooks.com/books/modern_perl_2014/)  
+          * [Modern Perl 4e Table of Contents](http://modernperlbooks.com/books/modern_perl_2016/)  
           * [Nikolai Bezroukov. Simplified Perl for Unix System Administrators](http://www.softpanorama.org/Scripting/Perlbook/index.shtml)  
           * [Packing the Fat | PerlDancer Advent Calendar](http://advent.perldancer.org/2014/5)  
           * [Perl $^O values for various operating systems](http://alma.ch/perl/perloses.htm)  
@@ -1377,7 +1378,6 @@
           * [learnbyexample/Python_Basics: Syntax, working with Shell commands, Files, Text Processing, and more...](https://github.com/learnbyexample/Python_Basics)  
         * [derrekyoung/url-checker-python: Python scripts to check URLs](https://github.com/derrekyoung/url-checker-python)  
       * [Category:Programming Tasks - Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks)  
-      * [Cheat Sheet : All Cheat Sheets in one page](http://www.cheat-sheets.org/)  
       * [Programming Languages - Hyperpolyglot](http://hyperpolyglot.org/)  
       * [The Hello World Collection](http://helloworldcollection.de/)  
     * Servers  
@@ -1404,14 +1404,9 @@
     * Version Control  
       * Git  
         * Git How To  
-          * [Configuring a remote for a fork - User Documentation](https://help.github.com/articles/configuring-a-remote-for-a-fork/)  
           * [Creating Project Pages manually · GitHub Help](https://help.github.com/articles/creating-project-pages-manually)  
-          * [Creating Releases - User Documentation](https://help.github.com/articles/creating-releases/)  
-          * [Creating a personal access token for the command line - User Documentation](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/)  
           * [How can I undo the last commit?](https://www.git-tower.com/learn/git/faq/undo-last-commit)  
           * [How do I properly force a Git push? - Stack Overflow](https://stackoverflow.com/questions/5509543/how-do-i-properly-force-a-git-push)  
-          * [Ignoring files - User Documentation](https://help.github.com/articles/ignoring-files/#explicit-repository-excludes)  
-          * [Syncing a fork - User Documentation](https://help.github.com/articles/syncing-a-fork/)  
           * [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)  
         * [Easily back up your Github repositories and/or issues | Steve Bertrand [blogs.perl.org]](http://blogs.perl.org/users/steve_bertrand/2018/02/easily-back-up-your-github-repositories-andor-issues.html)  
         * [GitHub Pages](http://pages.github.com/)  
@@ -1430,6 +1425,7 @@
       * [Enigma Virtual Box](http://enigmaprotector.com/en/aboutvb.html)  
     * Web Backend  
       * [OAI/OpenAPI-Specification: The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification)  
+      * [OpenAPI-GUI v3.0.0](https://mermade.github.io/openapi-gui/)  
       * [toddmotto/public-apis: A collective list of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis)  
     * Web Frontend  
       * CSS  
@@ -1517,7 +1513,6 @@
         * [HTML5 Boilerplate: The web’s most popular front-end template](https://html5boilerplate.com/)  
         * [HTML5test - How well does your browser support HTML5?](https://html5test.com/)  
         * [HTML: The Markup Language (an HTML language reference)](http://www.w3.org/TR/html-markup/)  
-        * [Mobile Boilerplate: A best practice baseline for your mobile web app](https://html5boilerplate.com/mobile/)  
         * [Page Valet Markup Validator](http://valet.webthing.com/page/)  
         * [The Other RGB Color Chart](http://www.tayloredmktg.com/rgb/)  
         * [The W3C Markup Validation Service](http://validator.w3.org/)  
@@ -1548,6 +1543,7 @@
     * [ClipGrab - Free YouTube Downloader & Converter](http://clipgrab.org/)  
     * [iawia002/annie: Fast, simple and clean video downloader](https://github.com/iawia002/annie)  
   * [Cstitch: a free and open source program for creating cross stitch patterns from images](http://cstitch.sourceforge.net/)  
+  * [KeePassXC Password Manager](https://keepassxc.org/)  
   * [Sweet Home 3D - Начало](http://www.sweethome3d.com/bg/)  
   * [yEd - Graph Editor](https://www.yworks.com/products/yed)  
 
