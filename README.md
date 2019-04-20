@@ -177,6 +177,7 @@
           * [Disable / Turn Off Firewall in Ubuntu Linux Server - nixCraft](https://www.cyberciti.biz/faq/ubuntu-server-disable-firewall/)  
           * [How To Add Swap Space on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-16-04)  
           * [How to add startup applications in lubuntu? - Ask Ubuntu](http://askubuntu.com/questions/159008/how-to-add-startup-applications-in-lubuntu)  
+          * [How to check bluetooth status via terminal - Ask Ubuntu](https://askubuntu.com/questions/144655/how-to-check-bluetooth-status-via-terminal/399051)  
           * [apt - Is it possible to get a list of most recently installed packages? - Ask Ubuntu](http://askubuntu.com/questions/17012/is-it-possible-to-get-a-list-of-most-recently-installed-packages)  
           * [log - How do I check if last shutdown was clean? - Ask Ubuntu](http://askubuntu.com/questions/103015/how-do-i-check-if-last-shutdown-was-clean)  
         * [How to set up VPN on Linux using the Terminal](https://www.expressvpn.com/support/vpn-setup/manual-config-for-linux-with-openvpn/)  
@@ -212,6 +213,10 @@
       * [luebking/qarma: Zenity Clone for Qt4/Qt5](https://github.com/luebking/qarma)  
       * [makeself - Make self-extractable archives on Unix](http://makeself.io/)  
     * Windows  
+      * Console  
+        * [Cmder | Console Emulator](https://cmder.net/)  
+        * [SmarTTY - a multi-tabbed SSH client with SCP support](http://smartty.sysprogs.com/)  
+        * [Terminus](https://eugeny.github.io/terminus/)  
       * Hardware  
         * [CPU Temperature Monitor](http://www.cputhermometer.com/)  
         * [Core Temp](http://www.alcpu.com/CoreTemp/)  
@@ -239,7 +244,6 @@
       * [maravento/winzenity: Zenity Portable for Windows](https://github.com/maravento/winzenity)  
       * [restarts - Command Line Windows Services Controlling Application](https://restarts.codeplex.com/)  
     * [Termux](https://termux.com/)  
-    * [jwilm/alacritty: A cross-platform, GPU-accelerated terminal emulator](https://github.com/jwilm/alacritty)  
     * [osquery | Easily ask questions about your Linux, Windows, and macOS infrastructure](https://osquery.io/)  
   * Software Development  
     * Best Practices  
@@ -306,19 +310,26 @@
         * [Percona Server with XtraDB - Percona Software](http://www.percona.com/software/percona-server/)  
         * [major/MySQLTuner-perl: MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.](https://github.com/major/MySQLTuner-perl)  
         * [phpMiniAdmin - extremely lightweight alternative to heavy phpMyAdmin](http://phpminiadmin.sourceforge.net/)  
+      * SQL  
+        * [Free SQL Database Book](https://books.goalkicker.com/SQLBook/)  
+        * [SQLBolt - Learn SQL - Introduction to SQL](https://sqlbolt.com/)  
+        * [SQLite Sample Database And Its Diagram (in PDF format)](http://www.sqlitetutorial.net/sqlite-sample-database/)  
+        * [SQLite Tutorial - An Easy Way to Master SQLite Fast](http://www.sqlitetutorial.net/)  
+        * [bobby-tables.com: A guide to preventing SQL injection](http://bobby-tables.com/)  
+        * [enochtangg/quick-SQL-cheatsheet: A quick reminder of all SQL queries and examples on how to use them.](https://github.com/enochtangg/quick-SQL-cheatsheet)  
       * SQLite  
         * SQLite Editors  
           * [DB Browser for SQLite](https://sqlitebrowser.org/)  
           * [Icequake - SQLite 3 Query Browser](http://iqk.sourceforge.net/)  
           * [SQLite Administrator - International Milestone Beta](http://sqliteadmin.orbmu2k.de/)  
           * [SQLite Control Center - SQLiteCC](http://sqlitecc.sourceforge.net/)  
-          * [SQLite Expert - SQLite Database Administration Tool](http://www.sqliteexpert.com/)  
           * [SQLite browser - Online SQL interpreter](https://extendsclass.com/sqlite-browser.html)  
           * [SQLiteSpy [Delphi Inspiration]](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  
           * [SQLiteStudio](https://sqlitestudio.pl/)  
           * [SourceForge.net: knjSQLAdmin](http://sourceforge.net/projects/knjsqladmin/)  
           * [rparkins999/sqliteman: http://sqliteman.com/](https://github.com/rparkins999/sqliteman)  
           * [sqlitebrowser/sqlitebrowser: Official home of the DB Browser for SQLite (DB4S) project](https://github.com/sqlitebrowser/sqlitebrowser)  
+          * [srgank/SQLite-New: Browser for SQLite database files, open source tool](https://github.com/srgank/SQLite-New)  
         * SQLite Encryption  
           * Commercial SQLite Encryption  
             * [SQLite Encryption Extension: Documentation](https://www.sqlite.org/see/doc/trunk/www/readme.wiki)  
@@ -370,7 +381,8 @@
       * [Pgweb - Cross-platform client for PostgreSQL databases](http://sosedoff.github.io/pgweb/)  
       * [SIDU 6.0 SIDU Database Web GUI for MySQL + PostgreSQL + SQLite](http://topnew.net/sidu)  
       * [Sqitch by theory](http://sqitch.org/)  
-      * [WWW SQL Designer - default](http://ondras.zarovi.cz/sql/demo/?keyword=default)  
+      * [WWW SQL Designer](http://ondras.zarovi.cz/sql/demo/?keyword=default)  
+      * [cztomczak/dbkiss: MySQL and PosgreSQL databases administration tool in a single PHP file](https://github.com/cztomczak/dbkiss)  
       * [dbeaver/dbeaver: Free universal database tool and SQL client](https://github.com/dbeaver/dbeaver)  
       * [mjgardner/dbcritic: Critique a database schema for best practices](https://github.com/mjgardner/dbcritic)  
     * Desktop Applications using Web Technologies  
@@ -394,11 +406,17 @@
         * [yue/muban: Build cross-platform desktop apps with system webview and native GUI widgets.](https://github.com/yue/muban)  
       * Python  
         * [ChrisKnott/Eel: A little Python library for making simple Electron-like HTML/JS GUI apps](https://github.com/ChrisKnott/Eel)  
+        * [cztomczak/cefpython: Python bindings for the Chromium Embedded Framework (CEF)](https://github.com/cztomczak/cefpython)  
+        * [manatlan/wuy: Web User Ynterface : a simple module for making GUI applications (with html/js), with ASyncIO/uvloop/python3](https://github.com/manatlan/wuy)  
         * [r0x0r/pywebview: A lightweight cross-platform native wrapper around a webview component that allows to display HTML content in its own dedicated window](https://github.com/r0x0r/pywebview)  
         * [tonimichel/webkitpony: building webapp-like desktop apps in python](https://github.com/tonimichel/webkitpony)  
       * [lobtao/phpdesktop: Developing Desktop Applications Like Developing Websites => phpdesktop](https://github.com/lobtao/phpdesktop)  
       * [mattkol/Chromely: Lightweight Alternative to Electron for .NET/.NET Core HTML5 Desktop Apps](https://github.com/mattkol/Chromely)  
       * [pojala/electrino: Desktop runtime for apps built on web technologies, using the system's own web browser engine](https://github.com/pojala/electrino)  
+    * DevOps  
+      * [Ops School Curriculum — Ops School Curriculum 0.1 documentation](http://www.opsschool.org/)  
+      * [alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)  
+      * [dennyzhang/devops_public: DevOps Scripts](https://github.com/dennyzhang/devops_public)  
     * Documentation  
       * Markdown  
         * [License Badges for your Project](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)  
@@ -969,6 +987,7 @@
             * [loncarales/node-js-sample: A barebones Node.js app using the Express framework.](https://github.com/loncarales/node-js-sample)  
             * [node](http://node.readthedocs.io/en/latest/)  
             * [sqreen/awesome-nodejs-projects: Curated list of awesome open-source applications made with Node.js](https://github.com/sqreen/awesome-nodejs-projects)  
+          * [nexe/nexe: create a single executable out of your node.js apps](https://github.com/nexe/nexe)  
           * [nodei.co](https://nodei.co/)  
           * [nodejs/node-chakracore: Node.js on ChakraCore](https://github.com/nodejs/node-chakracore)  
           * [typicode/hotel: Local domains for everyone and more!](https://github.com/typicode/hotel)  
@@ -1166,6 +1185,12 @@
               * [Dots and Perl | Perl Hacks](http://perlhacks.com/2014/01/dots-perl/)  
               * [Perl's Special Variables | Perl Hacks](http://perlhacks.com/articles/perl-com/perls-special-variables/)  
               * [Template Toolkit | Perl Hacks](http://perlhacks.com/articles/template-toolkit/)  
+            * perlmaven.com  
+              * [Hash of Arrays in Perl](https://perlmaven.com/hash-of-arrays)  
+              * [How to create an Excel file with Perl?](https://perlmaven.com/create-an-excel-file-with-perl)  
+              * [Perl tutorial](https://perlmaven.com/perl-tutorial)  
+              * [Scalar and List context in Perl, the size of an array](https://perlmaven.com/scalar-and-list-context-in-perl)  
+              * [Simple Database access using Perl DBI and SQL](https://perlmaven.com/simple-database-access-using-perl-dbi-and-sql)  
             * perlmeme.org  
               * [How can I run code that is in a string?](http://perlmeme.org/faqs/manipulating_text/eval.html)  
               * [How do I list the files in a directory?](http://perlmeme.org/faqs/file_io/directory_listing.html)  
@@ -1260,7 +1285,6 @@
               * [recursively finding all perl module dependencies](http://www.perlmonks.org/?node_id=168341)  
               * [robustly list any Perl code's module dependencies](http://www.perlmonks.org/?node_id=203148)  
               * [slurping __DATA__](http://www.perlmonks.org/index.pl?node_id=282185)  
-            * [Perl tutorial](https://perlmaven.com/perl-tutorial)  
           * Perl 5 How To by Topic  
             * Databases  
               * [Connecting to the SQLite database with Perl](http://zetcode.com/db/sqliteperltutorial/connect/)  
@@ -1369,6 +1393,7 @@
         * [neo1ite/http_daemons: Simple HTTP daemons](https://github.com/neo1ite/http_daemons)  
         * [perlc - convert perl to C code or executables to "hide" your source](http://marginalhacks.com/Hacks/perlc/)  
         * [skaji/relocatable-perl: self-contained, portable perl binaries](https://github.com/skaji/relocatable-perl)  
+        * [soarpenguin/perl-scripts: useful perl script and snippets of code.](https://github.com/soarpenguin/perl-scripts)  
       * Python  
         * Python How To  
           * stackoverflow.com  
@@ -1376,13 +1401,35 @@
             * [Getting the last element of a list in Python - Stack Overflow](https://stackoverflow.com/questions/930397/getting-the-last-element-of-a-list-in-python)  
             * [Python File Slurp - Stack Overflow](https://stackoverflow.com/questions/1631897/python-file-slurp)  
             * [python - Correct way to write line to file? - Stack Overflow](https://stackoverflow.com/questions/6159900/correct-way-to-write-line-to-file)  
+            * [python - Where does pip install its packages? - Stack Overflow](https://stackoverflow.com/questions/29980798/where-does-pip-install-its-packages/45309460)  
+            * [windows - How do I install a Python package with a .whl file? - Stack Overflow](https://stackoverflow.com/questions/27885397/how-do-i-install-a-python-package-with-a-whl-file)  
+          * [An introduction to the Tornado Python web app framework | Opensource.com](https://opensource.com/article/18/6/tornado-framework)  
+          * [Creating Excel files with Python and XlsxWriter — XlsxWriter Documentation](https://xlsxwriter.readthedocs.io/)  
           * [How to use sys.argv in Python](http://www.pythonforbeginners.com/system/python-sys-argv)  
-          * [Python – How to split a String](https://www.mkyong.com/python/python-how-to-split-a-string/)  
+          * [Python Advanced: Python and SQL](https://www.python-course.eu/sql_python.php)  
+          * [Python Crash Course by ehmatthes](https://ehmatthes.github.io/pcc/)  
+          * [Python Tutorial: Python Online Course](https://www.python-course.eu/python3_course.php)  
+          * [Python embedded distribution for Windows](http://www.christhoung.com/2018/07/15/embedded-python-windows/)  
+          * [SQLite Python](https://www.tutorialspoint.com/sqlite/sqlite_python.htm)  
+          * [Websockets Server - Cookbook | Mbed](https://os.mbed.com/cookbook/Websockets-Server)  
           * [Working with Text Files in Python | Programming Historian](https://programminghistorian.org/lessons/working-with-text-files)  
           * [chomp() functionality in Python | Python Adventures](https://pythonadventures.wordpress.com/2010/10/11/chomp-functionality-in-python/)  
           * [joaoventura/full-speed-python: Getting up to speed with Python: a book for self-learners](https://github.com/joaoventura/full-speed-python)  
           * [learnbyexample/Python_Basics: Syntax, working with Shell commands, Files, Text Processing, and more...](https://github.com/learnbyexample/Python_Basics)  
+          * [tornado.websocket — Bidirectional communication to the browser — Tornado 6.0.1 documentation](https://www.tornadoweb.org/en/stable/websocket.html)  
+        * [Asyncio Event Loops Tutorial | TutorialEdge.net](https://tutorialedge.net/python/concurrency/asyncio-event-loops-tutorial/)  
+        * [EasyGUI — easygui 0.97 (2014-12-20) documentation](http://easygui.sourceforge.net/)  
+        * [Nuitka Home](http://nuitka.net/)  
+        * [PyInstaller Quickstart — PyInstaller bundles Python applications](https://www.pyinstaller.org/)  
+        * [PyZenity | brianramos.com](http://brianramos.com/?page_id=38)  
+        * [Simple example of a websocket server with Tornado](https://gist.github.com/timsavage/d412d9e321e9f6d358abb335c8d41c63)  
+        * [Tornado Web Server — Tornado 6.0.1 documentation](https://www.tornadoweb.org/en/stable/)  
+        * [XlsxWriter · PyPI](https://pypi.org/project/XlsxWriter/)  
         * [derrekyoung/url-checker-python: Python scripts to check URLs](https://github.com/derrekyoung/url-checker-python)  
+        * [pikhovkin/simple-websocket-server: A simple WebSocket server](https://github.com/pikhovkin/simple-websocket-server)  
+        * [pynsist 2.3 — pynsist 2.3 documentation](https://pynsist.readthedocs.io/en/latest/)  
+        * [pyscripter/pyscripter: Pyscripter is a feature-rich but lightweight Python IDE](https://github.com/pyscripter/pyscripter)  
+        * [xlwings | Python For Excel. Free & Open Source.](https://www.xlwings.org/)  
       * [Category:Programming Tasks - Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks)  
       * [Programming Languages - Hyperpolyglot](http://hyperpolyglot.org/)  
       * [The Hello World Collection](http://helloworldcollection.de/)  
@@ -1540,6 +1587,7 @@
       * [Surge](https://surge.sh/)  
       * [akikoo/frontend-dev-bookmarks: My collection of essential Front-End resources, focusing on accessibility, architecture, performance, code quality, workflow and best practices.](https://github.com/akikoo/frontend-dev-bookmarks)  
       * [dypsilon/frontend-dev-bookmarks: Manually curated collection of resources for frontend web developers.](https://github.com/dypsilon/frontend-dev-bookmarks)  
+    * [Free Online IDE and Terminal](https://www.tutorialspoint.com/codingground.htm)  
   * Video  
     * [Aegisub Advanced Subtitle Editor](http://www.aegisub.org/)  
     * [Subtitle Edit](https://www.nikse.dk/subtitleedit)  
