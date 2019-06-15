@@ -91,14 +91,17 @@
     * Bug Tracking  
       * JIRA  
         * JIRA How To  
-          * [Advanced searching - operators reference - Atlassian Documentation](https://confluence.atlassian.com/jiracorecloud/advanced-searching-operators-reference-765593718.html)  
           * [JIRA API GET all values for a custom field](https://community.atlassian.com/t5/Jira-questions/JIRA-API-GET-all-values-for-a-custom-field/qaq-p/869631)  
+          * [JIRA JQL: how to filter issues that changed assign...](https://community.atlassian.com/t5/Jira-questions/JIRA-JQL-how-to-filter-issues-that-changed-assignee-X-or-more/qaq-p/350772)  
           * [JQL Reference manual (How to Perform an Advanced Search)](https://mraddon.blog/2015/05/27/jql-reference-manual-how-to-perform-an-advanced-search/)  
           * [JQL: The most flexible way to search Jira](https://www.atlassian.com/blog/jira-software/jql-the-most-flexible-way-to-search-jira-14)  
           * [Jira REST API examples](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)  
           * [REST APIs](https://developer.atlassian.com/server/jira/platform/rest-apis/)  
           * [Solved: How to get all issues of a project using Rest API](https://community.atlassian.com/t5/Jira-questions/How-to-get-all-issues-of-a-project-using-Rest-API/qaq-p/832316)  
+          * [Solved: How to get all the assignees of an issue?](https://community.atlassian.com/t5/Jira-questions/How-to-get-all-the-assignees-of-an-issue/qaq-p/177875)  
           * [Solved: Is it possible to get the issue history using the ...](https://community.atlassian.com/t5/Jira-questions/Is-it-possible-to-get-the-issue-history-using-the-REST-API/qaq-p/510094)  
+          * [Solved: JQL assigned date](https://community.atlassian.com/t5/Jira-questions/JQL-assigned-date/qaq-p/184348)  
+          * [Solved: JQL expression for: "open issues with no activity ...](https://community.atlassian.com/t5/Jira-questions/JQL-expression-for-quot-open-issues-with-no-activity-of-assignee/qaq-p/156431)  
           * [Solved: JQL filter by "updated date" range and "assignee"](https://community.atlassian.com/t5/Jira-questions/JQL-filter-by-quot-updated-date-quot-range-and-quot-assignee/qaq-p/207727)  
           * [Solved: JQL for tickets closed within a time range](https://community.atlassian.com/t5/Jira-questions/JQL-for-tickets-closed-within-a-time-range/qaq-p/348531)  
           * [The Jira Cloud platform REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3/)  
@@ -127,7 +130,6 @@
           * [Kubernetes on AWS | AWS](https://aws.amazon.com/kubernetes/)  
           * [Tutorial: Deploy the Kubernetes Web UI (Dashboard) - Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html)  
           * [aws-workshop-for-kubernetes/cronjob.yaml at master · aws-samples/aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes/blob/master/01-path-basics/103-kubernetes-concepts/templates/cronjob.yaml)  
-        * [Amazon ECR | Amazon Web Services](https://aws.amazon.com/ecr/)  
       * Heroku  
         * [Heroku cheatsheet](https://devhints.io/heroku)  
         * [How to create a named app in heroku | The Agile Warrior](https://agilewarrior.wordpress.com/2014/05/16/how-to-create-a-named-app-in-heroku/)  
@@ -139,12 +141,6 @@
       * Docker  
         * Docker How To  
           * docs.docker.com  
-            * [Compose file version 3 reference | Docker Documentation](https://docs.docker.com/compose/compose-file/)  
-            * [Deploy a registry server | Docker Documentation](https://docs.docker.com/registry/deploying/)  
-            * [Docker Registry | Docker Documentation](https://docs.docker.com/registry/)  
-            * [docker exec | Docker Documentation](https://docs.docker.com/v17.12/engine/reference/commandline/exec/#run-docker-exec-on-a-running-container)  
-            * [docker stats | Docker Documentation](https://docs.docker.com/engine/reference/commandline/stats/)  
-            * [docker | Docker Documentation](https://docs.docker.com/engine/reference/commandline/docker/)  
           * [Docker: Remove all images and containers – TechOverflow](https://techoverflow.net/2013/10/22/docker-remove-all-images-and-containers/)  
           * [Exiting a Docker Container · vsupalov.com](https://vsupalov.com/exit-docker-container/)  
           * [How to See Memory and CPU Usage for All Your Docker Containers (on CentOS 6)](https://dev.to/rubberduck/how-to-see-memory-and-cpu-usage-for-all-your-docker-containers)  
@@ -232,29 +228,32 @@
       * DBF  
         * [DBF Explorer](http://www.pablosoftwaresolutions.com/html/dbf_explorer.html)  
         * [DBF Viewer Plus](http://www.alexnolan.net/software/dbf.htm)  
+      * MongoDB  
+        * [$in — MongoDB Manual](https://docs.mongodb.com/manual/reference/operator/query/in/)  
+        * [MongoDB - Query a Collection](https://www.quackit.com/mongodb/tutorial/mongodb_query_a_collection.cfm)  
+        * [Query Documents — MongoDB Manual](https://docs.mongodb.com/manual/tutorial/query-documents/)  
+        * [Use Indexes to Sort Query Results — MongoDB Manual](https://docs.mongodb.com/manual/tutorial/sort-results-with-indexes/)  
       * MySQL  
         * MySQL How To  
           * [Find and replace in entire mysql database - Stack Overflow](https://stackoverflow.com/questions/4822638/find-and-replace-in-entire-mysql-database)  
           * [How To Configure MySQL Group Replication on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-configure-mysql-group-replication-on-ubuntu-16-04)  
           * [How To Set Up Database Replication In MySQL | HowtoForge - Linux Howtos and Tutorials](http://www.howtoforge.com/mysql_database_replication)  
+          * [How to Filter for SQL Null or Empty String - SQL Training Online](http://www.sqltrainingonline.com/how-to-filter-for-sql-null-or-empty-string/)  
           * [How to do Painless MySQL Server Backups with AutoMySQLBackup | Linux.com](http://www.linux.com/learn/tutorials/659107-how-to-do-painless-mysql-server-backups-with-automysqlbackup)  
           * [MySQL :: MySQL 5.1 Reference Manual](http://dev.mysql.com/doc/refman/5.1/en/index.html)  
           * [MySQL Change root Password](http://www.cyberciti.biz/faq/mysql-change-root-password/)  
           * [MySQL Commands](http://www.pantz.org/software/mysql/mysqlcommands.html)  
-          * [MySQL | Grant / Revoke Privileges - GeeksforGeeks](https://www.geeksforgeeks.org/mysql-grant-revoke-privileges/)  
+          * [MySQL IF() Function](https://www.w3schools.com/sql/func_mysql_if.asp)  
+          * [Overview of the SQL REPLACE function](https://www.sqlshack.com/overview-of-the-sql-replace-function/)  
           * [Setting up MySQL Asynchronous Replication for High Availability @ Andrew Morgan’s MySQL Cluster Database Blog](http://www.clusterdb.com/mysql-cluster/setting-up-mysql-asynchronous-replication-for-high-availability/)  
-          * [awesome-mysql/index.md at gh-pages · shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)  
+          * [mysql - 'IF' in 'SELECT' statement - choose output value based on column values - Stack Overflow](https://stackoverflow.com/questions/5951157/if-in-select-statement-choose-output-value-based-on-column-values)  
         * [MariaDB - Askmonty.org](http://askmonty.org/wiki/index.php/Main_Page)  
         * [Percona Server with XtraDB - Percona Software](http://www.percona.com/software/percona-server/)  
         * [major/MySQLTuner-perl: MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.](https://github.com/major/MySQLTuner-perl)  
         * [phpMiniAdmin - extremely lightweight alternative to heavy phpMyAdmin](http://phpminiadmin.sourceforge.net/)  
       * SQL  
-        * [Free SQL Database Book](https://books.goalkicker.com/SQLBook/)  
         * [SQLBolt - Learn SQL - Introduction to SQL](https://sqlbolt.com/)  
-        * [SQLite Sample Database And Its Diagram (in PDF format)](http://www.sqlitetutorial.net/sqlite-sample-database/)  
-        * [SQLite Tutorial - An Easy Way to Master SQLite Fast](http://www.sqlitetutorial.net/)  
         * [bobby-tables.com: A guide to preventing SQL injection](http://bobby-tables.com/)  
-        * [enochtangg/quick-SQL-cheatsheet: A quick reminder of all SQL queries and examples on how to use them.](https://github.com/enochtangg/quick-SQL-cheatsheet)  
       * SQLite  
         * SQLite Editors  
           * [DB Browser for SQLite](https://sqlitebrowser.org/)  
@@ -295,12 +294,9 @@
             * [SQLite: SQLite Source Repository](https://sqlite.org/src/doc/trunk/README.md)  
             * [The SQLite Amalgamation](https://www.sqlite.org/amalgamation.html)  
           * [Full-Text Searching with SQLite](http://phpadvent.org/2008/full-text-searching-with-sqlite-by-scott-macvicar)  
-          * [Migrate SQLite3 to MySQL easily - Ariejan.net](http://ariejan.net/2006/10/13/migrate-sqlite3-to-mysql-easily/)  
-          * [Migrate from SQLite to Postgres?](http://www.mail-archive.com/trac@lists.edgewall.com/msg01227.html)  
-          * [PostgreSQL to SQLite « DrProject and IRC Integration](http://drprojectirc.wordpress.com/2008/07/18/postgresql-to-sqlite/)  
+          * [SQLite Sample Database And Its Diagram (in PDF format)](http://www.sqlitetutorial.net/sqlite-sample-database/)  
           * [SQLite Tutorial](http://souptonuts.sourceforge.net/readme_sqlite_tutorial.html)  
           * [SQLite expressions](http://zetcode.com/db/sqlite/expressions/)  
-          * [SQLite3 to MySQL - Stack Overflow](https://stackoverflow.com/questions/18671/quick-easy-way-to-migrate-sqlite3-to-mysql)  
           * [infiniteZest.com: Creating User Friendly Output from SQLite](http://www.infinitezest.com/articles/creating-user-friendly-output-from-sqlite.aspx)  
           * [sqlite - How to convert sqlite2 to sqlite3 and what are the differences between both versions? - Stack Overflow](https://stackoverflow.com/questions/9409073/how-to-convert-sqlite2-to-sqlite3-and-what-are-the-differences-between-both-vers)  
         * [SQLiteDBMS](http://sqlitedbms.sourceforge.net/index.htm)  
@@ -321,6 +317,7 @@
       * [WWW SQL Designer](http://ondras.zarovi.cz/sql/demo/?keyword=default)  
       * [cztomczak/dbkiss: MySQL and PosgreSQL databases administration tool in a single PHP file](https://github.com/cztomczak/dbkiss)  
       * [dbeaver/dbeaver: Free universal database tool and SQL client](https://github.com/dbeaver/dbeaver)  
+      * [enochtangg/quick-SQL-cheatsheet: A quick reminder of all SQL queries and examples on how to use them.](https://github.com/enochtangg/quick-SQL-cheatsheet)  
       * [mjgardner/dbcritic: Critique a database schema for best practices](https://github.com/mjgardner/dbcritic)  
     * Desktop Applications using Web Technologies  
       * Cpp  
@@ -398,11 +395,11 @@
       * [Nmap - Free Security Scanner For Network Exploration & Security Audits.](http://nmap.org/)  
       * [Online IP Subnet Calculator](http://www.subnet-calculator.com/)  
       * [Technitium MAC Address Changer v5 Release 3 (FREEWARE)](http://www.technitium.com/tmac/index.html)  
-      * [VLSM CIDR Subnet Calculator](http://vlsm-calc.net/)  
       * [Wireshark: Go deep.](http://www.wireshark.org/)  
     * Office  
       * Excel  
         * [Combine text and numbers - Excel](https://support.office.com/en-us/article/combine-text-and-numbers-a32c8e0e-90a2-435b-8635-5dd2209044ad)  
+        * [Excel formula: Count cells between two numbers | Exceljet](https://exceljet.net/formula/count-cells-between-two-numbers)  
         * [Excel formula: Sum visible rows in a filtered list | Exceljet](https://exceljet.net/formula/sum-visible-rows-in-a-filtered-list)  
         * [How to use the Excel SUBTOTAL function | Exceljet](https://exceljet.net/excel-functions/excel-subtotal-function)  
         * [How to use the Excel VLOOKUP function | Exceljet](https://exceljet.net/excel-functions/excel-vlookup-function)  
@@ -413,8 +410,8 @@
       * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)  
       * [PDF Converter - Convert to PDF Online Free](http://www.freepdfconvert.com/)  
       * [RANDOM.ORG - True Random Number Service](https://www.random.org/)  
-      * [Time Zones](https://www.timeanddate.com/time/map/)  
       * [chubin/awesome-console-services: A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)](https://github.com/chubin/awesome-console-services)  
+      * [timeanddate.com](https://www.timeanddate.com/)  
     * Operating Systems  
       * Linux  
         * AppImage  
@@ -726,7 +723,6 @@
           * [Qt Linguist Download Qt-Apps.org](http://www.qt-apps.org/content/show.php/Qt+Linguist+Download?content=89360)  
           * [QuaZIP: QuaZIP - Qt/C++ wrapper for ZIP/UNZIP package](http://quazip.sourceforge.net/)  
           * [Simple Encryption Library for QT (improved) | TechFindings](http://techfindings.one/archives/595)  
-          * [The OSDaB Project - Zip](http://osdab.42cows.org/snippets/zip.php?mode=advanced)  
           * [annulen/webkit: Unofficial mirror of the WebKit SVN repository](https://github.com/annulen/webkit)  
           * [devbean/QtCipherSqlitePlugin](https://github.com/devbean/QtCipherSqlitePlugin)  
           * [eteran/qjson4: A Qt4 library providing an API compatible with Qt5's JSON implementation](https://github.com/eteran/qjson4)  
@@ -908,7 +904,6 @@
           * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)  
           * [How I'm (Not) Using jQuery](https://developer.telerik.com/content-types/tutorials/im-not-using-jquery/)  
           * [JavaScript Standard Style](https://standardjs.com/)  
-          * [JavaScript function that accepts any number of arguments](http://code-maven.com/javascript-function-that-accepts-any-number-of-arguments)  
           * [JavaScript: Allowed Characters in Identifier](http://xahlee.info/js/js_unicode_in_identifiers.html)  
           * [Picking a Random Item from an Array | kirupa.com](https://www.kirupa.com/html5/picking_random_item_from_array.htm)  
           * [The Cost of JavaScript in 2018 | CSS-Tricks](https://css-tricks.com/the-cost-of-javascript-in-2018/)  
@@ -1040,7 +1035,6 @@
             * [node](http://node.readthedocs.io/en/latest/)  
             * [sqreen/awesome-nodejs-projects: Curated list of awesome open-source applications made with Node.js](https://github.com/sqreen/awesome-nodejs-projects)  
           * [nexe/nexe: create a single executable out of your node.js apps](https://github.com/nexe/nexe)  
-          * [nodei.co](https://nodei.co/)  
           * [nodejs/node-chakracore: Node.js on ChakraCore](https://github.com/nodejs/node-chakracore)  
           * [typicode/hotel: Local domains for everyone and more!](https://github.com/typicode/hotel)  
         * Progressive Web Apps  
@@ -1229,6 +1223,11 @@
             * [Perl's Special Variables | Perl Hacks](http://perlhacks.com/articles/perl-com/perls-special-variables/)  
             * [Template Toolkit | Perl Hacks](http://perlhacks.com/articles/template-toolkit/)  
           * perlmaven.com  
+            * [Hash of Arrays in Perl](https://perlmaven.com/hash-of-arrays)  
+            * [How to create an Excel file with Perl?](https://perlmaven.com/create-an-excel-file-with-perl)  
+            * [Perl tutorial](https://perlmaven.com/perl-tutorial)  
+            * [Scalar and List context in Perl, the size of an array](https://perlmaven.com/scalar-and-list-context-in-perl)  
+            * [Simple Database access using Perl DBI and SQL](https://perlmaven.com/simple-database-access-using-perl-dbi-and-sql)  
           * perlmeme.org  
             * [How can I run code that is in a string?](http://perlmeme.org/faqs/manipulating_text/eval.html)  
             * [How do I list the files in a directory?](http://perlmeme.org/faqs/file_io/directory_listing.html)  
@@ -1444,11 +1443,16 @@
             * [python - Applying borders to a cell in OpenPyxl - Stack Overflow](https://stackoverflow.com/questions/24917201/applying-borders-to-a-cell-in-openpyxl)  
             * [python - Convert bytes to a string? - Stack Overflow](https://stackoverflow.com/questions/606191/convert-bytes-to-a-string)  
             * [python - Correct way to write line to file? - Stack Overflow](https://stackoverflow.com/questions/6159900/correct-way-to-write-line-to-file)  
+            * [python - Find oldest/youngest datetime object in a list - Stack Overflow](https://stackoverflow.com/questions/3922644/find-oldest-youngest-datetime-object-in-a-list)  
+            * [python - How can I sort a dictionary by key? - Stack Overflow](https://stackoverflow.com/questions/9001509/how-can-i-sort-a-dictionary-by-key)  
             * [python - How do I check whether a file exists without exceptions? - Stack Overflow](https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-without-exceptions)  
+            * [python - How do I count unique values inside a list - Stack Overflow](https://stackoverflow.com/questions/12282232/how-do-i-count-unique-values-inside-a-list)  
             * [python - How do I remove the microseconds from a timedelta object? - Stack Overflow](https://stackoverflow.com/questions/18470627/how-do-i-remove-the-microseconds-from-a-timedelta-object)  
             * [python - How to format cell with datetime object of the form 'yyyy-mm-dd hh:mm:ss' in Excel using openpyxl - Stack Overflow](https://stackoverflow.com/questions/24370385/how-to-format-cell-with-datetime-object-of-the-form-yyyy-mm-dd-hhmmss-in-exc)  
             * [python - How to send a POST request via WebKit [PySide/PyQt] - Stack Overflow](https://stackoverflow.com/questions/12345841/how-to-send-a-post-request-via-webkit-pyside-pyqt)  
             * [python - How to send email attachments? - Stack Overflow](https://stackoverflow.com/questions/3362600/how-to-send-email-attachments)  
+            * [python - How to sort mongodb with pymongo - Stack Overflow](https://stackoverflow.com/questions/8109122/how-to-sort-mongodb-with-pymongo)  
+            * [python - How to update/upgrade a package using pip? - Stack Overflow](https://stackoverflow.com/questions/47071256/how-to-update-upgrade-a-package-using-pip)  
             * [python - If list index exists, do X - Stack Overflow](https://stackoverflow.com/questions/11786157/if-list-index-exists-do-x)  
             * [python - Installing pip packages to $HOME folder - Stack Overflow](https://stackoverflow.com/questions/7143077/installing-pip-packages-to-home-folder)  
             * [python - Iterating over dictionaries using 'for' loops - Stack Overflow](https://stackoverflow.com/questions/3294889/iterating-over-dictionaries-using-for-loops)  
@@ -1479,10 +1483,11 @@
           * [Python Delete File](https://www.w3schools.com/python/python_file_remove.asp)  
           * [Python Input and Output Tutorials [Complete Guide]](https://pynative.com/python-input-function-get-user-input/)  
           * [Python Last Month | Peter Lyons](https://peterlyons.com/problog/2017/04/python-last-month/)  
+          * [Python MongoDB Query](https://www.w3schools.com/python/python_mongodb_query.asp)  
+          * [Python MongoDB Sort](https://www.w3schools.com/python/python_mongodb_sort.asp)  
           * [Python Requests Ignore Bad SSL certificate](https://gist.github.com/random-robbie/bb65335b9632bf1ed38923c768cefa02)  
           * [Python code for sending HTML email (Attachment + Multiple Recipients )](https://gist.github.com/srv89/1d3dac6672895f5ca65f)  
           * [Python strftime reference](http://strftime.org/)  
-          * [Python | Writing to an excel file using openpyxl module - GeeksforGeeks](https://www.geeksforgeeks.org/python-writing-excel-file-using-openpyxl-module/)  
           * [Python: How to Print Without Newline? (The Idiomatic Way) - Afternerd](https://www.afternerd.com/blog/how-to-print-without-a-newline-in-python/)  
           * [Python: List Files in a Directory](https://stackabuse.com/python-list-files-in-a-directory/)  
           * [SQLite Python](http://www.sqlitetutorial.net/sqlite-python/)  
