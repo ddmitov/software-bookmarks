@@ -74,6 +74,7 @@
       * [ClipGrab - Free YouTube Downloader & Converter](http://clipgrab.org/)  
       * [iawia002/annie: Fast, simple and clean video downloader](https://github.com/iawia002/annie)  
     * [Cstitch: a free and open source program for creating cross stitch patterns from images](http://cstitch.sourceforge.net/)  
+    * [ImgBurn](http://www.imgburn.com/)  
     * [Sweet Home 3D - Начало](http://www.sweethome3d.com/bg/)  
     * [XnView · Image Viewer, Photo Resizer & Graphic Converter](https://www.xnview.com/en/)  
   * Software Development and Administration  
@@ -90,14 +91,40 @@
     * Bug Tracking  
       * JIRA  
         * JIRA How To  
+          * [Advanced searching - Atlassian Documentation](https://confluence.atlassian.com/jiracoreserver073/advanced-searching-861257209.html#AdvancedSearching-Assignee)  
+          * [Advanced searching - fields reference - Atlassian Documentation](https://confluence.atlassian.com/jiracorecloud/advanced-searching-fields-reference-765593716.html)  
+          * [Advanced searching - functions reference - Atlassian Documentation](https://confluence.atlassian.com/jiracorecloud/advanced-searching-functions-reference-765593719.html)  
+          * [Advanced searching - operators reference - Atlassian Documentation](https://confluence.atlassian.com/jiracorecloud/advanced-searching-operators-reference-765593718.html)  
+          * [Date time format and advanced filter](https://community.atlassian.com/t5/Jira-questions/Date-time-format-and-advanced-filter/qaq-p/363197)  
+          * [JIRA API GET all values for a custom field](https://community.atlassian.com/t5/Jira-questions/JIRA-API-GET-all-values-for-a-custom-field/qaq-p/869631)  
+          * [JIRA JQL: how to filter issues that changed assign...](https://community.atlassian.com/t5/Jira-questions/JIRA-JQL-how-to-filter-issues-that-changed-assignee-X-or-more/qaq-p/350772)  
           * [JQL Reference manual (How to Perform an Advanced Search)](https://mraddon.blog/2015/05/27/jql-reference-manual-how-to-perform-an-advanced-search/)  
           * [JQL: The most flexible way to search Jira](https://www.atlassian.com/blog/jira-software/jql-the-most-flexible-way-to-search-jira-14)  
           * [Jira REST API examples](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)  
           * [REST APIs](https://developer.atlassian.com/server/jira/platform/rest-apis/)  
+          * [Saving your search as a filter - Atlassian Documentation](https://confluence.atlassian.com/jiracoreserver073/saving-your-search-as-a-filter-861257224.html)  
+          * [Solved: Downloading attachments via jira module in python](https://community.atlassian.com/t5/Jira-questions/Downloading-attachments-via-jira-module-in-python/qaq-p/449195)  
+          * [Solved: How do I search for issues Resolved and/or Closed ...](https://community.atlassian.com/t5/Jira-questions/How-do-I-search-for-issues-Resolved-and-or-Closed-by-a/qaq-p/317364)  
+          * [Solved: How to get all issues of a project using Rest API](https://community.atlassian.com/t5/Jira-questions/How-to-get-all-issues-of-a-project-using-Rest-API/qaq-p/832316)  
+          * [Solved: How to get all the assignees of an issue?](https://community.atlassian.com/t5/Jira-questions/How-to-get-all-the-assignees-of-an-issue/qaq-p/177875)  
+          * [Solved: How to use API token for REST calls in Python.](https://community.atlassian.com/t5/Jira-questions/How-to-use-API-token-for-REST-calls-in-Python/qaq-p/760940)  
+          * [Solved: Is it possible to get the issue history using the ...](https://community.atlassian.com/t5/Jira-questions/Is-it-possible-to-get-the-issue-history-using-the-REST-API/qaq-p/510094)  
+          * [Solved: JQL assigned date](https://community.atlassian.com/t5/Jira-questions/JQL-assigned-date/qaq-p/184348)  
+          * [Solved: JQL for tickets closed within a time range](https://community.atlassian.com/t5/Jira-questions/JQL-for-tickets-closed-within-a-time-range/qaq-p/348531)  
+          * [Solved: Search for issues updated after being closed or re...](https://community.atlassian.com/t5/Jira-questions/Search-for-issues-updated-after-being-closed-or-resolved/qaq-p/319502)  
           * [The Jira Cloud platform REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3/)  
           * [The Jira JQL Advanced Guide 2019 [How to Search Jira Issues Like a Pro]](https://www.idalko.com/jira-jql/)  
         * [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)  
-    * Cloud Providers  
+    * Cloud  
+      * Amazon Web Services  
+        * RDS  
+          * [Allow users to connect to Amazon RDS with IAM credentials](https://aws.amazon.com/premiumsupport/knowledge-center/users-connect-rds-iam/)  
+          * [Connecting to RDS using IAM user - Francisco Edilton - Medium](https://medium.com/@franciscoed/connecting-to-rds-using-iam-user-86de4401086e)  
+          * [Create MySQL user on AWS RDS server](https://www.technlg.net/aws/create-mysql-user-aws-rds/)  
+          * [Python - MySQL SSL Connections - Stack Overflow](https://stackoverflow.com/questions/44207063/python-mysql-ssl-connections)  
+          * [Using SSL/TLS to Encrypt a Connection to a DB Instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html)  
+        * [Configuring the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)  
+        * [checkip.amazonaws.com](http://checkip.amazonaws.com/)  
       * Heroku  
         * [Heroku cheatsheet](https://devhints.io/heroku)  
         * [How to create a named app in heroku | The Agile Warrior](https://agilewarrior.wordpress.com/2014/05/16/how-to-create-a-named-app-in-heroku/)  
@@ -109,6 +136,9 @@
       * Docker  
         * Docker How To  
           * docs.docker.com  
+            * [Compose file version 3 reference | Docker Documentation](https://docs.docker.com/compose/compose-file/)  
+            * [docker stats | Docker Documentation](https://docs.docker.com/engine/reference/commandline/stats/)  
+            * [docker | Docker Documentation](https://docs.docker.com/engine/reference/commandline/docker/)  
           * [Docker: Remove all images and containers – TechOverflow](https://techoverflow.net/2013/10/22/docker-remove-all-images-and-containers/)  
           * [Exiting a Docker Container · vsupalov.com](https://vsupalov.com/exit-docker-container/)  
           * [How to See Memory and CPU Usage for All Your Docker Containers (on CentOS 6)](https://dev.to/rubberduck/how-to-see-memory-and-cpu-usage-for-all-your-docker-containers)  
@@ -123,14 +153,8 @@
         * [veggiemonk/awesome-docker: A curated list of Docker resources and projects](https://github.com/veggiemonk/awesome-docker)  
       * Kubernetes  
         * Kubernetes How To  
-          * kubernetes.io  
-            * [CronJob - Kubernetes](https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/)  
-            * [Define a Command and Arguments for a Container - Kubernetes](https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument-container/)  
-            * [Pull an Image from a Private Registry - Kubernetes](https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/)  
-            * [Running Automated Tasks with a CronJob - Kubernetes](https://kubernetes.io/docs/tasks/job/automated-tasks-with-cron-jobs/)  
-            * [Web UI (Dashboard) - Kubernetes](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)  
-            * [kubectl Cheat Sheet - Kubernetes](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)  
           * [How to configure kubernetes (microk8s) to use local docker images? - Stack Overflow](https://stackoverflow.com/questions/55549522/how-to-configure-kubernetes-microk8s-to-use-local-docker-images)  
+          * [Running Automated Tasks with a CronJob - Kubernetes](https://kubernetes.io/docs/tasks/job/automated-tasks-with-cron-jobs/)  
           * [bambash/kube-cron-example: A collection of ways to schedule jobs in Kubernetes](https://github.com/bambash/kube-cron-example)  
           * [dennyzhang/cheatsheet-kubernetes-A4: Kubernetes CheatSheets In A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)  
         * [MicroK8s - Fast, Light, Upstream Developer Kubernetes](https://microk8s.io/)  
@@ -198,6 +222,7 @@
           * dba.stackexchange.com  
             * [Difference between show status and show global status in mysql - Database Administrators Stack Exchange](https://dba.stackexchange.com/questions/54337/difference-between-show-status-and-show-global-status-in-mysql)  
             * [Enabling LOAD DATA LOCAL INFILE in mysql - Database Administrators Stack Exchange](https://dba.stackexchange.com/questions/48751/enabling-load-data-local-infile-in-mysql)  
+            * [MySQL: How to check foreign keys related to a table - Database Administrators Stack Exchange](https://dba.stackexchange.com/questions/102371/mysql-how-to-check-foreign-keys-related-to-a-table)  
             * [sql server - Grouping UNION ALL - Database Administrators Stack Exchange](https://dba.stackexchange.com/questions/90171/grouping-union-all)  
           * dev.mysql.com  
             * [MySQL :: MySQL 5.7 Reference Manual :: 3.3.3 Loading Data into a Table](https://dev.mysql.com/doc/refman/5.7/en/loading-tables.html)  
@@ -216,6 +241,7 @@
             * [MySQL: Enable LOAD DATA LOCAL INFILE - Stack Overflow](https://stackoverflow.com/questions/10762239/mysql-enable-load-data-local-infile)  
             * [information schema - How to find all the tables in MySQL with specific column names in them? - Stack Overflow](https://stackoverflow.com/questions/193780/how-to-find-all-the-tables-in-mysql-with-specific-column-names-in-them)  
             * [join - Count with if condition in mysql query - Stack Overflow](https://stackoverflow.com/questions/9798937/count-with-if-condition-in-mysql-query)  
+            * [logging - Log all queries in mysql - Stack Overflow](https://stackoverflow.com/questions/303994/log-all-queries-in-mysql)  
             * [mysql - 'IF' in 'SELECT' statement - choose output value based on column values - Stack Overflow](https://stackoverflow.com/questions/5951157/if-in-select-statement-choose-output-value-based-on-column-values)  
             * [mysql - INSERT with SELECT - Stack Overflow](https://stackoverflow.com/questions/5391344/insert-with-select)  
             * [shell - Access mysql remote database from command line - Stack Overflow](https://stackoverflow.com/questions/15872543/access-mysql-remote-database-from-command-line)  
@@ -229,6 +255,7 @@
             * [MySQL INSERT INTO SELECT Explained By Practical Examples](http://www.mysqltutorial.org/mysql-insert-into-select/)  
             * [MySQL REPLACE String Function: Find & Replace Text](http://www.mysqltutorial.org/mysql-string-replace-function.aspx)  
             * [MySQL SUM - Calculating The Sum of Values](http://www.mysqltutorial.org/mysql-sum/)  
+            * [MySQL Transaction: START TRANSACTION, COMMIT & ROLLBACK by Examples](http://www.mysqltutorial.org/mysql-transaction.aspx)  
             * [MySQL UNION: Combining Results of Two or More Queries](http://www.mysqltutorial.org/sql-union-mysql.aspx)  
           * www.w3schools.com  
             * [MySQL CAST() Function](https://www.w3schools.com/sql/func_mysql_cast.asp)  
@@ -244,8 +271,11 @@
             * [SQL UNION Operator](https://www.w3schools.com/sql/sql_union.asp)  
             * [SQL UPDATE Statement](https://www.w3schools.com/sql/sql_update.asp)  
           * [How to Filter for SQL Null or Empty String - SQL Training Online](http://www.sqltrainingonline.com/how-to-filter-for-sql-null-or-empty-string/)  
+          * [How to Test Foreign Key Constraints in Your Database - TestProject](https://blog.testproject.io/2017/06/19/test-foreign-key-constraints-database/)  
           * [How to Use IF...THEN Logic in SQL Server](https://chartio.com/resources/tutorials/how-to-use-if-then-logic-in-sql-server/)  
+          * [How to show the queries log in MySQL? | TablePlus](https://tableplus.com/blog/2018/10/how-to-show-queries-log-in-mysql.html)  
           * [List sessions / active connections on MySQL server - MySQL Data Dictionary Queries](https://dataedo.com/kb/query/mysql/list-database-sessions)  
+          * [MySQL - How to see the foreign key relationships of a table? | TablePlus](https://tableplus.com/blog/2018/08/mysql-how-to-see-foreign-key-relationship-of-a-table.html)  
           * [MySQL How To Select and Update in Single Statement - Increment Counter avoiding Race Condition - SQLines Open Source Tools](http://www.sqlines.com/mysql/how-to/select-update-single-statement-race-condition)  
           * [MySQL show status: How to show open database connections | alvinalexander.com](https://alvinalexander.com/blog/post/mysql/how-show-open-database-connections-mysql)  
           * [Overview of the SQL REPLACE function](https://www.sqlshack.com/overview-of-the-sql-replace-function/)  
@@ -402,6 +432,7 @@
         * [SUBTOTAL function - Office Support](https://support.office.com/en-us/article/subtotal-function-7b027003-f060-4ade-9040-e478765b9939)  
         * [Show or hide gridlines on a worksheet - Office Support](https://support.office.com/en-us/article/show-or-hide-gridlines-on-a-worksheet-3ef5aacb-4539-4ad5-9945-5ed53772dc4d)  
     * Online Services  
+      * [Calendarific - Enterprise-grade Bank and Public Holidays API](https://calendarific.com/)  
       * [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKVxuQiAtLT4gQ3tMZXQgbWUgdGhpbmt9XG5DIC0tPnxPbmV8IERbTGFwdG9wXVxuQyAtLT58VHdvfCBFW2lQaG9uZV1cbkMgLS0-fFRocmVlfCBGW0Nhcl1cbiIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In19)  
       * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)  
       * [PDF Converter - Convert to PDF Online Free](http://www.freepdfconvert.com/)  
@@ -709,6 +740,7 @@
             * [removeDir() recursively in Qt](http://dumpz.org/22164/)  
           * [Berry/SimpleQtCryptor at master · Aseman-Land/Berry](https://github.com/Aseman-Land/Berry/tree/master/SimpleQtCryptor)  
           * [Index of /archive/qt](https://download.qt.io/archive/qt/)  
+          * [Qt Linguist Download Qt-Apps.org](http://www.qt-apps.org/content/show.php/Qt+Linguist+Download?content=89360)  
           * [QuaZIP: QuaZIP - Qt/C++ wrapper for ZIP/UNZIP package](http://quazip.sourceforge.net/)  
           * [Simple Encryption Library for QT (improved) | TechFindings](http://techfindings.one/archives/595)  
           * [annulen/webkit: Unofficial mirror of the WebKit SVN repository](https://github.com/annulen/webkit)  
@@ -1276,7 +1308,6 @@
           * [Mojolicious::Lite - Micro real-time web framework](http://mojolicious.org/perldoc/Mojolicious/Lite)  
           * [Nikolai Bezroukov. Simplified Perl for Unix System Administrators](http://www.softpanorama.org/Scripting/Perlbook/index.shtml)  
           * [POD Web View](http://podwebview.odyniec.net/)  
-          * [Packing the Fat | PerlDancer Advent Calendar](http://advent.perldancer.org/2014/5)  
           * [Perl $^O values for various operating systems](http://alma.ch/perl/perloses.htm)  
           * [Perl 5 by Example: Debugging Perl](http://affy.blogspot.com/p5be/ch16.htm)  
           * [Perl Regular Expression - Extracting Matches](https://www.perltutorial.org/regular-expression-extracting-matches/)  
@@ -1307,7 +1338,6 @@
           * [learnbyexample/Perl_intro: Introductory course for Perl 5 through examples, geared towards VLSI engineers](https://github.com/learnbyexample/Perl_intro)  
           * [learnxinyminutes-docs/perl-bg.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/bg-bg/perl-bg.html.markdown)  
           * [miyagawa/plack-handbook](https://github.com/miyagawa/plack-handbook)  
-          * [open() for Command Execution](http://www.shlomifish.org/lecture/Perl/Newbies/lecture4/processes/opens.html)  
           * [rgs/p5-intelligible-unicode: An intelligible guide to Unicode in Perl 5](https://github.com/rgs/p5-intelligible-unicode)  
           * [thibaultduponchelle/perlres: List of resources about Perl](https://github.com/thibaultduponchelle/perlres)  
           * [uhub/awesome-perl: A curated list of awesome Perl frameworks, libraries and software.](https://github.com/uhub/awesome-perl/)  
@@ -1367,6 +1397,7 @@
             * [Jira python calculate time - Stack Overflow](https://stackoverflow.com/questions/37744027/jira-python-calculate-time)  
             * [Parse JSON in Python - Stack Overflow](https://stackoverflow.com/questions/7771011/parse-json-in-python)  
             * [Python 3 urllib with self-signed certificates - Stack Overflow](https://stackoverflow.com/questions/35875298/python-3-urllib-with-self-signed-certificates)  
+            * [Python : IndexError: tuple index out of range - Stack Overflow](https://stackoverflow.com/questions/25169563/python-indexerror-tuple-index-out-of-range/25169619)  
             * [Python File Slurp - Stack Overflow](https://stackoverflow.com/questions/1631897/python-file-slurp)  
             * [Python Join a list of integers - Stack Overflow](https://stackoverflow.com/questions/11139330/python-join-a-list-of-integers/11139368)  
             * [Python truncate a long string - Stack Overflow](https://stackoverflow.com/questions/2872512/python-truncate-a-long-string)  
@@ -1384,6 +1415,7 @@
             * [email - Specify a sender when sending mail with Python (smtplib) - Stack Overflow](https://stackoverflow.com/questions/540976/specify-a-sender-when-sending-mail-with-python-smtplib)  
             * [https - How do I disable the security certificate check in Python requests - Stack Overflow](https://stackoverflow.com/questions/15445981/how-do-i-disable-the-security-certificate-check-in-python-requests)  
             * [openpyxl - read only one column from excel file in python? - Stack Overflow](https://stackoverflow.com/questions/34754077/openpyxl-read-only-one-column-from-excel-file-in-python)  
+            * [pandas - JOIN two dataframes on common column in python - Stack Overflow](https://stackoverflow.com/questions/41463119/join-two-dataframes-on-common-column-in-python)  
             * [pip - How to use requirements.txt to install all dependencies in a python project - Stack Overflow](https://stackoverflow.com/questions/41457612/how-to-use-requirements-txt-to-install-all-dependencies-in-a-python-project)  
             * [printing - How to print to stderr in Python? - Stack Overflow](https://stackoverflow.com/questions/5574702/how-to-print-to-stderr-in-python)  
             * [python - Applying borders to a cell in OpenPyxl - Stack Overflow](https://stackoverflow.com/questions/24917201/applying-borders-to-a-cell-in-openpyxl)  
@@ -1406,9 +1438,11 @@
             * [python - How to convert local time string to UTC? - Stack Overflow](https://stackoverflow.com/questions/79797/how-to-convert-local-time-string-to-utc)  
             * [python - How to format cell with datetime object of the form 'yyyy-mm-dd hh:mm:ss' in Excel using openpyxl - Stack Overflow](https://stackoverflow.com/questions/24370385/how-to-format-cell-with-datetime-object-of-the-form-yyyy-mm-dd-hhmmss-in-exc)  
             * [python - How to iterate over rows in a DataFrame in Pandas? - Stack Overflow](https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas)  
+            * [python - How to merge two dataframes side-by-side? - Stack Overflow](https://stackoverflow.com/questions/23891575/how-to-merge-two-dataframes-side-by-side)  
             * [python - How to send a POST request via WebKit [PySide/PyQt] - Stack Overflow](https://stackoverflow.com/questions/12345841/how-to-send-a-post-request-via-webkit-pyside-pyqt)  
             * [python - How to send email attachments? - Stack Overflow](https://stackoverflow.com/questions/3362600/how-to-send-email-attachments)  
             * [python - How to sort mongodb with pymongo - Stack Overflow](https://stackoverflow.com/questions/8109122/how-to-sort-mongodb-with-pymongo)  
+            * [python - How to store mySQL query result into pandas DataFrame with pymysql? - Stack Overflow](https://stackoverflow.com/questions/47328402/how-to-store-mysql-query-result-into-pandas-dataframe-with-pymysql)  
             * [python - How to update/upgrade a package using pip? - Stack Overflow](https://stackoverflow.com/questions/47071256/how-to-update-upgrade-a-package-using-pip)  
             * [python - If list index exists, do X - Stack Overflow](https://stackoverflow.com/questions/11786157/if-list-index-exists-do-x)  
             * [python - Installing pip packages to $HOME folder - Stack Overflow](https://stackoverflow.com/questions/7143077/installing-pip-packages-to-home-folder)  
@@ -1435,6 +1469,7 @@
             * [trim - Remove all whitespace in a string in Python - Stack Overflow](https://stackoverflow.com/questions/8270092/remove-all-whitespace-in-a-string-in-python/8270146)  
             * [windows - How do I install a Python package with a .whl file? - Stack Overflow](https://stackoverflow.com/questions/27885397/how-do-i-install-a-python-package-with-a-whl-file)  
           * www.geeksforgeeks.org  
+            * [Python | How to copy data from one excel sheet to another - GeeksforGeeks](https://www.geeksforgeeks.org/python-how-to-copy-data-from-one-excel-sheet-to-another/)  
             * [Python | Pandas Series.to_string() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-series-to_string/)  
             * [Python | Plotting charts in excel sheet using openpyxl module](https://www.geeksforgeeks.org/python-plotting-charts-in-excel-sheet-using-openpyxl-module-set-1/)  
             * [Python | Writing to an excel file using openpyxl module - GeeksforGeeks](https://www.geeksforgeeks.org/python-writing-excel-file-using-openpyxl-module/)  
@@ -1446,6 +1481,7 @@
             * [Python time Module (with Examples)](https://www.programiz.com/python-programming/time)  
           * www.w3schools.com  
             * [Python Delete File](https://www.w3schools.com/python/python_file_remove.asp)  
+            * [Python File Write](https://www.w3schools.com/python/python_file_write.asp)  
             * [Python JSON](https://www.w3schools.com/python/python_json.asp)  
             * [Python List append() Method](https://www.w3schools.com/python/ref_list_append.asp)  
             * [Python List sort() Method](https://www.w3schools.com/python/ref_list_sort.asp)  
@@ -1459,9 +1495,10 @@
           * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)  
           * [Boto3: Amazon S3 as Python Object Store - DZone Database](https://dzone.com/articles/boto3-amazon-s3-as-python-object-store)  
           * [Convert a string representing the date or epoch time to datetime and change timezone in Python - Sou-Nan-De-Gesu](https://www.soudegesu.com/en/python/python-datetime/)  
-          * [Extracting text from HTML in Python: a very fast approach | Artem Golubin](https://rushter.com/blog/python-fast-html-parser/)  
+          * [Convert string to int in Python – Python Principles](https://pythonprinciples.com/blog/python-convert-string-to-int/)  
           * [How do I round to 2 decimals in python?](https://gist.github.com/jackiekazil/6201722)  
           * [How to Check if a List, Tuple or Dictionary is Empty in Python | Python Central](https://www.pythoncentral.io/how-to-check-if-a-list-tuple-or-dictionary-is-empty-in-python/)  
+          * [How to add a dataframe to an existing excel file](https://python-forum.io/Thread-How-to-add-a-dataframe-to-an-existing-excel-file)  
           * [How to ignore an exception — the elegant way | Python Adventures](https://pythonadventures.wordpress.com/2013/09/07/how-to-ignore-an-exception-the-elegant-way/)  
           * [How to use proxies with Python Requests module](https://blog.scrapinghub.com/python-requests-proxy)  
           * [How to use sys.argv in Python](http://www.pythonforbeginners.com/system/python-sys-argv)  
@@ -1469,6 +1506,7 @@
           * [List all the packages, modules installed in python pip - DataScience Made Simple](http://www.datasciencemadesimple.com/list-packages-modules-installed-python/)  
           * [Openpyxl delete Sheet from Excel Workbook - Python Excel](http://www.pythonexcel.com/delete-sheet.php)  
           * [PY4E - Python for Everybody](https://www.py4e.com/lessons)  
+          * [Pandas DataFrames - Writing to and reading from MySQL Table | Pythontic.com](https://pythontic.com/pandas/serialization/mysql)  
           * [Pipenv & Virtual Environments — The Hitchhiker's Guide to Python](https://docs.python-guide.org/dev/virtualenvs/)  
           * [Python 3 Subprocess Examples](http://queirozf.com/entries/python-3-subprocess-examples)  
           * [Python Clocks Explained - Webucator Blog](https://www.webucator.com/blog/2015/08/python-clocks-explained/)  
@@ -1513,6 +1551,12 @@
         * [cyberdyne-corp/python-simple-api-bottle: A simple API using Python and Bottle.](https://github.com/cyberdyne-corp/python-simple-api-bottle)  
         * [derrekyoung/url-checker-python: Python scripts to check URLs](https://github.com/derrekyoung/url-checker-python)  
         * [pypa/pipenv: Python Development Workflow for Humans.](https://github.com/pypa/pipenv)  
+      * R  
+        * R How To  
+          * [Function to clear the console in R and RStudio - Stack Overflow](https://stackoverflow.com/questions/14260340/function-to-clear-the-console-in-r-and-rstudio)  
+          * [R Packages: A Beginner's Guide (article) - DataCamp](https://www.datacamp.com/community/tutorials/r-packages-guide)  
+          * [R Programming Examples - DataMentor](https://www.datamentor.io/r-programming/examples/)  
+          * [R Tutorial - Tutorialspoint](https://www.tutorialspoint.com/r/index.htm)  
       * [Category:Programming Tasks - Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks)  
       * [Programming Languages - Hyperpolyglot](http://hyperpolyglot.org/)  
       * [The Hello World Collection](http://helloworldcollection.de/)  
@@ -1585,10 +1629,8 @@
               * [CSS3 box-sizing property](http://www.w3schools.com/cssref/css3_pr_box-sizing.asp)  
             * [rachelandrew/css-for-print](https://github.com/rachelandrew/css-for-print)  
           * [CSS Button Generator](http://css3buttongenerator.com/)  
-          * [Chalarangelo/mini.css: A minimal, responsive, style-agnostic CSS framework!](https://github.com/Chalarangelo/mini.css)  
           * [The W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/)  
           * [loading.io - Your SVG + GIF Ajax Loading Icons](http://loading.io/)  
-          * [pure-css/pure: A set of small, responsive CSS modules that you can use in every web project.](https://github.com/pure-css/pure)  
         * Fonts  
           * [Font Awesome Examples](http://fontawesome.io/examples/)  
           * [Font Awesome Web Application Icons](https://www.w3schools.com/icons/fontawesome_icons_webapp.asp)  
@@ -1672,11 +1714,9 @@
           * [Speedtest.net - The Global Broadband Speed Test](http://www.speedtest.net/)  
           * [shoreditch-ops/artillery: Flexible and powerful toolkit for load and functional testing. HTTP, Socket.io, WebSockets, Kinesis - you bring it, Artillery will blast it! Make your systems indestructible!](https://github.com/shoreditch-ops/artillery)  
         * Tools  
-          * [AndiDittrich/HttpErrorPages: Simple HTTP Error Page Generator](https://github.com/AndiDittrich/HttpErrorPages)  
           * [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)  
           * [Just Color Picker 5.2 - best free colour tool for Windows and macOS](http://annystudio.com/software/colorpicker/)  
           * [Opera Mobile Classic Emulator - Opera](http://www.opera.com/developer/mobile-emulator)  
-          * [Добавяне на Вашия URL адрес към Google](http://www.google.com/addurl/)  
         * [RawGit](https://rawgit.com/)  
         * [Surge](https://surge.sh/)  
         * [akikoo/frontend-dev-bookmarks: My collection of essential Front-End resources, focusing on accessibility, architecture, performance, code quality, workflow and best practices.](https://github.com/akikoo/frontend-dev-bookmarks)  
@@ -1688,13 +1728,10 @@
           * [GerHobbelt/civet-webserver: Fork of the old mongoose webserver; others have rebranded it as civetweb ... This one comes with tweaks: IPv6 support across the board; extended event callbacks; client-side socket connections using [mg_]connect(); [mg_]socketp](https://github.com/GerHobbelt/civet-webserver)  
           * [cesanta/mongoose: Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and bro](https://github.com/cesanta/mongoose)  
           * [ctrix/free-mongoose](https://github.com/ctrix/free-mongoose/)  
-        * Web Servers Administration  
-          * [Monitorix :: a free, open source, lightweight system monitoring tool](https://www.monitorix.org/)  
-          * [Webmin](http://www.webmin.com/)  
         * [BitNami Stacks](http://bitnami.org/stacks)  
         * [VS WAMP - VertrigoServ - PHP, Apache, MySQL server](https://www.vswamp.com/)  
+        * [Webmin](http://www.webmin.com/)  
         * [Xitami - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Xitami)  
-  * [ImgBurn](http://www.imgburn.com/)  
 
 Created using [Bookmark Extractor](https://github.com/ddmitov/bookmark-extractor)
 
