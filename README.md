@@ -2,8 +2,14 @@
   * Human Languages  
     * Bulgarian  
       * [Automatic Cyrillic Converter](http://newyork.mashke.org/Conv/)  
+      * [Universal online Cyrillic decoder - recover your texts](https://2cyr.com/decode/)  
       * [Англо-български терминологичен речник по информатика](http://lml.bas.bg/~anton/linux/rechnik.html)  
       * [Превод между кирилица и методиевица](http://www.metodii.com/bg_Prevedi.html)  
+    * Chinese  
+      * [Chinese Encoding Auto-Detection](https://mandarintools.com/codeguess.html)  
+      * [Chinese Encoding Converter](http://www.mandarintools.com/zhcode.html)  
+      * [DimSum Chinese Language Tool](http://www.mandarintools.com/dimsum.html)  
+      * [Fix Corrupted Chinese Email](http://www.mandarintools.com/email.html)  
     * Classical Languages  
       * Ancient Greek  
         * [Alpha online. Древнегреческо-русский словарь](http://gurin.tomsknet.ru/alphaonline.html)  
@@ -37,6 +43,9 @@
         * [Whitaker's Words: Overview](https://mk270.github.io/whitakers-words/)  
         * [auxilium-online.net - Wörterbuch und Community für Latein](http://www.auxilium-online.net/wb/woerterbuch.php)  
       * [Diogenes Home Page](http://community.dur.ac.uk/p.j.heslin/Software/Diogenes/)  
+    * English  
+      * [Hemingway Editor](http://www.hemingwayapp.com/)  
+      * [LanguageTool Style and Grammar Check](https://languagetool.org/)  
     * Unicode  
       * Software  
         * [BabelStone : BabelMap (Unicode Character Map for Windows)](http://www.babelstone.co.uk/Software/BabelMap.html)  
@@ -49,8 +58,6 @@
       * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/printerFriendly/articles/Unicode.html)  
       * [Unicode Character Search](http://www.fileformat.info/info/unicode/char/search.htm)  
       * [jagracey/Awesome-Unicode: A curated list of delightful Unicode tidbits, packages and resources.](https://github.com/jagracey/Awesome-Unicode)  
-    * [Hemingway Editor](http://www.hemingwayapp.com/)  
-    * [LanguageTool Style and Grammar Check](https://languagetool.org/)  
     * [Laurence Anthony's AntConc](http://www.laurenceanthony.net/software/antconc/)  
   * Knowledge Facilities  
     * Mindmaps  
@@ -130,6 +137,7 @@
         * [How to create a named app in heroku | The Agile Warrior](https://agilewarrior.wordpress.com/2014/05/16/how-to-create-a-named-app-in-heroku/)  
         * [judofyr/perloku: Perl on Heroku](https://github.com/judofyr/perloku)  
         * [pussinboots/heroku-badge: Simple heroku badge that serves an success or failed image depends on the heroku response.](https://github.com/pussinboots/heroku-badge)  
+      * [rclone - rsync for cloud storage](https://rclone.org/)  
     * Concepts  
       * [Common web application architectures | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures)  
     * Containers  
@@ -423,17 +431,18 @@
       * [Online IP Subnet Calculator](http://www.subnet-calculator.com/)  
       * [Technitium MAC Address Changer v5 Release 3 (FREEWARE)](http://www.technitium.com/tmac/index.html)  
     * Office  
-      * Excel  
-        * [Combine text and numbers - Excel](https://support.office.com/en-us/article/combine-text-and-numbers-a32c8e0e-90a2-435b-8635-5dd2209044ad)  
-        * [Convert numbers stored as text to numbers - Office Support](https://support.office.com/en-us/article/convert-numbers-stored-as-text-to-numbers-40105f2a-fe79-4477-a171-c5bad0f0a885)  
-        * [Edit Comments in Microsoft Excel](https://www.exceltip.com/tips/edit-comments-in-microsoft-excel.html)  
-        * [Excel formula: Count cells between two numbers | Exceljet](https://exceljet.net/formula/count-cells-between-two-numbers)  
-        * [Excel formula: Sum visible rows in a filtered list | Exceljet](https://exceljet.net/formula/sum-visible-rows-in-a-filtered-list)  
-        * [Excel specifications and limits - Excel](https://support.office.com/en-us/article/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3)  
-        * [How to use the Excel SUBTOTAL function | Exceljet](https://exceljet.net/excel-functions/excel-subtotal-function)  
-        * [How to use the Excel VLOOKUP function | Exceljet](https://exceljet.net/excel-functions/excel-vlookup-function)  
-        * [SUBTOTAL function - Office Support](https://support.office.com/en-us/article/subtotal-function-7b027003-f060-4ade-9040-e478765b9939)  
-        * [Show or hide gridlines on a worksheet - Office Support](https://support.office.com/en-us/article/show-or-hide-gridlines-on-a-worksheet-3ef5aacb-4539-4ad5-9945-5ed53772dc4d)  
+      * Microsoft Office  
+        * Excel  
+          * [Combine text and numbers - Excel](https://support.office.com/en-us/article/combine-text-and-numbers-a32c8e0e-90a2-435b-8635-5dd2209044ad)  
+          * [Convert numbers stored as text to numbers - Office Support](https://support.office.com/en-us/article/convert-numbers-stored-as-text-to-numbers-40105f2a-fe79-4477-a171-c5bad0f0a885)  
+          * [Excel formula: Count cells between two numbers | Exceljet](https://exceljet.net/formula/count-cells-between-two-numbers)  
+          * [Excel formula: Sum visible rows in a filtered list | Exceljet](https://exceljet.net/formula/sum-visible-rows-in-a-filtered-list)  
+          * [Excel specifications and limits - Excel](https://support.office.com/en-us/article/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3)  
+          * [How to use the Excel SUBTOTAL function | Exceljet](https://exceljet.net/excel-functions/excel-subtotal-function)  
+          * [How to use the Excel VLOOKUP function | Exceljet](https://exceljet.net/excel-functions/excel-vlookup-function)  
+          * [SUBTOTAL function - Office Support](https://support.office.com/en-us/article/subtotal-function-7b027003-f060-4ade-9040-e478765b9939)  
+          * [Show or hide gridlines on a worksheet - Office Support](https://support.office.com/en-us/article/show-or-hide-gridlines-on-a-worksheet-3ef5aacb-4539-4ad5-9945-5ed53772dc4d)  
+        * [How to import and export signatures in Microsoft Outlook?](https://www.extendoffice.com/documents/outlook/1453-outlook-import-export-signatures.html)  
     * Online Services  
       * [Calendarific - Enterprise-grade Bank and Public Holidays API](https://calendarific.com/)  
       * [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKVxuQiAtLT4gQ3tMZXQgbWUgdGhpbmt9XG5DIC0tPnxPbmV8IERbTGFwdG9wXVxuQyAtLT58VHdvfCBFW2lQaG9uZV1cbkMgLS0-fFRocmVlfCBGW0Nhcl1cbiIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In19)  
@@ -625,7 +634,7 @@
             * stackoverflow.com  
               * [Add coverity scan to Qt app - Stack Overflow](https://stackoverflow.com/questions/26803640/add-coverity-scan-to-qt-app)  
               * [Checking if a folder exists (and creating folders) in Qt, C++ - Stack Overflow](https://stackoverflow.com/questions/2241808/checking-if-a-folder-exists-and-creating-folders-in-qt-c)  
-              * [Detect if stdin is a terminal or pipe in C/C++/Qt? - Stack Overflow](https://stackoverflow.com/questions/1312922/detect-if-stdin-is-a-terminal-or-pipe-in-c-c-qt?rq=1)  
+              * [Detect if stdin is a terminal or pipe in C/C++/Qt? - Stack Overflow](https://stackoverflow.com/questions/1312922/detect-if-stdin-is-a-terminal-or-pipe-in-c-c-qt)  
               * [How to detect if a Qt GUI application has been idle, inside the app itself (Qt)? - Stack Overflow](https://stackoverflow.com/questions/6532490/how-to-detect-if-a-qt-gui-application-has-been-idle-inside-the-app-itself-qt)  
               * [How to get detailed error message when QTWebKit fails to load a page? - Stack Overflow](https://stackoverflow.com/questions/7279046/how-to-get-detailed-error-message-when-qtwebkit-fails-to-load-a-page)  
               * [How to get the MIME type of a file in Qt? - Stack Overflow](https://stackoverflow.com/questions/3846887/how-to-get-the-mime-type-of-a-file-in-qt)  
@@ -640,6 +649,7 @@
               * [c++ - Command working in terminal, but not via QProcess - Stack Overflow](https://stackoverflow.com/questions/10701504/command-working-in-terminal-but-not-via-qprocess)  
               * [c++ - Convert const char* to QString - Stack Overflow](https://stackoverflow.com/questions/20824781/convert-const-char-to-qstring)  
               * [c++ - Copy file even when destination exists (in Qt) - Stack Overflow](https://stackoverflow.com/questions/14935919/copy-file-even-when-destination-exists-in-qt)  
+              * [c++ - Creating/writing into a new file in Qt - Stack Overflow](https://stackoverflow.com/questions/4916193/creating-writing-into-a-new-file-in-qt)  
               * [c++ - Deploying Qt 5 App on Windows - Stack Overflow](https://stackoverflow.com/questions/22185974/deploying-qt-5-app-on-windows)  
               * [c++ - Get current working directory in a Qt application - Stack Overflow](https://stackoverflow.com/questions/7402576/get-current-working-directory-in-a-qt-application)  
               * [c++ - Get local IP address in Qt - Stack Overflow](https://stackoverflow.com/questions/13835989/get-local-ip-address-in-qt)  
@@ -786,7 +796,6 @@
             * [path - Get current working directory in Java - Stack Overflow](https://stackoverflow.com/questions/3153337/get-current-working-directory-in-java)  
           * [Determining if a String Contains a Substring in JavaScript - A Drip of JavaScript](http://adripofjavascript.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches.html)  
           * [How to Read and Write JSON using GSON](http://www.javainterviewpoint.com/read-write-json-using-gson/)  
-          * [Java Command Line Arguments - Javatpoint](https://www.javatpoint.com/command-line-argument)  
           * [Java ‘file exists’ testing | alvinalexander.com](https://alvinalexander.com/java/java-file-exists-directory-exists)  
           * [gson/UserGuide.md at master · google/gson](https://github.com/google/gson/blob/master/UserGuide.md)  
         * [Deliver Your Java Application in One-JAR™](http://one-jar.sourceforge.net/)  
@@ -904,6 +913,7 @@
           * [BonsaiDen/JavaScript-Garden: A collection of documentation about the most quirky parts of the JavaScript language.](https://github.com/BonsaiDen/JavaScript-Garden)  
           * [Chalarangelo/30-seconds-of-code: Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.](https://github.com/Chalarangelo/30-seconds-of-code)  
           * [Creating a downloadable text-file using blobs - JSFiddle](http://jsfiddle.net/UselessCode/qm5AG/)  
+          * [Detect the Operating System of User using JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/detect-the-operating-system-of-user-using-javascript/)  
           * [ES2015+ cheatsheet](https://devhints.io/es6)  
           * [Eloquent JavaScript](http://eloquentjavascript.net/)  
           * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)  
@@ -1375,6 +1385,9 @@
             * [Subprocesses — Python 3.7.4 documentation](https://docs.python.org/3/library/asyncio-subprocess.html)  
             * [pdb — The Python Debugger — Python 3.7.4rc1 documentation](https://docs.python.org/3/library/pdb.html)  
             * [queue — A synchronized queue class — Python 3.7.4 documentation](https://docs.python.org/3/library/queue.html)  
+          * pandas.pydata.org  
+            * [pandas.Series.tolist — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.tolist.html)  
+            * [pandas.read_excel — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html)  
           * realpython.com  
             * [How to Round Numbers in Python – Real Python](https://realpython.com/python-rounding/)  
             * [Python Best Practices – Real Python](https://realpython.com/tutorials/best-practices/)  
@@ -1438,6 +1451,7 @@
             * [python - Convert pandas dataframe to tuple of tuples - Stack Overflow](https://stackoverflow.com/questions/51897708/convert-pandas-dataframe-to-tuple-of-tuples)  
             * [python - Correct way to write line to file? - Stack Overflow](https://stackoverflow.com/questions/6159900/correct-way-to-write-line-to-file)  
             * [python - Find oldest/youngest datetime object in a list - Stack Overflow](https://stackoverflow.com/questions/3922644/find-oldest-youngest-datetime-object-in-a-list)  
+            * [python - Find which version of package is installed with pip - Stack Overflow](https://stackoverflow.com/questions/10214827/find-which-version-of-package-is-installed-with-pip)  
             * [python - How can I sort a dictionary by key? - Stack Overflow](https://stackoverflow.com/questions/9001509/how-can-i-sort-a-dictionary-by-key)  
             * [python - How do I check if a list is empty? - Stack Overflow](https://stackoverflow.com/questions/53513/how-do-i-check-if-a-list-is-empty)  
             * [python - How do I check whether a file exists without exceptions? - Stack Overflow](https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-without-exceptions)  
@@ -1450,6 +1464,8 @@
             * [python - How to convert list to string - Stack Overflow](https://stackoverflow.com/questions/5618878/how-to-convert-list-to-string)  
             * [python - How to convert local time string to UTC? - Stack Overflow](https://stackoverflow.com/questions/79797/how-to-convert-local-time-string-to-utc)  
             * [python - How to format cell with datetime object of the form 'yyyy-mm-dd hh:mm:ss' in Excel using openpyxl - Stack Overflow](https://stackoverflow.com/questions/24370385/how-to-format-cell-with-datetime-object-of-the-form-yyyy-mm-dd-hhmmss-in-exc)  
+            * [python - How to install a specific version of a package with pip? - Stack Overflow](https://stackoverflow.com/questions/13916820/how-to-install-a-specific-version-of-a-package-with-pip)  
+            * [python - How to install packages using pip according to the requirements.txt file from a local directory? - Stack Overflow](https://stackoverflow.com/questions/7225900/how-to-install-packages-using-pip-according-to-the-requirements-txt-file-from-a)  
             * [python - How to iterate over rows in a DataFrame in Pandas? - Stack Overflow](https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas)  
             * [python - How to merge two dataframes side-by-side? - Stack Overflow](https://stackoverflow.com/questions/23891575/how-to-merge-two-dataframes-side-by-side)  
             * [python - How to send a POST request via WebKit [PySide/PyQt] - Stack Overflow](https://stackoverflow.com/questions/12345841/how-to-send-a-post-request-via-webkit-pyside-pyqt)  
@@ -1459,6 +1475,7 @@
             * [python - How to update/upgrade a package using pip? - Stack Overflow](https://stackoverflow.com/questions/47071256/how-to-update-upgrade-a-package-using-pip)  
             * [python - If list index exists, do X - Stack Overflow](https://stackoverflow.com/questions/11786157/if-list-index-exists-do-x)  
             * [python - Installing pip packages to $HOME folder - Stack Overflow](https://stackoverflow.com/questions/7143077/installing-pip-packages-to-home-folder)  
+            * [python - Installing specific package versions with pip - Stack Overflow](https://stackoverflow.com/questions/5226311/installing-specific-package-versions-with-pip)  
             * [python - Iterate through columns in Read-only workbook in openpyxl - Stack Overflow](https://stackoverflow.com/questions/47582274/iterate-through-columns-in-read-only-workbook-in-openpyxl?rq=1)  
             * [python - Iterating over dictionaries using 'for' loops - Stack Overflow](https://stackoverflow.com/questions/3294889/iterating-over-dictionaries-using-for-loops)  
             * [python - MySQLdb.cursor.execute can't run multiple queries - Stack Overflow](https://stackoverflow.com/questions/20518677/mysqldb-cursor-execute-cant-run-multiple-queries)  
@@ -1527,6 +1544,7 @@
           * [Pipenv & Virtual Environments — The Hitchhiker's Guide to Python](https://docs.python-guide.org/dev/virtualenvs/)  
           * [Python 3 Subprocess Examples](http://queirozf.com/entries/python-3-subprocess-examples)  
           * [Python Clocks Explained - Webucator Blog](https://www.webucator.com/blog/2015/08/python-clocks-explained/)  
+          * [Python Exception Handling - ImportError and ModuleNotFoundError](https://airbrake.io/blog/python-exception-handling/importerror-and-modulenotfounderror)  
           * [Python Requests Ignore Bad SSL certificate](https://gist.github.com/random-robbie/bb65335b9632bf1ed38923c768cefa02)  
           * [Python String Format Cookbook – mkaz.blog](https://mkaz.blog/code/python-string-format-cookbook/)  
           * [Python code for sending HTML email (Attachment + Multiple Recipients )](https://gist.github.com/srv89/1d3dac6672895f5ca65f)  
@@ -1544,6 +1562,7 @@
           * [learnbyexample/Python_Basics: Syntax, working with Shell commands, Files, Text Processing, and more...](https://github.com/learnbyexample/Python_Basics)  
           * [osdba's blog : A tool for packaging python scripts into binary executables](http://blog.osdba.net/530.html)  
           * [pip list — pip 19.2.3 documentation](https://pip.pypa.io/en/stable/reference/pip_list/)  
+          * [pip uninstall — pip 19.3.1 documentation](https://pip.pypa.io/en/stable/reference/pip_uninstall/)  
           * [requests.post Python Example](https://www.programcreek.com/python/example/6251/requests.post)  
           * [resilar/sqleet · python instructions](https://github.com/resilar/sqleet/issues/21)  
         * Python Packages  
@@ -1581,6 +1600,7 @@
           * [R Programming Examples - DataMentor](https://www.datamentor.io/r-programming/examples/)  
           * [R Tutorial - Tutorialspoint](https://www.tutorialspoint.com/r/index.htm)  
           * [use_proxy: Use a proxy to connect to the internet. in httr: Tools for Working with URLs and HTTP](https://rdrr.io/cran/httr/man/use_proxy.html)  
+        * [opensdmx/rsdmx: Tools for reading SDMX data and metadata in R](https://github.com/opensdmx/rsdmx)  
       * [Category:Programming Tasks - Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks)  
       * [Programming Languages - Hyperpolyglot](http://hyperpolyglot.org/)  
       * [The Hello World Collection](http://helloworldcollection.de/)  
@@ -1635,8 +1655,13 @@
       * [Enigma Virtual Box](http://enigmaprotector.com/en/aboutvb.html)  
     * Web  
       * Backend  
+        * [JSONbin.io | Free JSON storage service and JSON hosting service. Ideal for small scale Web apps, Websites and Mobile apps](https://jsonbin.io/)  
         * [OpenAPI-GUI v3.0.0](https://mermade.github.io/openapi-gui/)  
         * [Postman | API Development Environment](https://www.getpostman.com/)  
+        * [Reqres - A hosted REST-API ready to respond to your AJAX requests](https://reqres.in/)  
+        * [Website screenshot API | ScreenshotAPI.net](https://screenshotapi.net/)  
+        * [ipify - A Simple Public IP Address API](https://www.ipify.org/)  
+        * [public-apis/public-apis: A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)  
         * [toddmotto/public-apis: A collective list of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis)  
       * Frontend  
         * CSS  
@@ -1671,13 +1696,13 @@
               * [Getting started · Bootstrap](http://getbootstrap.com/getting-started/)  
               * [JavaScript · Bootstrap :: Modal Boxes](http://getbootstrap.com/javascript/)  
             * stackoverflow.com  
-              * [Bootstrap center heading - Stack Overflow](http://stackoverflow.com/questions/11155046/bootstrap-center-heading)  
+              * [Bootstrap center heading - Stack Overflow](https://stackoverflow.com/questions/11155046/bootstrap-center-heading)  
               * [css - Center content in responsive bootstrap navbar - Stack Overflow](https://stackoverflow.com/questions/18777235/center-content-in-responsive-bootstrap-navbar)  
-              * [css - How to align an image dead center with bootstrap - Stack Overflow](http://stackoverflow.com/questions/10879955/how-to-align-an-image-dead-center-with-bootstrap)  
+              * [css - How to align an image dead center with bootstrap - Stack Overflow](https://stackoverflow.com/questions/10879955/how-to-align-an-image-dead-center-with-bootstrap)  
               * [css - Remove padding from columns in Bootstrap 3 - Stack Overflow](https://stackoverflow.com/questions/19562903/remove-padding-from-columns-in-bootstrap-3)  
-              * [html - Bootstrap - Text-align - Class - Stack Overflow](http://stackoverflow.com/questions/12829608/bootstrap-text-align-class)  
-              * [html - Bootstrap input-group text area with button - Stack Overflow](http://stackoverflow.com/questions/24557828/bootstrap-input-group-text-area-with-button)  
-              * [html - Responsive image align center bootstrap 3 - Stack Overflow](http://stackoverflow.com/questions/18462808/responsive-image-align-center-bootstrap-3)  
+              * [html - Bootstrap - Text-align - Class - Stack Overflow](https://stackoverflow.com/questions/12829608/bootstrap-text-align-class)  
+              * [html - Bootstrap input-group text area with button - Stack Overflow](https://stackoverflow.com/questions/24557828/bootstrap-input-group-text-area-with-button)  
+              * [html - Responsive image align center bootstrap 3 - Stack Overflow](https://stackoverflow.com/questions/18462808/responsive-image-align-center-bootstrap-3)  
               * [html - how to include glyphicons in bootstrap 3 - Stack Overflow](https://stackoverflow.com/questions/19608873/how-to-include-glyphicons-in-bootstrap-3)  
             * www.w3schools.com  
               * [Bootstrap CSS Basic Text Reference](http://www.w3schools.com/bootstrap/bootstrap_ref_css_text.asp)  
