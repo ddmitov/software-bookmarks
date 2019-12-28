@@ -98,28 +98,31 @@
     * Bug Tracking  
       * JIRA  
         * JIRA How To  
-          * [Advanced searching - Atlassian Documentation](https://confluence.atlassian.com/jiracoreserver073/advanced-searching-861257209.html#AdvancedSearching-Assignee)  
-          * [Advanced searching - fields reference - Atlassian Documentation](https://confluence.atlassian.com/jiracorecloud/advanced-searching-fields-reference-765593716.html)  
-          * [Advanced searching - functions reference - Atlassian Documentation](https://confluence.atlassian.com/jiracorecloud/advanced-searching-functions-reference-765593719.html)  
-          * [Advanced searching - operators reference - Atlassian Documentation](https://confluence.atlassian.com/jiracorecloud/advanced-searching-operators-reference-765593718.html)  
-          * [Date time format and advanced filter](https://community.atlassian.com/t5/Jira-questions/Date-time-format-and-advanced-filter/qaq-p/363197)  
-          * [JIRA API GET all values for a custom field](https://community.atlassian.com/t5/Jira-questions/JIRA-API-GET-all-values-for-a-custom-field/qaq-p/869631)  
-          * [JIRA JQL: how to filter issues that changed assign...](https://community.atlassian.com/t5/Jira-questions/JIRA-JQL-how-to-filter-issues-that-changed-assignee-X-or-more/qaq-p/350772)  
+          * community.atlassian.com  
+            * [Date time format and advanced filter](https://community.atlassian.com/t5/Jira-questions/Date-time-format-and-advanced-filter/qaq-p/363197)  
+            * [JIRA API GET all values for a custom field](https://community.atlassian.com/t5/Jira-questions/JIRA-API-GET-all-values-for-a-custom-field/qaq-p/869631)  
+            * [JIRA JQL: how to filter issues that changed assign...](https://community.atlassian.com/t5/Jira-questions/JIRA-JQL-how-to-filter-issues-that-changed-assignee-X-or-more/qaq-p/350772)  
+            * [Solved: Downloading attachments via jira module in python](https://community.atlassian.com/t5/Jira-questions/Downloading-attachments-via-jira-module-in-python/qaq-p/449195)  
+            * [Solved: How do I search for issues Resolved and/or Closed ...](https://community.atlassian.com/t5/Jira-questions/How-do-I-search-for-issues-Resolved-and-or-Closed-by-a/qaq-p/317364)  
+            * [Solved: How to get all issues of a project using Rest API](https://community.atlassian.com/t5/Jira-questions/How-to-get-all-issues-of-a-project-using-Rest-API/qaq-p/832316)  
+            * [Solved: How to get all the assignees of an issue?](https://community.atlassian.com/t5/Jira-questions/How-to-get-all-the-assignees-of-an-issue/qaq-p/177875)  
+            * [Solved: How to use API token for REST calls in Python.](https://community.atlassian.com/t5/Jira-questions/How-to-use-API-token-for-REST-calls-in-Python/qaq-p/760940)  
+            * [Solved: Is it possible to get the issue history using the ...](https://community.atlassian.com/t5/Jira-questions/Is-it-possible-to-get-the-issue-history-using-the-REST-API/qaq-p/510094)  
+            * [Solved: JQL assigned date](https://community.atlassian.com/t5/Jira-questions/JQL-assigned-date/qaq-p/184348)  
+            * [Solved: JQL for tickets closed within a time range](https://community.atlassian.com/t5/Jira-questions/JQL-for-tickets-closed-within-a-time-range/qaq-p/348531)  
+            * [Solved: Search for issues updated after being closed or re...](https://community.atlassian.com/t5/Jira-questions/Search-for-issues-updated-after-being-closed-or-resolved/qaq-p/319502)  
+          * confluence.atlassian.com  
+            * [Advanced searching - Atlassian Documentation](https://confluence.atlassian.com/jiracoreserver073/advanced-searching-861257209.html#AdvancedSearching-Assignee)  
+            * [Advanced searching - fields reference - Atlassian Documentation](https://confluence.atlassian.com/jiracorecloud/advanced-searching-fields-reference-765593716.html)  
+            * [Advanced searching - functions reference - Atlassian Documentation](https://confluence.atlassian.com/jiracorecloud/advanced-searching-functions-reference-765593719.html)  
+            * [Advanced searching - operators reference - Atlassian Documentation](https://confluence.atlassian.com/jiracorecloud/advanced-searching-operators-reference-765593718.html)  
+            * [Saving your search as a filter - Atlassian Documentation](https://confluence.atlassian.com/jiracoreserver073/saving-your-search-as-a-filter-861257224.html)  
+          * developer.atlassian.com  
+            * [Jira REST API examples](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)  
+            * [REST APIs](https://developer.atlassian.com/server/jira/platform/rest-apis/)  
+            * [The Jira Cloud platform REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3/)  
           * [JQL Reference manual (How to Perform an Advanced Search)](https://mraddon.blog/2015/05/27/jql-reference-manual-how-to-perform-an-advanced-search/)  
           * [JQL: The most flexible way to search Jira](https://www.atlassian.com/blog/jira-software/jql-the-most-flexible-way-to-search-jira-14)  
-          * [Jira REST API examples](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)  
-          * [REST APIs](https://developer.atlassian.com/server/jira/platform/rest-apis/)  
-          * [Saving your search as a filter - Atlassian Documentation](https://confluence.atlassian.com/jiracoreserver073/saving-your-search-as-a-filter-861257224.html)  
-          * [Solved: Downloading attachments via jira module in python](https://community.atlassian.com/t5/Jira-questions/Downloading-attachments-via-jira-module-in-python/qaq-p/449195)  
-          * [Solved: How do I search for issues Resolved and/or Closed ...](https://community.atlassian.com/t5/Jira-questions/How-do-I-search-for-issues-Resolved-and-or-Closed-by-a/qaq-p/317364)  
-          * [Solved: How to get all issues of a project using Rest API](https://community.atlassian.com/t5/Jira-questions/How-to-get-all-issues-of-a-project-using-Rest-API/qaq-p/832316)  
-          * [Solved: How to get all the assignees of an issue?](https://community.atlassian.com/t5/Jira-questions/How-to-get-all-the-assignees-of-an-issue/qaq-p/177875)  
-          * [Solved: How to use API token for REST calls in Python.](https://community.atlassian.com/t5/Jira-questions/How-to-use-API-token-for-REST-calls-in-Python/qaq-p/760940)  
-          * [Solved: Is it possible to get the issue history using the ...](https://community.atlassian.com/t5/Jira-questions/Is-it-possible-to-get-the-issue-history-using-the-REST-API/qaq-p/510094)  
-          * [Solved: JQL assigned date](https://community.atlassian.com/t5/Jira-questions/JQL-assigned-date/qaq-p/184348)  
-          * [Solved: JQL for tickets closed within a time range](https://community.atlassian.com/t5/Jira-questions/JQL-for-tickets-closed-within-a-time-range/qaq-p/348531)  
-          * [Solved: Search for issues updated after being closed or re...](https://community.atlassian.com/t5/Jira-questions/Search-for-issues-updated-after-being-closed-or-resolved/qaq-p/319502)  
-          * [The Jira Cloud platform REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3/)  
           * [The Jira JQL Advanced Guide 2019 [How to Search Jira Issues Like a Pro]](https://www.idalko.com/jira-jql/)  
         * [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)  
     * Cloud  
@@ -377,8 +380,6 @@
       * [mattkol/Chromely: Lightweight Alternative to Electron for .NET/.NET Core HTML5 Desktop Apps](https://github.com/mattkol/Chromely)  
       * [pojala/electrino: Desktop runtime for apps built on web technologies, using the system's own web browser engine](https://github.com/pojala/electrino)  
     * DevOps  
-      * [Free for developers](https://free-for.dev/?utm_source=Iterable&utm_medium=email&utm_campaign=the-overflow-newsletter&utm_content=10-30-19#/)  
-      * [Ops School Curriculum — Ops School Curriculum 0.1 documentation](http://www.opsschool.org/)  
       * [bregman-arie/devops-interview-questions: DevOps Interview Questions - Linux, Jenkins, AWS, Network, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform](https://github.com/bregman-arie/devops-interview-questions)  
       * [dennyzhang/devops_public: DevOps Scripts](https://github.com/dennyzhang/devops_public)  
     * Documentation  
@@ -401,6 +402,7 @@
           * [How to add a right margin to the Visual Studio Code editor? - Stack Overflow](https://stackoverflow.com/questions/42607666/how-to-add-a-right-margin-to-the-visual-studio-code-editor)  
           * [Visual Studio Code User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings)  
           * [keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)  
+          * [microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.](https://github.com/microsoft/vscode-tips-and-tricks)  
         * [VSCodium - Open Source Binaries of VSCode](https://vscodium.com/)  
         * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)  
       * [.:: NOTEPAD++ ::.](http://notepad-plus.sourceforge.net/bg/site.htm)  
@@ -443,14 +445,6 @@
           * [SUBTOTAL function - Office Support](https://support.office.com/en-us/article/subtotal-function-7b027003-f060-4ade-9040-e478765b9939)  
           * [Show or hide gridlines on a worksheet - Office Support](https://support.office.com/en-us/article/show-or-hide-gridlines-on-a-worksheet-3ef5aacb-4539-4ad5-9945-5ed53772dc4d)  
         * [How to import and export signatures in Microsoft Outlook?](https://www.extendoffice.com/documents/outlook/1453-outlook-import-export-signatures.html)  
-    * Online Services  
-      * [Calendarific - Enterprise-grade Bank and Public Holidays API](https://calendarific.com/)  
-      * [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKVxuQiAtLT4gQ3tMZXQgbWUgdGhpbmt9XG5DIC0tPnxPbmV8IERbTGFwdG9wXVxuQyAtLT58VHdvfCBFW2lQaG9uZV1cbkMgLS0-fFRocmVlfCBGW0Nhcl1cbiIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In19)  
-      * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)  
-      * [PDF Converter - Convert to PDF Online Free](http://www.freepdfconvert.com/)  
-      * [RANDOM.ORG - True Random Number Service](https://www.random.org/)  
-      * [chubin/awesome-console-services: A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)](https://github.com/chubin/awesome-console-services)  
-      * [timeanddate.com](https://www.timeanddate.com/)  
     * Operating Systems  
       * Linux  
         * AppImage  
@@ -1530,7 +1524,6 @@
           * [Convert a string representing the date or epoch time to datetime and change timezone in Python - Sou-Nan-De-Gesu](https://www.soudegesu.com/en/python/python-datetime/)  
           * [Convert string to int in Python – Python Principles](https://pythonprinciples.com/blog/python-convert-string-to-int/)  
           * [How do I round to 2 decimals in python?](https://gist.github.com/jackiekazil/6201722)  
-          * [How to Check if a List, Tuple or Dictionary is Empty in Python | Python Central](https://www.pythoncentral.io/how-to-check-if-a-list-tuple-or-dictionary-is-empty-in-python/)  
           * [How to add a dataframe to an existing excel file](https://python-forum.io/Thread-How-to-add-a-dataframe-to-an-existing-excel-file)  
           * [How to ignore an exception — the elegant way | Python Adventures](https://pythonadventures.wordpress.com/2013/09/07/how-to-ignore-an-exception-the-elegant-way/)  
           * [How to use proxies with Python Requests module](https://blog.scrapinghub.com/python-requests-proxy)  
@@ -1625,7 +1618,7 @@
         * [Xapian Administrator's Guide](https://xapian.org/docs/admin_notes.html)  
       * [DocFetcher - Fast Document Search](http://docfetcher.sourceforge.net/en/index.html)  
     * Security  
-      * [qazbnm456/awesome-web-security: 🐶 A curated list of Web Security materials and resources.](https://github.com/qazbnm456/awesome-web-security)  
+      * [qazbnm456/awesome-web-security: A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)  
     * Utilities  
       * [Boostnote | Boost Happiness, Productivity, and Creativity.](https://boostnote.io/)  
       * [WinMerge - You will see the difference…](http://winmerge.org/?lang=en)  
@@ -1654,11 +1647,15 @@
         * [linux - How to mount a VirtualBox shared folder? - Server Fault](https://serverfault.com/questions/674974/how-to-mount-a-virtualbox-shared-folder)  
       * [Enigma Virtual Box](http://enigmaprotector.com/en/aboutvb.html)  
     * Web  
-      * Backend  
-        * [JSONbin.io | Free JSON storage service and JSON hosting service. Ideal for small scale Web apps, Websites and Mobile apps](https://jsonbin.io/)  
+      * API  
+        * [Best Free OCR API, Online OCR, Searchable PDF - Fresh 2019 OCR Software](https://ocr.space/)  
+        * [Calendarific - Enterprise-grade Bank and Public Holidays API](https://calendarific.com/)  
+        * [Diggernaut - Turn website content into datasets](https://www.diggernaut.com/)  
+        * [Free for developers](https://free-for.dev/?utm_source=Iterable&utm_medium=email&utm_campaign=the-overflow-newsletter&utm_content=10-30-19#/)  
+        * [JSONbin.io | Free JSON storage service and JSON hosting service](https://jsonbin.io/)  
         * [OpenAPI-GUI v3.0.0](https://mermade.github.io/openapi-gui/)  
         * [Postman | API Development Environment](https://www.getpostman.com/)  
-        * [Reqres - A hosted REST-API ready to respond to your AJAX requests](https://reqres.in/)  
+        * [RANDOM.ORG - True Random Number Service](https://www.random.org/)  
         * [Website screenshot API | ScreenshotAPI.net](https://screenshotapi.net/)  
         * [ipify - A Simple Public IP Address API](https://www.ipify.org/)  
         * [public-apis/public-apis: A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)  
@@ -1779,6 +1776,12 @@
         * [VS WAMP - VertrigoServ - PHP, Apache, MySQL server](https://www.vswamp.com/)  
         * [Webmin](http://www.webmin.com/)  
         * [Xitami - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Xitami)  
+      * Services  
+        * [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/)  
+        * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)  
+        * [PDF Converter - Convert to PDF Online Free](http://www.freepdfconvert.com/)  
+        * [chubin/awesome-console-services: A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)](https://github.com/chubin/awesome-console-services)  
+        * [timeanddate.com](https://www.timeanddate.com/)  
 
 Created using [Bookmark Extractor](https://github.com/ddmitov/bookmark-extractor)
 
