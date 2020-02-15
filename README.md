@@ -28,7 +28,6 @@
         * [Fonts for Scholars: the Cardo Font](http://scholarsfonts.net/cardofnt.html)  
         * [Greek Polytonic Unicode Fonts Download](http://www.ellopos.net/elpenor/greek-texts/greek-fonts.asp)  
         * [Polytonic Greek fonts](http://www.ucl.ac.uk/GrandLatGreekFonts/frameFonts.html)  
-        * [TLG Fonts](http://www.tlg.uci.edu/help/Help.fonts.html)  
       * Latin  
         * [Cicero Latein Deutsch Wörterbuch](http://www.wkad.com/)  
         * [Collatinus](http://www.collatinus.org/collatinus/)  
@@ -58,29 +57,24 @@
       * [Unicode Character Search](http://www.fileformat.info/info/unicode/char/search.htm)  
       * [jagracey/Awesome-Unicode: A curated list of delightful Unicode tidbits, packages and resources.](https://github.com/jagracey/Awesome-Unicode)  
     * [Laurence Anthony's AntConc](http://www.laurenceanthony.net/software/antconc/)  
+    * [Russian Keyboard Online • Cyrillic Alphabet • LEXILOGOS >>](https://www.lexilogos.com/keyboard/russian.htm)  
   * Knowledge Facilities  
+    * Diagrams  
+      * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/)  
+      * [draw.io](https://www.draw.io/)  
     * Mindmaps  
       * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)  
-      * [Freeplane - free mind mapping and knowledge management software](https://www.freeplane.org/wiki/index.php/Home)  
-      * [TreeSheets](http://treesheets.com/)  
       * [View Your Mind](http://www.insilmaril.de/vym/)  
-      * [draw.io](https://www.draw.io/)  
-      * [yEd - Graph Editor](http://www.yworks.com/en/products_yed_about.html)  
-    * Notes  
-      * [Joplin - an open source note taking and to-do application with synchronisation capabilities](https://joplin.cozic.net/)  
-      * [Linux TuxCards - A notebook for tuxfreaks](http://www.tuxcards.de/index.html)  
-      * [notable/notable: The markdown-based note-taking app that doesn't suck.](https://github.com/notable/notable)  
-    * Timetables  
-      * [FET - Free Timetabling Software](http://lalescu.ro/liviu/fet/)  
-      * [FET на български](http://vanyog.github.io/FET/)  
-      * [vanyog/FET](https://github.com/vanyog/FET)  
+      * [yEd - Graph Editor](https://www.yworks.com/en/products_yed_about.html)  
     * [Impressive](http://impressive.sourceforge.net/)  
+    * [Linux TuxCards - A notebook for tuxfreaks](http://www.tuxcards.de/index.html)  
   * Multimedia  
     * Video Downloaders  
       * [ClipGrab - Free YouTube Downloader & Converter](http://clipgrab.org/)  
       * [iawia002/annie: Fast, simple and clean video downloader](https://github.com/iawia002/annie)  
     * [Cstitch: a free and open source program for creating cross stitch patterns from images](http://cstitch.sourceforge.net/)  
     * [ImgBurn](http://www.imgburn.com/)  
+    * [Open Broadcaster Software | OBS](https://obsproject.com/)  
     * [Sweet Home 3D - Начало](http://www.sweethome3d.com/bg/)  
     * [XnView · Image Viewer, Photo Resizer & Graphic Converter](https://www.xnview.com/en/)  
   * Software Development and Administration  
@@ -127,26 +121,30 @@
         * [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)  
     * Cloud  
       * Amazon Web Services  
+        * Amazon Web Services How To  
+          * [Connecting to RDS using IAM user - Francisco Edilton - Medium](https://medium.com/@franciscoed/connecting-to-rds-using-iam-user-86de4401086e)  
+          * [How to query cloudwatch logs using boto3 in python - Stack Overflow](https://stackoverflow.com/questions/59240107/how-to-query-cloudwatch-logs-using-boto3-in-python)  
+          * [Write a "Hello World" into an AWS CloudWatch Logs service](https://gist.github.com/olegdulin/fd18906343d75142a487b9a9da9042e0)  
+          * [amazon web services - how to get a existent aws lambda source code using aws cli - Stack Overflow](https://stackoverflow.com/questions/53951208/how-to-get-a-existent-aws-lambda-source-code-using-aws-cli)  
         * CLI  
           * [AWS Command Line Interface](https://aws.amazon.com/cli/)  
           * [Configuring the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)  
           * [Install the AWS CLI version 1 on Windows - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/install-windows.html)  
           * [describe-db-instances — AWS CLI 1.17.7 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-db-instances.html)  
+          * [describe-log-streams — AWS CLI 1.17.7 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/logs/describe-log-streams.html)  
           * [describe-rule — AWS CLI 1.17.7 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/describe-rule.html)  
           * [get-function — AWS CLI 1.17.7 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-function.html)  
+          * [get-log-events — AWS CLI 1.17.7 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/logs/get-log-events.html)  
+          * [lambda — AWS CLI 1.17.6 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/index.html#cli-aws-lambda)  
           * [list-functions — AWS CLI 1.17.3 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-functions.html)  
           * [list-rules — AWS CLI 1.17.3 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-rules.html)  
           * [list-tags — AWS CLI 1.17.6 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-tags.html)  
           * [list-targets-by-rule — AWS CLI 1.17.3 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-targets-by-rule.html)  
         * RDS  
           * [Allow users to connect to Amazon RDS with IAM credentials](https://aws.amazon.com/premiumsupport/knowledge-center/users-connect-rds-iam/)  
-          * [Connecting to RDS using IAM user - Francisco Edilton - Medium](https://medium.com/@franciscoed/connecting-to-rds-using-iam-user-86de4401086e)  
-          * [Create MySQL user on AWS RDS server](https://www.technlg.net/aws/create-mysql-user-aws-rds/)  
-          * [Python - MySQL SSL Connections - Stack Overflow](https://stackoverflow.com/questions/44207063/python-mysql-ssl-connections)  
           * [Using SSL/TLS to Encrypt a Connection to a DB Instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html)  
         * [AWS Account Identifiers - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/acct-identifiers.html)  
         * [checkip.amazonaws.com](http://checkip.amazonaws.com/)  
-        * [lambda — AWS CLI 1.17.6 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/index.html#cli-aws-lambda)  
       * Heroku  
         * [Heroku cheatsheet](https://devhints.io/heroku)  
         * [How to create a named app in heroku | The Agile Warrior](https://agilewarrior.wordpress.com/2014/05/16/how-to-create-a-named-app-in-heroku/)  
@@ -249,6 +247,7 @@
             * [MySQL :: MySQL 8.0 Reference Manual :: 12.10 Cast Functions and Operators](https://dev.mysql.com/doc/refman/8.0/en/cast-functions.html)  
             * [MySQL :: MySQL 8.0 Reference Manual :: 13.2.11.8 Derived Tables](https://dev.mysql.com/doc/refman/8.0/en/derived-tables.html)  
             * [MySQL :: MySQL 8.0 Reference Manual :: 13.3.1 START TRANSACTION, COMMIT, and ROLLBACK Syntax](https://dev.mysql.com/doc/refman/8.0/en/commit.html)  
+            * [MySQL :: MySQL 8.0 Reference Manual :: 4.2.4 Connecting to the MySQL Server Using Command Options](https://dev.mysql.com/doc/refman/8.0/en/connecting.html)  
             * [MySQL :: MySQL 8.0 Reference Manual :: 6.2.2 Privileges Provided by MySQL](https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html)  
             * [MySQL :: MySQL 8.0 Reference Manual :: 9.1.1 String Literals](https://dev.mysql.com/doc/refman/8.0/en/string-literals.html)  
           * stackoverflow.com  
@@ -260,12 +259,14 @@
             * [MySQL show status - active or total connections? - Stack Overflow](https://stackoverflow.com/questions/7432241/mysql-show-status-active-or-total-connections)  
             * [MySQL string replace - Stack Overflow](https://stackoverflow.com/questions/5956993/mysql-string-replace)  
             * [MySQL: Enable LOAD DATA LOCAL INFILE - Stack Overflow](https://stackoverflow.com/questions/10762239/mysql-enable-load-data-local-infile)  
+            * [how to use rowcount in mysql using python - Stack Overflow](https://stackoverflow.com/questions/44962932/how-to-use-rowcount-in-mysql-using-python)  
             * [information schema - How to find all the tables in MySQL with specific column names in them? - Stack Overflow](https://stackoverflow.com/questions/193780/how-to-find-all-the-tables-in-mysql-with-specific-column-names-in-them)  
             * [join - Count with if condition in mysql query - Stack Overflow](https://stackoverflow.com/questions/9798937/count-with-if-condition-in-mysql-query)  
             * [logging - Log all queries in mysql - Stack Overflow](https://stackoverflow.com/questions/303994/log-all-queries-in-mysql)  
             * [mysql - 'IF' in 'SELECT' statement - choose output value based on column values - Stack Overflow](https://stackoverflow.com/questions/5951157/if-in-select-statement-choose-output-value-based-on-column-values)  
             * [mysql - INSERT with SELECT - Stack Overflow](https://stackoverflow.com/questions/5391344/insert-with-select)  
             * [shell - Access mysql remote database from command line - Stack Overflow](https://stackoverflow.com/questions/15872543/access-mysql-remote-database-from-command-line)  
+            * [sql - How to declare a variable in MySQL? - Stack Overflow](https://stackoverflow.com/questions/11754781/how-to-declare-a-variable-in-mysql)  
             * [sql - MYSQL show 0 even if results do not exist - Stack Overflow](https://stackoverflow.com/questions/5166418/mysql-show-0-even-if-results-do-not-exist)  
             * [sql - MySQL Like multiple values - Stack Overflow](https://stackoverflow.com/questions/4172195/mysql-like-multiple-values)  
             * [sql - When using MySQL's FOR UPDATE locking, what is exactly locked? - Stack Overflow](https://stackoverflow.com/questions/6066205/when-using-mysqls-for-update-locking-what-is-exactly-locked)  
@@ -287,6 +288,7 @@
             * [MySQL IFNULL() Function](https://www.w3schools.com/sql/func_mysql_ifnull.asp)  
             * [MySQL MIN() Function](https://www.w3schools.com/sql/func_mysql_min.asp)  
             * [SQL COUNT(), AVG() and SUM() Functions](https://www.w3schools.com/sql/sql_count_avg_sum.asp)  
+            * [SQL INSERT INTO SELECT Statement](https://www.w3schools.com/sql/sql_insert_into_select.asp)  
             * [SQL INSERT INTO Statement](https://www.w3schools.com/sql/sql_insert.asp)  
             * [SQL LIKE Operator](https://www.w3schools.com/sql/sql_like.asp)  
             * [SQL Server LOWER() Function](https://www.w3schools.com/sql/func_sqlserver_lower.asp)  
@@ -297,6 +299,7 @@
           * [How to Use IF...THEN Logic in SQL Server](https://chartio.com/resources/tutorials/how-to-use-if-then-logic-in-sql-server/)  
           * [How to show the queries log in MySQL? | TablePlus](https://tableplus.com/blog/2018/10/how-to-show-queries-log-in-mysql.html)  
           * [List sessions / active connections on MySQL server - MySQL Data Dictionary Queries](https://dataedo.com/kb/query/mysql/list-database-sessions)  
+          * [MySQL - DELETE Query - Tutorialspoint](https://www.tutorialspoint.com/mysql/mysql-delete-query.htm)  
           * [MySQL - How to see the foreign key relationships of a table? | TablePlus](https://tableplus.com/blog/2018/08/mysql-how-to-see-foreign-key-relationship-of-a-table.html)  
           * [MySQL How To Select and Update in Single Statement - Increment Counter avoiding Race Condition - SQLines Open Source Tools](http://www.sqlines.com/mysql/how-to/select-update-single-statement-race-condition)  
           * [MySQL show status: How to show open database connections | alvinalexander.com](https://alvinalexander.com/blog/post/mysql/how-show-open-database-connections-mysql)  
@@ -438,12 +441,13 @@
       * [Technitium MAC Address Changer v5 Release 3 (FREEWARE)](http://www.technitium.com/tmac/index.html)  
     * Office  
       * Microsoft Office  
-        * Excel  
+        * Excel How To  
           * [Combine text and numbers - Excel](https://support.office.com/en-us/article/combine-text-and-numbers-a32c8e0e-90a2-435b-8635-5dd2209044ad)  
           * [Convert numbers stored as text to numbers - Office Support](https://support.office.com/en-us/article/convert-numbers-stored-as-text-to-numbers-40105f2a-fe79-4477-a171-c5bad0f0a885)  
           * [Excel formula: Count cells between two numbers | Exceljet](https://exceljet.net/formula/count-cells-between-two-numbers)  
           * [Excel formula: Sum visible rows in a filtered list | Exceljet](https://exceljet.net/formula/sum-visible-rows-in-a-filtered-list)  
           * [Excel specifications and limits - Excel](https://support.office.com/en-us/article/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3)  
+          * [How to remove blank columns in Excel](https://www.ablebits.com/office-addins-blog/2018/11/21/remove-blank-columns-excel/)  
           * [How to use the Excel SUBTOTAL function | Exceljet](https://exceljet.net/excel-functions/excel-subtotal-function)  
           * [How to use the Excel VLOOKUP function | Exceljet](https://exceljet.net/excel-functions/excel-vlookup-function)  
           * [SUBTOTAL function - Office Support](https://support.office.com/en-us/article/subtotal-function-7b027003-f060-4ade-9040-e478765b9939)  
@@ -482,6 +486,7 @@
           * [Add User to Sudoers CentOS | Add User to Sudo Group | RoseHosting](https://www.rosehosting.com/blog/how-to-create-a-sudo-user-on-centos-7/)  
           * [How To Suspend A Process And Resume It Later In Linux - OSTechNix](https://www.ostechnix.com/suspend-process-resume-later-linux/)  
           * [How to check if port is in use on Linux or Unix - nixCraft](https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/)  
+          * [How to find a folder in Linux using the command line - nixCraft](https://www.cyberciti.biz/faq/how-to-find-a-folder-in-linux-using-the-command-line/)  
           * [Kernel parameters - ArchWiki](https://wiki.archlinux.org/index.php/kernel_parameters)  
           * [LXDE: Autostart Apps With .desktop Files](http://pclosmag.com/html/Issues/201009/page10.html)  
           * [Linux Chown Command | Linuxize](https://linuxize.com/post/linux-chown-command/)  
@@ -666,6 +671,7 @@
               * [c++ - Read a txt file into a QStringList - Stack Overflow](https://stackoverflow.com/questions/19141712/read-a-txt-file-into-a-qstringlist)  
               * [c++ - Reading from and writing to file in The Qt Resource System (qt 5.0.2) - Stack Overflow](https://stackoverflow.com/questions/16250593/reading-from-and-writing-to-file-in-the-qt-resource-system-qt-5-0-2)  
               * [c++ - Retrieving command line arguments in a Qt application - Stack Overflow](https://stackoverflow.com/questions/18280733/retrieving-command-line-arguments-in-a-qt-application)  
+              * [c++ - Ubuntu recognizes executable as shared library and won't run it by clicking - Stack Overflow](https://stackoverflow.com/questions/45329372/ubuntu-recognizes-executable-as-shared-library-and-wont-run-it-by-clicking)  
               * [c++ - Window modal QFileDialog pushing parent to background after exec() - Stack Overflow](https://stackoverflow.com/questions/17998811/window-modal-qfiledialog-pushing-parent-to-background-after-exec)  
               * [c++ - how to add zlib to an existing qt installation - Stack Overflow](https://stackoverflow.com/questions/4002757/how-to-add-zlib-to-an-existing-qt-installation)  
               * [c++ - how to check QT_VERSION to include different header? - Stack Overflow](https://stackoverflow.com/questions/24899558/how-to-check-qt-version-to-include-different-header)  
@@ -1311,7 +1317,6 @@
           * [Using JSON Data In Perl Scripts](http://www.dispersiondesign.com/articles/perl/json_data)  
           * [Writing websocket chat using Mojolicious Lite · kraih/mojo Wiki](https://github.com/kraih/mojo/wiki/Writing-websocket-chat-using-Mojolicious-Lite)  
           * [davorg/easy-psgi](https://github.com/davorg/easy-psgi)  
-          * [grep and map-Two magical operators – programming pointers](http://pradeeppant.com/2018/08/grep-and-map-two-magical-operators/)  
           * [hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl)  
           * [history-of-cpan/history.md at master · neilb/history-of-cpan](https://github.com/neilb/history-of-cpan/blob/master/history.md)  
           * [jonallen/perldoc.perl.org: Perl programming documentation - http://perldoc.perl.org](https://github.com/jonallen/perldoc.perl.org)  
@@ -1606,7 +1611,6 @@
       * [Category:Programming Tasks - Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks)  
       * [Programming Languages - Hyperpolyglot](http://hyperpolyglot.org/)  
       * [The Hello World Collection](http://helloworldcollection.de/)  
-      * [searchcode | source code search engine](https://searchcode.com/)  
     * SSH Clients  
       * [KiTTY](http://www.9bis.net/kitty/)  
       * [PuTTY: a free telnet/ssh client](http://www.chiark.greenend.org.uk/~sgtatham/putty/)  
@@ -1664,6 +1668,7 @@
         * [JSONbin.io | Free JSON storage service and JSON hosting service](https://jsonbin.io/)  
         * [OpenAPI-GUI v3.0.0](https://mermade.github.io/openapi-gui/)  
         * [Postman | API Development Environment](https://www.getpostman.com/)  
+        * [Postwoman • API request builder](https://postwoman.io/)  
         * [RANDOM.ORG - True Random Number Service](https://www.random.org/)  
         * [Website screenshot API | ScreenshotAPI.net](https://screenshotapi.net/)  
         * [ipify - A Simple Public IP Address API](https://www.ipify.org/)  
@@ -1751,12 +1756,14 @@
           * [HTML Tidy Online](http://infohound.net/tidy/)  
           * [HTML5 Boilerplate: The web’s most popular front-end template](https://html5boilerplate.com/)  
           * [HTML: The Markup Language (an HTML language reference)](http://www.w3.org/TR/html-markup/)  
-          * [The Other RGB Color Chart](http://www.tayloredmktg.com/rgb/)  
           * [The W3C Markup Validation Service](http://validator.w3.org/)  
           * [Validator.nu](http://validator.nu/)  
           * [Web page analyzer - Freeware Site Inspector lets you view HTML source, JavaScript source and more in an IE toolbar.](http://www.paessler.com/tools/psi/)  
           * [What is Actually Sent with ENCTYPE - HTML Code Tutorial](http://www.htmlcodetutorial.com/forms/form_enctype.html)  
           * [leemunroe/responsive-html-email-template: A free simple responsive HTML email template](https://github.com/leemunroe/responsive-html-email-template)  
+        * Online Editors  
+          * [JSFiddle](https://jsfiddle.net/)  
+          * [PlayCode - Code Sandbox. Online Code Editor](https://playcode.io/)  
         * Testing  
           * [Browserling - Live interactive cross-browser testing](https://www.browserling.com/)  
           * [Check websites for broken links — LinkChecker](http://wummel.github.io/linkchecker/)  
@@ -1787,8 +1794,9 @@
         * [Epoch Converter - Unix Timestamp Converter](https://www.epochconverter.com/)  
         * [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/)  
         * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)  
+        * [Pingdom – Live Map of Internet Downtime & Browser Data](https://livemap.pingdom.com/)  
+        * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
         * [chubin/awesome-console-services: A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)](https://github.com/chubin/awesome-console-services)  
         * [timeanddate.com](https://www.timeanddate.com/)  
 
 Created using [Bookmark Extractor](https://github.com/ddmitov/bookmark-extractor)
-
