@@ -1,4 +1,5 @@
-## SOFTWARE
+## Software
+* Software  
   * Human Languages  
     * Bulgarian  
       * [Automatic Cyrillic Converter](http://newyork.mashke.org/Conv/)  
@@ -16,27 +17,21 @@
         * [Alpha. Древнегреческо-русский словарь](http://gurin.tomsknet.ru/alpha.html)  
         * [Ancient Greek Keyboard Online LEXILOGOS](https://www.lexilogos.com/keyboard/greek_ancient.htm)  
         * [GreekTranscoder](http://www.greektranscoder.org/)  
-        * [St. Anthony's Greek Orthodox Monastery - Utilities for "Polytonic" Greek](http://www.stanthonysmonastery.org/GreekPolytonic.htm)  
         * [Thesaurus Linguae Graecae - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Thesaurus_Linguae_Graecae)  
         * [Type Greek.com](http://www.typegreek.com/)  
         * [Unicode Classical Greek](http://babel.mml.ox.ac.uk/naughton/polytonic-greek.html)  
         * [Unicode Classical Greek Inputter 2](http://babel.mml.ox.ac.uk/naughton/polytonic-greek-inputter.html)  
         * [Visual keyboard for Classical Greek](http://kalvesmaki.com/keyboards/grc.html)  
-        * [beta-code-js - npm](https://www.npmjs.com/package/beta-code-js)  
         * [tlgu](http://tlgu.carmen.gr/)  
       * Fonts  
         * [Fonts for Scholars: the Cardo Font](http://scholarsfonts.net/cardofnt.html)  
         * [Greek Polytonic Unicode Fonts Download](http://www.ellopos.net/elpenor/greek-texts/greek-fonts.asp)  
         * [Polytonic Greek fonts](http://www.ucl.ac.uk/GrandLatGreekFonts/frameFonts.html)  
       * Latin  
-        * [Cicero Latein Deutsch Wörterbuch](http://www.wkad.com/)  
         * [Collatinus](http://www.collatinus.org/collatinus/)  
         * [Collatinus - Lemmatiseur et analyseur morphologique de textes latins](http://outils.biblissima.fr/fr/collatinus/)  
         * [Collatinus-web - Lemmatiseur et analyseur morphologique de textes latins](http://outils.biblissima.fr/fr/collatinus-web/)  
-        * [Glossa: a Latin dictionary - A Third Way Technologies](http://athirdway.com/glossa/)  
         * [Latin Dictionary for Windows. A complete Lewis & Short!](http://www.inrebus.com/latindictionary.php)  
-        * [MundusLatinus - Freeware](http://www.munduslatinus.de/freeware.php)  
-        * [Numen - An Online Latin Dictionary](http://latinlexicon.org/search_latin.php)  
         * [Whitaker's WORDS Online](http://latin.ucant.org/)  
         * [Whitaker's Words: Overview](https://mk270.github.io/whitakers-words/)  
       * [Diogenes Home Page](http://community.dur.ac.uk/p.j.heslin/Software/Diogenes/)  
@@ -44,29 +39,15 @@
       * [Hemingway Editor](http://www.hemingwayapp.com/)  
       * [LanguageTool Style and Grammar Check](https://languagetool.org/)  
     * Unicode  
-      * Software  
-        * [BabelStone : BabelMap (Unicode Character Map for Windows)](http://www.babelstone.co.uk/Software/BabelMap.html)  
-        * [BabelStone : BabelPad (Unicode Text Editor for Windows)](http://www.babelstone.co.uk/Software/BabelPad.html)  
-        * [Shapecatcher: Draw the Unicode character you want!](http://shapecatcher.com/)  
-        * [SuperEdi - Unicode Text Editor](https://www.wolosoft.com/en/superedi/index.html)  
-        * [Unicode Inputter Page](https://babel.mml.ox.ac.uk/naughton/inputter.html)  
-        * [Unicode text editor mined 2000](http://www.towo.net/mined/)  
-      * [ICU Home Page ‎(ICU - International Components for Unicode)‎](http://site.icu-project.org/)  
+      * [BabelStone : BabelMap (Unicode Character Map for Windows)](http://www.babelstone.co.uk/Software/BabelMap.html)  
+      * [BabelStone : BabelPad (Unicode Text Editor for Windows)](http://www.babelstone.co.uk/Software/BabelPad.html)  
+      * [Shapecatcher: Draw the Unicode character you want!](http://shapecatcher.com/)  
       * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/printerFriendly/articles/Unicode.html)  
       * [Unicode Character Search](http://www.fileformat.info/info/unicode/char/search.htm)  
+      * [Unicode Inputter Page](https://babel.mml.ox.ac.uk/naughton/inputter.html)  
       * [jagracey/Awesome-Unicode: A curated list of delightful Unicode tidbits, packages and resources.](https://github.com/jagracey/Awesome-Unicode)  
     * [Laurence Anthony's AntConc](http://www.laurenceanthony.net/software/antconc/)  
     * [Russian Keyboard Online • Cyrillic Alphabet • LEXILOGOS >>](https://www.lexilogos.com/keyboard/russian.htm)  
-  * Knowledge Facilities  
-    * Diagrams  
-      * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/)  
-      * [draw.io](https://www.draw.io/)  
-    * Mindmaps  
-      * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)  
-      * [View Your Mind](http://www.insilmaril.de/vym/)  
-      * [yEd - Graph Editor](https://www.yworks.com/en/products_yed_about.html)  
-    * [Impressive](http://impressive.sourceforge.net/)  
-    * [Linux TuxCards - A notebook for tuxfreaks](http://www.tuxcards.de/index.html)  
   * Multimedia  
     * Video Downloaders  
       * [ClipGrab - Free YouTube Downloader & Converter](http://clipgrab.org/)  
@@ -74,8 +55,8 @@
     * [Cstitch: a free and open source program for creating cross stitch patterns from images](http://cstitch.sourceforge.net/)  
     * [Flameshot](https://flameshot.js.org/#/)  
     * [ImgBurn](http://www.imgburn.com/)  
+    * [Impressive](http://impressive.sourceforge.net/)  
     * [Open Broadcaster Software | OBS](https://obsproject.com/)  
-    * [Sweet Home 3D - Начало](http://www.sweethome3d.com/bg/)  
     * [XnView · Image Viewer, Photo Resizer & Graphic Converter](https://www.xnview.com/en/)  
   * Software Development and Administration  
     * Archivers  
@@ -84,7 +65,6 @@
     * Best Practices  
       * [Avoid Common Software Project Mistakes](https://ovid.github.io/articles/avoid-common-software-project-mistakes.html)  
       * [Ind.ie — Ethical Design Manifesto](https://ind.ie/ethical-design/)  
-      * [Open Microservice Guide](https://microservice.guide/)  
       * [Semantic Versioning 2.0.0](http://semver.org/)  
       * [Widdershin/programmers-oath: An oath for programmers, comparable to the Hippocratic Oath](https://github.com/Widdershin/programmers-oath)  
       * [google/styleguide: Style guides for Google-originated open-source projects](https://github.com/google/styleguide)  
@@ -123,10 +103,11 @@
     * Cloud  
       * Amazon Web Services  
         * Amazon Web Services How To  
+          * stackoverflow.com  
+            * [How to query cloudwatch logs using boto3 in python - Stack Overflow](https://stackoverflow.com/questions/59240107/how-to-query-cloudwatch-logs-using-boto3-in-python)  
+            * [amazon web services - how to get a existent aws lambda source code using aws cli - Stack Overflow](https://stackoverflow.com/questions/53951208/how-to-get-a-existent-aws-lambda-source-code-using-aws-cli)  
           * [Connecting to RDS using IAM user - Francisco Edilton - Medium](https://medium.com/@franciscoed/connecting-to-rds-using-iam-user-86de4401086e)  
-          * [How to query cloudwatch logs using boto3 in python - Stack Overflow](https://stackoverflow.com/questions/59240107/how-to-query-cloudwatch-logs-using-boto3-in-python)  
           * [Write a "Hello World" into an AWS CloudWatch Logs service](https://gist.github.com/olegdulin/fd18906343d75142a487b9a9da9042e0)  
-          * [amazon web services - how to get a existent aws lambda source code using aws cli - Stack Overflow](https://stackoverflow.com/questions/53951208/how-to-get-a-existent-aws-lambda-source-code-using-aws-cli)  
         * CLI  
           * [AWS Command Line Interface](https://aws.amazon.com/cli/)  
           * [Configuring the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)  
@@ -235,7 +216,6 @@
           * stackoverflow.com  
             * [How to get the last N records in mongodb? - Stack Overflow](https://stackoverflow.com/questions/4421207/how-to-get-the-last-n-records-in-mongodb)  
             * [node.js - Update And Return Document In Mongodb - Stack Overflow](https://stackoverflow.com/questions/24747189/update-and-return-document-in-mongodb)  
-          * [Atomicity, isolation & concurrency in MongoDB](https://scalegrid.io/blog/atomicity-isolation-concurrency-in-mongodb/)  
           * [MongoDB - Query a Collection](https://www.quackit.com/mongodb/tutorial/mongodb_query_a_collection.cfm)  
       * MySQL  
         * MySQL How To  
@@ -318,27 +298,12 @@
         * [ProxySQL](https://proxysql.com/)  
       * SQLite  
         * SQLite Editors  
+          * [DB Browser for SQLite](https://sqlitebrowser.org/)  
           * [SQLite Administrator - International Milestone Beta](http://sqliteadmin.orbmu2k.de/)  
-          * [SQLite browser - Online SQL interpreter](https://extendsclass.com/sqlite-browser.html)  
           * [SQLiteSpy [Delphi Inspiration]](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  
           * [SQLiteStudio](https://sqlitestudio.pl/)  
+          * [phpLiteAdmin | An SQLite database management tool](https://www.phpliteadmin.org/)  
           * [rparkins999/sqliteman: http://sqliteman.com/](https://github.com/rparkins999/sqliteman)  
-          * [sqlitebrowser/sqlitebrowser: Official home of the DB Browser for SQLite (DB4S) project](https://github.com/sqlitebrowser/sqlitebrowser)  
-          * [srgank/SQLite-New: Browser for SQLite database files, open source tool](https://github.com/srgank/SQLite-New)  
-        * SQLite Encryption  
-          * Commercial SQLite Encryption  
-            * [SQLite Encryption Extension: Documentation](https://www.sqlite.org/see/doc/trunk/www/readme.wiki)  
-            * [Trusted encryption for SQLite since 2006 | SQLiteCrypt](http://sqlite-crypt.com/)  
-          * Open Source SQLite Encryption  
-            * sqleet  
-              * [cretz/go-sqleet: Encrypted SQLite for Go using go-sqlite3 and sqleet](https://github.com/cretz/go-sqleet)  
-              * [philanc/luasqleet: A Lua binding to Sqleet, an encrypted Sqlite3](https://github.com/philanc/luasqleet)  
-              * [resilar/sqleet: SQLite3 encryption that sucks less](https://github.com/resilar/sqleet)  
-            * [OlivierJG/botansqlite3: Sqlite3 encryption codec to allow full database encryption using the algorithms supported by Botan.](https://github.com/OlivierJG/botansqlite3)  
-            * [SQLCipher - Zetetic](https://www.zetetic.net/sqlcipher/open-source/)  
-            * [rindeal/SQLite3-Encryption: The easiest way to build SQLite3 with encryption support on Windows. Compilation of DLL, SLL or shell is now a matter of minutes](https://github.com/rindeal/SQLite3-Encryption)  
-            * [shenghe/FreeSQLiteEncryption: The Free SQLite Encryption Extension (FSEE)](https://github.com/shenghe/FreeSQLiteEncryption)  
-            * [utelle/wxsqlite3: wxSQLite3 - SQLite3 database wrapper for wxWidgets (including SQLite3 encryption extension)](https://github.com/utelle/wxsqlite3)  
         * SQLite How To  
           * sqlite.org  
             * [Command Line Shell For SQLite](https://www.sqlite.org/cli.html)  
@@ -346,26 +311,15 @@
             * [Internal Versus External BLOBs](https://www.sqlite.org/intern-v-extern-blob.html)  
             * [SQLITE Compilation Options](https://www.sqlite.org/compile.html)  
             * [SQLite - Pragma statements](https://www.sqlite.org/pragma.html)  
-            * [SQLite Documentation](https://www.sqlite.org/docs.html)  
             * [SQLite In 5 Minutes Or Less](https://www.sqlite.org/quickstart.html)  
             * [SQLite Query Language](https://www.sqlite.org/lang_expr.html)  
-            * [SQLite: SQLite Source Repository](https://sqlite.org/src/doc/trunk/README.md)  
             * [The SQLite Amalgamation](https://www.sqlite.org/amalgamation.html)  
-          * [Full-Text Searching with SQLite](http://phpadvent.org/2008/full-text-searching-with-sqlite-by-scott-macvicar)  
           * [SQLite Sample Database And Its Diagram (in PDF format)](http://www.sqlitetutorial.net/sqlite-sample-database/)  
-          * [SQLite expressions](http://zetcode.com/db/sqlite/expressions/)  
           * [sqlite - How to convert sqlite2 to sqlite3 and what are the differences between both versions? - Stack Overflow](https://stackoverflow.com/questions/9409073/how-to-convert-sqlite2-to-sqlite3-and-what-are-the-differences-between-both-vers)  
-        * [canonical/dqlite: Embeddable, replicated and fault tolerant SQL engine.](https://github.com/canonical/dqlite)  
-        * [mackyle/sqlite: Unofficial git mirror of SQLite sources (see link for build instructions)](https://github.com/mackyle/sqlite)  
-        * [phpLiteAdmin | An SQLite database management tool](https://www.phpliteadmin.org/)  
-        * [rqlite/rqlite: The lightweight, distributed relational database built on SQLite](https://github.com/rqlite/rqlite)  
-        * [sql-js/sql.js: A javascript library to run SQLite on the web.](https://github.com/sql-js/sql.js)  
-      * [CockroachDB](https://www.cockroachlabs.com/get-cockroachdb/)  
-      * [Database of Databases](https://dbdb.io/)  
+        * [resilar/sqleet: SQLite3 encryption that sucks less](https://github.com/resilar/sqleet)  
       * [HeidiSQL - MySQL, MSSQL and PostgreSQL made easy](https://www.heidisql.com/)  
       * [MDB Viewer Plus - Open and edit MDB/Accdb files.](http://www.alexnolan.net/software/mdb_viewer_plus.htm)  
       * [SQL Fiddle](http://sqlfiddle.com/)  
-      * [dbeaver/dbeaver: Free universal database tool and SQL client](https://github.com/dbeaver/dbeaver)  
       * [enochtangg/quick-SQL-cheatsheet: A quick reminder of all SQL queries and examples on how to use them.](https://github.com/enochtangg/quick-SQL-cheatsheet)  
     * Desktop Applications using Web Technologies  
       * Cpp  
@@ -393,9 +347,9 @@
       * [lobtao/phpdesktop: Developing Desktop Applications Like Developing Websites => phpdesktop](https://github.com/lobtao/phpdesktop)  
       * [mattkol/Chromely: Lightweight Alternative to Electron for .NET/.NET Core HTML5 Desktop Apps](https://github.com/mattkol/Chromely)  
       * [pojala/electrino: Desktop runtime for apps built on web technologies, using the system's own web browser engine](https://github.com/pojala/electrino)  
-    * DevOps  
-      * [bregman-arie/devops-interview-questions: DevOps Interview Questions - Linux, Jenkins, AWS, Network, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform](https://github.com/bregman-arie/devops-interview-questions)  
-      * [dennyzhang/devops_public: DevOps Scripts](https://github.com/dennyzhang/devops_public)  
+    * Diagrams  
+      * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/)  
+      * [draw.io](https://www.draw.io/)  
     * Documentation  
       * Markdown  
         * [License Badges for your Project](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)  
@@ -407,9 +361,7 @@
         * [markdownlint demo](https://dlaa.me/markdownlint/)  
         * [matiassingers/awesome-readme: A curated list of awesome READMEs](https://github.com/matiassingers/awesome-readme)  
         * [scotch-io/All-Github-Emoji-Icons: A repo of every emoji icon as a separate file and commit.](https://github.com/scotch-io/All-Github-Emoji-Icons)  
-        * [tiimgreen/github-cheat-sheet: A list of cool features of Git and GitHub.](https://github.com/tiimgreen/github-cheat-sheet)  
       * [DevDocs](http://devdocs.io/)  
-      * [Read the Docs](https://readthedocs.org/)  
     * Editors  
       * Visual Studio Code  
         * Visual Studio Code How To  
@@ -425,8 +377,8 @@
       * [SciTE Text Editor Installer - EBSWIFT.COM](https://www.ebswift.com/scite-text-editor-installer.html)  
       * [Scintilla and SciTE](https://www.scintilla.org/SciTE.html)  
     * Encryption  
-      * [KeePass Password Safe](http://keepass.info/)  
-      * [KeePassX](http://www.keepassx.org/)  
+      * [KeePass Password Safe](https://keepass.info/)  
+      * [KeePassX](https://www.keepassx.org/)  
       * [KeePassXC Password Manager](https://keepassxc.org/)  
     * Licensing  
       * [Choose an open source license | Choose a License](https://choosealicense.com/)  
@@ -435,6 +387,10 @@
       * [The Open Source Definition (Annotated) | Open Source Initiative](https://opensource.org/docs/definition.php)  
       * [idleberg/Creative-Commons-Markdown: Markdown-formatted Creative Commons licenses](https://github.com/idleberg/Creative-Commons-Markdown)  
       * [remy/mit-license: Hosted MIT License with details controlled through this repo](https://github.com/remy/mit-license)  
+    * Mindmaps  
+      * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)  
+      * [View Your Mind](http://www.insilmaril.de/vym/)  
+      * [yEd - Graph Editor](https://www.yworks.com/en/products_yed_about.html)  
     * Network Administration  
       * Networks How To  
         * [Application Ports](http://www.pcwintech.com/application-ports)  
@@ -471,14 +427,10 @@
           * [AppStream Generator](http://output.jsbin.com/qoqukof)  
           * [Ribtoks/linuxdeploy: Tool for deploying standalone Linux applications](https://github.com/ribtoks/linuxdeploy)  
           * [probonopd/linuxdeployqt: Makes Linux applications self-contained by copying in the Qt libraries and plugins that the application uses.](https://github.com/probonopd/linuxdeployqt)  
-        * Distributions  
-          * [Clonezilla live](https://clonezilla.org/clonezilla-live.php)  
+        * Linux Distributions  
           * [GParted -- Live CD/USB/PXE/HD](https://gparted.org/livecd.php)  
-          * [Linux From Scratch](http://www.linuxfromscratch.org/)  
-          * [Minimal Linux Live](http://minimal.linux-bg.org/)  
           * [Slax Linux - your pocket operating system](https://www.slax.org/)  
           * [Ubuntu Minimal CD](https://help.ubuntu.com/community/Installation/MinimalCD)  
-          * [УСУ - Добре дошли!](http://learnfree.eu/)  
         * Linux How To  
           * askubuntu.com  
             * [How to add startup applications in lubuntu? - Ask Ubuntu](http://askubuntu.com/questions/159008/how-to-add-startup-applications-in-lubuntu)  
@@ -509,20 +461,18 @@
           * [ssh - How to upload local file to server through Linux terminal - Super User](https://superuser.com/questions/850740/how-to-upload-local-file-to-server-through-linux-terminal)  
           * [traceroute GNU Linux](http://www.perpetualpc.net/srtd_traceroute.html)  
         * [Firejail | security sandbox](https://firejail.wordpress.com/)  
-        * [Genymobile/copydeps: Analyze and copy library dependencies of ELF binaries](https://github.com/Genymobile/copydeps)  
         * [PhotoRec - CGSecurity](http://www.cgsecurity.org/wiki/PhotoRec)  
         * [TestDisk - CGSecurity](http://www.cgsecurity.org/wiki/TestDisk)  
         * [Tomas-M/iotop: A top utility for IO](https://github.com/Tomas-M/iotop)  
-        * [cjbassi/gotop: A terminal based graphical activity monitor inspired by gtop and vtop](https://github.com/cjbassi/gotop)  
         * [lookbusy -- a synthetic load generator](http://www.devin.com/lookbusy/)  
         * [luebking/qarma: Zenity Clone for Qt4/Qt5](https://github.com/luebking/qarma)  
       * Windows  
         * Portable  
+          * [PortableApps.com - Portable software for USB, portable, and cloud drives](https://portableapps.com/)  
           * [Portapps - Applications](https://portapps.io/apps/)  
           * [winPenPack - The Portable Software Collection](http://www.winpenpack.com/en/news.php)  
         * Windows How To  
           * [Help with Microsoft Authenticator app - Azure Active Directory | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/user-help/user-help-auth-app-faq)  
-        * [Boxstarter](https://boxstarter.org/)  
         * [Core Temp](http://www.alcpu.com/CoreTemp/)  
         * [Dependency Walker (depends.exe) Home Page](http://www.dependencywalker.com/)  
         * [Free Extended Task Manager](http://www.extensoft.com/?p=free_task_manager)  
@@ -533,20 +483,14 @@
         * [Rapid Environment Editor :: Freeware Windows environment variables editor](https://www.rapidee.com/)  
         * [SmarTTY - a multi-tabbed SSH client with SCP support](http://smartty.sysprogs.com/)  
         * [Sysinternals Suite - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)  
-        * [Where to download visual studio express 2005? - Stack Overflow](https://stackoverflow.com/questions/1330852/where-to-download-visual-studio-express-2005)  
         * [WinCDEmu - the easiest way to mount an ISO. And more...](http://wincdemu.sysprogs.org/)  
         * [Windows Sysinternals - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/en-us/sysinternals/)  
         * [XSearch - Search files on your computer](http://www.easexp.com/xsearch/index.html)  
-        * [bmatzelle/gow: Unix command line utilities installer for Windows.](https://github.com/bmatzelle/gow)  
         * [maravento/winzenity: Zenity Portable for Windows](https://github.com/maravento/winzenity)  
       * [osquery | Easily ask questions about your Linux, Windows, and macOS infrastructure](https://osquery.io/)  
     * Optical Character Recognition  
-      * OCR for Classics  
-        * [Ancient Greek OCR](https://ancientgreekocr.org/)  
-        * [Ryan Baumann - Latin OCR for Tesseract](https://ryanfb.github.io/latinocr/)  
-      * [Tesseract.js | Pure Javascript OCR for 100 Languages!](https://tesseract.projectnaptha.com/)  
-      * [jbarlow83/OCRmyPDF: OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched](https://github.com/jbarlow83/OCRmyPDF)  
-      * [naptha/tesseract.js: Pure Javascript OCR for 62 Languages](https://github.com/naptha/tesseract.js)  
+      * [Ancient Greek OCR](https://ancientgreekocr.org/)  
+      * [tesseract-ocr/tesseract: Tesseract Open Source OCR Engine (main repository)](https://github.com/tesseract-ocr/tesseract)  
     * Plotting  
       * Matplotlib  
         * [Customizing Matplotlib with style sheets and rcParams — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/tutorials/introductory/customizing.html)  
@@ -900,6 +844,7 @@
           * [The Cost of JavaScript in 2018 | CSS-Tricks](https://css-tricks.com/the-cost-of-javascript-in-2018/)  
           * [The Modern Javascript Tutorial](https://javascript.info/)  
           * [Valid JavaScript variable names in ECMAScript 5 · Mathias Bynens](https://mathiasbynens.be/notes/javascript-identifiers)  
+          * [You Can't Detect A Touchscreen | Blog | Stu Cox](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/)  
           * [You Don't Need jQuery! – Free yourself from the chains of jQuery by embracing and understanding the modern Web API and discovering various directed libraries to help you fill in the gaps.](https://blog.garstasio.com/you-dont-need-jquery/)  
           * [airbnb/javascript: JavaScript Style Guide](https://github.com/airbnb/javascript)  
           * [elsewhencode/project-guidelines: A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)  
@@ -927,7 +872,6 @@
               * [jquery - When and why to 'return false' in JavaScript? - Stack Overflow](https://stackoverflow.com/questions/855360/when-and-why-to-return-false-in-javascript)  
             * [jQuery: The Write Less, Do More, JavaScript Library](http://jquery.com/)  
           * [Ace - The High Performance Code Editor for the Web](http://ace.c9.io/)  
-          * [Tesseract.js | Pure Javascript OCR for 62 Languages!](http://tesseract.projectnaptha.com/)  
           * [alertify.js - browser dialogs never looked so good](http://fabien-d.github.io/alertify.js/)  
           * [hakimel/reveal.js](https://github.com/hakimel/reveal.js/)  
           * [michmech/xonomy: A schema-driven XML editor for the web.](https://github.com/michmech/xonomy)  
@@ -1537,6 +1481,7 @@
           * [How to convert date and time with different timezones in Python?](https://www.tutorialspoint.com/How-to-convert-date-and-time-with-different-timezones-in-Python)  
           * [How to flatten a hierarchical index in pandas DataFrame columns in Python](https://kite.com/python/answers/how-to-flatten-a-hierarchical-index-in-pandas-dataframe-columns-in-python)  
           * [How to ignore an exception — the elegant way | Python Adventures](https://pythonadventures.wordpress.com/2013/09/07/how-to-ignore-an-exception-the-elegant-way/)  
+          * [How to rewrite your SQL queries in Pandas, and more](https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e)  
           * [How to use proxies with Python Requests module](https://blog.scrapinghub.com/python-requests-proxy)  
           * [How to use sys.argv in Python](http://www.pythonforbeginners.com/system/python-sys-argv)  
           * [Installing Python Modules with pip | Programming Historian](https://programminghistorian.org/en/lessons/installing-python-modules-pip)  
@@ -1606,8 +1551,8 @@
           * [R Tutorial - Tutorialspoint](https://www.tutorialspoint.com/r/index.htm)  
           * [install.packages function | R Documentation](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/install.packages)  
           * [use_proxy: Use a proxy to connect to the internet. in httr: Tools for Working with URLs and HTTP](https://rdrr.io/cran/httr/man/use_proxy.html)  
-        * [opensdmx/rsdmx: Tools for reading SDMX data and metadata in R](https://github.com/opensdmx/rsdmx)  
       * [Category:Programming Tasks - Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks)  
+      * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)  
       * [Programming Languages - Hyperpolyglot](http://hyperpolyglot.org/)  
       * [The Hello World Collection](http://helloworldcollection.de/)  
     * SSH Clients  
@@ -1616,10 +1561,6 @@
       * [SmarTTY - a multi-tabbed SSH client with SCP support](https://sysprogs.com/SmarTTY/)  
       * [WinSCP :: Official Site :: Download](https://winscp.net/eng/download.php)  
     * Search  
-      * Elasticsearch  
-        * [23 Useful Elasticsearch Example Queries - DZone Big Data](https://dzone.com/articles/23-useful-elasticsearch-example-queries)  
-        * [Wildcard Query | Elasticsearch Reference [7.0] | Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-wildcard-query.html)  
-        * [java - Like search in Elasticsearch - Stack Overflow](https://stackoverflow.com/questions/31176000/like-search-in-elasticsearch)  
       * Xapian  
         * [Basic instructions](https://xapian.org/docs/omega/quickstart.html)  
         * [CGI parameters to Omega](https://xapian.org/docs/omega/cgiparams.html)  
@@ -1632,7 +1573,6 @@
       * [qazbnm456/awesome-web-security: A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)  
     * Utilities  
       * [WinMerge - You will see the difference…](http://winmerge.org/?lang=en)  
-      * [ggreer/the_silver_searcher: A code-searching tool similar to ack, but faster.](https://github.com/ggreer/the_silver_searcher)  
     * Version Control  
       * Git  
         * Git How To  
@@ -1644,7 +1584,6 @@
         * [GitHub Résumé](http://resume.github.io/)  
         * [Github Release Stats](http://www.somsubhra.com/github-release-stats/)  
         * [github-profile-card by piotrl](http://github-profile.com/)  
-      * [Fossil: Home](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki)  
     * Virtualization  
       * VirtualBox  
         * [Chapter 8. VBoxManage](https://www.virtualbox.org/manual/ch08.html)  
@@ -1657,20 +1596,19 @@
         * [linux - How to mount a VirtualBox shared folder? - Server Fault](https://serverfault.com/questions/674974/how-to-mount-a-virtualbox-shared-folder)  
       * [Enigma Virtual Box](http://enigmaprotector.com/en/aboutvb.html)  
     * Web  
-      * API  
-        * [Best Free OCR API, Online OCR, Searchable PDF - Fresh 2019 OCR Software](https://ocr.space/)  
-        * [Calendarific - Enterprise-grade Bank and Public Holidays API](https://calendarific.com/)  
-        * [Diggernaut - Turn website content into datasets](https://www.diggernaut.com/)  
-        * [Free for developers](https://free-for.dev/?utm_source=Iterable&utm_medium=email&utm_campaign=the-overflow-newsletter&utm_content=10-30-19#/)  
-        * [JSONbin.io | Free JSON storage service and JSON hosting service](https://jsonbin.io/)  
-        * [OpenAPI-GUI v3.0.0](https://mermade.github.io/openapi-gui/)  
-        * [Postman | API Development Environment](https://www.getpostman.com/)  
-        * [Postwoman • API request builder](https://postwoman.io/)  
-        * [RANDOM.ORG - True Random Number Service](https://www.random.org/)  
-        * [Website screenshot API | ScreenshotAPI.net](https://screenshotapi.net/)  
-        * [ipify - A Simple Public IP Address API](https://www.ipify.org/)  
-        * [public-apis/public-apis: A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)  
-        * [toddmotto/public-apis: A collective list of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis)  
+      * Backend  
+        * API  
+          * [Postman | API Development Environment](https://www.getpostman.com/)  
+          * [Postwoman • API request builder](https://postwoman.io/)  
+          * [RANDOM.ORG - True Random Number Service](https://www.random.org/)  
+        * Servers  
+          * Mongoose  
+            * [GerHobbelt/civet-webserver: Fork of the old mongoose webserver; others have rebranded it as civetweb ... This one comes with tweaks: IPv6 support across the board; extended event callbacks; client-side socket connections using [mg_]connect(); [mg_]socketp](https://github.com/GerHobbelt/civet-webserver)  
+            * [cesanta/mongoose: Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and bro](https://github.com/cesanta/mongoose)  
+            * [ctrix/free-mongoose](https://github.com/ctrix/free-mongoose/)  
+          * [VS WAMP - VertrigoServ - PHP, Apache, MySQL server](https://www.vswamp.com/)  
+          * [Webmin](http://www.webmin.com/)  
+          * [Xitami - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Xitami)  
       * Frontend  
         * CSS  
           * CSS How To  
@@ -1694,7 +1632,7 @@
           * [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts)  
           * [google-fonts-offline](https://www.npmjs.com/package/google-fonts-offline)  
         * Frameworks  
-          * Bootstrap  
+          * Bootstrap How To  
             * gerbootstrap.com  
               * [CSS · Bootstrap](http://getbootstrap.com/css/)  
               * [Components · Bootstrap](http://getbootstrap.com/components/)  
@@ -1723,22 +1661,12 @@
               * [Bootstrap Text/Typography](http://www.w3schools.com/bootstrap/bootstrap_typography.asp)  
               * [Bootstrap Wells](http://www.w3schools.com/bootstrap/bootstrap_wells.asp)  
             * [BBG - Bootstrap Button Generator](http://blog.koalite.com/bbg/)  
-            * [Bootbox.js—alert, confirm and flexible modal dialogs for the Bootstrap framework](http://bootboxjs.com/)  
             * [Bootstrap Glyphicons v3.2.2 | Bootstrap Cheat Sheets](http://glyphicons.bootstrapcheatsheets.com/)  
             * [Bootstrap Magic : Generate your own bootstrap theme quickly and easily](https://pikock.github.io/bootstrap-magic/)  
-            * [Bootstrap Table Examples](http://issues.wenzhixin.net.cn/bootstrap-table/#methods/getData.html)  
             * [Bootstrap Tutorial - Style fieldset](http://www.java2s.com/Tutorials/HTML_CSS/Bootstrap_Example/Form/Style_fieldset.htm)  
-            * [Bootstrap-select](http://silviomoreto.github.io/bootstrap-select/)  
-            * [BootstrapDialog examples](http://nakupanda.github.io/bootstrap3-dialog/)  
             * [Bootswatch: Free themes for Bootstrap](https://bootswatch.com/)  
-            * [Creative Tim | Tools to build better websites](http://presentation.creative-tim.com/)  
-            * [Examples | Bootbox.js—alert, confirm and flexible dialogs for the Bootstrap framework](http://bootboxjs.com/examples.html)  
             * [Font Awesome v.4.5.0 | Bootstrap Cheat Sheets](http://fontawesome.bootstrapcheatsheets.com/)  
             * [How to Create Dropdown Menu with Bootstrap 3 - Tutorial Republic](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-dropdowns.php)  
-            * [Tabler - Admin panel made simple](https://tabler.github.io/#)  
-            * [The Subtle Magic Behind Why the Bootstrap 3 Grid Works | Experience Design at Hello Erik](http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works)  
-            * [froala/design-blocks: A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.](https://github.com/froala/design-blocks)  
-            * [twbs/bootlint: HTML linter for Bootstrap projects](https://github.com/twbs/bootlint)  
         * HTML  
           * HTML How To  
             * [Data URI scheme - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Data_URI_scheme)  
@@ -1751,15 +1679,14 @@
           * [(X)HTML5 validator](https://html5.validator.nu/)  
           * [* Arachnophilia](http://www.arachnoid.com/arachnophilia/index.php)  
           * [HTML Tidy Online](http://infohound.net/tidy/)  
-          * [HTML5 Boilerplate: The web’s most popular front-end template](https://html5boilerplate.com/)  
           * [HTML: The Markup Language (an HTML language reference)](http://www.w3.org/TR/html-markup/)  
           * [The W3C Markup Validation Service](http://validator.w3.org/)  
           * [Validator.nu](http://validator.nu/)  
-          * [Web page analyzer - Freeware Site Inspector lets you view HTML source, JavaScript source and more in an IE toolbar.](http://www.paessler.com/tools/psi/)  
-          * [What is Actually Sent with ENCTYPE - HTML Code Tutorial](http://www.htmlcodetutorial.com/forms/form_enctype.html)  
-          * [leemunroe/responsive-html-email-template: A free simple responsive HTML email template](https://github.com/leemunroe/responsive-html-email-template)  
+        * [Just Color Picker 5.2 - best free colour tool for Windows and macOS](http://annystudio.com/software/colorpicker/)  
+      * Services  
         * Online Editors  
           * [JSFiddle](https://jsfiddle.net/)  
+          * [JSitor - NodeJS, JavaScript, HTML, CSS, online editor](https://jsitor.com/)  
           * [PlayCode - Code Sandbox. Online Code Editor](https://playcode.io/)  
         * Testing  
           * [Browserling - Live interactive cross-browser testing](https://www.browserling.com/)  
@@ -1767,34 +1694,11 @@
           * [ImageKit.io - Website Analyzer](https://imagekit.io/website-analyzer)  
           * [Observatory by Mozilla](https://observatory.mozilla.org/)  
           * [Speedtest.net - The Global Broadband Speed Test](http://www.speedtest.net/)  
-          * [shoreditch-ops/artillery: Flexible and powerful toolkit for load and functional testing. HTTP, Socket.io, WebSockets, Kinesis - you bring it, Artillery will blast it! Make your systems indestructible!](https://github.com/shoreditch-ops/artillery)  
-        * Tools  
-          * [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)  
-          * [Just Color Picker 5.2 - best free colour tool for Windows and macOS](http://annystudio.com/software/colorpicker/)  
-          * [Opera Mobile Classic Emulator - Opera](http://www.opera.com/developer/mobile-emulator)  
+          * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
+        * [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)  
+        * [JSONbin.io | Free JSON storage service and JSON hosting service](https://jsonbin.io/)  
+        * [Pingdom – Live Map of Internet Downtime & Browser Data](https://livemap.pingdom.com/)  
         * [RawGit](https://rawgit.com/)  
         * [Surge](https://surge.sh/)  
-        * [akikoo/frontend-dev-bookmarks: My collection of essential Front-End resources, focusing on accessibility, architecture, performance, code quality, workflow and best practices.](https://github.com/akikoo/frontend-dev-bookmarks)  
-        * [dypsilon/frontend-dev-bookmarks: Manually curated collection of resources for frontend web developers.](https://github.com/dypsilon/frontend-dev-bookmarks)  
-      * Fullstack  
-        * [gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone](https://github.com/gothinkster/realworld)  
-      * Servers  
-        * Mongoose  
-          * [GerHobbelt/civet-webserver: Fork of the old mongoose webserver; others have rebranded it as civetweb ... This one comes with tweaks: IPv6 support across the board; extended event callbacks; client-side socket connections using [mg_]connect(); [mg_]socketp](https://github.com/GerHobbelt/civet-webserver)  
-          * [cesanta/mongoose: Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and bro](https://github.com/cesanta/mongoose)  
-          * [ctrix/free-mongoose](https://github.com/ctrix/free-mongoose/)  
-        * [BitNami Stacks](http://bitnami.org/stacks)  
-        * [VS WAMP - VertrigoServ - PHP, Apache, MySQL server](https://www.vswamp.com/)  
-        * [Webmin](http://www.webmin.com/)  
-        * [Xitami - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Xitami)  
-      * Services  
-        * [Epoch Converter - Unix Timestamp Converter](https://www.epochconverter.com/)  
-        * [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/)  
-        * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)  
-        * [Pingdom – Live Map of Internet Downtime & Browser Data](https://livemap.pingdom.com/)  
-        * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
-        * [chubin/awesome-console-services: A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)](https://github.com/chubin/awesome-console-services)  
-        * [timeanddate.com](https://www.timeanddate.com/)  
 
 Created using [Bookmark Extractor](https://github.com/ddmitov/bookmark-extractor)
-
