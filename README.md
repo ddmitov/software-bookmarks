@@ -1,4 +1,5 @@
 ## Software
+* Personal  
 * Software  
   * Human Languages  
     * Bulgarian  
@@ -58,10 +59,44 @@
     * [Impressive](http://impressive.sourceforge.net/)  
     * [Open Broadcaster Software | OBS](https://obsproject.com/)  
     * [XnView · Image Viewer, Photo Resizer & Graphic Converter](https://www.xnview.com/en/)  
-  * Software Development and Administration  
+  * Office  
     * Archivers  
       * [7-Zip](https://www.7-zip.org/)  
       * [PeaZip free archiver utility, open extract RAR TAR ZIP files](http://www.peazip.org/)  
+    * Document Search  
+      * Xapian  
+        * [Basic instructions](https://xapian.org/docs/omega/quickstart.html)  
+        * [CGI parameters to Omega](https://xapian.org/docs/omega/cgiparams.html)  
+        * [Omega Documentation](https://xapian.org/docs/omega/)  
+        * [OmegaExample – Xapian](https://trac.xapian.org/wiki/OmegaExample)  
+        * [The Xapian Project](https://xapian.org/)  
+        * [Xapian Administrator's Guide](https://xapian.org/docs/admin_notes.html)  
+      * [DocFetcher - Fast Document Search](http://docfetcher.sourceforge.net/en/index.html)  
+    * Encryption  
+      * [KeePass Password Safe](https://keepass.info/)  
+      * [KeePassX](https://www.keepassx.org/)  
+      * [KeePassXC Password Manager](https://keepassxc.org/)  
+    * LibreOffice  
+      * LibreOffice How To  
+        * [Modify footnote number size within "actual footnote"?? - Ask LibreOffice](https://ask.libreoffice.org/en/question/173623/modify-footnote-number-size-within-actual-footnote/)  
+        * [how do I reduce the space between lines? - Ask LibreOffice](https://ask.libreoffice.org/en/question/101649/how-do-i-reduce-the-space-between-lines/)  
+    * Microsoft Office  
+      * Excel How To  
+        * [Combine text and numbers - Excel](https://support.office.com/en-us/article/combine-text-and-numbers-a32c8e0e-90a2-435b-8635-5dd2209044ad)  
+        * [Convert numbers stored as text to numbers - Office Support](https://support.office.com/en-us/article/convert-numbers-stored-as-text-to-numbers-40105f2a-fe79-4477-a171-c5bad0f0a885)  
+        * [Excel formula: Count cells between two numbers | Exceljet](https://exceljet.net/formula/count-cells-between-two-numbers)  
+        * [Excel formula: Sum visible rows in a filtered list | Exceljet](https://exceljet.net/formula/sum-visible-rows-in-a-filtered-list)  
+        * [Excel specifications and limits - Excel](https://support.office.com/en-us/article/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3)  
+        * [How to remove blank columns in Excel](https://www.ablebits.com/office-addins-blog/2018/11/21/remove-blank-columns-excel/)  
+        * [How to use the Excel SUBTOTAL function | Exceljet](https://exceljet.net/excel-functions/excel-subtotal-function)  
+        * [How to use the Excel VLOOKUP function | Exceljet](https://exceljet.net/excel-functions/excel-vlookup-function)  
+        * [SUBTOTAL function - Office Support](https://support.office.com/en-us/article/subtotal-function-7b027003-f060-4ade-9040-e478765b9939)  
+        * [Show or hide gridlines on a worksheet - Office Support](https://support.office.com/en-us/article/show-or-hide-gridlines-on-a-worksheet-3ef5aacb-4539-4ad5-9945-5ed53772dc4d)  
+      * [How to import and export signatures in Microsoft Outlook?](https://www.extendoffice.com/documents/outlook/1453-outlook-import-export-signatures.html)  
+    * Optical Character Recognition  
+      * [Ancient Greek OCR](https://ancientgreekocr.org/)  
+      * [tesseract-ocr/tesseract: Tesseract Open Source OCR Engine (main repository)](https://github.com/tesseract-ocr/tesseract)  
+  * Software Development and Administration  
     * Best Practices  
       * [Avoid Common Software Project Mistakes](https://ovid.github.io/articles/avoid-common-software-project-mistakes.html)  
       * [Ind.ie — Ethical Design Manifesto](https://ind.ie/ethical-design/)  
@@ -133,8 +168,6 @@
         * [judofyr/perloku: Perl on Heroku](https://github.com/judofyr/perloku)  
         * [pussinboots/heroku-badge: Simple heroku badge.](https://github.com/pussinboots/heroku-badge)  
       * [rclone - rsync for cloud storage](https://rclone.org/)  
-    * Concepts  
-      * [Common web application architectures | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures)  
     * Containers  
       * Docker  
         * Docker How To  
@@ -169,6 +202,7 @@
       * JSON  
         * [JSON Diff - The semantic JSON compare tool](http://www.jsondiff.com/)  
         * [JSONLint - The JSON Validator](https://jsonlint.com/)  
+        * [JSONbin.io | Free JSON storage service and JSON hosting service](https://jsonbin.io/)  
         * [jq](https://stedolan.github.io/jq/)  
       * PDF  
         * [PDFTK Builder and other PDF Resources](http://angusj.com/pdftkb/)  
@@ -178,11 +212,6 @@
         * [wkhtmltopdf](https://wkhtmltopdf.org/)  
       * XML  
         * EpiDoc  
-          * Editors  
-            * [The ANGLES Project](http://umd-mith.github.io/angles/)  
-            * [jdickie/TEILiteEditor: Using CKEditor and the TEI-Ann plugin to generate a schema-oriented XML editor](https://github.com/jdickie/TEILiteEditor)  
-            * [wsalesky/tei-editor: Sandbox for tei forms](https://github.com/wsalesky/tei-editor)  
-          * [EpiDoc/EFES: EFES (EpiDoc Front End Services) is a custom and readily customizable platform for publication and search/indexing of EpiDoc files, based on the Kiln platform](https://github.com/EpiDoc/EFES)  
           * [Epigraphic Database Heidelberg](http://edh-www.adw.uni-heidelberg.de/data/export)  
           * [Index of /epidoc/schema/latest](http://www.stoa.org/epidoc/schema/latest/)  
           * [Spunkle/EPIGRAPHY-CLUB-2015](https://github.com/Spunkle/EPIGRAPHY-CLUB-2015)  
@@ -264,6 +293,9 @@
             * [MySQL SUM - Calculating The Sum of Values](http://www.mysqltutorial.org/mysql-sum/)  
             * [MySQL Transaction: START TRANSACTION, COMMIT & ROLLBACK by Examples](http://www.mysqltutorial.org/mysql-transaction.aspx)  
             * [MySQL UNION: Combining Results of Two or More Queries](http://www.mysqltutorial.org/sql-union-mysql.aspx)  
+          * www.w3resource.com  
+            * [MySQL CONVERT_TZ() function - w3resource](https://www.w3resource.com/mysql/date-and-time-functions/mysql-convert_tz-function.php)  
+            * [MySQL sum() with group by - w3resource](https://www.w3resource.com/mysql/aggregate-functions-and-grouping/aggregate-functions-and-grouping-sum-with-group-by.php)  
           * www.w3schools.com  
             * [MySQL CASE Function](https://www.w3schools.com/sql/func_mysql_case.asp)  
             * [MySQL CAST() Function](https://www.w3schools.com/sql/func_mysql_cast.asp)  
@@ -287,11 +319,8 @@
           * [List sessions / active connections on MySQL server - MySQL Data Dictionary Queries](https://dataedo.com/kb/query/mysql/list-database-sessions)  
           * [MySQL - DELETE Query - Tutorialspoint](https://www.tutorialspoint.com/mysql/mysql-delete-query.htm)  
           * [MySQL - How to see the foreign key relationships of a table? | TablePlus](https://tableplus.com/blog/2018/08/mysql-how-to-see-foreign-key-relationship-of-a-table.html)  
-          * [MySQL CONVERT_TZ() function - w3resource](https://www.w3resource.com/mysql/date-and-time-functions/mysql-convert_tz-function.php)  
           * [MySQL Format Date | date_format Tool](http://www.mysqlformatdate.com/)  
-          * [MySQL How To Select and Update in Single Statement - Increment Counter avoiding Race Condition - SQLines Open Source Tools](http://www.sqlines.com/mysql/how-to/select-update-single-statement-race-condition)  
           * [MySQL show status: How to show open database connections | alvinalexander.com](https://alvinalexander.com/blog/post/mysql/how-show-open-database-connections-mysql)  
-          * [MySQL sum() with group by - w3resource](https://www.w3resource.com/mysql/aggregate-functions-and-grouping/aggregate-functions-and-grouping-sum-with-group-by.php)  
           * [Overview of the SQL REPLACE function](https://www.sqlshack.com/overview-of-the-sql-replace-function/)  
           * [SQL style guide by Simon Holywell](https://www.sqlstyle.guide/)  
         * [MySQL :: MySQL for Excel](https://www.mysql.com/why-mysql/windows/excel/)  
@@ -376,10 +405,6 @@
       * [Atom](https://atom.io/)  
       * [SciTE Text Editor Installer - EBSWIFT.COM](https://www.ebswift.com/scite-text-editor-installer.html)  
       * [Scintilla and SciTE](https://www.scintilla.org/SciTE.html)  
-    * Encryption  
-      * [KeePass Password Safe](https://keepass.info/)  
-      * [KeePassX](https://www.keepassx.org/)  
-      * [KeePassXC Password Manager](https://keepassxc.org/)  
     * Licensing  
       * [Choose an open source license | Choose a License](https://choosealicense.com/)  
       * [Licenses by Name | Open Source Initiative](https://opensource.org/licenses/alphabetical)  
@@ -402,20 +427,6 @@
       * [Nmap - Free Security Scanner For Network Exploration & Security Audits.](http://nmap.org/)  
       * [Online IP Subnet Calculator](http://www.subnet-calculator.com/)  
       * [Technitium MAC Address Changer v5 Release 3 (FREEWARE)](http://www.technitium.com/tmac/index.html)  
-    * Office  
-      * Microsoft Office  
-        * Excel How To  
-          * [Combine text and numbers - Excel](https://support.office.com/en-us/article/combine-text-and-numbers-a32c8e0e-90a2-435b-8635-5dd2209044ad)  
-          * [Convert numbers stored as text to numbers - Office Support](https://support.office.com/en-us/article/convert-numbers-stored-as-text-to-numbers-40105f2a-fe79-4477-a171-c5bad0f0a885)  
-          * [Excel formula: Count cells between two numbers | Exceljet](https://exceljet.net/formula/count-cells-between-two-numbers)  
-          * [Excel formula: Sum visible rows in a filtered list | Exceljet](https://exceljet.net/formula/sum-visible-rows-in-a-filtered-list)  
-          * [Excel specifications and limits - Excel](https://support.office.com/en-us/article/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3)  
-          * [How to remove blank columns in Excel](https://www.ablebits.com/office-addins-blog/2018/11/21/remove-blank-columns-excel/)  
-          * [How to use the Excel SUBTOTAL function | Exceljet](https://exceljet.net/excel-functions/excel-subtotal-function)  
-          * [How to use the Excel VLOOKUP function | Exceljet](https://exceljet.net/excel-functions/excel-vlookup-function)  
-          * [SUBTOTAL function - Office Support](https://support.office.com/en-us/article/subtotal-function-7b027003-f060-4ade-9040-e478765b9939)  
-          * [Show or hide gridlines on a worksheet - Office Support](https://support.office.com/en-us/article/show-or-hide-gridlines-on-a-worksheet-3ef5aacb-4539-4ad5-9945-5ed53772dc4d)  
-        * [How to import and export signatures in Microsoft Outlook?](https://www.extendoffice.com/documents/outlook/1453-outlook-import-export-signatures.html)  
     * Operating Systems  
       * Linux  
         * AppImage  
@@ -488,9 +499,6 @@
         * [XSearch - Search files on your computer](http://www.easexp.com/xsearch/index.html)  
         * [maravento/winzenity: Zenity Portable for Windows](https://github.com/maravento/winzenity)  
       * [osquery | Easily ask questions about your Linux, Windows, and macOS infrastructure](https://osquery.io/)  
-    * Optical Character Recognition  
-      * [Ancient Greek OCR](https://ancientgreekocr.org/)  
-      * [tesseract-ocr/tesseract: Tesseract Open Source OCR Engine (main repository)](https://github.com/tesseract-ocr/tesseract)  
     * Plotting  
       * Matplotlib  
         * [Customizing Matplotlib with style sheets and rcParams — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/tutorials/introductory/customizing.html)  
@@ -510,7 +518,6 @@
           * [Basic Linux Shell Commands | Programming Logic](http://www.programminglogic.com/basic-linux-shell-commands/)  
           * [How do I parse command line arguments in Bash? - Stack Overflow](https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments-in-bash)  
           * [Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide)  
-          * [Writing Robust Bash Shell Scripts : David Pashley.com](http://www.davidpashley.com/articles/writing-robust-shell-scripts/)  
           * [alebcay/awesome-shell: A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.](https://github.com/alebcay/awesome-shell)  
           * [bash - How to copy some, but not all files? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/41693/how-to-copy-some-but-not-all-files)  
           * [learnbyexample/Command-line-text-processing: From finding text to search and replace, from sorting to beautifying text and more](https://github.com/learnbyexample/Command-line-text-processing)  
@@ -870,10 +877,9 @@
               * [jquery - Is it possible to write data to file using only JavaScript? - Stack Overflow](https://stackoverflow.com/questions/21012580/is-it-possible-to-write-data-to-file-using-only-javascript)  
               * [jquery - Simultaneously write text from one Textarea to another Textarea - Stack Overflow](https://stackoverflow.com/questions/10133378/simultaneously-write-text-from-one-textarea-to-another-textarea)  
               * [jquery - When and why to 'return false' in JavaScript? - Stack Overflow](https://stackoverflow.com/questions/855360/when-and-why-to-return-false-in-javascript)  
-            * [jQuery: The Write Less, Do More, JavaScript Library](http://jquery.com/)  
+            * [jQuery: The Write Less, Do More, JavaScript Library](https://jquery.com/)  
           * [Ace - The High Performance Code Editor for the Web](http://ace.c9.io/)  
           * [alertify.js - browser dialogs never looked so good](http://fabien-d.github.io/alertify.js/)  
-          * [hakimel/reveal.js](https://github.com/hakimel/reveal.js/)  
           * [michmech/xonomy: A schema-driven XML editor for the web.](https://github.com/michmech/xonomy)  
         * NW.js  
           * NW.js How To  
@@ -907,26 +913,26 @@
             * [Node - Child Processes](https://gist.github.com/leommoore/4484379)  
             * [Node.js Best Practices – Just Build Something](http://justbuildsomething.com/node-js-best-practices/)  
             * [Package.json validator](http://package-json-validator.com/)  
-            * [Tips for Writing Portable Node.js Code](https://gist.github.com/domenic/2790533)  
             * [Writing cross-platform Node.js | George Ornbo](https://shapeshed.com/writing-cross-platform-node/)  
             * [Your first Node.js package](https://nodesource.com/blog/your-first-nodejs-package/)  
-            * [i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated](https://github.com/i0natan/nodebestpractices)  
-            * [loncarales/node-js-sample: A barebones Node.js app using the Express framework.](https://github.com/loncarales/node-js-sample)  
-            * [sqreen/awesome-nodejs-projects: Curated list of awesome open-source applications made with Node.js](https://github.com/sqreen/awesome-nodejs-projects)  
+          * npm  
+            * [camel-harness - npm](https://www.npmjs.com/package/camel-harness)  
+            * [camel-harness-demo-electron - npm](https://www.npmjs.com/package/camel-harness-demo-electron)  
+            * [camel-harness-demo-nwjs - npm](https://www.npmjs.com/package/camel-harness-demo-nwjs)  
+            * [elephant-harness - npm](https://www.npmjs.com/package/elephant-harness)  
+            * [elephant-harness-demo-electron - npm](https://www.npmjs.com/package/elephant-harness-demo-electron)  
+            * [elephant-harness-demo-nwjs - npm](https://www.npmjs.com/package/elephant-harness-demo-nwjs)  
+            * [executable-harness - npm](https://www.npmjs.com/package/executable-harness)  
           * [npms](https://npms.io/)  
           * [npmsearch - node.js Package Search Utility](https://npmsearch.com/)  
         * Progressive Web Apps  
           * [Basic Service Worker Sample](https://googlechrome.github.io/samples/service-worker/basic/)  
-          * [PWABuilder](https://www.pwabuilder.com/)  
           * [Progressive Web App Checklist  |  Web  |  Google Developers](https://developers.google.com/web/progressive-web-apps/checklist)  
           * [Progressive Web Apps  |  Web  |  Google Developers](https://developers.google.com/web/progressive-web-apps/)  
           * [ServiceWorker Cookbook](https://serviceworke.rs/)  
           * [The Web App Manifest  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/web-app-manifest/)  
-          * [The offline cookbook - JakeArchibald.com](https://jakearchibald.com/2014/offline-cookbook/)  
-          * [We built a PWA from scratch - This is what we learned](https://14islands.com/blog/2017/01/19/progressive-web-app-from-scratch/)  
           * [mdn/simple-web-worker: A simple web worker test.](https://github.com/mdn/simple-web-worker)  
         * [Bogdan-Lyashenko/js-code-to-svg-flowchart: js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart)  
-        * [JSLint: The JavaScript Code Quality Tool](http://jslint.com/)  
         * [JavaScript variable name validator](https://mothereff.in/js-variables)  
         * [UglifyJS — JavaScript parser, compressor, minifier written in JS](http://lisperator.net/uglifyjs/)  
         * [douglascrockford/JSLint: The JavaScript Code Quality Tool](https://github.com/douglascrockford/JSLint)  
@@ -940,12 +946,9 @@
           * Zen Cart How To  
             * [Admin - Configuration - Product Listing - Zen Cart(tm) Wiki](http://www.zen-cart.com/wiki/index.php/Admin_-_Configuration_-_Product_Listing)  
             * [Alpha-sorter for a different alphabet?](http://www.zen-cart.com/showthread.php?53924-Alpha-sorter-for-a-different-alphabet)  
-            * [BookX – Product Type Book - Zen Cart® Plugins and Addons](http://www.zen-cart.com/downloads.php?do=file&id=1650)  
             * [Can I turn off the alpha filter?](http://www.zen-cart.com/showthread.php?53433-Can-I-turn-off-the-alpha-filter)  
             * [Changing the Information Sidebox](http://www.zen-cart.com/showthread.php?86563-Changing-the-Information-Sidebox)  
             * [Customer's Session TimeOut in zen-cart - Stack Overflow](https://stackoverflow.com/questions/27751995/customers-session-timeout-in-zen-cart)  
-            * [Customisation - Templates - Stylesheets - CSS Buttons - Zen Cart(tm) Wiki](https://www.zen-cart.com/wiki/index.php/Customisation_-_Templates_-_Stylesheets_-_CSS_Buttons)  
-            * [Group Pricing (per Item) - Zen Cart® Plugins and Addons](https://www.zen-cart.com/downloads.php?do=file&id=154)  
             * [How do I change link to home?](https://www.zen-cart.com/showthread.php?75267-How-do-I-change-link-to-home)  
             * [I want to remove "Customers who bought this item also bought..."](https://www.zen-cart.com/showthread.php?166713-I-want-to-remove-quot-Customers-who-bought-this-item-also-bought-quot)  
             * [Making a Custom Sidebox - Zen Cart(tm) Wiki](https://www.zen-cart.com/wiki/index.php/Making_a_Custom_Sidebox)  
@@ -970,8 +973,6 @@
             * [Zen Cart Support - Understanding the Override System](https://www.zen-cart.com/content.php?228-understanding-the-override-system)  
             * [Zen Cart Support - Where are the buttons hiding & how do I change them?](https://www.zen-cart.com/content.php?93-where-are-the-buttons-hiding-how-do-i-change-them)  
             * [Zen Cart Template Structure - Zen Cart(tm) Wiki](https://www.zen-cart.com/wiki/index.php/Zen_Cart_Template_Structure)  
-            * [Zen Cart Tutorial How to Show Banners on Main Page Only](https://www.picaflor-azul.com/blog/zen-cart-banners-main-page/)  
-            * [potteryhouse/stock_by_attribute_1.5.4](https://github.com/potteryhouse/stock_by_attribute_1.5.4)  
             * [zencart/documentation: Zen Cart Developer Documentation](https://github.com/zencart/documentation)  
           * [PHP: The Right Way](http://www.phptherightway.com/)  
         * [Adminer - Database management in a single PHP file](https://www.adminer.org/)  
@@ -979,21 +980,13 @@
         * [phpMyAdmin](http://www.phpmyadmin.net/home_page/index.php)  
         * [phpMyBackupPro - the MySQL backup tool :: Features](http://www.phpmybackuppro.net/)  
       * Perl 5  
-        * Alternative Distributions  
-          * [App-Staticperl-1.44 - perl, libc, 100 modules, all in one standalone 500kb file - metacpan.org](https://metacpan.org/release/App-Staticperl)  
-          * [The Official RPerl Website](http://rperl.org/)  
-          * [TinyPerl Project](http://tinyperl.sourceforge.net/)  
-          * [WebPerl | Run Perl in the browser with WebPerl!](https://webperl.zero-g.net/)  
-          * [evalEmpire/parfait: An improved and backwards compatible Perl 5](https://github.com/evalEmpire/parfait)  
-          * [perl11/cperl: A perl5 with classes, types, compilable, company friendly, security](https://github.com/perl11/cperl)  
         * CPAN  
           * [Browser::Open - open a browser in a given URL - metacpan.org](https://metacpan.org/pod/distribution/Browser-Open/lib/Browser/Open.pm)  
+          * [DBD::SQLeet - Self-contained RDBMS in a DBI Driver - metacpan.org](https://metacpan.org/pod/DBD::SQLeet)  
           * [DBI - Database independent interface for Perl - metacpan.org](https://metacpan.org/pod/DBI)  
           * [DBI::Profile - Performance profiling and benchmarking for the DBI - metacpan.org](https://metacpan.org/pod/DBI::Profile)  
           * [Device::SerialPort - Linux/POSIX emulation of Win32::SerialPort functions. - metacpan.org](https://metacpan.org/pod/release/COOK/Device-SerialPort-1.04/SerialPort.pm)  
-          * [Module::Crypt - Encrypt your Perl code and compile it into XS - metacpan.org](https://metacpan.org/pod/release/AAR/Module-Crypt-0.05/Crypt.pm)  
           * [Module::ScanDeps - Recursively scan Perl code for dependencies - metacpan.org](https://metacpan.org/pod/Module::ScanDeps)  
-          * [Valence - Perl interface to electron GUI tool-kit - metacpan.org](https://metacpan.org/pod/Valence)  
           * [XML-LibXML-2.0117 - Interface to Gnome libxml2 xml parsing and DOM library - metacpan.org](https://metacpan.org/release/XML-LibXML)  
           * [XML::LibXML::Node - Abstract Base Class of XML::LibXML Nodes - metacpan.org](https://metacpan.org/pod/distribution/XML-LibXML/lib/XML/LibXML/Node.pod)  
           * [XML::LibXML::Parser - Parsing XML Data with XML::LibXML - metacpan.org](https://metacpan.org/pod/distribution/XML-LibXML/lib/XML/LibXML/Parser.pod)  
@@ -1018,7 +1011,6 @@
           * blogs.perl.org  
             * [A Tutorial for using LibXML from Perl | Grant McLean [blogs.perl.org]](http://blogs.perl.org/users/grant_mclean/2016/03/a-tutorial-for-using-libxml-from-perl.html)  
             * [Alternatives to rand() | Dana Jacobsen [blogs.perl.org]](http://blogs.perl.org/users/dana_jacobsen/2017/04/alternatives-to-rand.html)  
-            * [Automated testing on Windows with AppVeyor | mauke [blogs.perl.org]](http://blogs.perl.org/users/mauke/2017/10/automated-testing-on-windows-with-appveyor.html)  
             * [Making local::lib real easy to use | Aristotle [blogs.perl.org]](http://blogs.perl.org/users/aristotle/2015/12/locallib-ez.html)  
             * [Specify the min perl version for your distribution | NeilB [blogs.perl.org]](http://blogs.perl.org/users/neilb/2014/08/specify-the-min-perl-version-for-your-distribution.html)  
           * perl.com  
@@ -1027,7 +1019,6 @@
             * [Perl Debugger Quick Reference - Perl.com](http://www.perl.com/pub/2004/11/24/debugger_ref.html)  
             * [Perl Unicode Cookbook: Decode Standard Filehandles as UTF-8 - Perl.com](http://www.perl.com/pub/2012/04/perlunicook-decode-standard-filehandles-as-utf-8.html)  
             * [The Many Dates and Times of Perl - Perl.com](http://www.perl.com/pub/2003/03/13/datetime.html)  
-            * [Web Basics with LWP - Perl.com](http://www.perl.com/pub/2002/08/20/perlandlwp.html)  
           * perl101.org  
             * [Perl 101 - Command-line Switches](http://perl101.org/command-line-switches.html)  
             * [Perl 101 - Hashes](http://perl101.org/hashes.html)  
@@ -1068,7 +1059,6 @@
             * [How much memory does my Perl application use?](https://perlmaven.com/how-much-memory-does-the-perl-application-use)  
             * [How to create an Excel file with Perl?](https://perlmaven.com/create-an-excel-file-with-perl)  
             * [JSON in Perl](https://perlmaven.com/json)  
-            * [Perl tutorial](https://perlmaven.com/perl-tutorial)  
             * [Scalar and List context in Perl, the size of an array](https://perlmaven.com/scalar-and-list-context-in-perl)  
             * [Simple Database access using Perl DBI and SQL](https://perlmaven.com/simple-database-access-using-perl-dbi-and-sql)  
           * perlmeme.org  
@@ -1173,71 +1163,42 @@
           * [Checking if a module is installed (without actually loading it) | perlancar's blog](https://perlancar.wordpress.com/2016/08/02/checking-if-a-module-is-loadable-without-actually-loading-it/)  
           * [Connecting to the SQLite database with Perl](http://zetcode.com/db/sqliteperltutorial/connect/)  
           * [Creating a Perl Daemon in Ubuntu « andrewault.net](http://www.andrewault.net/2010/05/27/creating-a-perl-daemon-in-ubuntu/)  
-          * [Cultured Perl: Debugging Perl with ease](http://www.ibm.com/developerworks/library/l-pl-deb/index.html)  
           * [File Test Operators](http://www.cs.cf.ac.uk/Dave/PERL/node69.html)  
           * [Finding the Index and Number of Occurrences of a Pattern in a String | Code Repose](https://coderepose.wordpress.com/2015/08/03/finding-the-index-and-number-of-occurrences-of-a-pattern-in-a-string/)  
           * [First steps in Sqlite and Perl](http://lauraliparulo.altervista.org/first-steps-in-sqlite-and-perl/)  
           * [How to merge two arrays at Perl](http://icfun.blogspot.com/2010/11/how-to-merge-two-arrays-at-perl.html)  
           * [How to read and write JSON files in Perl » OpenAlfa Blog](http://blog-en.openalfa.com/how-to-read-and-write-json-files-in-perl)  
-          * [ImageMagick: PerlMagick, Perl API for ImageMagick](http://www.imagemagick.org/script/perl-magick.php)  
-          * [Include image data in your Perl script or module](http://www.nu42.com/2015/03/include-image-data-perl-module.html)  
           * [Introduction to JSON in Perl - Go4Expert](http://www.go4expert.com/articles/introduction-json-perl-t27215/)  
           * [Introduction to Perl one-liners - good coders code, great reuse](http://www.catonmat.net/blog/introduction-to-perl-one-liners/)  
-          * [LWP::Simple (Perl & LWP)](http://lwp.interglacial.com/ch02_03.htm)  
           * [Learn Perl - Geekuni blog: Perl string concatenation and repetition](http://blog.geekuni.com/2017/10/perl-string-concatenation-and-repetition.html)  
-          * [Learning Perl](http://www.learning-perl.com/)  
           * [Loading module conditionally (and other options) | perlancar's blog](https://perlancar.wordpress.com/2015/03/20/loading-module-conditionally-and-other-options/)  
-          * [Manipulate dates and time with these 10 Perl CPAN modules - TechRepublic](http://www.techrepublic.com/article/manipulate-dates-and-time-with-these-10-perl-cpan-modules/)  
-          * [Minimum Viable Perl](http://mvp.kablamo.org/)  
-          * [Modern Perl 4e Table of Contents](http://modernperlbooks.com/books/modern_perl_2016/)  
           * [Mojolicious::Guides::Cookbook - Cooking with Mojolicious](http://mojolicious.org/perldoc/Mojolicious/Guides/Cookbook)  
           * [Mojolicious::Guides::Tutorial - Get started with Mojolicious](http://mojolicious.org/perldoc/Mojolicious/Guides/Tutorial)  
           * [Mojolicious::Lite - Micro real-time web framework](http://mojolicious.org/perldoc/Mojolicious/Lite)  
           * [POD Web View](http://podwebview.odyniec.net/)  
           * [Perl $^O values for various operating systems](http://alma.ch/perl/perloses.htm)  
-          * [Perl 5 by Example: Debugging Perl](http://affy.blogspot.com/p5be/ch16.htm)  
           * [Perl Regular Expression - Extracting Matches](https://www.perltutorial.org/regular-expression-extracting-matches/)  
           * [Perl Reserved Words](http://www.sarand.com/td/ref_perl_reserve.html)  
-          * [Perl Training Australia - Perl Tips](http://perltraining.com.au/tips/)  
           * [Perl XML::LibXML by Example — Perl XML::LibXML by Example documentation](http://grantm.github.io/perl-libxml-by-example/)  
           * [Perl tutorial: Start](http://www.comp.leeds.ac.uk/Perl/start.html)  
           * [Perl's Special Named Code Blocks - Modern Perl Programming](http://www.modernperlbooks.com/mt/2014/01/perls-special-named-code-blocks.html)  
           * [Perl: Sorting an Array of Hashes | Storm Consultancy – Web Design Bath](https://www.stormconsultancy.co.uk/blog/development/code-snippets/perl-sorting-an-array-of-hashes/)  
           * [Perldoc Browser](https://perldoc.pl/)  
-          * [Practical Perl Programming](https://users.cs.cf.ac.uk/Dave.Marshall/PERL/perl_caller.html)  
           * [Redirecting STDOUT and STDERR to file in perl | Adventures in SCM](https://adventuresinscm.wordpress.com/2012/08/13/redirecting-stdout-and-stderr-to-file-in-perl/)  
           * [Regular expressions in Perl - a summary with examples](https://www.cs.tut.fi/~jkorpela/perl/regexp.html)  
           * [Schwartzian transform - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Schwartzian_transform)  
           * [Simple Perl-based Port Scanner](https://gist.github.com/rkulla/1116085)  
           * [Suffering from Buffering?](http://www.plover.com/FAQs/Buffering.html)  
           * [Using JSON Data In Perl Scripts](http://www.dispersiondesign.com/articles/perl/json_data)  
-          * [Writing websocket chat using Mojolicious Lite · kraih/mojo Wiki](https://github.com/kraih/mojo/wiki/Writing-websocket-chat-using-Mojolicious-Lite)  
           * [davorg/easy-psgi](https://github.com/davorg/easy-psgi)  
-          * [hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl)  
-          * [history-of-cpan/history.md at master · neilb/history-of-cpan](https://github.com/neilb/history-of-cpan/blob/master/history.md)  
-          * [jonallen/perldoc.perl.org: Perl programming documentation - http://perldoc.perl.org](https://github.com/jonallen/perldoc.perl.org)  
-          * [kberov/Mojolicious-Command-generate-resources: Routes from database for your application](https://github.com/kberov/Mojolicious-Command-generate-resources)  
-          * [kberov/Slovo: В началѣ бѣ Слово](https://github.com/kberov/Slovo)  
-          * [miyagawa/plack-handbook](https://github.com/miyagawa/plack-handbook)  
           * [open() for Command Execution](http://www.shlomifish.org/lecture/Perl/Newbies/lecture4/processes/opens.html)  
-          * [rgs/p5-intelligible-unicode: An intelligible guide to Unicode in Perl 5](https://github.com/rgs/p5-intelligible-unicode)  
-          * [thibaultduponchelle/perlres: List of resources about Perl](https://github.com/thibaultduponchelle/perlres)  
-          * [uhub/awesome-perl: A curated list of awesome Perl frameworks, libraries and software.](https://github.com/uhub/awesome-perl/)  
           * [xantus/mojo-websocket-examples: Mojolicious WebSocket Examples](https://github.com/xantus/mojo-websocket-examples)  
-        * [AllAlgorithms/perl: Implementation of All ▲lgorithms in Perl Programming Language](https://github.com/AllAlgorithms/perl)  
         * [CSV Database Scripts](http://www.ezscripting.com/csv/)  
-        * [Code2HTML](https://www.palfrader.org/code/code2html/)  
-        * [EPIC - Eclipse Perl Integration](http://www.epic-ide.org/)  
-        * [Larry Wall's Home Page](http://www.wall.org/~larry/)  
         * [Open Perl IDE](http://open-perl-ide.sourceforge.net/)  
         * [Perl port scanner code](http://www.binarytides.com/perl-port-scanner-code/)  
         * [Perl::Critic](http://perlcritic.com/)  
         * [Perlbrew](http://perlbrew.pl/)  
         * [The Perl Programming Language - www.perl.org](https://www.perl.org/)  
-        * [ack 2.02 -- beyond grep, a source code search tool for programmers](https://beyondgrep.com/)  
-        * [brummett/Devel-hdb: A graphical Perl debugger implemented as a web service](https://github.com/brummett/Devel-hdb)  
-        * [fglock/Perlito: "Perlito" Perl programming language compiler](https://github.com/fglock/Perlito)  
-        * [neo1ite/http_daemons: Simple HTTP daemons](https://github.com/neo1ite/http_daemons)  
         * [perlc - convert perl to C code or executables to "hide" your source](http://marginalhacks.com/Hacks/perlc/)  
         * [skaji/relocatable-perl: self-contained, portable perl binaries](https://github.com/skaji/relocatable-perl)  
       * PowerShell  
@@ -1277,7 +1238,6 @@
           * realpython.com  
             * [A Guide to Excel Spreadsheets in Python With openpyxl – Real Python](https://realpython.com/openpyxl-excel-spreadsheets-python/#bonus-working-with-pandas)  
             * [How to Round Numbers in Python – Real Python](https://realpython.com/python-rounding/)  
-            * [Pandas GroupBy: Your Guide to Grouping Data in Python – Real Python](https://realpython.com/pandas-groupby/)  
             * [Python Best Practices – Real Python](https://realpython.com/tutorials/best-practices/)  
             * [Python, Boto3, and AWS S3: Demystified – Real Python](https://realpython.com/python-boto3-aws-s3/)  
             * [Using PyInstaller to Easily Distribute Python Applications – Real Python](https://realpython.com/pyinstaller-python/)  
@@ -1454,6 +1414,9 @@
             * [How to change the order of DataFrame columns in Pandas? - PythonProgramming.in](https://www.pythonprogramming.in/how-to-change-the-order-of-dataframe-columns.html)  
             * [How to get a value from a cell of a DataFrame? - PythonProgramming.in](https://www.pythonprogramming.in/how-to-get-a-value-from-a-cell-of-a-dataframe.html)  
             * [Iterate over rows and columns in Pandas DataFrame - PythonProgramming.in](https://www.pythonprogramming.in/iterate-over-rows-and-columns-pandas-dataframe.html)  
+          * www.w3resource.com  
+            * [NumPy: Convert numpy datetime64 to Timestamp - w3resource](https://www.w3resource.com/python-exercises/numpy/python-numpy-datetime-exercise-7.php)  
+            * [Python: Get execution time - w3resource](https://www.w3resource.com/python-exercises/python-basic-exercise-57.php)  
           * www.w3schools.com  
             * [Python Delete File](https://www.w3schools.com/python/python_file_remove.asp)  
             * [Python File Write](https://www.w3schools.com/python/python_file_write.asp)  
@@ -1473,6 +1436,7 @@
           * [Convert a string representing the date or epoch time to datetime and change timezone in Python - Sou-Nan-De-Gesu](https://www.soudegesu.com/en/python/python-datetime/)  
           * [Convert string to int in Python – Python Principles](https://pythonprinciples.com/blog/python-convert-string-to-int/)  
           * [Converting time zones for datetime objects in Python - SaltyCrane Blog](https://www.saltycrane.com/blog/2009/05/converting-time-zones-datetime-objects-python/)  
+          * [Extract month and year to a new column in Pandas | Data Interview Questions](https://www.interviewqs.com/ddi_code_snippets/extract_month_year_pandas)  
           * [For loop with range - Learn Python 3 - Snakify](https://snakify.org/en/lessons/for_loop_range/)  
           * [Get Previous, Current and Next-Day System Dates in Python - Data to Fish](https://datatofish.com/get-previous-current-and-next-day-system-dates-in-python/)  
           * [How do I round to 2 decimals in python?](https://gist.github.com/jackiekazil/6201722)  
@@ -1488,7 +1452,9 @@
           * [Installing packages using pip and virtual environments — Python Packaging User Guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)  
           * [Joining DataFrames in Pandas (article) - DataCamp](https://www.datacamp.com/community/tutorials/joining-dataframes-pandas)  
           * [Left Join with Pandas Data Frames in Python - Towards Data Science](https://towardsdatascience.com/left-join-with-pandas-data-frames-in-python-c29c85089ba4)  
+          * [List all the packages, modules installed in python pip - DataScience Made Simple](http://www.datasciencemadesimple.com/list-packages-modules-installed-python/)  
           * [Loading A CSV Into pandas](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_importing_csv/)  
+          * [Multiple Criteria Filtering | Machine Learning, Deep Learning, and Computer Vision](https://www.ritchieng.com/pandas-multi-criteria-filtering/)  
           * [Openpyxl delete Sheet from Excel Workbook - Python Excel](http://www.pythonexcel.com/delete-sheet.php)  
           * [Pandas DataFrames - Writing to and reading from MySQL Table | Pythontic.com](https://pythontic.com/pandas/serialization/mysql)  
           * [PyFormat: Using % and .format() for great good!](https://pyformat.info/)  
@@ -1501,12 +1467,11 @@
           * [Python String Format Cookbook – mkaz.blog](https://mkaz.blog/code/python-string-format-cookbook/)  
           * [Python code for sending HTML email (Attachment + Multiple Recipients )](https://gist.github.com/srv89/1d3dac6672895f5ca65f)  
           * [Python strftime reference](https://strftime.org/)  
-          * [Python: Get execution time - w3resource](https://www.w3resource.com/python-exercises/python-basic-exercise-57.php)  
+          * [Python | Get first and last elements of a list - GeeksforGeeks](https://www.geeksforgeeks.org/python-get-first-and-last-elements-of-a-list/)  
           * [Python: How to Print Without Newline? (The Idiomatic Way) - Afternerd](https://www.afternerd.com/blog/how-to-print-without-a-newline-in-python/)  
           * [Python: List Files in a Directory](https://stackabuse.com/python-list-files-in-a-directory/)  
           * [Python: Sort dictionary by value](https://code-maven.com/slides/python-programming/sort-dictionary-by-value)  
           * [SQLite Python](http://www.sqlitetutorial.net/sqlite-python/)  
-          * [Summarising, Aggregating, and Grouping data in Python Pandas | Shane Lynn](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)  
           * [To get previous month – python | Suji's Blog](https://suji25.wordpress.com/2013/11/18/to-get-previous-month-python/)  
           * [Working with Text Files in Python | Programming Historian](https://programminghistorian.org/lessons/working-with-text-files)  
           * [chomp() functionality in Python | Python Adventures](https://pythonadventures.wordpress.com/2010/10/11/chomp-functionality-in-python/)  
@@ -1553,24 +1518,11 @@
           * [use_proxy: Use a proxy to connect to the internet. in httr: Tools for Working with URLs and HTTP](https://rdrr.io/cran/httr/man/use_proxy.html)  
       * [Category:Programming Tasks - Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks)  
       * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)  
-      * [Programming Languages - Hyperpolyglot](http://hyperpolyglot.org/)  
-      * [The Hello World Collection](http://helloworldcollection.de/)  
     * SSH Clients  
       * [KiTTY](http://www.9bis.net/kitty/)  
-      * [PuTTY: a free telnet/ssh client](http://www.chiark.greenend.org.uk/~sgtatham/putty/)  
+      * [PuTTY: a free telnet/ssh client](https://www.chiark.greenend.org.uk/~sgtatham/putty/)  
       * [SmarTTY - a multi-tabbed SSH client with SCP support](https://sysprogs.com/SmarTTY/)  
       * [WinSCP :: Official Site :: Download](https://winscp.net/eng/download.php)  
-    * Search  
-      * Xapian  
-        * [Basic instructions](https://xapian.org/docs/omega/quickstart.html)  
-        * [CGI parameters to Omega](https://xapian.org/docs/omega/cgiparams.html)  
-        * [Omega Documentation](https://xapian.org/docs/omega/)  
-        * [OmegaExample – Xapian](https://trac.xapian.org/wiki/OmegaExample)  
-        * [The Xapian Project](https://xapian.org/)  
-        * [Xapian Administrator's Guide](https://xapian.org/docs/admin_notes.html)  
-      * [DocFetcher - Fast Document Search](http://docfetcher.sourceforge.net/en/index.html)  
-    * Security  
-      * [qazbnm456/awesome-web-security: A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)  
     * Utilities  
       * [WinMerge - You will see the difference…](http://winmerge.org/?lang=en)  
     * Version Control  
@@ -1590,17 +1542,14 @@
         * [Creating a VM using VBoxManage](https://networking.ringofsaturn.com/Unix/Create_Virtual_Machine_VBoxManage.php)  
         * [Headless Mode for Virtual Machines of VirtualBox - Thomas-Krenn-Wiki](https://www.thomas-krenn.com/en/wiki/Headless_Mode_for_Virtual_Machines_of_VirtualBox)  
         * [How to access shared folders in Ubuntu VM(Oracle Virtualbox) and link them to the home folder - Ask Ubuntu](https://askubuntu.com/questions/323392/how-to-access-shared-folders-in-ubuntu-vmoracle-virtualbox-and-link-them-to-th)  
-        * [Managing Oracle VM VirtualBox from the Command Line](https://www.oracle.com/technetwork/articles/servers-storage-admin/manage-vbox-cli-2264359.html)  
         * [VirtualBox 5.2 on Ubuntu 16.04 LTS Server (Headless) | Website for Students](https://websiteforstudents.com/virtualbox-5-2-on-ubuntu-16-04-lts-server-headless/)  
         * [VirtualBox/SharedFolders - Community Help Wiki](https://help.ubuntu.com/community/VirtualBox/SharedFolders)  
-        * [linux - How to mount a VirtualBox shared folder? - Server Fault](https://serverfault.com/questions/674974/how-to-mount-a-virtualbox-shared-folder)  
       * [Enigma Virtual Box](http://enigmaprotector.com/en/aboutvb.html)  
     * Web  
       * Backend  
         * API  
           * [Postman | API Development Environment](https://www.getpostman.com/)  
           * [Postwoman • API request builder](https://postwoman.io/)  
-          * [RANDOM.ORG - True Random Number Service](https://www.random.org/)  
         * Servers  
           * Mongoose  
             * [GerHobbelt/civet-webserver: Fork of the old mongoose webserver; others have rebranded it as civetweb ... This one comes with tweaks: IPv6 support across the board; extended event callbacks; client-side socket connections using [mg_]connect(); [mg_]socketp](https://github.com/GerHobbelt/civet-webserver)  
@@ -1696,9 +1645,7 @@
           * [Speedtest.net - The Global Broadband Speed Test](http://www.speedtest.net/)  
           * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
         * [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)  
-        * [JSONbin.io | Free JSON storage service and JSON hosting service](https://jsonbin.io/)  
         * [Pingdom – Live Map of Internet Downtime & Browser Data](https://livemap.pingdom.com/)  
-        * [RawGit](https://rawgit.com/)  
-        * [Surge](https://surge.sh/)  
 
 Created using [Bookmark Extractor](https://github.com/ddmitov/bookmark-extractor)
+
