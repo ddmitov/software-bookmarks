@@ -1,6 +1,4 @@
 ## Software
-* Personal  
-* Software  
   * Human Languages  
     * Bulgarian  
       * [Automatic Cyrillic Converter](http://newyork.mashke.org/Conv/)  
@@ -17,17 +15,15 @@
         * [Alpha online. Древнегреческо-русский словарь](http://gurin.tomsknet.ru/alphaonline.html)  
         * [Alpha. Древнегреческо-русский словарь](http://gurin.tomsknet.ru/alpha.html)  
         * [Ancient Greek Keyboard Online LEXILOGOS](https://www.lexilogos.com/keyboard/greek_ancient.htm)  
+        * [Greek Polytonic Unicode Fonts Download](http://www.ellopos.net/elpenor/greek-texts/greek-fonts.asp)  
         * [GreekTranscoder](http://www.greektranscoder.org/)  
+        * [Polytonic Greek fonts](http://www.ucl.ac.uk/GrandLatGreekFonts/frameFonts.html)  
         * [Thesaurus Linguae Graecae - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Thesaurus_Linguae_Graecae)  
         * [Type Greek.com](http://www.typegreek.com/)  
         * [Unicode Classical Greek](http://babel.mml.ox.ac.uk/naughton/polytonic-greek.html)  
         * [Unicode Classical Greek Inputter 2](http://babel.mml.ox.ac.uk/naughton/polytonic-greek-inputter.html)  
         * [Visual keyboard for Classical Greek](http://kalvesmaki.com/keyboards/grc.html)  
         * [tlgu](http://tlgu.carmen.gr/)  
-      * Fonts  
-        * [Fonts for Scholars: the Cardo Font](http://scholarsfonts.net/cardofnt.html)  
-        * [Greek Polytonic Unicode Fonts Download](http://www.ellopos.net/elpenor/greek-texts/greek-fonts.asp)  
-        * [Polytonic Greek fonts](http://www.ucl.ac.uk/GrandLatGreekFonts/frameFonts.html)  
       * Latin  
         * [Collatinus](http://www.collatinus.org/collatinus/)  
         * [Collatinus - Lemmatiseur et analyseur morphologique de textes latins](http://outils.biblissima.fr/fr/collatinus/)  
@@ -43,12 +39,10 @@
       * [BabelStone : BabelMap (Unicode Character Map for Windows)](http://www.babelstone.co.uk/Software/BabelMap.html)  
       * [BabelStone : BabelPad (Unicode Text Editor for Windows)](http://www.babelstone.co.uk/Software/BabelPad.html)  
       * [Shapecatcher: Draw the Unicode character you want!](http://shapecatcher.com/)  
-      * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/printerFriendly/articles/Unicode.html)  
       * [Unicode Character Search](http://www.fileformat.info/info/unicode/char/search.htm)  
       * [Unicode Inputter Page](https://babel.mml.ox.ac.uk/naughton/inputter.html)  
-      * [jagracey/Awesome-Unicode: A curated list of delightful Unicode tidbits, packages and resources.](https://github.com/jagracey/Awesome-Unicode)  
     * [Laurence Anthony's AntConc](http://www.laurenceanthony.net/software/antconc/)  
-    * [Russian Keyboard Online • Cyrillic Alphabet • LEXILOGOS >>](https://www.lexilogos.com/keyboard/russian.htm)  
+    * [Russian Keyboard Online • LEXILOGOS](https://www.lexilogos.com/keyboard/russian.htm)  
   * Multimedia  
     * Video Downloaders  
       * [ClipGrab - Free YouTube Downloader & Converter](http://clipgrab.org/)  
@@ -57,7 +51,6 @@
     * [Flameshot](https://flameshot.js.org/#/)  
     * [ImgBurn](http://www.imgburn.com/)  
     * [Impressive](http://impressive.sourceforge.net/)  
-    * [Open Broadcaster Software | OBS](https://obsproject.com/)  
     * [XnView · Image Viewer, Photo Resizer & Graphic Converter](https://www.xnview.com/en/)  
   * Office  
     * Archivers  
@@ -75,34 +68,35 @@
     * Encryption  
       * [KeePass Password Safe](https://keepass.info/)  
       * [KeePassX](https://www.keepassx.org/)  
-      * [KeePassXC Password Manager](https://keepassxc.org/)  
     * LibreOffice  
       * LibreOffice How To  
         * [Modify footnote number size within "actual footnote"?? - Ask LibreOffice](https://ask.libreoffice.org/en/question/173623/modify-footnote-number-size-within-actual-footnote/)  
         * [how do I reduce the space between lines? - Ask LibreOffice](https://ask.libreoffice.org/en/question/101649/how-do-i-reduce-the-space-between-lines/)  
     * Microsoft Office  
       * Excel How To  
-        * [Combine text and numbers - Excel](https://support.office.com/en-us/article/combine-text-and-numbers-a32c8e0e-90a2-435b-8635-5dd2209044ad)  
-        * [Convert numbers stored as text to numbers - Office Support](https://support.office.com/en-us/article/convert-numbers-stored-as-text-to-numbers-40105f2a-fe79-4477-a171-c5bad0f0a885)  
-        * [Excel formula: Count cells between two numbers | Exceljet](https://exceljet.net/formula/count-cells-between-two-numbers)  
-        * [Excel formula: Sum visible rows in a filtered list | Exceljet](https://exceljet.net/formula/sum-visible-rows-in-a-filtered-list)  
-        * [Excel specifications and limits - Excel](https://support.office.com/en-us/article/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3)  
+        * exceljet.net  
+          * [Excel formula: Count cells between two numbers | Exceljet](https://exceljet.net/formula/count-cells-between-two-numbers)  
+          * [Excel formula: Sum visible rows in a filtered list | Exceljet](https://exceljet.net/formula/sum-visible-rows-in-a-filtered-list)  
+          * [How to use the Excel SUBTOTAL function | Exceljet](https://exceljet.net/excel-functions/excel-subtotal-function)  
+          * [How to use the Excel VLOOKUP function | Exceljet](https://exceljet.net/excel-functions/excel-vlookup-function)  
+        * support.office.com  
+          * [Combine text and numbers - Excel](https://support.office.com/en-us/article/combine-text-and-numbers-a32c8e0e-90a2-435b-8635-5dd2209044ad)  
+          * [Convert numbers stored as text to numbers - Office Support](https://support.office.com/en-us/article/convert-numbers-stored-as-text-to-numbers-40105f2a-fe79-4477-a171-c5bad0f0a885)  
+          * [Create a PivotTable to analyze worksheet data - Office Support](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576?ocmsassetID=RZ010205886&CTT=1&CorrelationId=b851e418-681d-486c-88da-6d92b465d785&ui=en-US&rs=en-US&ad=US)  
+          * [Excel specifications and limits - Excel](https://support.office.com/en-us/article/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3)  
+          * [Refresh PivotTable data - Excel](https://support.office.com/en-us/article/refresh-pivottable-data-6d24cece-a038-468a-8176-8b6568ca9be2)  
+          * [SUBTOTAL function - Office Support](https://support.office.com/en-us/article/subtotal-function-7b027003-f060-4ade-9040-e478765b9939)  
+          * [Show or hide gridlines on a worksheet - Office Support](https://support.office.com/en-us/article/show-or-hide-gridlines-on-a-worksheet-3ef5aacb-4539-4ad5-9945-5ed53772dc4d)  
+        * [Excel Pivot Table -- Dynamic Data Source](https://www.contextures.com/xlPivot01.html)  
         * [How to remove blank columns in Excel](https://www.ablebits.com/office-addins-blog/2018/11/21/remove-blank-columns-excel/)  
-        * [How to use the Excel SUBTOTAL function | Exceljet](https://exceljet.net/excel-functions/excel-subtotal-function)  
-        * [How to use the Excel VLOOKUP function | Exceljet](https://exceljet.net/excel-functions/excel-vlookup-function)  
-        * [SUBTOTAL function - Office Support](https://support.office.com/en-us/article/subtotal-function-7b027003-f060-4ade-9040-e478765b9939)  
-        * [Show or hide gridlines on a worksheet - Office Support](https://support.office.com/en-us/article/show-or-hide-gridlines-on-a-worksheet-3ef5aacb-4539-4ad5-9945-5ed53772dc4d)  
       * [How to import and export signatures in Microsoft Outlook?](https://www.extendoffice.com/documents/outlook/1453-outlook-import-export-signatures.html)  
-    * Optical Character Recognition  
-      * [Ancient Greek OCR](https://ancientgreekocr.org/)  
-      * [tesseract-ocr/tesseract: Tesseract Open Source OCR Engine (main repository)](https://github.com/tesseract-ocr/tesseract)  
+    * [tesseract-ocr/tesseract: Tesseract Open Source OCR Engine (main repository)](https://github.com/tesseract-ocr/tesseract)  
   * Software Development and Administration  
     * Best Practices  
       * [Avoid Common Software Project Mistakes](https://ovid.github.io/articles/avoid-common-software-project-mistakes.html)  
       * [Ind.ie — Ethical Design Manifesto](https://ind.ie/ethical-design/)  
       * [Semantic Versioning 2.0.0](http://semver.org/)  
       * [Widdershin/programmers-oath: An oath for programmers, comparable to the Hippocratic Oath](https://github.com/Widdershin/programmers-oath)  
-      * [google/styleguide: Style guides for Google-originated open-source projects](https://github.com/google/styleguide)  
     * Bug Tracking  
       * JIRA  
         * JIRA How To  
@@ -163,7 +157,6 @@
         * [AWS Account Identifiers - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/acct-identifiers.html)  
         * [checkip.amazonaws.com](http://checkip.amazonaws.com/)  
       * Heroku  
-        * [Heroku cheatsheet](https://devhints.io/heroku)  
         * [How to create a named app in heroku | The Agile Warrior](https://agilewarrior.wordpress.com/2014/05/16/how-to-create-a-named-app-in-heroku/)  
         * [judofyr/perloku: Perl on Heroku](https://github.com/judofyr/perloku)  
         * [pussinboots/heroku-badge: Simple heroku badge.](https://github.com/pussinboots/heroku-badge)  
@@ -177,24 +170,14 @@
             * [docker | Docker Documentation](https://docs.docker.com/engine/reference/commandline/docker/)  
           * [Docker: Remove all images and containers – TechOverflow](https://techoverflow.net/2013/10/22/docker-remove-all-images-and-containers/)  
           * [Exiting a Docker Container · vsupalov.com](https://vsupalov.com/exit-docker-container/)  
-          * [How to See Memory and CPU Usage for All Your Docker Containers (on CentOS 6)](https://dev.to/rubberduck/how-to-see-memory-and-cpu-usage-for-all-your-docker-containers)  
           * [Stopping Docker containers by image name - Ubuntu - Stack Overflow](https://stackoverflow.com/questions/32073971/stopping-docker-containers-by-image-name-ubuntu)  
-          * [dennyzhang/cheatsheet-docker-A4: Docker CheatSheets In A4](https://github.com/dennyzhang/cheatsheet-docker-A4)  
-        * Docker Hub  
-          * [jfloff/alpine-python - Docker Hub](https://hub.docker.com/r/jfloff/alpine-python)  
-        * [LuisAlejandro/dockershelf: A repository containing useful, lightweight and reliable dockerfiles.](https://github.com/LuisAlejandro/dockershelf)  
-        * [docs/python at master · docker-library/docs](https://github.com/docker-library/docs/tree/master/python)  
-        * [gliderlabs/docker-alpine: Alpine Linux Docker image. Win at minimalism!](https://github.com/gliderlabs/docker-alpine)  
-        * [veggiemonk/awesome-docker: A curated list of Docker resources and projects](https://github.com/veggiemonk/awesome-docker)  
+        * [aptible/supercronic: Cron for containers](https://github.com/aptible/supercronic)  
+        * [jfloff/alpine-python - Docker Hub](https://hub.docker.com/r/jfloff/alpine-python)  
       * Kubernetes  
         * Kubernetes How To  
-          * [How to configure kubernetes (microk8s) to use local docker images? - Stack Overflow](https://stackoverflow.com/questions/55549522/how-to-configure-kubernetes-microk8s-to-use-local-docker-images)  
           * [Running Automated Tasks with a CronJob - Kubernetes](https://kubernetes.io/docs/tasks/job/automated-tasks-with-cron-jobs/)  
           * [bambash/kube-cron-example: A collection of ways to schedule jobs in Kubernetes](https://github.com/bambash/kube-cron-example)  
-          * [dennyzhang/cheatsheet-kubernetes-A4: Kubernetes CheatSheets In A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)  
         * [MicroK8s - Fast, Light, Upstream Developer Kubernetes](https://microk8s.io/)  
-        * [rootless-containers/usernetes: Kubernetes installable under $HOME, without the root privileges](https://github.com/rootless-containers/usernetes)  
-      * [aptible/supercronic: Cron for containers](https://github.com/aptible/supercronic)  
     * Continuous Integration  
       * [Customizing the Build - Travis CI](https://docs.travis-ci.com/user/customizing-the-build)  
       * [How do I get Travis' build working directory in .travis.yml? - Stack Overflow](https://stackoverflow.com/questions/14006810/how-do-i-get-travis-build-working-directory-in-travis-yml)  
@@ -229,10 +212,6 @@
         * [Encryption](https://docs.oracle.com/cd/E17076_05/html/bdb-sql/sql_encryption.html)  
         * [Getting Started with the Oracle Berkeley DB SQL APIs](https://docs.oracle.com/cd/E17276_01/html/bdb-sql/index.html)  
         * [Oracle Berkeley DB: SQL](http://www.oracle.com/technetwork/products/berkeleydb/overview/sql-160887.html)  
-      * Concepts  
-        * [How to Fake a Database Design](https://www.slideshare.net/Ovid/how-to-fake-a-database-design)  
-        * [How to fake a database design - Ovid - blogs.perl.org](http://blogs.perl.org/users/ovid/2013/07/how-to-fake-database-design.html)  
-        * [Relational Database Design - Normalization - Database Tutorials | Dream.In.Code](https://www.dreamincode.net/forums/topic/179103-relational-database-design-normalization/)  
       * DBF  
         * [DBF Explorer](http://www.pablosoftwaresolutions.com/html/dbf_explorer.html)  
         * [DBF Viewer Plus](http://www.alexnolan.net/software/dbf.htm)  
@@ -315,7 +294,6 @@
           * [How to Filter for SQL Null or Empty String - SQL Training Online](http://www.sqltrainingonline.com/how-to-filter-for-sql-null-or-empty-string/)  
           * [How to Test Foreign Key Constraints in Your Database - TestProject](https://blog.testproject.io/2017/06/19/test-foreign-key-constraints-database/)  
           * [How to Use IF...THEN Logic in SQL Server](https://chartio.com/resources/tutorials/how-to-use-if-then-logic-in-sql-server/)  
-          * [How to show the queries log in MySQL? | TablePlus](https://tableplus.com/blog/2018/10/how-to-show-queries-log-in-mysql.html)  
           * [List sessions / active connections on MySQL server - MySQL Data Dictionary Queries](https://dataedo.com/kb/query/mysql/list-database-sessions)  
           * [MySQL - DELETE Query - Tutorialspoint](https://www.tutorialspoint.com/mysql/mysql-delete-query.htm)  
           * [MySQL - How to see the foreign key relationships of a table? | TablePlus](https://tableplus.com/blog/2018/08/mysql-how-to-see-foreign-key-relationship-of-a-table.html)  
@@ -323,8 +301,6 @@
           * [MySQL show status: How to show open database connections | alvinalexander.com](https://alvinalexander.com/blog/post/mysql/how-show-open-database-connections-mysql)  
           * [Overview of the SQL REPLACE function](https://www.sqlshack.com/overview-of-the-sql-replace-function/)  
           * [SQL style guide by Simon Holywell](https://www.sqlstyle.guide/)  
-        * [MySQL :: MySQL for Excel](https://www.mysql.com/why-mysql/windows/excel/)  
-        * [ProxySQL](https://proxysql.com/)  
       * SQLite  
         * SQLite Editors  
           * [DB Browser for SQLite](https://sqlitebrowser.org/)  
@@ -350,45 +326,17 @@
       * [MDB Viewer Plus - Open and edit MDB/Accdb files.](http://www.alexnolan.net/software/mdb_viewer_plus.htm)  
       * [SQL Fiddle](http://sqlfiddle.com/)  
       * [enochtangg/quick-SQL-cheatsheet: A quick reminder of all SQL queries and examples on how to use them.](https://github.com/enochtangg/quick-SQL-cheatsheet)  
-    * Desktop Applications using Web Technologies  
-      * Cpp  
-        * [cztomczak/phpdesktop: PHP desktop GUI framework with HTML5 Chrome/IE engine.  ★ Forum:](https://github.com/cztomczak/phpdesktop)  
-        * [jscherer92/Quark: Create Applications with browser technologies using the native engine in your OS.](https://github.com/jscherer92/Quark)  
-      * Go  
-        * [alexflint/gallium: Build desktop applications in Go and HTML.](https://github.com/alexflint/gallium)  
-        * [asticode/go-astilectron: Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)](https://github.com/asticode/go-astilectron)  
-        * [cztomczak/cef2go: CEF2go is an HTML 5 based GUI toolkit for the Go language](https://github.com/cztomczak/cef2go)  
-        * [zserge/lorca: Build cross-platform modern desktop apps in Go + HTML5](https://github.com/zserge/lorca)  
-        * [zserge/webview: Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)](https://github.com/zserge/webview)  
-      * JavaScript  
-        * [GoogleChromeLabs/carlo: Web rendering surface for Node applications](https://github.com/GoogleChromeLabs/carlo)  
-        * [Microsoft/react-native-windows: A framework for building native UWP and WPF apps with React.](https://github.com/Microsoft/react-native-windows)  
-        * [francoislaberge/shrinkray: Lightweight alternative to Electron for making macOS apps using Javascript](https://github.com/francoislaberge/shrinkray)  
-        * [kusti8/proton-native: A React environment for cross platform native desktop apps](https://github.com/kusti8/proton-native)  
-        * [mimecorg/vuido: Native desktop applications using Vue.js.](https://github.com/mimecorg/vuido)  
-        * [nodegui/nodegui: A library for building cross-platform native desktop applications with JavaScript and CSS like styling.](https://github.com/nodegui/nodegui)  
-        * [status-im/react-native-desktop: A Desktop port of React Native, driven by Qt, forked from Canonical](https://github.com/status-im/react-native-desktop)  
-        * [yue/muban: Build cross-platform desktop apps with system webview and native GUI widgets.](https://github.com/yue/muban)  
-      * Python  
-        * [ChrisKnott/Eel: A little Python library for making simple Electron-like HTML/JS GUI apps](https://github.com/ChrisKnott/Eel)  
-        * [cztomczak/cefpython: Python bindings for the Chromium Embedded Framework (CEF)](https://github.com/cztomczak/cefpython)  
-        * [manatlan/wuy: Web User Ynterface : a simple module for making GUI applications (with html/js), with ASyncIO/uvloop/python3](https://github.com/manatlan/wuy)  
-      * [lobtao/phpdesktop: Developing Desktop Applications Like Developing Websites => phpdesktop](https://github.com/lobtao/phpdesktop)  
-      * [mattkol/Chromely: Lightweight Alternative to Electron for .NET/.NET Core HTML5 Desktop Apps](https://github.com/mattkol/Chromely)  
-      * [pojala/electrino: Desktop runtime for apps built on web technologies, using the system's own web browser engine](https://github.com/pojala/electrino)  
     * Diagrams  
+      * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)  
       * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/)  
       * [draw.io](https://www.draw.io/)  
     * Documentation  
       * Markdown  
         * [License Badges for your Project](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)  
         * [Markdown Cheatsheet · adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
-        * [MultiMarkdown/Documentation/Markdown Syntax.md at master · fletcher/MultiMarkdown](https://github.com/fletcher/MultiMarkdown/blob/master/Documentation/Markdown%20Syntax.md)  
-        * [Shields.io: Quality metadata badges for open source projects](http://shields.io/)  
+        * [Shields.io: Quality metadata badges for open source projects](https://shields.io/)  
         * [linguist/languages.yml at master · github/linguist](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)  
         * [markdown - Is there a way to represent a directory tree in a Github README.md? - Stack Overflow](https://stackoverflow.com/questions/23989232/is-there-a-way-to-represent-a-directory-tree-in-a-github-readme-md)  
-        * [markdownlint demo](https://dlaa.me/markdownlint/)  
-        * [matiassingers/awesome-readme: A curated list of awesome READMEs](https://github.com/matiassingers/awesome-readme)  
         * [scotch-io/All-Github-Emoji-Icons: A repo of every emoji icon as a separate file and commit.](https://github.com/scotch-io/All-Github-Emoji-Icons)  
       * [DevDocs](http://devdocs.io/)  
     * Editors  
@@ -403,40 +351,23 @@
         * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)  
         * [Visual Studio Live Share | Visual Studio - Visual Studio](https://visualstudio.microsoft.com/services/live-share/)  
       * [Atom](https://atom.io/)  
-      * [SciTE Text Editor Installer - EBSWIFT.COM](https://www.ebswift.com/scite-text-editor-installer.html)  
       * [Scintilla and SciTE](https://www.scintilla.org/SciTE.html)  
     * Licensing  
       * [Choose an open source license | Choose a License](https://choosealicense.com/)  
       * [Licenses by Name | Open Source Initiative](https://opensource.org/licenses/alphabetical)  
-      * [Open Source Licenses Demystified | Toptal](http://www.toptal.com/open-source/developers-guide-to-open-source-licenses)  
       * [The Open Source Definition (Annotated) | Open Source Initiative](https://opensource.org/docs/definition.php)  
       * [idleberg/Creative-Commons-Markdown: Markdown-formatted Creative Commons licenses](https://github.com/idleberg/Creative-Commons-Markdown)  
       * [remy/mit-license: Hosted MIT License with details controlled through this repo](https://github.com/remy/mit-license)  
-    * Mindmaps  
-      * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)  
-      * [View Your Mind](http://www.insilmaril.de/vym/)  
-      * [yEd - Graph Editor](https://www.yworks.com/en/products_yed_about.html)  
     * Network Administration  
-      * Networks How To  
-        * [Application Ports](http://www.pcwintech.com/application-ports)  
-        * [IANA PORT NUMBERS](http://www.iana.org/assignments/port-numbers)  
-        * [OSI model - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/OSI_model)  
-        * [The TCP/IP Guide - Table Of Contents](http://www.tcpipguide.com/free/t_toc.htm)  
-        * [http://www.iana.org/assignments/multicast-addresses/](http://www.iana.org/assignments/multicast-addresses/)  
-        * [http://www.iana.org/assignments/protocol-numbers/](http://www.iana.org/assignments/protocol-numbers/)  
-      * [Nmap - Free Security Scanner For Network Exploration & Security Audits.](http://nmap.org/)  
+      * [OSI model - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/OSI_model)  
       * [Online IP Subnet Calculator](http://www.subnet-calculator.com/)  
       * [Technitium MAC Address Changer v5 Release 3 (FREEWARE)](http://www.technitium.com/tmac/index.html)  
     * Operating Systems  
       * Linux  
         * AppImage  
-          * AppImage How To  
-            * [AppImage Support | Firejail](https://firejail.wordpress.com/documentation-2/appimage-support/)  
-            * [AppImages · AppImage/AppImageKit Wiki](https://github.com/AppImage/AppImageKit/wiki/AppImages)  
           * [AppImage | Linux apps that run anywhere](http://appimage.org/)  
-          * [AppImage/AppImageKit: Package desktop applications as AppImages that run on common Linux-based operating systems](https://github.com/AppImage/AppImageKit)  
+          * [AppImages · AppImage/AppImageKit Wiki](https://github.com/AppImage/AppImageKit/wiki/AppImages)  
           * [AppStream Generator](http://output.jsbin.com/qoqukof)  
-          * [Ribtoks/linuxdeploy: Tool for deploying standalone Linux applications](https://github.com/ribtoks/linuxdeploy)  
           * [probonopd/linuxdeployqt: Makes Linux applications self-contained by copying in the Qt libraries and plugins that the application uses.](https://github.com/probonopd/linuxdeployqt)  
         * Linux Distributions  
           * [GParted -- Live CD/USB/PXE/HD](https://gparted.org/livecd.php)  
@@ -457,31 +388,19 @@
             * [automation - CRON job to run on the last day of the month - Stack Overflow](https://stackoverflow.com/questions/6139189/cron-job-to-run-on-the-last-day-of-the-month)  
             * [linux - How do I get out of a screen without typing 'exit'? - Stack Overflow](https://stackoverflow.com/questions/4847691/how-do-i-get-out-of-a-screen-without-typing-exit)  
           * [A simple command to toggle mute with pulseaudio (any sink)](https://www.commandlinefu.com/commands/view/13133/a-simple-command-to-toggle-mute-with-pulseaudio-any-sink)  
-          * [Add User to Sudoers CentOS | Add User to Sudo Group | RoseHosting](https://www.rosehosting.com/blog/how-to-create-a-sudo-user-on-centos-7/)  
           * [How To Suspend A Process And Resume It Later In Linux - OSTechNix](https://www.ostechnix.com/suspend-process-resume-later-linux/)  
-          * [Kernel parameters - ArchWiki](https://wiki.archlinux.org/index.php/kernel_parameters)  
           * [LXDE: Autostart Apps With .desktop Files](http://pclosmag.com/html/Issues/201009/page10.html)  
           * [Linux Chown Command | Linuxize](https://linuxize.com/post/linux-chown-command/)  
-          * [Linux Standard Base (LSB) | The Linux Foundation](http://www.linuxfoundation.org/collaborate/workgroups/lsb)  
-          * [NanXiao/read-nmon-code-to-learn-analyzing-linux-performance: Read Nmon Code To Learn Analyzing Linux Performance:](https://github.com/NanXiao/read-nmon-code-to-learn-analyzing-linux-performance)  
-          * [Running applications automatically when X starts](http://www.debian-administration.org/article/50/Running_applications_automatically_when_X_starts)  
-          * [The Debian Administrator's Handbook](http://debian-handbook.info/)  
           * [Volume Control and Output Selection with PulseAudio Command Line Tools | Tero Karvinen](http://terokarvinen.com/2015/volume-control-with-pulseaudio-command-line-tools)  
+          * [[Solved] System Program Problem Detected in Ubuntu](https://itsfoss.com/how-to-fix-system-program-problem-detected-ubuntu/)  
           * [crontab.guru - the cron schedule expression editor](https://crontab.guru/)  
-          * [imthenachoman/How-To-Secure-A-Linux-Server: An evolving how-to guide for securing a Linux server.](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)  
           * [ssh - How to upload local file to server through Linux terminal - Super User](https://superuser.com/questions/850740/how-to-upload-local-file-to-server-through-linux-terminal)  
-          * [traceroute GNU Linux](http://www.perpetualpc.net/srtd_traceroute.html)  
-        * [Firejail | security sandbox](https://firejail.wordpress.com/)  
         * [PhotoRec - CGSecurity](http://www.cgsecurity.org/wiki/PhotoRec)  
         * [TestDisk - CGSecurity](http://www.cgsecurity.org/wiki/TestDisk)  
         * [Tomas-M/iotop: A top utility for IO](https://github.com/Tomas-M/iotop)  
         * [lookbusy -- a synthetic load generator](http://www.devin.com/lookbusy/)  
         * [luebking/qarma: Zenity Clone for Qt4/Qt5](https://github.com/luebking/qarma)  
       * Windows  
-        * Portable  
-          * [PortableApps.com - Portable software for USB, portable, and cloud drives](https://portableapps.com/)  
-          * [Portapps - Applications](https://portapps.io/apps/)  
-          * [winPenPack - The Portable Software Collection](http://www.winpenpack.com/en/news.php)  
         * Windows How To  
           * [Help with Microsoft Authenticator app - Azure Active Directory | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/user-help/user-help-auth-app-faq)  
         * [Core Temp](http://www.alcpu.com/CoreTemp/)  
@@ -491,14 +410,13 @@
         * [HWiNFO & HWiNFO32 - Hardware Information and Analysis Tools](https://www.hwinfo.com/)  
         * [Image Writer for Windows in Launchpad](https://launchpad.net/win32-image-writer)  
         * [NirSoft - freeware utilities: password recovery, system utilities, desktop utilities](https://www.nirsoft.net/)  
+        * [PortableApps.com - Portable software for USB, portable, and cloud drives](https://portableapps.com/)  
         * [Rapid Environment Editor :: Freeware Windows environment variables editor](https://www.rapidee.com/)  
         * [SmarTTY - a multi-tabbed SSH client with SCP support](http://smartty.sysprogs.com/)  
-        * [Sysinternals Suite - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)  
         * [WinCDEmu - the easiest way to mount an ISO. And more...](http://wincdemu.sysprogs.org/)  
         * [Windows Sysinternals - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/en-us/sysinternals/)  
         * [XSearch - Search files on your computer](http://www.easexp.com/xsearch/index.html)  
         * [maravento/winzenity: Zenity Portable for Windows](https://github.com/maravento/winzenity)  
-      * [osquery | Easily ask questions about your Linux, Windows, and macOS infrastructure](https://osquery.io/)  
     * Plotting  
       * Matplotlib  
         * [Customizing Matplotlib with style sheets and rcParams — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/tutorials/introductory/customizing.html)  
@@ -512,17 +430,9 @@
         * [AutoIt Script Editor - AutoIt](https://www.autoitscript.com/site/autoit-script-editor/)  
       * Bash  
         * Bash How To  
-          * [Bash One-Liners Explained, Part I: Working with files - good coders code, great reuse](http://www.catonmat.net/blog/bash-one-liners-explained-part-one/)  
-          * [Bash Scripting Cheatsheet](https://gist.github.com/eashish93/b042c6367eb7061e6eff20b738d8baed)  
-          * [Bash scripting cheatsheet](https://devhints.io/bash)  
-          * [Basic Linux Shell Commands | Programming Logic](http://www.programminglogic.com/basic-linux-shell-commands/)  
           * [How do I parse command line arguments in Bash? - Stack Overflow](https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments-in-bash)  
           * [Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide)  
-          * [alebcay/awesome-shell: A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.](https://github.com/alebcay/awesome-shell)  
           * [bash - How to copy some, but not all files? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/41693/how-to-copy-some-but-not-all-files)  
-          * [learnbyexample/Command-line-text-processing: From finding text to search and replace, from sorting to beautifying text and more](https://github.com/learnbyexample/Command-line-text-processing)  
-          * [progrium/bashstyle: Let's do Bash right!](https://github.com/progrium/bashstyle)  
-          * [you-dont-need/You-Dont-Need-GUI: Stop relying on GUI; CLI **ROCKS**](https://github.com/you-dont-need/You-Dont-Need-GUI)  
         * [ShellCheck – shell script analysis tool](https://www.shellcheck.net/)  
       * C  
         * C How To  
@@ -537,7 +447,6 @@
           * [Read a whole file into memory in C](https://www.lemoda.net/c/read-whole-file/)  
           * [Set and get environment variables in C](http://www.lemoda.net/c/set-get-env/)  
           * [The GNU C Library: Environment Access](http://www.gnu.org/software/libc/manual/html_node/Environment-Access.html)  
-          * [kozross/awesome-c: A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.](https://github.com/kozross/awesome-c)  
         * [ilvn/aes256ctr: Byte-oriented AES-256 in CTR mode](https://github.com/ilvn/aes256ctr)  
         * [littlstar/b64.c: Base64 encode/decode](https://github.com/littlstar/b64.c)  
       * C++  
@@ -689,8 +598,6 @@
             * [Deploying Qt or how to avoid “could not find or load the Qt platform plugin” | Tripleboot blog](http://www.tripleboot.org/?p=138)  
             * [How to exchange data between JavaScript and QT using QWebView - Embedded Lab - Community](https://sites.google.com/a/embeddedlab.org/community/technical-articles/qt/qt-posts/howtoexchangedatabetweenjavascriptandqtusingqwebview)  
             * [In-memory ZIP File Access Using Qt » asmaloney.com](http://asmaloney.com/2011/12/code/in-memory-zip-file-access-using-qt/)  
-            * [Introduction to Design Patterns in C++ with Qt](https://www.ics.com/designpatterns/book/index.html)  
-            * [JesseTG/awesome-qt: A curated list of awesome tools, libraries, and resources for the Qt framework.](https://github.com/JesseTG/awesome-qt)  
             * [Qt Events - Programming Examples](http://programmingexamples.wikidot.com/qt-events)  
             * [Qt Notes: Working with QSslSocket | dgraves.org](http://dgraves.org/content/qt-notes-working-qsslsocket)  
             * [Your Guide for Deploying Qt Applications to MacOS | ICS](https://www.ics.com/blog/your-guide-deploying-qt-applications-macos)  
@@ -742,15 +649,6 @@
       * JavaScript  
         * Electron  
           * Electron How To  
-            * Official Documentation  
-              * [API Reference - Electron](http://electron.atom.io/docs/api/)  
-              * [Built on Electron](http://electron.atom.io/apps/)  
-              * [Documentation - Electron](http://electron.atom.io/docs/)  
-              * [electron/LICENSE at master · electron/electron](https://github.com/electron/electron/blob/master/LICENSE)  
-              * [electron/electron-api-demos: Explore the Electron APIs](https://github.com/electron/electron-api-demos)  
-              * [electron/electron-npm-packages: A collection of all npm packages that mention `electron` in their package.json](https://github.com/electron/electron-npm-packages)  
-              * [electron/ipc-main.md at master · electron/electron](https://github.com/electron/electron/blob/master/docs/api/ipc-main.md)  
-              * [electron/security.md at master · electron/electron](https://github.com/electron/electron/blob/master/docs/tutorial/security.md)  
             * stackoverflow.com  
               * [Electron: jQuery is not defined - Stack Overflow](https://stackoverflow.com/questions/32621988/electron-jquery-is-not-defined)  
               * [How to access BrowserWindow Javascript global from main process in electron? - Stack Overflow](https://stackoverflow.com/questions/30681639/how-to-access-browserwindow-javascript-global-from-main-process-in-electron)  
@@ -762,24 +660,13 @@
               * [node.js - How to pass command line argument in electron - Stack Overflow](https://stackoverflow.com/questions/30815446/how-to-pass-command-line-argument-in-electron)  
               * [node.js - How to use node_modules within Electron? - Stack Overflow](https://stackoverflow.com/questions/30664111/how-to-use-node-modules-within-electron)  
             * [As It Stands - Electron Security](http://blog.scottlogic.com/2016/03/09/As-It-Stands-Electron-Security.html)  
-            * [Avoiding pitfalls developing with Electron](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/september/avoiding-pitfalls-developing-with-electron/)  
-            * [Creating Your First Desktop App With HTML, JS and Electron | Tutorialzine](http://tutorialzine.com/2015/12/creating-your-first-desktop-app-with-html-js-and-electron/)  
-            * [How do you make an electron browser window full screen? - electron - Atom Discussion](https://discuss.atom.io/t/how-do-you-make-an-electron-browser-window-full-screen/20083)  
-            * [How to deploy an Electron app as a executable or installable in Windows? - electron - Atom Discussion](https://discuss.atom.io/t/how-to-deploy-an-electron-app-as-a-executable-or-installable-in-windows/16355/2)  
-            * [How to open the window in fullscreen mode when the app starts? - electron - Atom Discussion](https://discuss.atom.io/t/how-to-open-the-window-in-fullscreen-mode-when-the-app-starts/17083)  
-            * [IPC send from main process to renderer - electron - Atom Discussion](https://discuss.atom.io/t/ipc-send-from-main-process-to-renderer/16046/3)  
-            * [electron-userland/electron-packager: Package and distribute your Electron app with OS-specific bundles (.app, .exe etc) via JS or CLI](https://github.com/electron-userland/electron-packager)  
-            * [felixrieseberg/electron-windows-sample: A minimal Electron sample application showing how to make an Electron app look native on Windows](https://github.com/felixrieseberg/electron-windows-sample)  
-            * [hokein/electron-sample-apps: Sample apps for Electron](https://github.com/hokein/electron-sample-apps)  
-            * [sindresorhus/awesome-electron: Useful resources for creating apps with Electron](https://github.com/sindresorhus/awesome-electron)  
-            * [szwacz/electron-boilerplate: Boilerplate application for Electron runtime](https://github.com/szwacz/electron-boilerplate)  
+            * [electron/LICENSE at master · electron/electron](https://github.com/electron/electron/blob/master/LICENSE)  
+            * [electron/electron-npm-packages: A collection of all npm packages that mention `electron` in their package.json](https://github.com/electron/electron-npm-packages)  
+            * [electron/ipc-main.md at master · electron/electron](https://github.com/electron/electron/blob/master/docs/api/ipc-main.md)  
+            * [electron/security.md at master · electron/electron](https://github.com/electron/electron/blob/master/docs/tutorial/security.md)  
           * [Electron](http://electron.atom.io/)  
           * [Releases · electron/electron](https://github.com/electron/electron/releases)  
         * JavaScript How To  
-          * developers.google.com  
-            * [Custom Elements v1: Reusable Web Components  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/web-components/customelements)  
-            * [Hosted Libraries  |  Hosted Libraries  |  Google Developers](https://developers.google.com/speed/libraries/)  
-            * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)  
           * stackoverflow.com  
             * [Calling a JavaScript function named in a variable - Stack Overflow](https://stackoverflow.com/questions/1723287/calling-a-javascript-function-named-in-a-variable)  
             * [How do I know which version of Javascript I'm using? - Stack Overflow](https://stackoverflow.com/questions/4271566/how-do-i-know-which-version-of-javascript-im-using)  
@@ -836,12 +723,8 @@
             * [Location reload() Method](http://www.w3schools.com/jsref/met_loc_reload.asp)  
             * [onpaste Event](http://www.w3schools.com/jsref/event_onpaste.asp)  
             * [onsubmit Event](http://www.w3schools.com/jsref/event_onsubmit.asp)  
-          * [30-seconds/30-seconds-of-code: Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.](https://github.com/30-seconds/30-seconds-of-code)  
-          * [BonsaiDen/JavaScript-Garden: A collection of documentation about the most quirky parts of the JavaScript language.](https://github.com/BonsaiDen/JavaScript-Garden)  
-          * [Chalarangelo/30-seconds-of-code: Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.](https://github.com/Chalarangelo/30-seconds-of-code)  
           * [Creating a downloadable text-file using blobs - JSFiddle](http://jsfiddle.net/UselessCode/qm5AG/)  
           * [Detect the Operating System of User using JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/detect-the-operating-system-of-user-using-javascript/)  
-          * [ES2015+ cheatsheet](https://devhints.io/es6)  
           * [Eloquent JavaScript](https://eloquentjavascript.net/)  
           * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)  
           * [How I'm (Not) Using jQuery](https://developer.telerik.com/content-types/tutorials/im-not-using-jquery/)  
@@ -849,36 +732,31 @@
           * [JavaScript: Allowed Characters in Identifier](http://xahlee.info/js/js_unicode_in_identifiers.html)  
           * [Read Text Files Using the JavaScript FileReader](https://www.htmlgoodies.com/beyond/javascript/read-text-files-using-the-javascript-filereader.html)  
           * [The Cost of JavaScript in 2018 | CSS-Tricks](https://css-tricks.com/the-cost-of-javascript-in-2018/)  
-          * [The Modern Javascript Tutorial](https://javascript.info/)  
           * [Valid JavaScript variable names in ECMAScript 5 · Mathias Bynens](https://mathiasbynens.be/notes/javascript-identifiers)  
           * [You Can't Detect A Touchscreen | Blog | Stu Cox](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/)  
           * [You Don't Need jQuery! – Free yourself from the chains of jQuery by embracing and understanding the modern Web API and discovering various directed libraries to help you fill in the gaps.](https://blog.garstasio.com/you-dont-need-jquery/)  
-          * [airbnb/javascript: JavaScript Style Guide](https://github.com/airbnb/javascript)  
-          * [elsewhencode/project-guidelines: A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)  
-          * [feross/JavaScript Standard Style Guide](https://github.com/feross/standard)  
-          * [getify/You-Dont-Know-JS: A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS)  
-          * [leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.](https://github.com/leonardomso/33-js-concepts)  
-          * [trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)  
-          * [wearehive/project-guidelines: A set of best practices for JavaScript projects](https://github.com/wearehive/project-guidelines)  
         * JavaScript Libraries  
           * jQuery  
             * Plugins  
               * [Textarea autoResize jQuery plugin · Amaury Carrade](https://amaury.carrade.eu/projects/jquery/autoResize.html)  
               * [jQuery.selection - jQuery plugin](http://madapaja.github.io/jquery.selection/)  
             * jQuery How To  
-              * [$( document ).ready() | jQuery Learning Center](https://learn.jquery.com/using-jquery-core/document-ready/)  
-              * [Avoiding Conflicts with Other Libraries | jQuery Learning Center](https://learn.jquery.com/using-jquery-core/avoid-conflicts-other-libraries/)  
-              * [jQuery AJAX get() and post() Methods](http://www.w3schools.com/jquery/jquery_ajax_get_post.asp)  
-              * [jQuery getScript() Method](http://www.w3schools.com/jquery/ajax_getscript.asp)  
-              * [jQuery.post() | jQuery API Documentation](https://api.jquery.com/jquery.post/)  
-              * [javascript - How can I refresh a page with jQuery? - Stack Overflow](https://stackoverflow.com/questions/5404839/how-can-i-refresh-a-page-with-jquery)  
-              * [javascript - jQuery get all node names (both parent and children) - Stack Overflow](https://stackoverflow.com/questions/6390139/jquery-get-all-node-names-both-parent-and-children)  
-              * [javascript - jQuery parsing XML: get an element with a specific attribute - Stack Overflow](https://stackoverflow.com/questions/9232170/jquery-parsing-xml-get-an-element-with-a-specific-attribute)  
-              * [jquery - Is it possible to write data to file using only JavaScript? - Stack Overflow](https://stackoverflow.com/questions/21012580/is-it-possible-to-write-data-to-file-using-only-javascript)  
-              * [jquery - Simultaneously write text from one Textarea to another Textarea - Stack Overflow](https://stackoverflow.com/questions/10133378/simultaneously-write-text-from-one-textarea-to-another-textarea)  
-              * [jquery - When and why to 'return false' in JavaScript? - Stack Overflow](https://stackoverflow.com/questions/855360/when-and-why-to-return-false-in-javascript)  
+              * learn.jquery.com  
+                * [$( document ).ready() | jQuery Learning Center](https://learn.jquery.com/using-jquery-core/document-ready/)  
+                * [Avoiding Conflicts with Other Libraries | jQuery Learning Center](https://learn.jquery.com/using-jquery-core/avoid-conflicts-other-libraries/)  
+              * stackoverflow.com  
+                * [javascript - How can I refresh a page with jQuery? - Stack Overflow](https://stackoverflow.com/questions/5404839/how-can-i-refresh-a-page-with-jquery)  
+                * [javascript - jQuery get all node names (both parent and children) - Stack Overflow](https://stackoverflow.com/questions/6390139/jquery-get-all-node-names-both-parent-and-children)  
+                * [javascript - jQuery parsing XML: get an element with a specific attribute - Stack Overflow](https://stackoverflow.com/questions/9232170/jquery-parsing-xml-get-an-element-with-a-specific-attribute)  
+                * [jquery - Is it possible to write data to file using only JavaScript? - Stack Overflow](https://stackoverflow.com/questions/21012580/is-it-possible-to-write-data-to-file-using-only-javascript)  
+                * [jquery - Simultaneously write text from one Textarea to another Textarea - Stack Overflow](https://stackoverflow.com/questions/10133378/simultaneously-write-text-from-one-textarea-to-another-textarea)  
+                * [jquery - When and why to 'return false' in JavaScript? - Stack Overflow](https://stackoverflow.com/questions/855360/when-and-why-to-return-false-in-javascript)  
+              * www.w3schools.com  
+                * [jQuery AJAX get() and post() Methods](http://www.w3schools.com/jquery/jquery_ajax_get_post.asp)  
+                * [jQuery getScript() Method](http://www.w3schools.com/jquery/ajax_getscript.asp)  
             * [jQuery: The Write Less, Do More, JavaScript Library](https://jquery.com/)  
           * [Ace - The High Performance Code Editor for the Web](http://ace.c9.io/)  
+          * [Hosted Libraries  |  Hosted Libraries  |  Google Developers](https://developers.google.com/speed/libraries/)  
           * [alertify.js - browser dialogs never looked so good](http://fabien-d.github.io/alertify.js/)  
           * [michmech/xonomy: A schema-driven XML editor for the web.](https://github.com/michmech/xonomy)  
         * NW.js  
@@ -888,7 +766,6 @@
             * [How to get the location of nw.exe? · Issue #1197 · nwjs/nw.js](https://github.com/nwjs/nw.js/issues/1197)  
             * [How to package and distribute your apps · nwjs/nw.js Wiki](https://github.com/nwjs/nw.js/wiki/how-to-package-and-distribute-your-apps)  
             * [Security · nwjs/nw.js Wiki](https://github.com/nwjs/nw.js/wiki/security)  
-            * [Tutorials on Node WebKit · nwjs/nw.js Wiki](https://github.com/nwjs/nw.js/wiki/Tutorials-on-Node-WebKit)  
           * [dl.nwjs.io](http://dl.nwjs.io/)  
         * Node.js  
           * Node.js How To  
@@ -904,12 +781,13 @@
               * [javascript - fs: how do I locate a parent folder? - Stack Overflow](https://stackoverflow.com/questions/7083045/fs-how-do-i-locate-a-parent-folder)  
               * [node.js - Nodejs Child Process: write to stdin from an already initialised process - Stack Overflow](https://stackoverflow.com/questions/13230370/nodejs-child-process-write-to-stdin-from-an-already-initialised-process)  
               * [node.js - Nodejs npm show latest version of a module - Stack Overflow](https://stackoverflow.com/questions/11949419/nodejs-npm-show-latest-version-of-a-module)  
+            * www.hacksparrow.com  
+              * [Difference between spawn and exec of Node.js child_process](http://www.hacksparrow.com/difference-between-spawn-and-exec-of-node-js-child_process.html)  
+              * [How to write Node.js Modules](https://www.hacksparrow.com/how-to-write-node-js-modules.html)  
             * [Checking whether a file/directory exists without using fs.exists | gregJS](https://www.gregjs.com/javascript/2016/checking-whether-a-file-directory-exists-without-using-fs-exists/)  
             * [Child Process Node.js v5.10.1 Manual & Documentation](https://nodejs.org/api/child_process.html)  
             * [Customizing your npm package's page on Tonic - npm - RunKit Discuss](https://discuss.runkit.com/t/customizing-your-npm-packages-page-on-tonic/23)  
-            * [Difference between spawn and exec of Node.js child_process](http://www.hacksparrow.com/difference-between-spawn-and-exec-of-node-js-child_process.html)  
             * [File Manipulation with Node.js | DevDungeon](http://www.devdungeon.com/content/file-manipulation-nodejs)  
-            * [How to write Node.js Modules](https://www.hacksparrow.com/how-to-write-node-js-modules.html)  
             * [Node - Child Processes](https://gist.github.com/leommoore/4484379)  
             * [Node.js Best Practices – Just Build Something](http://justbuildsomething.com/node-js-best-practices/)  
             * [Package.json validator](http://package-json-validator.com/)  
@@ -932,12 +810,9 @@
           * [ServiceWorker Cookbook](https://serviceworke.rs/)  
           * [The Web App Manifest  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/web-app-manifest/)  
           * [mdn/simple-web-worker: A simple web worker test.](https://github.com/mdn/simple-web-worker)  
-        * [Bogdan-Lyashenko/js-code-to-svg-flowchart: js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart)  
         * [JavaScript variable name validator](https://mothereff.in/js-variables)  
-        * [UglifyJS — JavaScript parser, compressor, minifier written in JS](http://lisperator.net/uglifyjs/)  
         * [douglascrockford/JSLint: The JavaScript Code Quality Tool](https://github.com/douglascrockford/JSLint)  
         * [douglascrockford/JSMin: JavaScript Minification Filter](https://github.com/douglascrockford/JSMin)  
-        * [standard/standard: JavaScript Style Guide, with linter & automatic code fixer](https://github.com/standard/standard)  
       * NSIS  
         * [Setting Environment Variables - NSIS](http://nsis.sourceforge.net/Setting_Environment_Variables)  
         * [nullsoft scriptable install system](https://nsis.sourceforge.io/Main_Page)  
@@ -983,11 +858,9 @@
         * CPAN  
           * [Browser::Open - open a browser in a given URL - metacpan.org](https://metacpan.org/pod/distribution/Browser-Open/lib/Browser/Open.pm)  
           * [DBD::SQLeet - Self-contained RDBMS in a DBI Driver - metacpan.org](https://metacpan.org/pod/DBD::SQLeet)  
-          * [DBI - Database independent interface for Perl - metacpan.org](https://metacpan.org/pod/DBI)  
           * [DBI::Profile - Performance profiling and benchmarking for the DBI - metacpan.org](https://metacpan.org/pod/DBI::Profile)  
           * [Device::SerialPort - Linux/POSIX emulation of Win32::SerialPort functions. - metacpan.org](https://metacpan.org/pod/release/COOK/Device-SerialPort-1.04/SerialPort.pm)  
           * [Module::ScanDeps - Recursively scan Perl code for dependencies - metacpan.org](https://metacpan.org/pod/Module::ScanDeps)  
-          * [XML-LibXML-2.0117 - Interface to Gnome libxml2 xml parsing and DOM library - metacpan.org](https://metacpan.org/release/XML-LibXML)  
           * [XML::LibXML::Node - Abstract Base Class of XML::LibXML Nodes - metacpan.org](https://metacpan.org/pod/distribution/XML-LibXML/lib/XML/LibXML/Node.pod)  
           * [XML::LibXML::Parser - Parsing XML Data with XML::LibXML - metacpan.org](https://metacpan.org/pod/distribution/XML-LibXML/lib/XML/LibXML/Parser.pod)  
           * [XML::LibXML::PrettyPrint - add pleasant whitespace to a DOM tree - metacpan.org](https://metacpan.org/pod/release/TOBYINK/XML-LibXML-PrettyPrint-0.006/lib/XML/LibXML/PrettyPrint.pm)  
@@ -1017,7 +890,6 @@
             * [Hidden Treasures of the Perl Core - Perl.com](http://www.perl.com/pub/2003/05/29/treasures.html)  
             * [How to cleanly uninstall a Perl module](https://www.perl.com/article/3/2013/3/27/How-to-cleanly-uninstall-a-Perl-module/)  
             * [Perl Debugger Quick Reference - Perl.com](http://www.perl.com/pub/2004/11/24/debugger_ref.html)  
-            * [Perl Unicode Cookbook: Decode Standard Filehandles as UTF-8 - Perl.com](http://www.perl.com/pub/2012/04/perlunicook-decode-standard-filehandles-as-utf-8.html)  
             * [The Many Dates and Times of Perl - Perl.com](http://www.perl.com/pub/2003/03/13/datetime.html)  
           * perl101.org  
             * [Perl 101 - Command-line Switches](http://perl101.org/command-line-switches.html)  
@@ -1039,7 +911,6 @@
             * [lib - perldoc.perl.org](https://perldoc.perl.org/lib.html)  
             * [localtime - perldoc.perl.org](https://perldoc.perl.org/functions/localtime.html)  
             * [ops - perldoc.perl.org](https://perldoc.perl.org/ops.html)  
-            * [perlbook - perldoc.perl.org](https://perldoc.perl.org/perlbook.html)  
             * [perldebguts - perldoc.perl.org](https://perldoc.perl.org/perldebguts.html)  
             * [perldebug - perldoc.perl.org](https://perldoc.perl.org/perldebug.html)  
             * [perlembed - perldoc.perl.org](https://perldoc.perl.org/perlembed.html)  
@@ -1172,7 +1043,6 @@
           * [Introduction to Perl one-liners - good coders code, great reuse](http://www.catonmat.net/blog/introduction-to-perl-one-liners/)  
           * [Learn Perl - Geekuni blog: Perl string concatenation and repetition](http://blog.geekuni.com/2017/10/perl-string-concatenation-and-repetition.html)  
           * [Loading module conditionally (and other options) | perlancar's blog](https://perlancar.wordpress.com/2015/03/20/loading-module-conditionally-and-other-options/)  
-          * [Mojolicious::Guides::Cookbook - Cooking with Mojolicious](http://mojolicious.org/perldoc/Mojolicious/Guides/Cookbook)  
           * [Mojolicious::Guides::Tutorial - Get started with Mojolicious](http://mojolicious.org/perldoc/Mojolicious/Guides/Tutorial)  
           * [Mojolicious::Lite - Micro real-time web framework](http://mojolicious.org/perldoc/Mojolicious/Lite)  
           * [POD Web View](http://podwebview.odyniec.net/)  
@@ -1181,7 +1051,6 @@
           * [Perl Reserved Words](http://www.sarand.com/td/ref_perl_reserve.html)  
           * [Perl XML::LibXML by Example — Perl XML::LibXML by Example documentation](http://grantm.github.io/perl-libxml-by-example/)  
           * [Perl tutorial: Start](http://www.comp.leeds.ac.uk/Perl/start.html)  
-          * [Perl's Special Named Code Blocks - Modern Perl Programming](http://www.modernperlbooks.com/mt/2014/01/perls-special-named-code-blocks.html)  
           * [Perl: Sorting an Array of Hashes | Storm Consultancy – Web Design Bath](https://www.stormconsultancy.co.uk/blog/development/code-snippets/perl-sorting-an-array-of-hashes/)  
           * [Perldoc Browser](https://perldoc.pl/)  
           * [Redirecting STDOUT and STDERR to file in perl | Adventures in SCM](https://adventuresinscm.wordpress.com/2012/08/13/redirecting-stdout-and-stderr-to-file-in-perl/)  
@@ -1190,6 +1059,7 @@
           * [Simple Perl-based Port Scanner](https://gist.github.com/rkulla/1116085)  
           * [Suffering from Buffering?](http://www.plover.com/FAQs/Buffering.html)  
           * [Using JSON Data In Perl Scripts](http://www.dispersiondesign.com/articles/perl/json_data)  
+          * [Writing websocket chat using Mojolicious Lite · kraih/mojo Wiki](https://github.com/kraih/mojo/wiki/Writing-websocket-chat-using-Mojolicious-Lite)  
           * [davorg/easy-psgi](https://github.com/davorg/easy-psgi)  
           * [open() for Command Execution](http://www.shlomifish.org/lecture/Perl/Newbies/lecture4/processes/opens.html)  
           * [xantus/mojo-websocket-examples: Mojolicious WebSocket Examples](https://github.com/xantus/mojo-websocket-examples)  
@@ -1203,7 +1073,9 @@
         * [skaji/relocatable-perl: self-contained, portable perl binaries](https://github.com/skaji/relocatable-perl)  
       * PowerShell  
         * PowerShell How To  
+          * stackoverflow.com  
           * [Get-ChildItem](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-childitem?view=powershell-6)  
+          * [com - Copy Excel Worksheet from one Workbook to another with Powershell - Stack Overflow](https://stackoverflow.com/questions/3226096/copy-excel-worksheet-from-one-workbook-to-another-with-powershell)  
           * [windows - Recursively list directories in powershell - Stack Overflow](https://stackoverflow.com/questions/42440753/recursively-list-directories-in-powershell)  
       * Python  
         * Python How To  
@@ -1211,7 +1083,6 @@
             * [Coroutines and Tasks — Python 3.7.4 documentation](https://docs.python.org/3/library/asyncio-task.html#asyncio.async)  
             * [Event Loop — Python 3.7.3 documentation](https://docs.python.org/3/library/asyncio-eventloop.html)  
             * [Subprocesses — Python 3.7.4 documentation](https://docs.python.org/3/library/asyncio-subprocess.html)  
-            * [pdb — The Python Debugger — Python 3.7.4rc1 documentation](https://docs.python.org/3/library/pdb.html)  
             * [queue — A synchronized queue class — Python 3.7.4 documentation](https://docs.python.org/3/library/queue.html)  
           * pandas.pydata.org  
             * [pandas.DataFrame.drop — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html)  
@@ -1238,6 +1109,7 @@
           * realpython.com  
             * [A Guide to Excel Spreadsheets in Python With openpyxl – Real Python](https://realpython.com/openpyxl-excel-spreadsheets-python/#bonus-working-with-pandas)  
             * [How to Round Numbers in Python – Real Python](https://realpython.com/python-rounding/)  
+            * [Pandas GroupBy: Your Guide to Grouping Data in Python – Real Python](https://realpython.com/pandas-groupby/)  
             * [Python Best Practices – Real Python](https://realpython.com/tutorials/best-practices/)  
             * [Python, Boto3, and AWS S3: Demystified – Real Python](https://realpython.com/python-boto3-aws-s3/)  
             * [Using PyInstaller to Easily Distribute Python Applications – Real Python](https://realpython.com/pyinstaller-python/)  
@@ -1254,6 +1126,7 @@
             * [Getting the last element of a list in Python - Stack Overflow](https://stackoverflow.com/questions/930397/getting-the-last-element-of-a-list-in-python)  
             * [How can I fill out a Python string with spaces? - Stack Overflow](https://stackoverflow.com/questions/5676646/how-can-i-fill-out-a-python-string-with-spaces)  
             * [How can I get the previous week in Python? - Stack Overflow](https://stackoverflow.com/questions/19686856/how-can-i-get-the-previous-week-in-python)  
+            * [How do I copy a file in Python? - Stack Overflow](https://stackoverflow.com/questions/123198/how-do-i-copy-a-file-in-python)  
             * [How do I create a multiline Python string with inline variables? - Stack Overflow](https://stackoverflow.com/questions/10112614/how-do-i-create-a-multiline-python-string-with-inline-variables)  
             * [How do I lowercase a string in Python? - Stack Overflow](https://stackoverflow.com/questions/6797984/how-do-i-lowercase-a-string-in-python)  
             * [How do you create nested dict in Python? - Stack Overflow](https://stackoverflow.com/questions/16333296/how-do-you-create-nested-dict-in-python)  
@@ -1286,6 +1159,7 @@
             * [Sorting dictionary descending in Python - Stack Overflow](https://stackoverflow.com/questions/35624064/sorting-dictionary-descending-in-python)  
             * [What is the difference between Python's list methods append and extend? - Stack Overflow](https://stackoverflow.com/questions/252703/what-is-the-difference-between-pythons-list-methods-append-and-extend)  
             * [controls - How do I capture SIGINT in Python? - Stack Overflow](https://stackoverflow.com/questions/1112343/how-do-i-capture-sigint-in-python)  
+            * [copy entire excel worksheet to a new worksheet using Python win32com - Stack Overflow](https://stackoverflow.com/questions/31687031/copy-entire-excel-worksheet-to-a-new-worksheet-using-python-win32com)  
             * [date - Get Last Day of the Month in Python - Stack Overflow](https://stackoverflow.com/questions/42950/get-last-day-of-the-month-in-python)  
             * [date - Python: Iterate over all days in a month - Stack Overflow](https://stackoverflow.com/questions/57274902/python-iterate-over-all-days-in-a-month)  
             * [datetime - Getting the date of 7 days ago from current date in python - Stack Overflow](https://stackoverflow.com/questions/20573459/getting-the-date-of-7-days-ago-from-current-date-in-python)  
@@ -1364,6 +1238,7 @@
             * [python - Show 2 plots at same time instead of one after another in matplotlib - Stack Overflow](https://stackoverflow.com/questions/42595052/show-2-plots-at-same-time-instead-of-one-after-another-in-matplotlib)  
             * [python - Splitting on first occurrence - Stack Overflow](https://stackoverflow.com/questions/6903557/splitting-on-first-occurrence)  
             * [python - TypeError: sequence item 0: expected string, int found - Stack Overflow](https://stackoverflow.com/questions/10880813/typeerror-sequence-item-0-expected-string-int-found)  
+            * [python - What is as_index in groupby in pandas? - Stack Overflow](https://stackoverflow.com/questions/41236370/what-is-as-index-in-groupby-in-pandas)  
             * [python - Where does pip install its packages? - Stack Overflow](https://stackoverflow.com/questions/29980798/where-does-pip-install-its-packages/45309460)  
             * [python - Writing a pandas DataFrame to CSV file - Stack Overflow](https://stackoverflow.com/questions/16923281/writing-a-pandas-dataframe-to-csv-file)  
             * [python - adding hyperlinks in some cells openpyxl - Stack Overflow](https://stackoverflow.com/questions/39077661/adding-hyperlinks-in-some-cells-openpyxl)  
@@ -1394,11 +1269,13 @@
             * [GET and POST requests using Python - GeeksforGeeks](https://www.geeksforgeeks.org/get-post-requests-using-python/)  
             * [Get unique values from a column in Pandas DataFrame - GeeksforGeeks](https://www.geeksforgeeks.org/get-unique-values-from-a-column-in-pandas-dataframe/)  
             * [How to drop one or multiple columns in Pandas Dataframe - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/)  
+            * [Python | Get first and last elements of a list - GeeksforGeeks](https://www.geeksforgeeks.org/python-get-first-and-last-elements-of-a-list/)  
             * [Python | How to copy data from one excel sheet to another - GeeksforGeeks](https://www.geeksforgeeks.org/python-how-to-copy-data-from-one-excel-sheet-to-another/)  
             * [Python | Pandas Series.iteritems() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-series-iteritems/)  
             * [Python | Pandas Series.to_string() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-series-to_string/)  
             * [Python | Pandas dataframe.set_value() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-dataframe-set_value/)  
             * [Python | Plotting charts in excel sheet using openpyxl module](https://www.geeksforgeeks.org/python-plotting-charts-in-excel-sheet-using-openpyxl-module-set-1/)  
+            * [Python | Ways to concatenate two lists - GeeksforGeeks](https://www.geeksforgeeks.org/python-ways-to-concatenate-two-lists/)  
             * [Python | Writing to an excel file using openpyxl module - GeeksforGeeks](https://www.geeksforgeeks.org/python-writing-excel-file-using-openpyxl-module/)  
             * [Stack and Queue in Python using queue Module - GeeksforGeeks](https://www.geeksforgeeks.org/stack-queue-python-using-module-queue/)  
             * [Timer Objects in Python - GeeksforGeeks](https://www.geeksforgeeks.org/timer-objects-python/)  
@@ -1429,7 +1306,6 @@
             * [Python String replace() Method](https://www.w3schools.com/python/ref_string_replace.asp)  
             * [Python String split() Method](https://www.w3schools.com/python/ref_string_split.asp)  
             * [Python range() Function](https://www.w3schools.com/python/ref_func_range.asp)  
-          * [A "Best of the Best Practices" (BOBP) guide to developing in Python.](https://gist.github.com/sloria/7001839)  
           * [Asyncio Event Loops Tutorial | TutorialEdge.net](https://tutorialedge.net/python/concurrency/asyncio-event-loops-tutorial/)  
           * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)  
           * [Change the order of columns in Pandas dataframe](https://erikrood.com/Python_References/change_order_dataframe_columns_final.html)  
@@ -1459,15 +1335,16 @@
           * [Pandas DataFrames - Writing to and reading from MySQL Table | Pythontic.com](https://pythontic.com/pandas/serialization/mysql)  
           * [PyFormat: Using % and .format() for great good!](https://pyformat.info/)  
           * [Python Clocks Explained - Webucator Blog](https://www.webucator.com/blog/2015/08/python-clocks-explained/)  
+          * [Python Excel win32com Mini Cookbook | Python Excels](https://pythonexcels.com/python/2009/10/05/python-excel-mini-cookbook)  
           * [Python Exception Handling - ImportError and ModuleNotFoundError](https://airbrake.io/blog/python-exception-handling/importerror-and-modulenotfounderror)  
           * [Python How To Get Date Range From Week Number - MVSourceCode - mvsourcecode](http://mvsourcecode.com/python-how-to-get-date-range-from-week-number-mvsourcecode/)  
+          * [Python Openpyxl Tutorial - javatpoint](https://www.javatpoint.com/python-openpyxl)  
           * [Python Range() function explained with Examples [Complete Guide]](https://pynative.com/python-range-function/)  
           * [Python Requests Ignore Bad SSL certificate](https://gist.github.com/random-robbie/bb65335b9632bf1ed38923c768cefa02)  
           * [Python Requests TimeoutError: [WinError 10060] A connection attempt failed](https://pythonexamples.org/python-requests-timeouterror-winerror-10060-a-connection-attempt-failed/)  
           * [Python String Format Cookbook – mkaz.blog](https://mkaz.blog/code/python-string-format-cookbook/)  
           * [Python code for sending HTML email (Attachment + Multiple Recipients )](https://gist.github.com/srv89/1d3dac6672895f5ca65f)  
           * [Python strftime reference](https://strftime.org/)  
-          * [Python | Get first and last elements of a list - GeeksforGeeks](https://www.geeksforgeeks.org/python-get-first-and-last-elements-of-a-list/)  
           * [Python: How to Print Without Newline? (The Idiomatic Way) - Afternerd](https://www.afternerd.com/blog/how-to-print-without-a-newline-in-python/)  
           * [Python: List Files in a Directory](https://stackabuse.com/python-list-files-in-a-directory/)  
           * [Python: Sort dictionary by value](https://code-maven.com/slides/python-programming/sort-dictionary-by-value)  
@@ -1476,14 +1353,12 @@
           * [Working with Text Files in Python | Programming Historian](https://programminghistorian.org/lessons/working-with-text-files)  
           * [chomp() functionality in Python | Python Adventures](https://pythonadventures.wordpress.com/2010/10/11/chomp-functionality-in-python/)  
           * [command line - How do I check whether a module is installed in Python, and install it if needed? - Ask Ubuntu](https://askubuntu.com/questions/588390/how-do-i-check-whether-a-module-is-installed-in-python-and-install-it-if-needed)  
-          * [dennyzhang/cheatsheet-python-A4: Advanced Python Syntax In A4](https://github.com/dennyzhang/cheatsheet-python-A4)  
-          * [gto76/python-cheatsheet: Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)  
           * [iloc, loc, and ix for data selection in Python Pandas | Shane Lynn](https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/)  
-          * [joaoventura/full-speed-python: Getting up to speed with Python: a book for self-learners](https://github.com/joaoventura/full-speed-python)  
           * [learnbyexample/Python_Basics: Syntax, working with Shell commands, Files, Text Processing, and more...](https://github.com/learnbyexample/Python_Basics)  
           * [list of pytz time zones](https://gist.github.com/heyalexej/8bf688fd67d7199be4a1682b3eec7568)  
           * [osdba's blog : A tool for packaging python scripts into binary executables](http://blog.osdba.net/530.html)  
           * [resilar/sqleet · python instructions](https://github.com/resilar/sqleet/issues/21)  
+          * [windows - How to install the win32com python library - Super User](https://superuser.com/questions/609447/how-to-install-the-win32com-python-library)  
         * Python Packages  
           * [Boto 3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)  
           * [PyMySQL · PyPI](https://pypi.org/project/PyMySQL/)  
@@ -1499,8 +1374,6 @@
           * [unicodecsv · PyPI](https://pypi.org/project/unicodecsv/)  
         * [Python.org](https://www.python.org/)  
         * [Spyder Website](https://www.spyder-ide.org/)  
-        * [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)  
-        * [andrewp-as-is/chrome-bookmarks.py: Google Chrome bookmarks helper](https://github.com/andrewp-as-is/chrome-bookmarks.py)  
         * [derrekyoung/url-checker-python: Python scripts to check URLs](https://github.com/derrekyoung/url-checker-python)  
       * R  
         * R How To  
@@ -1516,7 +1389,6 @@
           * [R Tutorial - Tutorialspoint](https://www.tutorialspoint.com/r/index.htm)  
           * [install.packages function | R Documentation](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/install.packages)  
           * [use_proxy: Use a proxy to connect to the internet. in httr: Tools for Working with URLs and HTTP](https://rdrr.io/cran/httr/man/use_proxy.html)  
-      * [Category:Programming Tasks - Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks)  
       * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)  
     * SSH Clients  
       * [KiTTY](http://www.9bis.net/kitty/)  
@@ -1532,18 +1404,17 @@
           * [How do I properly force a Git push? - Stack Overflow](https://stackoverflow.com/questions/5509543/how-do-i-properly-force-a-git-push)  
           * [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)  
           * [git stash - Saving Changes | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)  
-        * [GitHub Pages](http://pages.github.com/)  
         * [GitHub Résumé](http://resume.github.io/)  
         * [Github Release Stats](http://www.somsubhra.com/github-release-stats/)  
-        * [github-profile-card by piotrl](http://github-profile.com/)  
     * Virtualization  
       * VirtualBox  
         * [Chapter 8. VBoxManage](https://www.virtualbox.org/manual/ch08.html)  
         * [Creating a VM using VBoxManage](https://networking.ringofsaturn.com/Unix/Create_Virtual_Machine_VBoxManage.php)  
         * [Headless Mode for Virtual Machines of VirtualBox - Thomas-Krenn-Wiki](https://www.thomas-krenn.com/en/wiki/Headless_Mode_for_Virtual_Machines_of_VirtualBox)  
         * [How to access shared folders in Ubuntu VM(Oracle Virtualbox) and link them to the home folder - Ask Ubuntu](https://askubuntu.com/questions/323392/how-to-access-shared-folders-in-ubuntu-vmoracle-virtualbox-and-link-them-to-th)  
-        * [VirtualBox 5.2 on Ubuntu 16.04 LTS Server (Headless) | Website for Students](https://websiteforstudents.com/virtualbox-5-2-on-ubuntu-16-04-lts-server-headless/)  
+        * [Managing Oracle VM VirtualBox from the Command Line](https://www.oracle.com/technetwork/articles/servers-storage-admin/manage-vbox-cli-2264359.html)  
         * [VirtualBox/SharedFolders - Community Help Wiki](https://help.ubuntu.com/community/VirtualBox/SharedFolders)  
+        * [linux - How to mount a VirtualBox shared folder? - Server Fault](https://serverfault.com/questions/674974/how-to-mount-a-virtualbox-shared-folder)  
       * [Enigma Virtual Box](http://enigmaprotector.com/en/aboutvb.html)  
     * Web  
       * Backend  
@@ -1571,15 +1442,12 @@
               * [CSS How to](http://www.w3schools.com/css/css_howto.asp)  
               * [CSS overflow property](http://www.w3schools.com/cssref/pr_pos_overflow.asp)  
               * [CSS3 box-sizing property](http://www.w3schools.com/cssref/css3_pr_box-sizing.asp)  
-            * [rachelandrew/css-for-print](https://github.com/rachelandrew/css-for-print)  
           * [The W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/)  
           * [loading.io - Your SVG + GIF Ajax Loading Icons](http://loading.io/)  
         * Fonts  
-          * [Font Awesome Examples](http://fontawesome.io/examples/)  
           * [Font Awesome Web Application Icons](https://www.w3schools.com/icons/fontawesome_icons_webapp.asp)  
           * [Google Fonts](http://www.google.com/fonts/)  
           * [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts)  
-          * [google-fonts-offline](https://www.npmjs.com/package/google-fonts-offline)  
         * Frameworks  
           * Bootstrap How To  
             * gerbootstrap.com  
@@ -1612,17 +1480,14 @@
             * [BBG - Bootstrap Button Generator](http://blog.koalite.com/bbg/)  
             * [Bootstrap Glyphicons v3.2.2 | Bootstrap Cheat Sheets](http://glyphicons.bootstrapcheatsheets.com/)  
             * [Bootstrap Magic : Generate your own bootstrap theme quickly and easily](https://pikock.github.io/bootstrap-magic/)  
-            * [Bootstrap Tutorial - Style fieldset](http://www.java2s.com/Tutorials/HTML_CSS/Bootstrap_Example/Form/Style_fieldset.htm)  
             * [Bootswatch: Free themes for Bootstrap](https://bootswatch.com/)  
             * [Font Awesome v.4.5.0 | Bootstrap Cheat Sheets](http://fontawesome.bootstrapcheatsheets.com/)  
             * [How to Create Dropdown Menu with Bootstrap 3 - Tutorial Republic](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-dropdowns.php)  
         * HTML  
           * HTML How To  
-            * [Data URI scheme - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Data_URI_scheme)  
-            * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)  
-            * [HTML5 Style Guide](https://www.w3schools.com/html/html5_syntax.asp)  
-            * [How To Create an On Scroll Fixed Header](https://www.w3schools.com/howto/howto_js_sticky_header.asp)  
-            * [Image To Data URI Convertor - webSemantics](http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/)  
+            * www.w3schools.com  
+              * [HTML5 Style Guide](https://www.w3schools.com/html/html5_syntax.asp)  
+              * [How To Create an On Scroll Fixed Header](https://www.w3schools.com/howto/howto_js_sticky_header.asp)  
             * [You Might Not Need JavaScript](http://youmightnotneedjs.com/)  
             * [html - How do I use .woff fonts for my website? - Stack Overflow](https://stackoverflow.com/questions/12812441/how-do-i-use-woff-fonts-for-my-website)  
           * [(X)HTML5 validator](https://html5.validator.nu/)  
@@ -1633,19 +1498,12 @@
           * [Validator.nu](http://validator.nu/)  
         * [Just Color Picker 5.2 - best free colour tool for Windows and macOS](http://annystudio.com/software/colorpicker/)  
       * Services  
-        * Online Editors  
-          * [JSFiddle](https://jsfiddle.net/)  
-          * [JSitor - NodeJS, JavaScript, HTML, CSS, online editor](https://jsitor.com/)  
-          * [PlayCode - Code Sandbox. Online Code Editor](https://playcode.io/)  
         * Testing  
           * [Browserling - Live interactive cross-browser testing](https://www.browserling.com/)  
-          * [Check websites for broken links — LinkChecker](http://wummel.github.io/linkchecker/)  
-          * [ImageKit.io - Website Analyzer](https://imagekit.io/website-analyzer)  
           * [Observatory by Mozilla](https://observatory.mozilla.org/)  
           * [Speedtest.net - The Global Broadband Speed Test](http://www.speedtest.net/)  
           * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
         * [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)  
-        * [Pingdom – Live Map of Internet Downtime & Browser Data](https://livemap.pingdom.com/)  
 
 Created using [Bookmark Extractor](https://github.com/ddmitov/bookmark-extractor)
 
