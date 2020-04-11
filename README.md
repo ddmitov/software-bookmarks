@@ -1,15 +1,5 @@
 ## Software
   * Human Languages  
-    * Bulgarian  
-      * [Automatic Cyrillic Converter](http://newyork.mashke.org/Conv/)  
-      * [Universal online Cyrillic decoder - recover your texts](https://2cyr.com/decode/)  
-      * [Англо-български терминологичен речник по информатика](http://lml.bas.bg/~anton/linux/rechnik.html)  
-      * [Превод между кирилица и методиевица](http://www.metodii.com/bg_Prevedi.html)  
-    * Chinese  
-      * [Chinese Encoding Auto-Detection](https://mandarintools.com/codeguess.html)  
-      * [Chinese Encoding Converter](http://www.mandarintools.com/zhcode.html)  
-      * [DimSum Chinese Language Tool](http://www.mandarintools.com/dimsum.html)  
-      * [Fix Corrupted Chinese Email](http://www.mandarintools.com/email.html)  
     * Classical Languages  
       * Ancient Greek  
         * [Alpha online. Древнегреческо-русский словарь](http://gurin.tomsknet.ru/alphaonline.html)  
@@ -32,9 +22,21 @@
         * [Whitaker's WORDS Online](http://latin.ucant.org/)  
         * [Whitaker's Words: Overview](https://mk270.github.io/whitakers-words/)  
       * [Diogenes Home Page](http://community.dur.ac.uk/p.j.heslin/Software/Diogenes/)  
-    * English  
-      * [Hemingway Editor](http://www.hemingwayapp.com/)  
-      * [LanguageTool Style and Grammar Check](https://languagetool.org/)  
+    * Modern Languages  
+      * Bulgarian  
+        * [Automatic Cyrillic Converter](http://newyork.mashke.org/Conv/)  
+        * [Universal online Cyrillic decoder - recover your texts](https://2cyr.com/decode/)  
+        * [Англо-български терминологичен речник по информатика](http://lml.bas.bg/~anton/linux/rechnik.html)  
+        * [Превод между кирилица и методиевица](http://www.metodii.com/bg_Prevedi.html)  
+      * Chinese  
+        * [Chinese Encoding Auto-Detection](https://mandarintools.com/codeguess.html)  
+        * [Chinese Encoding Converter](http://www.mandarintools.com/zhcode.html)  
+        * [DimSum Chinese Language Tool](http://www.mandarintools.com/dimsum.html)  
+        * [Fix Corrupted Chinese Email](http://www.mandarintools.com/email.html)  
+      * English  
+        * [Hemingway Editor](http://www.hemingwayapp.com/)  
+        * [LanguageTool Style and Grammar Check](https://languagetool.org/)  
+      * [Russian Keyboard Online • LEXILOGOS](https://www.lexilogos.com/keyboard/russian.htm)  
     * Unicode  
       * [BabelStone : BabelMap (Unicode Character Map for Windows)](http://www.babelstone.co.uk/Software/BabelMap.html)  
       * [BabelStone : BabelPad (Unicode Text Editor for Windows)](http://www.babelstone.co.uk/Software/BabelPad.html)  
@@ -42,7 +44,6 @@
       * [Unicode Character Search](http://www.fileformat.info/info/unicode/char/search.htm)  
       * [Unicode Inputter Page](https://babel.mml.ox.ac.uk/naughton/inputter.html)  
     * [Laurence Anthony's AntConc](http://www.laurenceanthony.net/software/antconc/)  
-    * [Russian Keyboard Online • LEXILOGOS](https://www.lexilogos.com/keyboard/russian.htm)  
   * Multimedia  
     * Video Downloaders  
       * [ClipGrab - Free YouTube Downloader & Converter](http://clipgrab.org/)  
@@ -67,7 +68,7 @@
       * [DocFetcher - Fast Document Search](http://docfetcher.sourceforge.net/en/index.html)  
     * Encryption  
       * [KeePass Password Safe](https://keepass.info/)  
-      * [KeePassX](https://www.keepassx.org/)  
+      * [KeePassXC Password Manager](https://keepassxc.org/)  
     * LibreOffice  
       * LibreOffice How To  
         * [Modify footnote number size within "actual footnote"?? - Ask LibreOffice](https://ask.libreoffice.org/en/question/173623/modify-footnote-number-size-within-actual-footnote/)  
@@ -195,10 +196,9 @@
         * [wkhtmltopdf](https://wkhtmltopdf.org/)  
       * XML  
         * EpiDoc  
-          * [Epigraphic Database Heidelberg](http://edh-www.adw.uni-heidelberg.de/data/export)  
           * [Index of /epidoc/schema/latest](http://www.stoa.org/epidoc/schema/latest/)  
-          * [Spunkle/EPIGRAPHY-CLUB-2015](https://github.com/Spunkle/EPIGRAPHY-CLUB-2015)  
           * [Structure of an EpiDoc edition](http://www.stoa.org/epidoc/gl/latest/supp-structure.html)  
+          * [ddmitov/epigraphista: EpiDoc XML file creator](https://github.com/ddmitov/epigraphista)  
           * [http://www.stoa.org/epidoc/schema/8.2/tei-epidoc.rng](http://www.stoa.org/epidoc/schema/8.2/tei-epidoc.rng)  
           * [Как да използваме Насoките за EpiDoc](http://www.stoa.org/epidoc/gl/latest/intro-intro-bg.html)  
         * XML How To  
@@ -218,7 +218,6 @@
       * MongoDB  
         * MongoDB How To  
           * docs.mongodb.com  
-            * [$in — MongoDB Manual](https://docs.mongodb.com/manual/reference/operator/query/in/)  
             * [Query Documents — MongoDB Manual](https://docs.mongodb.com/manual/tutorial/query-documents/)  
             * [Use Indexes to Sort Query Results — MongoDB Manual](https://docs.mongodb.com/manual/tutorial/sort-results-with-indexes/)  
           * stackoverflow.com  
@@ -270,6 +269,7 @@
             * [MySQL Insert Multiple Rows By Practical Examples](https://www.mysqltutorial.org/mysql-insert-multiple-rows/)  
             * [MySQL REPLACE String Function: Find & Replace Text](http://www.mysqltutorial.org/mysql-string-replace-function.aspx)  
             * [MySQL SUM - Calculating The Sum of Values](http://www.mysqltutorial.org/mysql-sum/)  
+            * [MySQL Sample Database](https://www.mysqltutorial.org/mysql-sample-database.aspx)  
             * [MySQL Transaction: START TRANSACTION, COMMIT & ROLLBACK by Examples](http://www.mysqltutorial.org/mysql-transaction.aspx)  
             * [MySQL UNION: Combining Results of Two or More Queries](http://www.mysqltutorial.org/sql-union-mysql.aspx)  
           * www.w3resource.com  
@@ -322,15 +322,15 @@
           * [SQLite Sample Database And Its Diagram (in PDF format)](http://www.sqlitetutorial.net/sqlite-sample-database/)  
           * [sqlite - How to convert sqlite2 to sqlite3 and what are the differences between both versions? - Stack Overflow](https://stackoverflow.com/questions/9409073/how-to-convert-sqlite2-to-sqlite3-and-what-are-the-differences-between-both-vers)  
         * [resilar/sqleet: SQLite3 encryption that sucks less](https://github.com/resilar/sqleet)  
-      * [HeidiSQL - MySQL, MSSQL and PostgreSQL made easy](https://www.heidisql.com/)  
-      * [MDB Viewer Plus - Open and edit MDB/Accdb files.](http://www.alexnolan.net/software/mdb_viewer_plus.htm)  
-      * [SQL Fiddle](http://sqlfiddle.com/)  
+      * Tools  
+        * [DBeaver Community | Free Universal Database Tool](https://dbeaver.io/)  
+        * [HeidiSQL - MySQL, MSSQL and PostgreSQL made easy](https://www.heidisql.com/)  
       * [enochtangg/quick-SQL-cheatsheet: A quick reminder of all SQL queries and examples on how to use them.](https://github.com/enochtangg/quick-SQL-cheatsheet)  
-    * Diagrams  
-      * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)  
-      * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/)  
-      * [draw.io](https://www.draw.io/)  
     * Documentation  
+      * Diagrams  
+        * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)  
+        * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/)  
+        * [draw.io](https://www.draw.io/)  
       * Markdown  
         * [License Badges for your Project](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)  
         * [Markdown Cheatsheet · adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
@@ -366,13 +366,11 @@
       * Linux  
         * AppImage  
           * [AppImage | Linux apps that run anywhere](http://appimage.org/)  
-          * [AppImages · AppImage/AppImageKit Wiki](https://github.com/AppImage/AppImageKit/wiki/AppImages)  
           * [AppStream Generator](http://output.jsbin.com/qoqukof)  
           * [probonopd/linuxdeployqt: Makes Linux applications self-contained by copying in the Qt libraries and plugins that the application uses.](https://github.com/probonopd/linuxdeployqt)  
         * Linux Distributions  
           * [GParted -- Live CD/USB/PXE/HD](https://gparted.org/livecd.php)  
           * [Slax Linux - your pocket operating system](https://www.slax.org/)  
-          * [Ubuntu Minimal CD](https://help.ubuntu.com/community/Installation/MinimalCD)  
         * Linux How To  
           * askubuntu.com  
             * [How to add startup applications in lubuntu? - Ask Ubuntu](http://askubuntu.com/questions/159008/how-to-add-startup-applications-in-lubuntu)  
@@ -422,6 +420,7 @@
         * [Customizing Matplotlib with style sheets and rcParams — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/tutorials/introductory/customizing.html)  
         * [How-To — Matplotlib 3.1.1 documentation](https://matplotlib.org/faq/howto_faq.html)  
         * [Multiple Figs Demo — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/gallery/subplots_axes_and_figures/multiple_figs_demo.html)  
+      * [ploticus: ploticus data display package](http://ploticus.sourceforge.net/doc/welcome.html)  
     * Programming Languages  
       * AutoIt  
         * AutoIt How To  
@@ -431,7 +430,6 @@
       * Bash  
         * Bash How To  
           * [How do I parse command line arguments in Bash? - Stack Overflow](https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments-in-bash)  
-          * [Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide)  
           * [bash - How to copy some, but not all files? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/41693/how-to-copy-some-but-not-all-files)  
         * [ShellCheck – shell script analysis tool](https://www.shellcheck.net/)  
       * C  
@@ -646,6 +644,7 @@
           * [Setting JAVA_HOME](https://docs.opsgenie.com/docs/setting-java_home)  
           * [gson/UserGuide.md at master · google/gson](https://github.com/google/gson/blob/master/UserGuide.md)  
         * [GSON - Gson](http://tutorials.jenkov.com/java-json/gson.html)  
+        * [ddmitov/bookmark-extractor: Selective Chromium bookmarks extractor and formatter](https://github.com/ddmitov/bookmark-extractor)  
       * JavaScript  
         * Electron  
           * Electron How To  
@@ -832,7 +831,6 @@
             * [Restrict Maximum Image upload file size ?](http://www.zen-cart.com/showthread.php?127049-Restrict-Maximum-Image-upload-file-size)  
             * [Stock by Attributes - Zen Cart® Plugins and Addons](https://www.zen-cart.com/downloads.php?do=file&id=202)  
             * [Tableau Responsive Theme for Zen Cart](https://www.numinix.com/templates/zen-cart-templates/tableau-for-zen-cart-dl-936)  
-            * [Template Packages - Responsive Design - Zen Cart® Plugins and Addons](https://www.zen-cart.com/downloads.php?do=cat&id=2)  
             * [Turn off "Your Shopping Cart is empty." at top of home page](https://www.zen-cart.com/showthread.php?184451-Turn-off-quot-Your-Shopping-Cart-is-empty-quot-at-top-of-home-page)  
             * [Upgrading from 1.3.x to 1.5.x](https://www.zen-cart.com/forumdisplay.php?156-Upgrading-from-1-3-x-to-1-5-x)  
             * [Zen Cart Remove "also purchased"](https://www.zen-cart.com/showthread.php?38320-Remove-quot-also-purchased-quot)  
@@ -849,8 +847,6 @@
             * [Zen Cart Support - Where are the buttons hiding & how do I change them?](https://www.zen-cart.com/content.php?93-where-are-the-buttons-hiding-how-do-i-change-them)  
             * [Zen Cart Template Structure - Zen Cart(tm) Wiki](https://www.zen-cart.com/wiki/index.php/Zen_Cart_Template_Structure)  
             * [zencart/documentation: Zen Cart Developer Documentation](https://github.com/zencart/documentation)  
-          * [PHP: The Right Way](http://www.phptherightway.com/)  
-        * [Adminer - Database management in a single PHP file](https://www.adminer.org/)  
         * [PHP Classes](http://www.phpclasses.org/)  
         * [phpMyAdmin](http://www.phpmyadmin.net/home_page/index.php)  
         * [phpMyBackupPro - the MySQL backup tool :: Features](http://www.phpmybackuppro.net/)  
@@ -883,7 +879,6 @@
             * [Recursive grep searching with grep -r (like grep with find) | alvinalexander.com](http://alvinalexander.com/linux-unix/recursive-grep-r-searching-egrep-find)  
           * blogs.perl.org  
             * [A Tutorial for using LibXML from Perl | Grant McLean [blogs.perl.org]](http://blogs.perl.org/users/grant_mclean/2016/03/a-tutorial-for-using-libxml-from-perl.html)  
-            * [Alternatives to rand() | Dana Jacobsen [blogs.perl.org]](http://blogs.perl.org/users/dana_jacobsen/2017/04/alternatives-to-rand.html)  
             * [Making local::lib real easy to use | Aristotle [blogs.perl.org]](http://blogs.perl.org/users/aristotle/2015/12/locallib-ez.html)  
             * [Specify the min perl version for your distribution | NeilB [blogs.perl.org]](http://blogs.perl.org/users/neilb/2014/08/specify-the-min-perl-version-for-your-distribution.html)  
           * perl.com  
@@ -935,7 +930,6 @@
           * perlmeme.org  
             * [How can I run code that is in a string?](http://perlmeme.org/faqs/manipulating_text/eval.html)  
             * [How do I list the files in a directory?](http://perlmeme.org/faqs/file_io/directory_listing.html)  
-            * [Retrieving web pages (LWP)](http://perlmeme.org/tutorials/lwp.html)  
             * [Using the Perl rand() function](http://perlmeme.org/howtos/perlfunc/rand_function.html)  
           * stackoverflow.com  
             * [Accessing values of json structure in perl - Stack Overflow](https://stackoverflow.com/questions/8258387/accessing-values-of-json-structure-in-perl)  
@@ -1050,7 +1044,7 @@
           * [Perl Regular Expression - Extracting Matches](https://www.perltutorial.org/regular-expression-extracting-matches/)  
           * [Perl Reserved Words](http://www.sarand.com/td/ref_perl_reserve.html)  
           * [Perl XML::LibXML by Example — Perl XML::LibXML by Example documentation](http://grantm.github.io/perl-libxml-by-example/)  
-          * [Perl tutorial: Start](http://www.comp.leeds.ac.uk/Perl/start.html)  
+          * [Perl port scanner code](http://www.binarytides.com/perl-port-scanner-code/)  
           * [Perl: Sorting an Array of Hashes | Storm Consultancy – Web Design Bath](https://www.stormconsultancy.co.uk/blog/development/code-snippets/perl-sorting-an-array-of-hashes/)  
           * [Perldoc Browser](https://perldoc.pl/)  
           * [Redirecting STDOUT and STDERR to file in perl | Adventures in SCM](https://adventuresinscm.wordpress.com/2012/08/13/redirecting-stdout-and-stderr-to-file-in-perl/)  
@@ -1065,10 +1059,12 @@
           * [xantus/mojo-websocket-examples: Mojolicious WebSocket Examples](https://github.com/xantus/mojo-websocket-examples)  
         * [CSV Database Scripts](http://www.ezscripting.com/csv/)  
         * [Open Perl IDE](http://open-perl-ide.sourceforge.net/)  
-        * [Perl port scanner code](http://www.binarytides.com/perl-port-scanner-code/)  
         * [Perl::Critic](http://perlcritic.com/)  
         * [Perlbrew](http://perlbrew.pl/)  
         * [The Perl Programming Language - www.perl.org](https://www.perl.org/)  
+        * [ddmitov/camel-doctor: Linux and Mac HTML interface for the Perl 5 debugger](https://github.com/ddmitov/camel-doctor)  
+        * [ddmitov/perl-executing-browser: HTML interface for Perl 5 desktop applications](https://github.com/ddmitov/perl-executing-browser)  
+        * [ddmitov/tabula: Mojolicious framework for desktop applications](https://github.com/ddmitov/tabula)  
         * [perlc - convert perl to C code or executables to "hide" your source](http://marginalhacks.com/Hacks/perlc/)  
         * [skaji/relocatable-perl: self-contained, portable perl binaries](https://github.com/skaji/relocatable-perl)  
       * PowerShell  
@@ -1110,9 +1106,7 @@
             * [A Guide to Excel Spreadsheets in Python With openpyxl – Real Python](https://realpython.com/openpyxl-excel-spreadsheets-python/#bonus-working-with-pandas)  
             * [How to Round Numbers in Python – Real Python](https://realpython.com/python-rounding/)  
             * [Pandas GroupBy: Your Guide to Grouping Data in Python – Real Python](https://realpython.com/pandas-groupby/)  
-            * [Python Best Practices – Real Python](https://realpython.com/tutorials/best-practices/)  
             * [Python, Boto3, and AWS S3: Demystified – Real Python](https://realpython.com/python-boto3-aws-s3/)  
-            * [Using PyInstaller to Easily Distribute Python Applications – Real Python](https://realpython.com/pyinstaller-python/)  
           * stackabuse.com  
             * [Read a File Line-by-Line in Python](https://stackabuse.com/read-a-file-line-by-line-in-python/)  
             * [Reading and Writing JSON to a File in Python](https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/)  
@@ -1380,13 +1374,8 @@
           * stackoverflow.com  
             * [Function to clear the console in R and RStudio - Stack Overflow](https://stackoverflow.com/questions/14260340/function-to-clear-the-console-in-r-and-rstudio)  
             * [Proxy setting for R - Stack Overflow](https://stackoverflow.com/questions/6467277/proxy-setting-for-r)  
-          * www.datacomp.com  
-            * [Introduction to R Online Course | DataCamp](https://www.datacamp.com/courses/free-introduction-to-r?utm_source=adwords_ppc&utm_campaignid=1457170719&utm_adgroupid=59514459274&utm_device=c&utm_keyword=tidyverse&utm_matchtype=p&utm_network=g&utm_adpostion=1t1&utm_creative=278660198064&utm_targetid=aud-392016246653:kwd-642175809013&utm_loc_interest_ms=&utm_loc_physical_ms=1001448&gclid=CjwKCAiAlajvBRB_EiwA4vAqiJj8pXS3vAcWeh3kPLeaHRwwZuiO4-eAgt3aLHFUxSv7WRsAlpC05hoCsxoQAvD_BwE)  
-            * [R Packages: A Beginner's Guide (article) - DataCamp](https://www.datacamp.com/community/tutorials/r-packages-guide)  
           * [Configuring R to Use an HTTP Proxy / FAQ / Knowledge Base – RStudio Support – Lost in Replications](https://bhoom.wordpress.com/2013/05/27/configuring-r-to-use-an-http-proxy-faq-knowledge-base-rstudio-support/)  
           * [Configuring R to Use an HTTP or HTTPS Proxy – RStudio Support](https://support.rstudio.com/hc/en-us/articles/200488488-Configuring-R-to-Use-an-HTTP-or-HTTPS-Proxy)  
-          * [R Programming Examples - DataMentor](https://www.datamentor.io/r-programming/examples/)  
-          * [R Tutorial - Tutorialspoint](https://www.tutorialspoint.com/r/index.htm)  
           * [install.packages function | R Documentation](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/install.packages)  
           * [use_proxy: Use a proxy to connect to the internet. in httr: Tools for Working with URLs and HTTP](https://rdrr.io/cran/httr/man/use_proxy.html)  
       * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)  
@@ -1413,7 +1402,6 @@
         * [Headless Mode for Virtual Machines of VirtualBox - Thomas-Krenn-Wiki](https://www.thomas-krenn.com/en/wiki/Headless_Mode_for_Virtual_Machines_of_VirtualBox)  
         * [How to access shared folders in Ubuntu VM(Oracle Virtualbox) and link them to the home folder - Ask Ubuntu](https://askubuntu.com/questions/323392/how-to-access-shared-folders-in-ubuntu-vmoracle-virtualbox-and-link-them-to-th)  
         * [Managing Oracle VM VirtualBox from the Command Line](https://www.oracle.com/technetwork/articles/servers-storage-admin/manage-vbox-cli-2264359.html)  
-        * [VirtualBox/SharedFolders - Community Help Wiki](https://help.ubuntu.com/community/VirtualBox/SharedFolders)  
         * [linux - How to mount a VirtualBox shared folder? - Server Fault](https://serverfault.com/questions/674974/how-to-mount-a-virtualbox-shared-folder)  
       * [Enigma Virtual Box](http://enigmaprotector.com/en/aboutvb.html)  
     * Web  
@@ -1423,12 +1411,10 @@
           * [Postwoman • API request builder](https://postwoman.io/)  
         * Servers  
           * Mongoose  
-            * [GerHobbelt/civet-webserver: Fork of the old mongoose webserver; others have rebranded it as civetweb ... This one comes with tweaks: IPv6 support across the board; extended event callbacks; client-side socket connections using [mg_]connect(); [mg_]socketp](https://github.com/GerHobbelt/civet-webserver)  
             * [cesanta/mongoose: Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and bro](https://github.com/cesanta/mongoose)  
             * [ctrix/free-mongoose](https://github.com/ctrix/free-mongoose/)  
           * [VS WAMP - VertrigoServ - PHP, Apache, MySQL server](https://www.vswamp.com/)  
           * [Webmin](http://www.webmin.com/)  
-          * [Xitami - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Xitami)  
       * Frontend  
         * CSS  
           * CSS How To  
