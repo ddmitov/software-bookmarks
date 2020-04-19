@@ -6,50 +6,37 @@
         * [Alpha. Древнегреческо-русский словарь](http://gurin.tomsknet.ru/alpha.html)  
         * [Ancient Greek Keyboard Online LEXILOGOS](https://www.lexilogos.com/keyboard/greek_ancient.htm)  
         * [Greek Polytonic Unicode Fonts Download](http://www.ellopos.net/elpenor/greek-texts/greek-fonts.asp)  
-        * [GreekTranscoder](http://www.greektranscoder.org/)  
         * [Polytonic Greek fonts](http://www.ucl.ac.uk/GrandLatGreekFonts/frameFonts.html)  
         * [Thesaurus Linguae Graecae - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Thesaurus_Linguae_Graecae)  
         * [Type Greek.com](http://www.typegreek.com/)  
         * [Unicode Classical Greek](http://babel.mml.ox.ac.uk/naughton/polytonic-greek.html)  
         * [Unicode Classical Greek Inputter 2](http://babel.mml.ox.ac.uk/naughton/polytonic-greek-inputter.html)  
         * [Visual keyboard for Classical Greek](http://kalvesmaki.com/keyboards/grc.html)  
-        * [tlgu](http://tlgu.carmen.gr/)  
       * Latin  
         * [Collatinus](http://www.collatinus.org/collatinus/)  
         * [Collatinus - Lemmatiseur et analyseur morphologique de textes latins](http://outils.biblissima.fr/fr/collatinus/)  
         * [Collatinus-web - Lemmatiseur et analyseur morphologique de textes latins](http://outils.biblissima.fr/fr/collatinus-web/)  
-        * [Latin Dictionary for Windows. A complete Lewis & Short!](http://www.inrebus.com/latindictionary.php)  
         * [Whitaker's WORDS Online](http://latin.ucant.org/)  
         * [Whitaker's Words: Overview](https://mk270.github.io/whitakers-words/)  
       * [Diogenes Home Page](http://community.dur.ac.uk/p.j.heslin/Software/Diogenes/)  
     * Modern Languages  
-      * Bulgarian  
-        * [Automatic Cyrillic Converter](http://newyork.mashke.org/Conv/)  
-        * [Universal online Cyrillic decoder - recover your texts](https://2cyr.com/decode/)  
-        * [Англо-български терминологичен речник по информатика](http://lml.bas.bg/~anton/linux/rechnik.html)  
-        * [Превод между кирилица и методиевица](http://www.metodii.com/bg_Prevedi.html)  
-      * Chinese  
-        * [Chinese Encoding Auto-Detection](https://mandarintools.com/codeguess.html)  
-        * [Chinese Encoding Converter](http://www.mandarintools.com/zhcode.html)  
-        * [DimSum Chinese Language Tool](http://www.mandarintools.com/dimsum.html)  
-        * [Fix Corrupted Chinese Email](http://www.mandarintools.com/email.html)  
       * English  
         * [Hemingway Editor](http://www.hemingwayapp.com/)  
         * [LanguageTool Style and Grammar Check](https://languagetool.org/)  
+      * [Fix Corrupted Chinese Email](http://www.mandarintools.com/email.html)  
       * [Russian Keyboard Online • LEXILOGOS](https://www.lexilogos.com/keyboard/russian.htm)  
+      * [Англо-български терминологичен речник по информатика](http://lml.bas.bg/~anton/linux/rechnik.html)  
     * Unicode  
       * [BabelStone : BabelMap (Unicode Character Map for Windows)](http://www.babelstone.co.uk/Software/BabelMap.html)  
       * [BabelStone : BabelPad (Unicode Text Editor for Windows)](http://www.babelstone.co.uk/Software/BabelPad.html)  
       * [Shapecatcher: Draw the Unicode character you want!](http://shapecatcher.com/)  
-      * [Unicode Character Search](http://www.fileformat.info/info/unicode/char/search.htm)  
       * [Unicode Inputter Page](https://babel.mml.ox.ac.uk/naughton/inputter.html)  
     * [Laurence Anthony's AntConc](http://www.laurenceanthony.net/software/antconc/)  
   * Multimedia  
-    * Video Downloaders  
-      * [ClipGrab - Free YouTube Downloader & Converter](http://clipgrab.org/)  
-      * [iawia002/annie: Fast, simple and clean video downloader](https://github.com/iawia002/annie)  
+    * [ClipGrab - Free YouTube Downloader & Converter](http://clipgrab.org/)  
     * [Cstitch: a free and open source program for creating cross stitch patterns from images](http://cstitch.sourceforge.net/)  
     * [Flameshot](https://flameshot.js.org/#/)  
+    * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)  
     * [ImgBurn](http://www.imgburn.com/)  
     * [Impressive](http://impressive.sourceforge.net/)  
     * [XnView · Image Viewer, Photo Resizer & Graphic Converter](https://www.xnview.com/en/)  
@@ -61,10 +48,7 @@
       * Xapian  
         * [Basic instructions](https://xapian.org/docs/omega/quickstart.html)  
         * [CGI parameters to Omega](https://xapian.org/docs/omega/cgiparams.html)  
-        * [Omega Documentation](https://xapian.org/docs/omega/)  
-        * [OmegaExample – Xapian](https://trac.xapian.org/wiki/OmegaExample)  
         * [The Xapian Project](https://xapian.org/)  
-        * [Xapian Administrator's Guide](https://xapian.org/docs/admin_notes.html)  
       * [DocFetcher - Fast Document Search](http://docfetcher.sourceforge.net/en/index.html)  
     * Encryption  
       * [KeePass Password Safe](https://keepass.info/)  
@@ -212,6 +196,11 @@
         * [Encryption](https://docs.oracle.com/cd/E17076_05/html/bdb-sql/sql_encryption.html)  
         * [Getting Started with the Oracle Berkeley DB SQL APIs](https://docs.oracle.com/cd/E17276_01/html/bdb-sql/index.html)  
         * [Oracle Berkeley DB: SQL](http://www.oracle.com/technetwork/products/berkeleydb/overview/sql-160887.html)  
+      * CockroachDB  
+        * CockroachDB How To  
+          * [Install CockroachDB on Linux | CockroachDB Docs](https://www.cockroachlabs.com/docs/stable/install-cockroachdb-linux.html)  
+          * [Start a Local Cluster (Insecure) | CockroachDB Docs](https://www.cockroachlabs.com/docs/stable/start-a-local-cluster.html)  
+        * [CockroachDB](https://www.cockroachlabs.com/get-cockroachdb/)  
       * DBF  
         * [DBF Explorer](http://www.pablosoftwaresolutions.com/html/dbf_explorer.html)  
         * [DBF Viewer Plus](http://www.alexnolan.net/software/dbf.htm)  
@@ -250,11 +239,13 @@
             * [MySQL show status - active or total connections? - Stack Overflow](https://stackoverflow.com/questions/7432241/mysql-show-status-active-or-total-connections)  
             * [MySQL string replace - Stack Overflow](https://stackoverflow.com/questions/5956993/mysql-string-replace)  
             * [MySQL: Enable LOAD DATA LOCAL INFILE - Stack Overflow](https://stackoverflow.com/questions/10762239/mysql-enable-load-data-local-infile)  
+            * [database - Select last N rows from MySQL - Stack Overflow](https://stackoverflow.com/questions/12125904/select-last-n-rows-from-mysql)  
             * [how to use rowcount in mysql using python - Stack Overflow](https://stackoverflow.com/questions/44962932/how-to-use-rowcount-in-mysql-using-python)  
             * [information schema - How to find all the tables in MySQL with specific column names in them? - Stack Overflow](https://stackoverflow.com/questions/193780/how-to-find-all-the-tables-in-mysql-with-specific-column-names-in-them)  
             * [join - Count with if condition in mysql query - Stack Overflow](https://stackoverflow.com/questions/9798937/count-with-if-condition-in-mysql-query)  
             * [mysql - 'IF' in 'SELECT' statement - choose output value based on column values - Stack Overflow](https://stackoverflow.com/questions/5951157/if-in-select-statement-choose-output-value-based-on-column-values)  
             * [mysql - INSERT with SELECT - Stack Overflow](https://stackoverflow.com/questions/5391344/insert-with-select)  
+            * [mysql - Select records from NOW() -1 Day - Stack Overflow](https://stackoverflow.com/questions/8544438/select-records-from-now-1-day)  
             * [shell - Access mysql remote database from command line - Stack Overflow](https://stackoverflow.com/questions/15872543/access-mysql-remote-database-from-command-line)  
             * [sorting - Mysql order by specific ID values - Stack Overflow](https://stackoverflow.com/questions/8322849/mysql-order-by-specific-id-values)  
             * [sql - How to declare a variable in MySQL? - Stack Overflow](https://stackoverflow.com/questions/11754781/how-to-declare-a-variable-in-mysql)  
@@ -328,10 +319,6 @@
         * [HeidiSQL - MySQL, MSSQL and PostgreSQL made easy](https://www.heidisql.com/)  
       * [enochtangg/quick-SQL-cheatsheet: A quick reminder of all SQL queries and examples on how to use them.](https://github.com/enochtangg/quick-SQL-cheatsheet)  
     * Documentation  
-      * Diagrams  
-        * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)  
-        * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/)  
-        * [draw.io](https://www.draw.io/)  
       * Markdown  
         * [License Badges for your Project](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)  
         * [Markdown Cheatsheet · adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
@@ -347,10 +334,8 @@
           * [JSON editing in Visual Studio Code](https://code.visualstudio.com/docs/languages/json)  
           * [Visual Studio Code User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings)  
           * [keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)  
-          * [microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.](https://github.com/microsoft/vscode-tips-and-tricks)  
         * [VSCodium - Open Source Binaries of VSCode](https://vscodium.com/)  
         * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)  
-        * [Visual Studio Live Share | Visual Studio - Visual Studio](https://visualstudio.microsoft.com/services/live-share/)  
       * [Atom](https://atom.io/)  
       * [Scintilla and SciTE](https://www.scintilla.org/SciTE.html)  
     * Licensing  
@@ -362,6 +347,7 @@
     * Network Administration  
       * [OSI model - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/OSI_model)  
       * [Online IP Subnet Calculator](http://www.subnet-calculator.com/)  
+      * [Speedtest.net - The Global Broadband Speed Test](http://www.speedtest.net/)  
       * [Technitium MAC Address Changer v5 Release 3 (FREEWARE)](http://www.technitium.com/tmac/index.html)  
     * Operating Systems  
       * Linux  
@@ -1114,6 +1100,7 @@
             * [Reading and Writing JSON to a File in Python](https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/)  
           * stackoverflow.com  
             * [Check key exist in python dict - Stack Overflow](https://stackoverflow.com/questions/44035287/check-key-exist-in-python-dict/44035382)  
+            * [Compare only time part in datetime - Python - Stack Overflow](https://stackoverflow.com/questions/15105112/compare-only-time-part-in-datetime-python)  
             * [Does Python have a string 'contains' substring method? - Stack Overflow](https://stackoverflow.com/questions/3437059/does-python-have-a-string-contains-substring-method)  
             * [Drop all duplicate rows in Python Pandas - Stack Overflow](https://stackoverflow.com/questions/23667369/drop-all-duplicate-rows-in-python-pandas)  
             * [Find all files in a directory with extension .txt in Python - Stack Overflow](https://stackoverflow.com/questions/3964681/find-all-files-in-a-directory-with-extension-txt-in-python)  
@@ -1225,6 +1212,7 @@
             * [python - Pandas - Groupby with conditional formula - Stack Overflow](https://stackoverflow.com/questions/45083000/pandas-groupby-with-conditional-formula/45083237)  
             * [python - Pandas Groupby and Sum Only One Column - Stack Overflow](https://stackoverflow.com/questions/38985053/pandas-groupby-and-sum-only-one-column)  
             * [python - Pandas Split Dataframe into two Dataframes - Stack Overflow](https://stackoverflow.com/questions/41624241/pandas-split-dataframe-into-two-dataframes/41624272)  
+            * [python - Pandas select the second to last column which is also not nan - Stack Overflow](https://stackoverflow.com/questions/37955900/pandas-select-the-second-to-last-column-which-is-also-not-nan)  
             * [python - Pandas: sum DataFrame rows for given columns - Stack Overflow](https://stackoverflow.com/questions/25748683/pandas-sum-dataframe-rows-for-given-columns)  
             * [python - Platform-independent file paths? - Stack Overflow](https://stackoverflow.com/questions/6036129/platform-independent-file-paths)  
             * [python - Print all day-dates between two dates - Stack Overflow](https://stackoverflow.com/questions/7274267/print-all-day-dates-between-two-dates)  
@@ -1240,6 +1228,7 @@
             * [python - adding hyperlinks in some cells openpyxl - Stack Overflow](https://stackoverflow.com/questions/39077661/adding-hyperlinks-in-some-cells-openpyxl)  
             * [python - get list from pandas dataframe column - Stack Overflow](https://stackoverflow.com/questions/22341271/get-list-from-pandas-dataframe-column)  
             * [python - how to sort pandas dataframe from one column - Stack Overflow](https://stackoverflow.com/questions/37787698/how-to-sort-pandas-dataframe-from-one-column)  
+            * [python - obtaining last value of dataframe column without index - Stack Overflow](https://stackoverflow.com/questions/34166030/obtaining-last-value-of-dataframe-column-without-index/34166097)  
             * [python - openpyxl check for empty cell - Stack Overflow](https://stackoverflow.com/questions/7907928/openpyxl-check-for-empty-cell)  
             * [python - pandas: filter rows of DataFrame with operator chaining - Stack Overflow](https://stackoverflow.com/questions/11869910/pandas-filter-rows-of-dataframe-with-operator-chaining)  
             * [python - pandas: merge (join) two data frames on multiple columns - Stack Overflow](https://stackoverflow.com/questions/41815079/pandas-merge-join-two-data-frames-on-multiple-columns)  
@@ -1469,7 +1458,6 @@
               * [Bootstrap Wells](http://www.w3schools.com/bootstrap/bootstrap_wells.asp)  
             * [BBG - Bootstrap Button Generator](http://blog.koalite.com/bbg/)  
             * [Bootstrap Glyphicons v3.2.2 | Bootstrap Cheat Sheets](http://glyphicons.bootstrapcheatsheets.com/)  
-            * [Bootstrap Magic : Generate your own bootstrap theme quickly and easily](https://pikock.github.io/bootstrap-magic/)  
             * [Bootswatch: Free themes for Bootstrap](https://bootswatch.com/)  
             * [Font Awesome v.4.5.0 | Bootstrap Cheat Sheets](http://fontawesome.bootstrapcheatsheets.com/)  
             * [How to Create Dropdown Menu with Bootstrap 3 - Tutorial Republic](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-dropdowns.php)  
@@ -1486,14 +1474,9 @@
           * [HTML: The Markup Language (an HTML language reference)](http://www.w3.org/TR/html-markup/)  
           * [The W3C Markup Validation Service](http://validator.w3.org/)  
           * [Validator.nu](http://validator.nu/)  
-        * [Just Color Picker 5.2 - best free colour tool for Windows and macOS](http://annystudio.com/software/colorpicker/)  
-      * Services  
-        * Testing  
-          * [Browserling - Live interactive cross-browser testing](https://www.browserling.com/)  
-          * [Observatory by Mozilla](https://observatory.mozilla.org/)  
-          * [Speedtest.net - The Global Broadband Speed Test](http://www.speedtest.net/)  
-          * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
         * [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)  
+        * [Just Color Picker 5.2 - best free colour tool for Windows and macOS](http://annystudio.com/software/colorpicker/)  
+      * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
 
 Created using [Bookmark Extractor](https://github.com/ddmitov/bookmark-extractor)
 
