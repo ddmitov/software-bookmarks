@@ -5,15 +5,11 @@
         * [Alpha online. Древнегреческо-русский словарь](http://gurin.tomsknet.ru/alphaonline.html)  
         * [Alpha. Древнегреческо-русский словарь](http://gurin.tomsknet.ru/alpha.html)  
         * [Ancient Greek Keyboard Online LEXILOGOS](https://www.lexilogos.com/keyboard/greek_ancient.htm)  
-        * [Greek Polytonic Unicode Fonts Download](http://www.ellopos.net/elpenor/greek-texts/greek-fonts.asp)  
-        * [Polytonic Greek fonts](http://www.ucl.ac.uk/GrandLatGreekFonts/frameFonts.html)  
         * [Thesaurus Linguae Graecae - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Thesaurus_Linguae_Graecae)  
         * [Type Greek.com](http://www.typegreek.com/)  
         * [Unicode Classical Greek](http://babel.mml.ox.ac.uk/naughton/polytonic-greek.html)  
         * [Unicode Classical Greek Inputter 2](http://babel.mml.ox.ac.uk/naughton/polytonic-greek-inputter.html)  
-        * [Visual keyboard for Classical Greek](http://kalvesmaki.com/keyboards/grc.html)  
       * Latin  
-        * [Collatinus](http://www.collatinus.org/collatinus/)  
         * [Collatinus - Lemmatiseur et analyseur morphologique de textes latins](http://outils.biblissima.fr/fr/collatinus/)  
         * [Collatinus-web - Lemmatiseur et analyseur morphologique de textes latins](http://outils.biblissima.fr/fr/collatinus-web/)  
         * [Whitaker's WORDS Online](http://latin.ucant.org/)  
@@ -24,7 +20,7 @@
         * [Hemingway Editor](http://www.hemingwayapp.com/)  
         * [LanguageTool Style and Grammar Check](https://languagetool.org/)  
       * [Fix Corrupted Chinese Email](http://www.mandarintools.com/email.html)  
-      * [Russian Keyboard Online • LEXILOGOS](https://www.lexilogos.com/keyboard/russian.htm)  
+      * [Russian Keyboard Online LEXILOGOS](https://www.lexilogos.com/keyboard/russian.htm)  
       * [Англо-български терминологичен речник по информатика](http://lml.bas.bg/~anton/linux/rechnik.html)  
     * Unicode  
       * [BabelStone : BabelMap (Unicode Character Map for Windows)](http://www.babelstone.co.uk/Software/BabelMap.html)  
@@ -74,9 +70,10 @@
           * [Show or hide gridlines on a worksheet - Office Support](https://support.office.com/en-us/article/show-or-hide-gridlines-on-a-worksheet-3ef5aacb-4539-4ad5-9945-5ed53772dc4d)  
         * [Excel Pivot Table -- Dynamic Data Source](https://www.contextures.com/xlPivot01.html)  
         * [How to remove blank columns in Excel](https://www.ablebits.com/office-addins-blog/2018/11/21/remove-blank-columns-excel/)  
+      * [About Office: What version of Office am I using? - Office Support](https://support.office.com/en-us/article/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)  
       * [How to import and export signatures in Microsoft Outlook?](https://www.extendoffice.com/documents/outlook/1453-outlook-import-export-signatures.html)  
     * [tesseract-ocr/tesseract: Tesseract Open Source OCR Engine (main repository)](https://github.com/tesseract-ocr/tesseract)  
-  * Software Development and Administration  
+  * Software Development and Support  
     * Best Practices  
       * [Avoid Common Software Project Mistakes](https://ovid.github.io/articles/avoid-common-software-project-mistakes.html)  
       * [Ind.ie — Ethical Design Manifesto](https://ind.ie/ethical-design/)  
@@ -584,8 +581,6 @@
             * [Deploying Qt or how to avoid “could not find or load the Qt platform plugin” | Tripleboot blog](http://www.tripleboot.org/?p=138)  
             * [How to exchange data between JavaScript and QT using QWebView - Embedded Lab - Community](https://sites.google.com/a/embeddedlab.org/community/technical-articles/qt/qt-posts/howtoexchangedatabetweenjavascriptandqtusingqwebview)  
             * [In-memory ZIP File Access Using Qt » asmaloney.com](http://asmaloney.com/2011/12/code/in-memory-zip-file-access-using-qt/)  
-            * [Qt Events - Programming Examples](http://programmingexamples.wikidot.com/qt-events)  
-            * [Qt Notes: Working with QSslSocket | dgraves.org](http://dgraves.org/content/qt-notes-working-qsslsocket)  
             * [Your Guide for Deploying Qt Applications to MacOS | ICS](https://www.ics.com/blog/your-guide-deploying-qt-applications-macos)  
             * [make - How do I change which version of Qt is used for qmake? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/116254/how-do-i-change-which-version-of-qt-is-used-for-qmake)  
             * [qmake: добавление своих команд в Makefile | blog.mgsxx.com](http://blog.mgsxx.com/?p=2046)  
@@ -594,10 +589,8 @@
           * [Index of /archive/qt](https://download.qt.io/archive/qt/)  
           * [Qt Linguist Download Qt-Apps.org](http://www.qt-apps.org/content/show.php/Qt+Linguist+Download?content=89360)  
           * [QuaZIP: QuaZIP - Qt/C++ wrapper for ZIP/UNZIP package](http://quazip.sourceforge.net/)  
-          * [Simple Encryption Library for QT (improved) | TechFindings](http://techfindings.one/archives/595)  
           * [annulen/webkit: Unofficial mirror of the WebKit SVN repository](https://github.com/annulen/webkit)  
           * [devbean/QtCipherSqlitePlugin](https://github.com/devbean/QtCipherSqlitePlugin)  
-          * [martinrotter/qt5-minimalistic-builds: Precompiled x64 Qt 5 library in minimalistic configuration for Windows.](https://github.com/martinrotter/qt5-minimalistic-builds)  
           * [osdab/OSDaB-Zip at master · hippydream/osdab](https://github.com/hippydream/osdab/tree/master/OSDaB-Zip)  
         * [Cppcheck - A tool for static C/C++ code analysis](http://cppcheck.sourceforge.net/)  
       * Java  
@@ -1058,15 +1051,17 @@
       * PowerShell  
         * PowerShell How To  
           * stackoverflow.com  
+            * [com - Copy Excel Worksheet from one Workbook to another with Powershell - Stack Overflow](https://stackoverflow.com/questions/3226096/copy-excel-worksheet-from-one-workbook-to-another-with-powershell)  
+            * [windows - Recursively list directories in powershell - Stack Overflow](https://stackoverflow.com/questions/42440753/recursively-list-directories-in-powershell)  
           * [Get-ChildItem](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-childitem?view=powershell-6)  
-          * [com - Copy Excel Worksheet from one Workbook to another with Powershell - Stack Overflow](https://stackoverflow.com/questions/3226096/copy-excel-worksheet-from-one-workbook-to-another-with-powershell)  
-          * [windows - Recursively list directories in powershell - Stack Overflow](https://stackoverflow.com/questions/42440753/recursively-list-directories-in-powershell)  
+          * [Powershell - Check for Registry value and change if not correct](https://social.technet.microsoft.com/Forums/en-US/e8ad7037-2b91-4ce8-a767-485189fb66c9/powershell-check-for-registry-value-and-change-if-not-correct?forum=winserverpowershell)  
       * Python  
         * Python How To  
           * docs.python.org  
             * [Coroutines and Tasks — Python 3.7.4 documentation](https://docs.python.org/3/library/asyncio-task.html#asyncio.async)  
             * [Event Loop — Python 3.7.3 documentation](https://docs.python.org/3/library/asyncio-eventloop.html)  
             * [Subprocesses — Python 3.7.4 documentation](https://docs.python.org/3/library/asyncio-subprocess.html)  
+            * [datetime — Basic date and time types — Python 3.8.2 documentation](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes)  
             * [queue — A synchronized queue class — Python 3.7.4 documentation](https://docs.python.org/3/library/queue.html)  
           * pandas.pydata.org  
             * [pandas.DataFrame.drop — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html)  
@@ -1099,10 +1094,12 @@
             * [Read a File Line-by-Line in Python](https://stackabuse.com/read-a-file-line-by-line-in-python/)  
             * [Reading and Writing JSON to a File in Python](https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/)  
           * stackoverflow.com  
+            * [Cancellable threading.Timer in Python - Stack Overflow](https://stackoverflow.com/questions/9812344/cancellable-threading-timer-in-python/9812806)  
             * [Check key exist in python dict - Stack Overflow](https://stackoverflow.com/questions/44035287/check-key-exist-in-python-dict/44035382)  
             * [Compare only time part in datetime - Python - Stack Overflow](https://stackoverflow.com/questions/15105112/compare-only-time-part-in-datetime-python)  
             * [Does Python have a string 'contains' substring method? - Stack Overflow](https://stackoverflow.com/questions/3437059/does-python-have-a-string-contains-substring-method)  
             * [Drop all duplicate rows in Python Pandas - Stack Overflow](https://stackoverflow.com/questions/23667369/drop-all-duplicate-rows-in-python-pandas)  
+            * [Executing periodic actions in Python - Stack Overflow](https://stackoverflow.com/questions/8600161/executing-periodic-actions-in-python)  
             * [Find all files in a directory with extension .txt in Python - Stack Overflow](https://stackoverflow.com/questions/3964681/find-all-files-in-a-directory-with-extension-txt-in-python)  
             * [Get list of all JIRA issues (python) - Stack Overflow](https://stackoverflow.com/questions/46528844/get-list-of-all-jira-issues-python)  
             * [Get loop count inside a Python FOR loop - Stack Overflow](https://stackoverflow.com/questions/3162271/get-loop-count-inside-a-python-for-loop)  
@@ -1159,6 +1156,7 @@
             * [pip - How to use requirements.txt to install all dependencies in a python project - Stack Overflow](https://stackoverflow.com/questions/41457612/how-to-use-requirements-txt-to-install-all-dependencies-in-a-python-project)  
             * [printing - How to print to stderr in Python? - Stack Overflow](https://stackoverflow.com/questions/5574702/how-to-print-to-stderr-in-python)  
             * [python - Applying borders to a cell in OpenPyxl - Stack Overflow](https://stackoverflow.com/questions/24917201/applying-borders-to-a-cell-in-openpyxl)  
+            * [python - Can't compare naive and aware datetime.now() <= challenge.datetime_end - Stack Overflow](https://stackoverflow.com/questions/15307623/cant-compare-naive-and-aware-datetime-now-challenge-datetime-end)  
             * [python - Can't use matplotlib.use('Agg'), graphs always show on the screen - Stack Overflow](https://stackoverflow.com/questions/44086597/cant-use-matplotlib-useagg-graphs-always-show-on-the-screen)  
             * [python - Cleanest and most Pythonic way to get tomorrow's date? - Stack Overflow](https://stackoverflow.com/questions/1506901/cleanest-and-most-pythonic-way-to-get-tomorrows-date)  
             * [python - Concatenate item in list to strings - Stack Overflow](https://stackoverflow.com/questions/12453580/concatenate-item-in-list-to-strings)  
@@ -1185,6 +1183,7 @@
             * [python - How do I remove the microseconds from a timedelta object? - Stack Overflow](https://stackoverflow.com/questions/18470627/how-do-i-remove-the-microseconds-from-a-timedelta-object)  
             * [python - How do I replace whitespaces with underscore and vice versa? - Stack Overflow](https://stackoverflow.com/questions/1007481/how-do-i-replace-whitespaces-with-underscore-and-vice-versa)  
             * [python - How do I write JSON data to a file? - Stack Overflow](https://stackoverflow.com/questions/12309269/how-do-i-write-json-data-to-a-file)  
+            * [python - How to check whether a pandas DataFrame is empty? - Stack Overflow](https://stackoverflow.com/questions/19828822/how-to-check-whether-a-pandas-dataframe-is-empty)  
             * [python - How to convert list to string - Stack Overflow](https://stackoverflow.com/questions/5618878/how-to-convert-list-to-string)  
             * [python - How to convert local time string to UTC? - Stack Overflow](https://stackoverflow.com/questions/79797/how-to-convert-local-time-string-to-utc)  
             * [python - How to format cell with datetime object of the form 'yyyy-mm-dd hh:mm:ss' in Excel using openpyxl - Stack Overflow](https://stackoverflow.com/questions/24370385/how-to-format-cell-with-datetime-object-of-the-form-yyyy-mm-dd-hhmmss-in-exc)  
@@ -1239,7 +1238,8 @@
             * [python 3.x - Converting a string to and from Base 64 - Stack Overflow](https://stackoverflow.com/questions/13261802/converting-a-string-to-and-from-base-64/13267801)  
             * [python 3.x - Python3 Asyncio call from Flask route - Stack Overflow](https://stackoverflow.com/questions/47841985/python3-asyncio-call-from-flask-route)  
             * [python dataframe pandas drop column using int - Stack Overflow](https://stackoverflow.com/questions/20297317/python-dataframe-pandas-drop-column-using-int)  
-            * [python date of the previous month - Stack Overflow](https://stackoverflow.com/questions/9724906/python-date-of-the-previous-month/18498964)  
+            * [python date of the previous month - Stack Overflow](https://stackoverflow.com/questions/9724906/python-date-of-the-previous-month)  
+            * [python theading.Timer: how to pass argument to the callback? - Stack Overflow](https://stackoverflow.com/questions/4415672/python-theading-timer-how-to-pass-argument-to-the-callback)  
             * [time - High-precision clock in Python - Stack Overflow](https://stackoverflow.com/questions/1938048/high-precision-clock-in-python)  
             * [trim - Remove all whitespace in a string in Python - Stack Overflow](https://stackoverflow.com/questions/8270092/remove-all-whitespace-in-a-string-in-python/8270146)  
             * [windows - How do I install a Python package with a .whl file? - Stack Overflow](https://stackoverflow.com/questions/27885397/how-do-i-install-a-python-package-with-a-whl-file)  
@@ -1292,7 +1292,7 @@
             * [Python String split() Method](https://www.w3schools.com/python/ref_string_split.asp)  
             * [Python range() Function](https://www.w3schools.com/python/ref_func_range.asp)  
           * [Asyncio Event Loops Tutorial | TutorialEdge.net](https://tutorialedge.net/python/concurrency/asyncio-event-loops-tutorial/)  
-          * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)  
+          * [Automating Windows Applications Using COM - Practical Business Python](https://pbpython.com/windows-com.html)  
           * [Change the order of columns in Pandas dataframe](https://erikrood.com/Python_References/change_order_dataframe_columns_final.html)  
           * [Convert a string representing the date or epoch time to datetime and change timezone in Python - Sou-Nan-De-Gesu](https://www.soudegesu.com/en/python/python-datetime/)  
           * [Convert string to int in Python – Python Principles](https://pythonprinciples.com/blog/python-convert-string-to-int/)  
@@ -1335,6 +1335,7 @@
           * [Python: Sort dictionary by value](https://code-maven.com/slides/python-programming/sort-dictionary-by-value)  
           * [SQLite Python](http://www.sqlitetutorial.net/sqlite-python/)  
           * [To get previous month – python | Suji's Blog](https://suji25.wordpress.com/2013/11/18/to-get-previous-month-python/)  
+          * [WhileLoop - Python Wiki](https://wiki.python.org/moin/WhileLoop)  
           * [Working with Text Files in Python | Programming Historian](https://programminghistorian.org/lessons/working-with-text-files)  
           * [chomp() functionality in Python | Python Adventures](https://pythonadventures.wordpress.com/2010/10/11/chomp-functionality-in-python/)  
           * [command line - How do I check whether a module is installed in Python, and install it if needed? - Ask Ubuntu](https://askubuntu.com/questions/588390/how-do-i-check-whether-a-module-is-installed-in-python-and-install-it-if-needed)  
