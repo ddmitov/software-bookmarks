@@ -333,6 +333,7 @@
           * [keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)  
         * [VSCodium - Open Source Binaries of VSCode](https://vscodium.com/)  
         * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)  
+      * [* Arachnophilia](https://arachnoid.com/arachnophilia/)  
       * [Atom](https://atom.io/)  
       * [Scintilla and SciTE](https://www.scintilla.org/SciTE.html)  
     * Licensing  
@@ -402,9 +403,10 @@
         * [maravento/winzenity: Zenity Portable for Windows](https://github.com/maravento/winzenity)  
     * Plotting  
       * Matplotlib  
-        * [Customizing Matplotlib with style sheets and rcParams — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/tutorials/introductory/customizing.html)  
-        * [How-To — Matplotlib 3.1.1 documentation](https://matplotlib.org/faq/howto_faq.html)  
-        * [Multiple Figs Demo — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/gallery/subplots_axes_and_figures/multiple_figs_demo.html)  
+        * Matplotlib How To  
+          * [Customizing Matplotlib with style sheets and rcParams — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/tutorials/introductory/customizing.html)  
+          * [How-To — Matplotlib 3.1.1 documentation](https://matplotlib.org/faq/howto_faq.html)  
+          * [Multiple Figs Demo — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/gallery/subplots_axes_and_figures/multiple_figs_demo.html)  
       * [ploticus: ploticus data display package](http://ploticus.sourceforge.net/doc/welcome.html)  
     * Programming Languages  
       * AutoIt  
@@ -790,6 +792,7 @@
           * [ServiceWorker Cookbook](https://serviceworke.rs/)  
           * [The Web App Manifest  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/web-app-manifest/)  
           * [mdn/simple-web-worker: A simple web worker test.](https://github.com/mdn/simple-web-worker)  
+        * [JSFiddle - Code Playground](https://jsfiddle.net/)  
         * [JavaScript variable name validator](https://mothereff.in/js-variables)  
         * [douglascrockford/JSLint: The JavaScript Code Quality Tool](https://github.com/douglascrockford/JSLint)  
         * [douglascrockford/JSMin: JavaScript Minification Filter](https://github.com/douglascrockford/JSMin)  
@@ -950,6 +953,7 @@
             * [perl - How can I sort a hash's keys naturally? - Stack Overflow](https://stackoverflow.com/questions/383528/how-can-i-sort-a-hashs-keys-naturally)  
             * [perl - How to read only the first line of a file - Stack Overflow](https://stackoverflow.com/questions/7028250/how-to-read-only-the-first-line-of-a-file)  
             * [perl - How to redirect STDOUT and STDERR to a variable - Stack Overflow](https://stackoverflow.com/questions/4415497/how-to-redirect-stdout-and-stderr-to-a-variable)  
+            * [perl - Where does CPAN install modules? - Stack Overflow](https://stackoverflow.com/questions/46778215/where-does-cpan-install-modules)  
             * [perl - quickest way to count the number of files in a directory containing hundreds of thousands of files - Stack Overflow](http://stackoverflow.com/questions/17732799/quickest-way-to-count-the-number-of-files-in-a-directory-containing-hundreds-of)  
             * [perl - use utf8 gives me 'Wide character in print' - Stack Overflow](https://stackoverflow.com/questions/15210532/use-utf8-gives-me-wide-character-in-print)  
             * [regex - How do I perform a Perl substitution on a string while keeping the original? - Stack Overflow](https://stackoverflow.com/questions/22836/how-do-i-perform-a-perl-substitution-on-a-string-while-keeping-the-original)  
@@ -1043,6 +1047,7 @@
         * [Perl::Critic](http://perlcritic.com/)  
         * [Perlbrew](http://perlbrew.pl/)  
         * [The Perl Programming Language - www.perl.org](https://www.perl.org/)  
+        * [ddmitov/bg-volumina: Bibliographic Database Script Kit - ARCHIVED](https://github.com/ddmitov/bg-volumina)  
         * [ddmitov/camel-doctor: Linux and Mac HTML interface for the Perl 5 debugger](https://github.com/ddmitov/camel-doctor)  
         * [ddmitov/perl-executing-browser: HTML interface for Perl 5 desktop applications](https://github.com/ddmitov/perl-executing-browser)  
         * [ddmitov/tabula: Mojolicious framework for desktop applications](https://github.com/ddmitov/tabula)  
@@ -1100,6 +1105,7 @@
             * [Does Python have a string 'contains' substring method? - Stack Overflow](https://stackoverflow.com/questions/3437059/does-python-have-a-string-contains-substring-method)  
             * [Drop all duplicate rows in Python Pandas - Stack Overflow](https://stackoverflow.com/questions/23667369/drop-all-duplicate-rows-in-python-pandas)  
             * [Executing periodic actions in Python - Stack Overflow](https://stackoverflow.com/questions/8600161/executing-periodic-actions-in-python)  
+            * [Extracting Hyperlinks From Excel (.xlsx) with Python - Stack Overflow](https://stackoverflow.com/questions/16676727/extracting-hyperlinks-from-excel-xlsx-with-python)  
             * [Find all files in a directory with extension .txt in Python - Stack Overflow](https://stackoverflow.com/questions/3964681/find-all-files-in-a-directory-with-extension-txt-in-python)  
             * [Get list of all JIRA issues (python) - Stack Overflow](https://stackoverflow.com/questions/46528844/get-list-of-all-jira-issues-python)  
             * [Get loop count inside a Python FOR loop - Stack Overflow](https://stackoverflow.com/questions/3162271/get-loop-count-inside-a-python-for-loop)  
@@ -1146,6 +1152,7 @@
             * [datetime - How to get the current time in Python - Stack Overflow](https://stackoverflow.com/questions/415511/how-to-get-the-current-time-in-python)  
             * [datetime - How would I compute exactly 30 days into the past with Python (down to the minute)? - Stack Overflow](https://stackoverflow.com/questions/703907/how-would-i-compute-exactly-30-days-into-the-past-with-python-down-to-the-minut)  
             * [datetime - Round time to nearest hour python - Stack Overflow](https://stackoverflow.com/questions/48937900/round-time-to-nearest-hour-python)  
+            * [django - How can I upgrade specific packages using pip and a requirements file? - Stack Overflow](https://stackoverflow.com/questions/4536103/how-can-i-upgrade-specific-packages-using-pip-and-a-requirements-file)  
             * [django - How do I convert datetime.timedelta to minutes, hours in Python? - Stack Overflow](https://stackoverflow.com/questions/14190045/how-do-i-convert-datetime-timedelta-to-minutes-hours-in-python/43965102)  
             * [email - Specify a sender when sending mail with Python (smtplib) - Stack Overflow](https://stackoverflow.com/questions/540976/specify-a-sender-when-sending-mail-with-python-smtplib)  
             * [https - How do I disable the security certificate check in Python requests - Stack Overflow](https://stackoverflow.com/questions/15445981/how-do-i-disable-the-security-certificate-check-in-python-requests)  
@@ -1158,6 +1165,7 @@
             * [python - Applying borders to a cell in OpenPyxl - Stack Overflow](https://stackoverflow.com/questions/24917201/applying-borders-to-a-cell-in-openpyxl)  
             * [python - Can't compare naive and aware datetime.now() <= challenge.datetime_end - Stack Overflow](https://stackoverflow.com/questions/15307623/cant-compare-naive-and-aware-datetime-now-challenge-datetime-end)  
             * [python - Can't use matplotlib.use('Agg'), graphs always show on the screen - Stack Overflow](https://stackoverflow.com/questions/44086597/cant-use-matplotlib-useagg-graphs-always-show-on-the-screen)  
+            * [python - Check if string matches pattern - Stack Overflow](https://stackoverflow.com/questions/12595051/check-if-string-matches-pattern)  
             * [python - Cleanest and most Pythonic way to get tomorrow's date? - Stack Overflow](https://stackoverflow.com/questions/1506901/cleanest-and-most-pythonic-way-to-get-tomorrows-date)  
             * [python - Concatenate item in list to strings - Stack Overflow](https://stackoverflow.com/questions/12453580/concatenate-item-in-list-to-strings)  
             * [python - Convert bytes to a string? - Stack Overflow](https://stackoverflow.com/questions/606191/convert-bytes-to-a-string)  
@@ -1236,9 +1244,10 @@
             * [python .replace() regex - Stack Overflow](https://stackoverflow.com/questions/11475885/python-replace-regex)  
             * [python 2.7 - Openpyxl change the dimension of a chart - Stack Overflow](https://stackoverflow.com/questions/36603753/openpyxl-change-the-dimension-of-a-chart)  
             * [python 3.x - Converting a string to and from Base 64 - Stack Overflow](https://stackoverflow.com/questions/13261802/converting-a-string-to-and-from-base-64/13267801)  
+            * [python 3.x - How to use Tor with Chrome browser through Selenium - Stack Overflow](https://stackoverflow.com/questions/55689701/how-to-use-tor-with-chrome-browser-through-selenium)  
             * [python 3.x - Python3 Asyncio call from Flask route - Stack Overflow](https://stackoverflow.com/questions/47841985/python3-asyncio-call-from-flask-route)  
             * [python dataframe pandas drop column using int - Stack Overflow](https://stackoverflow.com/questions/20297317/python-dataframe-pandas-drop-column-using-int)  
-            * [python date of the previous month - Stack Overflow](https://stackoverflow.com/questions/9724906/python-date-of-the-previous-month)  
+            * [python date of the previous month - Stack Overflow](https://stackoverflow.com/questions/9724906/python-date-of-the-previous-month/18498964)  
             * [python theading.Timer: how to pass argument to the callback? - Stack Overflow](https://stackoverflow.com/questions/4415672/python-theading-timer-how-to-pass-argument-to-the-callback)  
             * [time - High-precision clock in Python - Stack Overflow](https://stackoverflow.com/questions/1938048/high-precision-clock-in-python)  
             * [trim - Remove all whitespace in a string in Python - Stack Overflow](https://stackoverflow.com/questions/8270092/remove-all-whitespace-in-a-string-in-python/8270146)  
@@ -1294,9 +1303,12 @@
           * [Asyncio Event Loops Tutorial | TutorialEdge.net](https://tutorialedge.net/python/concurrency/asyncio-event-loops-tutorial/)  
           * [Automating Windows Applications Using COM - Practical Business Python](https://pbpython.com/windows-com.html)  
           * [Change the order of columns in Pandas dataframe](https://erikrood.com/Python_References/change_order_dataframe_columns_final.html)  
+          * [Common Excel Tasks Demonstrated in Pandas - Part 2 - Practical Business Python](https://pbpython.com/excel-pandas-comp-2.html)  
+          * [Common Excel Tasks Demonstrated in Pandas - Practical Business Python](https://pbpython.com/excel-pandas-comp.html)  
           * [Convert a string representing the date or epoch time to datetime and change timezone in Python - Sou-Nan-De-Gesu](https://www.soudegesu.com/en/python/python-datetime/)  
           * [Convert string to int in Python – Python Principles](https://pythonprinciples.com/blog/python-convert-string-to-int/)  
           * [Converting time zones for datetime objects in Python - SaltyCrane Blog](https://www.saltycrane.com/blog/2009/05/converting-time-zones-datetime-objects-python/)  
+          * [Driving Headless Chrome with Python | Decipher](https://duo.com/decipher/driving-headless-chrome-with-python)  
           * [Extract month and year to a new column in Pandas | Data Interview Questions](https://www.interviewqs.com/ddi_code_snippets/extract_month_year_pandas)  
           * [For loop with range - Learn Python 3 - Snakify](https://snakify.org/en/lessons/for_loop_range/)  
           * [Get Previous, Current and Next-Day System Dates in Python - Data to Fish](https://datatofish.com/get-previous-current-and-next-day-system-dates-in-python/)  
@@ -1344,6 +1356,7 @@
           * [list of pytz time zones](https://gist.github.com/heyalexej/8bf688fd67d7199be4a1682b3eec7568)  
           * [osdba's blog : A tool for packaging python scripts into binary executables](http://blog.osdba.net/530.html)  
           * [resilar/sqleet · python instructions](https://github.com/resilar/sqleet/issues/21)  
+          * [selenium/headless.py at master · pyzzled/selenium](https://github.com/pyzzled/selenium/blob/master/headless_browser/headless.py)  
           * [windows - How to install the win32com python library - Super User](https://superuser.com/questions/609447/how-to-install-the-win32com-python-library)  
         * Python Packages  
           * [Boto 3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)  
@@ -1389,13 +1402,14 @@
         * [Github Release Stats](http://www.somsubhra.com/github-release-stats/)  
     * Virtualization  
       * VirtualBox  
-        * [Chapter 8. VBoxManage](https://www.virtualbox.org/manual/ch08.html)  
-        * [Creating a VM using VBoxManage](https://networking.ringofsaturn.com/Unix/Create_Virtual_Machine_VBoxManage.php)  
-        * [Headless Mode for Virtual Machines of VirtualBox - Thomas-Krenn-Wiki](https://www.thomas-krenn.com/en/wiki/Headless_Mode_for_Virtual_Machines_of_VirtualBox)  
-        * [How to access shared folders in Ubuntu VM(Oracle Virtualbox) and link them to the home folder - Ask Ubuntu](https://askubuntu.com/questions/323392/how-to-access-shared-folders-in-ubuntu-vmoracle-virtualbox-and-link-them-to-th)  
-        * [Managing Oracle VM VirtualBox from the Command Line](https://www.oracle.com/technetwork/articles/servers-storage-admin/manage-vbox-cli-2264359.html)  
-        * [VirtualBox/SharedFolders - Community Help Wiki](https://help.ubuntu.com/community/VirtualBox/SharedFolders)  
-        * [linux - How to mount a VirtualBox shared folder? - Server Fault](https://serverfault.com/questions/674974/how-to-mount-a-virtualbox-shared-folder)  
+        * VirtualBox How To  
+          * [Chapter 8. VBoxManage](https://www.virtualbox.org/manual/ch08.html)  
+          * [Creating a VM using VBoxManage](https://networking.ringofsaturn.com/Unix/Create_Virtual_Machine_VBoxManage.php)  
+          * [Headless Mode for Virtual Machines of VirtualBox - Thomas-Krenn-Wiki](https://www.thomas-krenn.com/en/wiki/Headless_Mode_for_Virtual_Machines_of_VirtualBox)  
+          * [How to access shared folders in Ubuntu VM(Oracle Virtualbox) and link them to the home folder - Ask Ubuntu](https://askubuntu.com/questions/323392/how-to-access-shared-folders-in-ubuntu-vmoracle-virtualbox-and-link-them-to-th)  
+          * [Managing Oracle VM VirtualBox from the Command Line](https://www.oracle.com/technetwork/articles/servers-storage-admin/manage-vbox-cli-2264359.html)  
+          * [VirtualBox/SharedFolders - Community Help Wiki](https://help.ubuntu.com/community/VirtualBox/SharedFolders)  
+          * [linux - How to mount a VirtualBox shared folder? - Server Fault](https://serverfault.com/questions/674974/how-to-mount-a-virtualbox-shared-folder)  
       * [Enigma Virtual Box](http://enigmaprotector.com/en/aboutvb.html)  
     * Web  
       * Backend  
@@ -1406,7 +1420,6 @@
           * Mongoose  
             * [cesanta/mongoose: Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and bro](https://github.com/cesanta/mongoose)  
             * [ctrix/free-mongoose](https://github.com/ctrix/free-mongoose/)  
-          * [VS WAMP - VertrigoServ - PHP, Apache, MySQL server](https://www.vswamp.com/)  
           * [Webmin](http://www.webmin.com/)  
           * [Xitami - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Xitami)  
       * Frontend  
@@ -1422,7 +1435,6 @@
               * [CSS How to](http://www.w3schools.com/css/css_howto.asp)  
               * [CSS overflow property](http://www.w3schools.com/cssref/pr_pos_overflow.asp)  
               * [CSS3 box-sizing property](http://www.w3schools.com/cssref/css3_pr_box-sizing.asp)  
-          * [The W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/)  
           * [loading.io - Your SVG + GIF Ajax Loading Icons](http://loading.io/)  
         * Fonts  
           * [Font Awesome Web Application Icons](https://www.w3schools.com/icons/fontawesome_icons_webapp.asp)  
@@ -1469,15 +1481,14 @@
               * [How To Create an On Scroll Fixed Header](https://www.w3schools.com/howto/howto_js_sticky_header.asp)  
             * [You Might Not Need JavaScript](http://youmightnotneedjs.com/)  
             * [html - How do I use .woff fonts for my website? - Stack Overflow](https://stackoverflow.com/questions/12812441/how-do-i-use-woff-fonts-for-my-website)  
-          * [(X)HTML5 validator](https://html5.validator.nu/)  
-          * [* Arachnophilia](http://www.arachnoid.com/arachnophilia/index.php)  
-          * [HTML Tidy Online](http://infohound.net/tidy/)  
-          * [HTML: The Markup Language (an HTML language reference)](http://www.w3.org/TR/html-markup/)  
+          * [Free Online HTML Escape / Unescape Tool - FreeFormatter.com](https://www.freeformatter.com/html-escape.html)  
           * [The W3C Markup Validation Service](http://validator.w3.org/)  
           * [Validator.nu](http://validator.nu/)  
         * [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)  
         * [Just Color Picker 5.2 - best free colour tool for Windows and macOS](http://annystudio.com/software/colorpicker/)  
-      * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
+      * Speed Testing  
+        * [Internet Speed Test | Fast.com](https://fast.com/)  
+        * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
 
 Created using [Bookmark Extractor](https://github.com/ddmitov/bookmark-extractor)
 
