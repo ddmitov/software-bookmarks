@@ -46,6 +46,7 @@
         * [CGI parameters to Omega](https://xapian.org/docs/omega/cgiparams.html)  
         * [The Xapian Project](https://xapian.org/)  
       * [DocFetcher - Fast Document Search](http://docfetcher.sourceforge.net/en/index.html)  
+      * [dtSearch – Text Retrieval / Full Text Search Engine](https://dtsearch.com/)  
     * Encryption  
       * [KeePass Password Safe](https://keepass.info/)  
       * [KeePassXC Password Manager](https://keepassxc.org/)  
@@ -101,6 +102,7 @@
             * [Advanced searching - fields reference - Atlassian Documentation](https://confluence.atlassian.com/jiracorecloud/advanced-searching-fields-reference-765593716.html)  
             * [Advanced searching - functions reference - Atlassian Documentation](https://confluence.atlassian.com/jiracorecloud/advanced-searching-functions-reference-765593719.html)  
             * [Advanced searching - operators reference - Atlassian Documentation](https://confluence.atlassian.com/jiracorecloud/advanced-searching-operators-reference-765593718.html)  
+            * [How to add Watchers or Request Participants during issue creation - Atlassian Documentation](https://confluence.atlassian.com/jirakb/how-to-add-watchers-or-request-participants-during-issue-creation-975018319.html)  
             * [Saving your search as a filter - Atlassian Documentation](https://confluence.atlassian.com/jiracoreserver073/saving-your-search-as-a-filter-861257224.html)  
           * developer.atlassian.com  
             * [Jira REST API examples](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)  
@@ -109,9 +111,7 @@
             * [The Jira Cloud platform REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3/)  
           * [Advanced search reference - JQL fields | Jira Software Cloud | Atlassian Support](https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-fields/)  
           * [JIRA 6.1 REST API documentation](https://docs.atlassian.com/DAC/rest/jira/6.1.html)  
-          * [JQL Reference manual (How to Perform an Advanced Search)](https://mraddon.blog/2015/05/27/jql-reference-manual-how-to-perform-an-advanced-search/)  
           * [JQL: The most flexible way to search Jira](https://www.atlassian.com/blog/jira-software/jql-the-most-flexible-way-to-search-jira-14)  
-          * [The Jira JQL Advanced Guide 2019 [How to Search Jira Issues Like a Pro]](https://www.idalko.com/jira-jql/)  
         * [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)  
     * Cloud  
       * Amazon Web Services  
@@ -291,6 +291,7 @@
           * [MySQL Format Date | date_format Tool](http://www.mysqlformatdate.com/)  
           * [MySQL show status: How to show open database connections | alvinalexander.com](https://alvinalexander.com/blog/post/mysql/how-show-open-database-connections-mysql)  
           * [Overview of the SQL REPLACE function](https://www.sqlshack.com/overview-of-the-sql-replace-function/)  
+          * [SQL Notes for Professionals](https://books.goalkicker.com/SQLBook/)  
           * [SQL style guide by Simon Holywell](https://www.sqlstyle.guide/)  
       * SQLite  
         * SQLite Editors  
@@ -354,7 +355,9 @@
           * [AppStream Generator](http://output.jsbin.com/qoqukof)  
           * [probonopd/linuxdeployqt: Makes Linux applications self-contained by copying in the Qt libraries and plugins that the application uses.](https://github.com/probonopd/linuxdeployqt)  
         * Linux Distributions  
+          * [DistroWatch.com: Put the fun back into computing. Use Linux, BSD.](https://distrowatch.com/)  
           * [GParted -- Live CD/USB/PXE/HD](https://gparted.org/livecd.php)  
+          * [KNOPPIX Linux Live CD](http://www.knoppix.org/)  
           * [Slax Linux - your pocket operating system](https://www.slax.org/)  
           * [Ubuntu Minimal CD](https://help.ubuntu.com/community/Installation/MinimalCD)  
         * Linux How To  
@@ -363,6 +366,7 @@
             * [How to check bluetooth status via terminal - Ask Ubuntu](https://askubuntu.com/questions/144655/how-to-check-bluetooth-status-via-terminal/399051)  
             * [apt - Is it possible to get a list of most recently installed packages? - Ask Ubuntu](http://askubuntu.com/questions/17012/is-it-possible-to-get-a-list-of-most-recently-installed-packages)  
             * [log - How do I check if last shutdown was clean? - Ask Ubuntu](http://askubuntu.com/questions/103015/how-do-i-check-if-last-shutdown-was-clean)  
+            * [package management - Snap in Ubuntu 16.04 - Ask Ubuntu](https://askubuntu.com/questions/763078/snap-in-ubuntu-16-04)  
           * nixCraft  
             * [How to check if port is in use on Linux or Unix - nixCraft](https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/)  
             * [How to find a folder in Linux using the command line - nixCraft](https://www.cyberciti.biz/faq/how-to-find-a-folder-in-linux-using-the-command-line/)  
@@ -471,7 +475,6 @@
               * [How to set the operations of right click | Qt Forum](https://forum.qt.io/topic/14709/how-to-set-the-operations-of-right-click/16)  
               * [Installing Qt 5.4 dev packages in Travis CI | Qt Forum](https://forum.qt.io/topic/50340/installing-qt-5-4-dev-packages-in-travis-ci/16)  
               * [Relative Path on Qmake (.pro file) | Qt Forum](https://forum.qt.io/topic/18879/relative-path-on-qmake-pro-file)  
-              * [TinyAES - A very small AES encryption library for Qt 5.x (Page 1) / Community Contributions / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=173884)  
             * stackoverflow.com  
               * [Add coverity scan to Qt app - Stack Overflow](https://stackoverflow.com/questions/26803640/add-coverity-scan-to-qt-app)  
               * [Checking if a folder exists (and creating folders) in Qt, C++ - Stack Overflow](https://stackoverflow.com/questions/2241808/checking-if-a-folder-exists-and-creating-folders-in-qt-c)  
@@ -555,7 +558,6 @@
               * [Qt Coding Style - Qt Wiki](https://wiki.qt.io/Qt_Coding_Style)  
             * www.java2s.com  
               * [Complete demo for QStringList : QStringList « Qt « C++](http://www.java2s.com/Code/Cpp/Qt/CompletedemoforQStringList.htm)  
-              * [Connect to Sqlite and do insert, delete, update and select : Sqlite « Qt « C++](http://www.java2s.com/Code/Cpp/Qt/ConnecttoSqliteanddoinsertdeleteupdateandselect.htm)  
               * [QStringList demo : QStringList « Qt « C++](http://www.java2s.com/Code/Cpp/Qt/QStringListdemo.htm)  
               * [Read byte array from text file : QFile « Qt « C++](http://www.java2s.com/Code/Cpp/Qt/Readbytearrayfromtextfile.htm)  
               * [Read text file line by line : QFile « Qt « C++](http://www.java2s.com/Code/Cpp/Qt/Readtextfilelinebyline.htm)  
@@ -586,14 +588,12 @@
             * [Your Guide for Deploying Qt Applications to MacOS | ICS](https://www.ics.com/blog/your-guide-deploying-qt-applications-macos)  
             * [make - How do I change which version of Qt is used for qmake? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/116254/how-do-i-change-which-version-of-qt-is-used-for-qmake)  
             * [qmake: добавление своих команд в Makefile | blog.mgsxx.com](http://blog.mgsxx.com/?p=2046)  
-            * [qt-examples/sitespecificbrowser at master · richmoore/qt-examples](https://github.com/richmoore/qt-examples/tree/master/sitespecificbrowser)  
             * [removeDir() recursively in Qt](http://dumpz.org/22164/)  
           * [Index of /archive/qt](https://download.qt.io/archive/qt/)  
-          * [Qt Linguist Download Qt-Apps.org](http://www.qt-apps.org/content/show.php/Qt+Linguist+Download?content=89360)  
           * [QuaZIP: QuaZIP - Qt/C++ wrapper for ZIP/UNZIP package](http://quazip.sourceforge.net/)  
-          * [annulen/webkit: Unofficial mirror of the WebKit SVN repository](https://github.com/annulen/webkit)  
+          * [TinyAES - A very small AES encryption library for Qt 5.x (Page 1) / Community Contributions / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=173884)  
           * [devbean/QtCipherSqlitePlugin](https://github.com/devbean/QtCipherSqlitePlugin)  
-          * [osdab/OSDaB-Zip at master · hippydream/osdab](https://github.com/hippydream/osdab/tree/master/OSDaB-Zip)  
+          * [qt-examples/sitespecificbrowser at master · richmoore/qt-examples](https://github.com/richmoore/qt-examples/tree/master/sitespecificbrowser)  
         * [Cppcheck - A tool for static C/C++ code analysis](http://cppcheck.sourceforge.net/)  
       * Java  
         * Java How To  
@@ -707,13 +707,9 @@
             * [onsubmit Event](http://www.w3schools.com/jsref/event_onsubmit.asp)  
           * [Creating a downloadable text-file using blobs - JSFiddle](http://jsfiddle.net/UselessCode/qm5AG/)  
           * [Detect the Operating System of User using JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/detect-the-operating-system-of-user-using-javascript/)  
-          * [Eloquent JavaScript](https://eloquentjavascript.net/)  
           * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)  
           * [How I'm (Not) Using jQuery](https://developer.telerik.com/content-types/tutorials/im-not-using-jquery/)  
-          * [JavaScript Standard Style](https://standardjs.com/)  
-          * [JavaScript: Allowed Characters in Identifier](http://xahlee.info/js/js_unicode_in_identifiers.html)  
           * [Read Text Files Using the JavaScript FileReader](https://www.htmlgoodies.com/beyond/javascript/read-text-files-using-the-javascript-filereader.html)  
-          * [The Cost of JavaScript in 2018 | CSS-Tricks](https://css-tricks.com/the-cost-of-javascript-in-2018/)  
           * [Valid JavaScript variable names in ECMAScript 5 · Mathias Bynens](https://mathiasbynens.be/notes/javascript-identifiers)  
           * [You Can't Detect A Touchscreen | Blog | Stu Cox](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/)  
           * [You Don't Need jQuery! – Free yourself from the chains of jQuery by embracing and understanding the modern Web API and discovering various directed libraries to help you fill in the gaps.](https://blog.garstasio.com/you-dont-need-jquery/)  
@@ -801,20 +797,17 @@
         * [nullsoft scriptable install system](https://nsis.sourceforge.io/Main_Page)  
       * PHP  
         * PHP How To  
-          * Zen Cart How To  
+          * www.zen-cart.com  
             * [Admin - Configuration - Product Listing - Zen Cart(tm) Wiki](http://www.zen-cart.com/wiki/index.php/Admin_-_Configuration_-_Product_Listing)  
             * [Alpha-sorter for a different alphabet?](http://www.zen-cart.com/showthread.php?53924-Alpha-sorter-for-a-different-alphabet)  
             * [Can I turn off the alpha filter?](http://www.zen-cart.com/showthread.php?53433-Can-I-turn-off-the-alpha-filter)  
             * [Changing the Information Sidebox](http://www.zen-cart.com/showthread.php?86563-Changing-the-Information-Sidebox)  
-            * [Customer's Session TimeOut in zen-cart - Stack Overflow](https://stackoverflow.com/questions/27751995/customers-session-timeout-in-zen-cart)  
             * [How do I change link to home?](https://www.zen-cart.com/showthread.php?75267-How-do-I-change-link-to-home)  
             * [I want to remove "Customers who bought this item also bought..."](https://www.zen-cart.com/showthread.php?166713-I-want-to-remove-quot-Customers-who-bought-this-item-also-bought-quot)  
             * [Making a Custom Sidebox - Zen Cart(tm) Wiki](https://www.zen-cart.com/wiki/index.php/Making_a_Custom_Sidebox)  
-            * [Ojambo Zen Cart Upgrade 1.3 To 1.5](http://www.ojambo.com/zen-cart-upgrade-1-3-to-1-5)  
             * [Remove New Products and All Products Links](http://www.zen-cart.com/showthread.php?121894-Remove-New-Products-and-All-Products-Links)  
             * [Restrict Maximum Image upload file size ?](http://www.zen-cart.com/showthread.php?127049-Restrict-Maximum-Image-upload-file-size)  
             * [Stock by Attributes - Zen Cart® Plugins and Addons](https://www.zen-cart.com/downloads.php?do=file&id=202)  
-            * [Tableau Responsive Theme for Zen Cart](https://www.numinix.com/templates/zen-cart-templates/tableau-for-zen-cart-dl-936)  
             * [Turn off "Your Shopping Cart is empty." at top of home page](https://www.zen-cart.com/showthread.php?184451-Turn-off-quot-Your-Shopping-Cart-is-empty-quot-at-top-of-home-page)  
             * [Upgrading from 1.3.x to 1.5.x](https://www.zen-cart.com/forumdisplay.php?156-Upgrading-from-1-3-x-to-1-5-x)  
             * [Zen Cart Remove "also purchased"](https://www.zen-cart.com/showthread.php?38320-Remove-quot-also-purchased-quot)  
@@ -830,7 +823,9 @@
             * [Zen Cart Support - Understanding the Override System](https://www.zen-cart.com/content.php?228-understanding-the-override-system)  
             * [Zen Cart Support - Where are the buttons hiding & how do I change them?](https://www.zen-cart.com/content.php?93-where-are-the-buttons-hiding-how-do-i-change-them)  
             * [Zen Cart Template Structure - Zen Cart(tm) Wiki](https://www.zen-cart.com/wiki/index.php/Zen_Cart_Template_Structure)  
-            * [zencart/documentation: Zen Cart Developer Documentation](https://github.com/zencart/documentation)  
+          * [Customer's Session TimeOut in zen-cart - Stack Overflow](https://stackoverflow.com/questions/27751995/customers-session-timeout-in-zen-cart)  
+          * [Ojambo Zen Cart Upgrade 1.3 To 1.5](http://www.ojambo.com/zen-cart-upgrade-1-3-to-1-5)  
+          * [Tableau Responsive Theme for Zen Cart](https://www.numinix.com/templates/zen-cart-templates/tableau-for-zen-cart-dl-936)  
         * [PHP Classes](http://www.phpclasses.org/)  
         * [phpMyAdmin](http://www.phpmyadmin.net/home_page/index.php)  
         * [phpMyBackupPro - the MySQL backup tool :: Features](http://www.phpmybackuppro.net/)  
@@ -1069,12 +1064,15 @@
             * [datetime — Basic date and time types — Python 3.8.2 documentation](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes)  
             * [queue — A synchronized queue class — Python 3.7.4 documentation](https://docs.python.org/3/library/queue.html)  
           * pandas.pydata.org  
+            * [pandas.DataFrame.astype — pandas 1.0.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.astype.html)  
             * [pandas.DataFrame.drop — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html)  
+            * [pandas.DataFrame.dtypes — pandas 1.0.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dtypes.html)  
             * [pandas.DataFrame.fillna — pandas 1.0.2 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.fillna.html)  
             * [pandas.DataFrame.groupby — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html)  
             * [pandas.DataFrame.merge — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.merge.html)  
             * [pandas.DataFrame.rename — pandas 1.0.2 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rename.html)  
             * [pandas.DataFrame.sort_values — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html)  
+            * [pandas.DataFrame.to_csv — pandas 1.0.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_csv.html)  
             * [pandas.DataFrame.to_parquet — pandas 1.0.2 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_parquet.html)  
             * [pandas.DataFrame.to_sql — pandas 1.0.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_sql.html)  
             * [pandas.Series.astype — pandas 0.7.0 documentation](https://pandas.pydata.org/pandas-docs/version/0.7.0/generated/pandas.Series.astype.html)  
@@ -1165,6 +1163,7 @@
             * [python - Applying borders to a cell in OpenPyxl - Stack Overflow](https://stackoverflow.com/questions/24917201/applying-borders-to-a-cell-in-openpyxl)  
             * [python - Can't compare naive and aware datetime.now() <= challenge.datetime_end - Stack Overflow](https://stackoverflow.com/questions/15307623/cant-compare-naive-and-aware-datetime-now-challenge-datetime-end)  
             * [python - Can't use matplotlib.use('Agg'), graphs always show on the screen - Stack Overflow](https://stackoverflow.com/questions/44086597/cant-use-matplotlib-useagg-graphs-always-show-on-the-screen)  
+            * [python - Change data type of columns in Pandas - Stack Overflow](https://stackoverflow.com/questions/15891038/change-data-type-of-columns-in-pandas)  
             * [python - Check if string matches pattern - Stack Overflow](https://stackoverflow.com/questions/12595051/check-if-string-matches-pattern)  
             * [python - Cleanest and most Pythonic way to get tomorrow's date? - Stack Overflow](https://stackoverflow.com/questions/1506901/cleanest-and-most-pythonic-way-to-get-tomorrows-date)  
             * [python - Concatenate item in list to strings - Stack Overflow](https://stackoverflow.com/questions/12453580/concatenate-item-in-list-to-strings)  
@@ -1174,6 +1173,7 @@
             * [python - Converting string to date object without time info - Stack Overflow](https://stackoverflow.com/questions/23324266/converting-string-to-date-object-without-time-info)  
             * [python - Correct way to write line to file? - Stack Overflow](https://stackoverflow.com/questions/6159900/correct-way-to-write-line-to-file)  
             * [python - Count unique values with pandas per groups - Stack Overflow](https://stackoverflow.com/questions/38309729/count-unique-values-with-pandas-per-groups)  
+            * [python - Creating an empty Pandas DataFrame, then filling it? - Stack Overflow](https://stackoverflow.com/questions/13784192/creating-an-empty-pandas-dataframe-then-filling-it)  
             * [python - Efficient way to apply multiple filters to pandas DataFrame or Series - Stack Overflow](https://stackoverflow.com/questions/13611065/efficient-way-to-apply-multiple-filters-to-pandas-dataframe-or-series)  
             * [python - Find oldest/youngest datetime object in a list - Stack Overflow](https://stackoverflow.com/questions/3922644/find-oldest-youngest-datetime-object-in-a-list)  
             * [python - Find which version of package is installed with pip - Stack Overflow](https://stackoverflow.com/questions/10214827/find-which-version-of-package-is-installed-with-pip)  
@@ -1191,6 +1191,7 @@
             * [python - How do I remove the microseconds from a timedelta object? - Stack Overflow](https://stackoverflow.com/questions/18470627/how-do-i-remove-the-microseconds-from-a-timedelta-object)  
             * [python - How do I replace whitespaces with underscore and vice versa? - Stack Overflow](https://stackoverflow.com/questions/1007481/how-do-i-replace-whitespaces-with-underscore-and-vice-versa)  
             * [python - How do I write JSON data to a file? - Stack Overflow](https://stackoverflow.com/questions/12309269/how-do-i-write-json-data-to-a-file)  
+            * [python - How to check if a column exists in Pandas - Stack Overflow](https://stackoverflow.com/questions/24870306/how-to-check-if-a-column-exists-in-pandas)  
             * [python - How to check whether a pandas DataFrame is empty? - Stack Overflow](https://stackoverflow.com/questions/19828822/how-to-check-whether-a-pandas-dataframe-is-empty)  
             * [python - How to convert list to string - Stack Overflow](https://stackoverflow.com/questions/5618878/how-to-convert-list-to-string)  
             * [python - How to convert local time string to UTC? - Stack Overflow](https://stackoverflow.com/questions/79797/how-to-convert-local-time-string-to-utc)  
@@ -1259,6 +1260,7 @@
             * [Pandas : How to create an empty DataFrame and append rows & columns to it in python – thispointer.com](https://thispointer.com/pandas-how-to-create-an-empty-dataframe-and-append-rows-columns-to-it-in-python/)  
             * [Pandas : Loop or Iterate over all or certain columns of a dataframe – thispointer.com](https://thispointer.com/pandas-loop-or-iterate-over-all-or-certain-columns-of-a-dataframe/)  
             * [Python Pandas : How to add rows in a DataFrame using dataframe.append() & loc[] , iloc[] – thispointer.com](https://thispointer.com/python-pandas-how-to-add-rows-in-a-dataframe-using-dataframe-append-loc-iloc/)  
+            * [Select Rows & Columns by Name or Index in DataFrame using loc & iloc | Python Pandas – thispointer.com](https://thispointer.com/select-rows-columns-by-name-or-index-in-dataframe-using-loc-iloc-python-pandas/)  
           * www.geeksforgeeks.org  
             * [Adding new column to existing DataFrame in Pandas - GeeksforGeeks](https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/)  
             * [GET and POST requests using Python - GeeksforGeeks](https://www.geeksforgeeks.org/get-post-requests-using-python/)  
@@ -1290,6 +1292,7 @@
             * [NumPy: Convert numpy datetime64 to Timestamp - w3resource](https://www.w3resource.com/python-exercises/numpy/python-numpy-datetime-exercise-7.php)  
             * [Python: Get execution time - w3resource](https://www.w3resource.com/python-exercises/python-basic-exercise-57.php)  
           * www.w3schools.com  
+            * [How to remove duplicates from a Python List](https://www.w3schools.com/python/python_howto_remove_duplicates.asp)  
             * [Python Delete File](https://www.w3schools.com/python/python_file_remove.asp)  
             * [Python File Write](https://www.w3schools.com/python/python_file_write.asp)  
             * [Python JSON](https://www.w3schools.com/python/python_json.asp)  
