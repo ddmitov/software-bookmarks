@@ -301,6 +301,7 @@
           * [Overview of the SQL REPLACE function](https://www.sqlshack.com/overview-of-the-sql-replace-function/)  
           * [SQL Notes for Professionals](https://books.goalkicker.com/SQLBook/)  
           * [SQL style guide by Simon Holywell](https://www.sqlstyle.guide/)  
+          * [Update a column value, replacing part of a string in MySQL?](https://www.tutorialspoint.com/update-a-column-value-replacing-part-of-a-string-in-mysql)  
       * SQLite  
         * SQLite Editors  
           * [DB Browser for SQLite](https://sqlitebrowser.org/)  
@@ -345,11 +346,13 @@
         * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)  
       * [* Arachnophilia](https://arachnoid.com/arachnophilia/)  
       * [Atom](https://atom.io/)  
+      * [PyCharm: the Python IDE for Professional Developers by JetBrains](https://www.jetbrains.com/pycharm/)  
       * [Scintilla and SciTE](https://www.scintilla.org/SciTE.html)  
     * Licensing  
       * [Choose an open source license | Choose a License](https://choosealicense.com/)  
       * [Licenses by Name | Open Source Initiative](https://opensource.org/licenses/alphabetical)  
       * [The Open Source Definition (Annotated) | Open Source Initiative](https://opensource.org/docs/definition.php)  
+      * [Unlicense.org » Unlicense Yourself: Set Your Code Free](https://unlicense.org/)  
       * [idleberg/Creative-Commons-Markdown: Markdown-formatted Creative Commons licenses](https://github.com/idleberg/Creative-Commons-Markdown)  
       * [remy/mit-license: Hosted MIT License with details controlled through this repo](https://github.com/remy/mit-license)  
     * Network Administration  
@@ -1102,6 +1105,7 @@
             * [Python 3 Subprocess Examples](http://queirozf.com/entries/python-3-subprocess-examples)  
           * realpython.com  
             * [A Guide to Excel Spreadsheets in Python With openpyxl – Real Python](https://realpython.com/openpyxl-excel-spreadsheets-python/#bonus-working-with-pandas)  
+            * [Defining Main Functions in Python – Real Python](https://realpython.com/python-main-function/)  
             * [How to Round Numbers in Python – Real Python](https://realpython.com/python-rounding/)  
             * [Pandas GroupBy: Your Guide to Grouping Data in Python – Real Python](https://realpython.com/pandas-groupby/)  
             * [Python sleep(): How to Add Time Delays to Your Code – Real Python](https://realpython.com/python-sleep/)  
@@ -1110,7 +1114,9 @@
             * [Read a File Line-by-Line in Python](https://stackabuse.com/read-a-file-line-by-line-in-python/)  
             * [Reading and Writing JSON to a File in Python](https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/)  
           * stackoverflow.com  
+            * [Can't sort my list because it is NoneType? Simple Python - Stack Overflow](https://stackoverflow.com/questions/13668154/cant-sort-my-list-because-it-is-nonetype-simple-python)  
             * [Cancellable threading.Timer in Python - Stack Overflow](https://stackoverflow.com/questions/9812344/cancellable-threading-timer-in-python/9812806)  
+            * [Change/Set maximum message size for Python smtplib - Stack Overflow](https://stackoverflow.com/questions/45409799/change-set-maximum-message-size-for-python-smtplib)  
             * [Check key exist in python dict - Stack Overflow](https://stackoverflow.com/questions/44035287/check-key-exist-in-python-dict/44035382)  
             * [Compare only time part in datetime - Python - Stack Overflow](https://stackoverflow.com/questions/15105112/compare-only-time-part-in-datetime-python)  
             * [Does Python have a string 'contains' substring method? - Stack Overflow](https://stackoverflow.com/questions/3437059/does-python-have-a-string-contains-substring-method)  
@@ -1147,6 +1153,8 @@
             * [Python Pandas Conditional Sum with Groupby - Stack Overflow](https://stackoverflow.com/questions/17266129/python-pandas-conditional-sum-with-groupby)  
             * [Python replace and overwrite instead of appending - Stack Overflow](https://stackoverflow.com/questions/11469228/python-replace-and-overwrite-instead-of-appending/11469328)  
             * [Python truncate a long string - Stack Overflow](https://stackoverflow.com/questions/2872512/python-truncate-a-long-string)  
+            * [Python turtle set start position - Stack Overflow](https://stackoverflow.com/questions/14713037/python-turtle-set-start-position)  
+            * [Python unexpected EOF while parsing - Stack Overflow](https://stackoverflow.com/questions/5074225/python-unexpected-eof-while-parsing)  
             * [Python: Best way to add to sys.path relative to the current running script - Stack Overflow](https://stackoverflow.com/questions/8663076/python-best-way-to-add-to-sys-path-relative-to-the-current-running-script/8663119)  
             * [Python: How to ignore an exception and proceed? - Stack Overflow](https://stackoverflow.com/questions/574730/python-how-to-ignore-an-exception-and-proceed)  
             * [Python: pandas merge multiple dataframes - Stack Overflow](https://stackoverflow.com/questions/44327999/python-pandas-merge-multiple-dataframes/44338256)  
@@ -1173,6 +1181,7 @@
             * [pandas drops index index on merge in Python? - Stack Overflow](https://stackoverflow.com/questions/15661455/pandas-drops-index-index-on-merge-in-python)  
             * [pip - How to use requirements.txt to install all dependencies in a python project - Stack Overflow](https://stackoverflow.com/questions/41457612/how-to-use-requirements-txt-to-install-all-dependencies-in-a-python-project)  
             * [printing - How to print to stderr in Python? - Stack Overflow](https://stackoverflow.com/questions/5574702/how-to-print-to-stderr-in-python)  
+            * [python - Apply 'wrap_text' to all cells using openpyxl - Stack Overflow](https://stackoverflow.com/questions/42215933/apply-wrap-text-to-all-cells-using-openpyxl/52494457)  
             * [python - Applying borders to a cell in OpenPyxl - Stack Overflow](https://stackoverflow.com/questions/24917201/applying-borders-to-a-cell-in-openpyxl)  
             * [python - Can't compare naive and aware datetime.now() <= challenge.datetime_end - Stack Overflow](https://stackoverflow.com/questions/15307623/cant-compare-naive-and-aware-datetime-now-challenge-datetime-end)  
             * [python - Can't use matplotlib.use('Agg'), graphs always show on the screen - Stack Overflow](https://stackoverflow.com/questions/44086597/cant-use-matplotlib-useagg-graphs-always-show-on-the-screen)  
@@ -1211,6 +1220,7 @@
             * [python - How to convert local time string to UTC? - Stack Overflow](https://stackoverflow.com/questions/79797/how-to-convert-local-time-string-to-utc)  
             * [python - How to format cell with datetime object of the form 'yyyy-mm-dd hh:mm:ss' in Excel using openpyxl - Stack Overflow](https://stackoverflow.com/questions/24370385/how-to-format-cell-with-datetime-object-of-the-form-yyyy-mm-dd-hhmmss-in-exc)  
             * [python - How to get a value from a cell of a dataframe? - Stack Overflow](https://stackoverflow.com/questions/16729574/how-to-get-a-value-from-a-cell-of-a-dataframe)  
+            * [python - How to input a regex in string.replace? - Stack Overflow](https://stackoverflow.com/questions/5658369/how-to-input-a-regex-in-string-replace)  
             * [python - How to install a specific version of a package with pip? - Stack Overflow](https://stackoverflow.com/questions/13916820/how-to-install-a-specific-version-of-a-package-with-pip)  
             * [python - How to install packages using pip according to the requirements.txt file from a local directory? - Stack Overflow](https://stackoverflow.com/questions/7225900/how-to-install-packages-using-pip-according-to-the-requirements-txt-file-from-a)  
             * [python - How to iterate over rows in a DataFrame in Pandas? - Stack Overflow](https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas)  
@@ -1241,9 +1251,11 @@
             * [python - Print all day-dates between two dates - Stack Overflow](https://stackoverflow.com/questions/7274267/print-all-day-dates-between-two-dates)  
             * [python - Renaming columns in pandas - Stack Overflow](https://stackoverflow.com/questions/11346283/renaming-columns-in-pandas)  
             * [python - Round number to nearest integer - Stack Overflow](https://stackoverflow.com/questions/31818050/round-number-to-nearest-integer)  
+            * [python - Search for "does-not-contain" on a DataFrame in pandas - Stack Overflow](https://stackoverflow.com/questions/17097643/search-for-does-not-contain-on-a-dataframe-in-pandas)  
             * [python - Set value for particular cell in pandas DataFrame using index - Stack Overflow](https://stackoverflow.com/questions/13842088/set-value-for-particular-cell-in-pandas-dataframe-using-index)  
             * [python - Show 2 plots at same time instead of one after another in matplotlib - Stack Overflow](https://stackoverflow.com/questions/42595052/show-2-plots-at-same-time-instead-of-one-after-another-in-matplotlib)  
             * [python - Splitting on first occurrence - Stack Overflow](https://stackoverflow.com/questions/6903557/splitting-on-first-occurrence)  
+            * [python - Turtle graphics - How do I control when the window closes? - Stack Overflow](https://stackoverflow.com/questions/6234798/turtle-graphics-how-do-i-control-when-the-window-closes)  
             * [python - TypeError: sequence item 0: expected string, int found - Stack Overflow](https://stackoverflow.com/questions/10880813/typeerror-sequence-item-0-expected-string-int-found)  
             * [python - UnicodeEncodeError: 'latin-1' codec can't encode character - Stack Overflow](https://stackoverflow.com/questions/3942888/unicodeencodeerror-latin-1-codec-cant-encode-character)  
             * [python - Use a list of values to select rows from a pandas dataframe - Stack Overflow](https://stackoverflow.com/questions/12096252/use-a-list-of-values-to-select-rows-from-a-pandas-dataframe)  
@@ -1260,6 +1272,7 @@
             * [python - pandas: merge (join) two data frames on multiple columns - Stack Overflow](https://stackoverflow.com/questions/41815079/pandas-merge-join-two-data-frames-on-multiple-columns)  
             * [python - pip install fails with "connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:598)" - Stack Overflow](https://stackoverflow.com/questions/25981703/pip-install-fails-with-connection-error-ssl-certificate-verify-failed-certi)  
             * [python - pymysql fetchall() results as dictionary? - Stack Overflow](https://stackoverflow.com/questions/4940670/pymysql-fetchall-results-as-dictionary)  
+            * [python - return string with first match Regex - Stack Overflow](https://stackoverflow.com/questions/38579725/return-string-with-first-match-regex)  
             * [python .replace() regex - Stack Overflow](https://stackoverflow.com/questions/11475885/python-replace-regex)  
             * [python 2.7 - Openpyxl change the dimension of a chart - Stack Overflow](https://stackoverflow.com/questions/36603753/openpyxl-change-the-dimension-of-a-chart)  
             * [python 3.x - Converting a string to and from Base 64 - Stack Overflow](https://stackoverflow.com/questions/13261802/converting-a-string-to-and-from-base-64/13267801)  
@@ -1268,6 +1281,7 @@
             * [python dataframe pandas drop column using int - Stack Overflow](https://stackoverflow.com/questions/20297317/python-dataframe-pandas-drop-column-using-int)  
             * [python date of the previous month - Stack Overflow](https://stackoverflow.com/questions/9724906/python-date-of-the-previous-month)  
             * [python theading.Timer: how to pass argument to the callback? - Stack Overflow](https://stackoverflow.com/questions/4415672/python-theading-timer-how-to-pass-argument-to-the-callback)  
+            * [regex - Split string on whitespace in Python - Stack Overflow](https://stackoverflow.com/questions/8113782/split-string-on-whitespace-in-python)  
             * [time - High-precision clock in Python - Stack Overflow](https://stackoverflow.com/questions/1938048/high-precision-clock-in-python)  
             * [trim - Remove all whitespace in a string in Python - Stack Overflow](https://stackoverflow.com/questions/8270092/remove-all-whitespace-in-a-string-in-python/8270146)  
             * [windows - How do I install a Python package with a .whl file? - Stack Overflow](https://stackoverflow.com/questions/27885397/how-do-i-install-a-python-package-with-a-whl-file)  
@@ -1293,6 +1307,7 @@
             * [Python | Ways to concatenate two lists - GeeksforGeeks](https://www.geeksforgeeks.org/python-ways-to-concatenate-two-lists/)  
             * [Python | Writing to an excel file using openpyxl module - GeeksforGeeks](https://www.geeksforgeeks.org/python-writing-excel-file-using-openpyxl-module/)  
             * [Stack and Queue in Python using queue Module - GeeksforGeeks](https://www.geeksforgeeks.org/stack-queue-python-using-module-queue/)  
+            * [Taking input from console in Python - GeeksforGeeks](https://www.geeksforgeeks.org/taking-input-from-console-in-python/)  
             * [Timer Objects in Python - GeeksforGeeks](https://www.geeksforgeeks.org/timer-objects-python/)  
             * [append() and extend() in Python - GeeksforGeeks](https://www.geeksforgeeks.org/append-extend-python/)  
           * www.programiz.com  
@@ -1412,6 +1427,7 @@
       * [SmarTTY - a multi-tabbed SSH client with SCP support](https://sysprogs.com/SmarTTY/)  
       * [WinSCP :: Official Site :: Download](https://winscp.net/eng/download.php)  
     * Utilities  
+      * [Just Color Picker 5.2 - best free colour tool for Windows and macOS](http://annystudio.com/software/colorpicker/)  
       * [WinMerge - You will see the difference…](http://winmerge.org/?lang=en)  
     * Version Control  
       * Git  
@@ -1507,7 +1523,6 @@
           * [The W3C Markup Validation Service](http://validator.w3.org/)  
           * [Validator.nu](http://validator.nu/)  
         * [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)  
-        * [Just Color Picker 5.2 - best free colour tool for Windows and macOS](http://annystudio.com/software/colorpicker/)  
       * Speed Testing  
         * [Internet Speed Test | Fast.com](https://fast.com/)  
         * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
