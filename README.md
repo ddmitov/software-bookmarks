@@ -207,9 +207,15 @@
       * MongoDB  
         * MongoDB How To  
           * docs.mongodb.com  
+            * [$gte — MongoDB Manual](https://docs.mongodb.com/manual/reference/operator/query/gte/)  
             * [$in — MongoDB Manual](https://docs.mongodb.com/manual/reference/operator/query/in/)  
+            * [$lte — MongoDB Manual](https://docs.mongodb.com/manual/reference/operator/query/lte/)  
             * [Query Documents — MongoDB Manual](https://docs.mongodb.com/manual/tutorial/query-documents/)  
             * [Use Indexes to Sort Query Results — MongoDB Manual](https://docs.mongodb.com/manual/tutorial/sort-results-with-indexes/)  
+            * [Write Scripts for the mongo Shell — MongoDB Manual](https://docs.mongodb.com/manual/tutorial/write-scripts-for-the-mongo-shell/)  
+            * [cursor.count() — MongoDB Manual](https://docs.mongodb.com/manual/reference/method/cursor.count/)  
+            * [cursor.limit() — MongoDB Manual](https://docs.mongodb.com/manual/reference/method/cursor.limit/)  
+            * [cursor.sort() — MongoDB Manual](https://docs.mongodb.com/manual/reference/method/cursor.sort/)  
           * stackoverflow.com  
             * [How to get the last N records in mongodb? - Stack Overflow](https://stackoverflow.com/questions/4421207/how-to-get-the-last-n-records-in-mongodb)  
             * [node.js - Update And Return Document In Mongodb - Stack Overflow](https://stackoverflow.com/questions/24747189/update-and-return-document-in-mongodb)  
@@ -465,7 +471,6 @@
               * [QCommandLineParser Class | Qt Core 5.5](http://doc.qt.io/qt-5/qcommandlineparser.html)  
               * [QFontDatabase Class | Qt 4.8](http://doc.qt.io/qt-4.8/qfontdatabase.html)  
               * [QSerialPortInfo Class | Qt Serial Port 5.4](http://doc.qt.io/qt-5/qserialportinfo.html)  
-              * [QSplashScreen Class | Qt 4.8](http://doc.qt.io/qt-4.8/qsplashscreen.html)  
               * [QStandardPaths Class | Qt Core 5.5](http://doc.qt.io/qt-5/qstandardpaths.html)  
               * [QTimer Class | Qt 4.8](http://doc.qt.io/qt-4.8/qtimer.html)  
               * [QWebEngineContextMenuData Class | Qt WebEngine 5.8](http://doc.qt.io/qt-5/qwebenginecontextmenudata.html)  
@@ -1097,9 +1102,16 @@
             * [pandas.read_csv — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html)  
             * [pandas.read_excel — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html)  
             * [pandas.read_parquet — pandas 1.0.2 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_parquet.html)  
+          * pbpython.com  
+            * [Automating Windows Applications Using COM - Practical Business Python](https://pbpython.com/windows-com.html)  
+            * [Common Excel Tasks Demonstrated in Pandas - Part 2 - Practical Business Python](https://pbpython.com/excel-pandas-comp-2.html)  
+            * [Common Excel Tasks Demonstrated in Pandas - Practical Business Python](https://pbpython.com/excel-pandas-comp.html)  
           * pip.pypa.io  
             * [pip list — pip 19.2.3 documentation](https://pip.pypa.io/en/stable/reference/pip_list/)  
             * [pip uninstall — pip 19.3.1 documentation](https://pip.pypa.io/en/stable/reference/pip_uninstall/)  
+          * programminghistorian.org  
+            * [Installing Python Modules with pip | Programming Historian](https://programminghistorian.org/en/lessons/installing-python-modules-pip)  
+            * [Working with Text Files in Python | Programming Historian](https://programminghistorian.org/lessons/working-with-text-files)  
           * queirozf.com  
             * [Pandas DataFrame: GroupBy Examples](http://queirozf.com/entries/pandas-dataframe-groupby-examples)  
             * [Python 3 Subprocess Examples](http://queirozf.com/entries/python-3-subprocess-examples)  
@@ -1292,6 +1304,9 @@
             * [Pandas : Loop or Iterate over all or certain columns of a dataframe – thispointer.com](https://thispointer.com/pandas-loop-or-iterate-over-all-or-certain-columns-of-a-dataframe/)  
             * [Python Pandas : How to add rows in a DataFrame using dataframe.append() & loc[] , iloc[] – thispointer.com](https://thispointer.com/python-pandas-how-to-add-rows-in-a-dataframe-using-dataframe-append-loc-iloc/)  
             * [Select Rows & Columns by Name or Index in DataFrame using loc & iloc | Python Pandas – thispointer.com](https://thispointer.com/select-rows-columns-by-name-or-index-in-dataframe-using-loc-iloc-python-pandas/)  
+          * wiki.python.org  
+            * [HandlingExceptions - Python Wiki](https://wiki.python.org/moin/HandlingExceptions)  
+            * [WhileLoop - Python Wiki](https://wiki.python.org/moin/WhileLoop)  
           * www.geeksforgeeks.org  
             * [Adding new column to existing DataFrame in Pandas - GeeksforGeeks](https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/)  
             * [GET and POST requests using Python - GeeksforGeeks](https://www.geeksforgeeks.org/get-post-requests-using-python/)  
@@ -1302,6 +1317,7 @@
             * [Python | How to copy data from one excel sheet to another - GeeksforGeeks](https://www.geeksforgeeks.org/python-how-to-copy-data-from-one-excel-sheet-to-another/)  
             * [Python | Pandas Series.iteritems() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-series-iteritems/)  
             * [Python | Pandas Series.to_string() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-series-to_string/)  
+            * [Python | Pandas dataframe.get_value() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-dataframe-get_value/)  
             * [Python | Pandas dataframe.set_value() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-dataframe-set_value/)  
             * [Python | Plotting charts in excel sheet using openpyxl module](https://www.geeksforgeeks.org/python-plotting-charts-in-excel-sheet-using-openpyxl-module-set-1/)  
             * [Python | Ways to concatenate two lists - GeeksforGeeks](https://www.geeksforgeeks.org/python-ways-to-concatenate-two-lists/)  
@@ -1321,8 +1337,12 @@
             * [How to change the order of DataFrame columns in Pandas? - PythonProgramming.in](https://www.pythonprogramming.in/how-to-change-the-order-of-dataframe-columns.html)  
             * [How to get a value from a cell of a DataFrame? - PythonProgramming.in](https://www.pythonprogramming.in/how-to-get-a-value-from-a-cell-of-a-dataframe.html)  
             * [Iterate over rows and columns in Pandas DataFrame - PythonProgramming.in](https://www.pythonprogramming.in/iterate-over-rows-and-columns-pandas-dataframe.html)  
+          * www.tutorialspoint.com  
+            * [How to convert date and time with different timezones in Python?](https://www.tutorialspoint.com/How-to-convert-date-and-time-with-different-timezones-in-Python)  
+            * [Python File flush() Method - Tutorialspoint](https://www.tutorialspoint.com/python/file_flush.htm)  
           * www.w3resource.com  
             * [NumPy: Convert numpy datetime64 to Timestamp - w3resource](https://www.w3resource.com/python-exercises/numpy/python-numpy-datetime-exercise-7.php)  
+            * [Pandas DataFrame: loc() function - w3resource](https://www.w3resource.com/pandas/dataframe/dataframe-loc.php)  
             * [Python: Get execution time - w3resource](https://www.w3resource.com/python-exercises/python-basic-exercise-57.php)  
           * www.w3schools.com  
             * [How to remove duplicates from a Python List](https://www.w3schools.com/python/python_howto_remove_duplicates.asp)  
@@ -1338,10 +1358,7 @@
             * [Python String split() Method](https://www.w3schools.com/python/ref_string_split.asp)  
             * [Python range() Function](https://www.w3schools.com/python/ref_func_range.asp)  
           * [Asyncio Event Loops Tutorial | TutorialEdge.net](https://tutorialedge.net/python/concurrency/asyncio-event-loops-tutorial/)  
-          * [Automating Windows Applications Using COM - Practical Business Python](https://pbpython.com/windows-com.html)  
           * [Change the order of columns in Pandas dataframe](https://erikrood.com/Python_References/change_order_dataframe_columns_final.html)  
-          * [Common Excel Tasks Demonstrated in Pandas - Part 2 - Practical Business Python](https://pbpython.com/excel-pandas-comp-2.html)  
-          * [Common Excel Tasks Demonstrated in Pandas - Practical Business Python](https://pbpython.com/excel-pandas-comp.html)  
           * [Convert a string representing the date or epoch time to datetime and change timezone in Python - Sou-Nan-De-Gesu](https://www.soudegesu.com/en/python/python-datetime/)  
           * [Convert string to int in Python – Python Principles](https://pythonprinciples.com/blog/python-convert-string-to-int/)  
           * [Converting time zones for datetime objects in Python - SaltyCrane Blog](https://www.saltycrane.com/blog/2009/05/converting-time-zones-datetime-objects-python/)  
@@ -1352,13 +1369,11 @@
           * [How do I round to 2 decimals in python?](https://gist.github.com/jackiekazil/6201722)  
           * [How to Add Leading Zeros to a Number in MySQL | Database.Guide](https://database.guide/how-to-add-leading-zeros-to-a-number-in-mysql/)  
           * [How to add a dataframe to an existing excel file](https://python-forum.io/Thread-How-to-add-a-dataframe-to-an-existing-excel-file)  
-          * [How to convert date and time with different timezones in Python?](https://www.tutorialspoint.com/How-to-convert-date-and-time-with-different-timezones-in-Python)  
           * [How to flatten a hierarchical index in pandas DataFrame columns in Python](https://kite.com/python/answers/how-to-flatten-a-hierarchical-index-in-pandas-dataframe-columns-in-python)  
           * [How to ignore an exception — the elegant way | Python Adventures](https://pythonadventures.wordpress.com/2013/09/07/how-to-ignore-an-exception-the-elegant-way/)  
           * [How to rewrite your SQL queries in Pandas, and more](https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e)  
           * [How to use proxies with Python Requests module](https://blog.scrapinghub.com/python-requests-proxy)  
           * [How to use sys.argv in Python](http://www.pythonforbeginners.com/system/python-sys-argv)  
-          * [Installing Python Modules with pip | Programming Historian](https://programminghistorian.org/en/lessons/installing-python-modules-pip)  
           * [Installing packages using pip and virtual environments — Python Packaging User Guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)  
           * [Joining DataFrames in Pandas (article) - DataCamp](https://www.datacamp.com/community/tutorials/joining-dataframes-pandas)  
           * [Left Join with Pandas Data Frames in Python - Towards Data Science](https://towardsdatascience.com/left-join-with-pandas-data-frames-in-python-c29c85089ba4)  
@@ -1385,15 +1400,12 @@
           * [Python: Sort dictionary by value](https://code-maven.com/slides/python-programming/sort-dictionary-by-value)  
           * [SQLite Python](http://www.sqlitetutorial.net/sqlite-python/)  
           * [To get previous month – python | Suji's Blog](https://suji25.wordpress.com/2013/11/18/to-get-previous-month-python/)  
-          * [WhileLoop - Python Wiki](https://wiki.python.org/moin/WhileLoop)  
-          * [Working with Text Files in Python | Programming Historian](https://programminghistorian.org/lessons/working-with-text-files)  
           * [chomp() functionality in Python | Python Adventures](https://pythonadventures.wordpress.com/2010/10/11/chomp-functionality-in-python/)  
           * [command line - How do I check whether a module is installed in Python, and install it if needed? - Ask Ubuntu](https://askubuntu.com/questions/588390/how-do-i-check-whether-a-module-is-installed-in-python-and-install-it-if-needed)  
           * [iloc, loc, and ix for data selection in Python Pandas | Shane Lynn](https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/)  
           * [learnbyexample/Python_Basics: Syntax, working with Shell commands, Files, Text Processing, and more...](https://github.com/learnbyexample/Python_Basics)  
           * [list of pytz time zones](https://gist.github.com/heyalexej/8bf688fd67d7199be4a1682b3eec7568)  
           * [osdba's blog : A tool for packaging python scripts into binary executables](http://blog.osdba.net/530.html)  
-          * [resilar/sqleet · python instructions](https://github.com/resilar/sqleet/issues/21)  
           * [selenium/headless.py at master · pyzzled/selenium](https://github.com/pyzzled/selenium/blob/master/headless_browser/headless.py)  
           * [windows - How to install the win32com python library - Super User](https://superuser.com/questions/609447/how-to-install-the-win32com-python-library)  
         * Python Packages  
@@ -1475,7 +1487,7 @@
               * [CSS3 box-sizing property](http://www.w3schools.com/cssref/css3_pr_box-sizing.asp)  
           * [loading.io - Your SVG + GIF Ajax Loading Icons](http://loading.io/)  
         * Fonts  
-          * [Font Awesome Web Application Icons](https://www.w3schools.com/icons/fontawesome_icons_webapp.asp)  
+          * [Font Awesome Brand Icons](https://www.w3schools.com/icons/fontawesome_icons_brand.asp)  
           * [Google Fonts](http://www.google.com/fonts/)  
           * [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts)  
         * Frameworks  
