@@ -239,6 +239,7 @@
             * [MySQL :: MySQL 8.0 Reference Manual :: 9.1.1 String Literals](https://dev.mysql.com/doc/refman/8.0/en/string-literals.html)  
           * stackoverflow.com  
             * [Connect with local-infile Option in MySql Workbench - Stack Overflow](https://stackoverflow.com/questions/31450389/connect-with-local-infile-option-in-mysql-workbench)  
+            * [Extract value without quotation mark from MySQL JSON data type - Stack Overflow](https://stackoverflow.com/questions/36933742/extract-value-without-quotation-mark-from-mysql-json-data-type)  
             * [Find and replace in entire mysql database - Stack Overflow](https://stackoverflow.com/questions/4822638/find-and-replace-in-entire-mysql-database)  
             * [Finding duplicate values in MySQL - Stack Overflow](https://stackoverflow.com/questions/688549/finding-duplicate-values-in-mysql)  
             * [How do I escape special characters in MySQL? - Stack Overflow](https://stackoverflow.com/questions/881194/how-do-i-escape-special-characters-in-mysql)  
@@ -254,6 +255,7 @@
             * [mysql - 'IF' in 'SELECT' statement - choose output value based on column values - Stack Overflow](https://stackoverflow.com/questions/5951157/if-in-select-statement-choose-output-value-based-on-column-values)  
             * [mysql - INSERT with SELECT - Stack Overflow](https://stackoverflow.com/questions/5391344/insert-with-select)  
             * [mysql - Select records from NOW() -1 Day - Stack Overflow](https://stackoverflow.com/questions/8544438/select-records-from-now-1-day)  
+            * [php - How to get primary key of table? - Stack Overflow](https://stackoverflow.com/questions/2341278/how-to-get-primary-key-of-table)  
             * [shell - Access mysql remote database from command line - Stack Overflow](https://stackoverflow.com/questions/15872543/access-mysql-remote-database-from-command-line)  
             * [sorting - Mysql order by specific ID values - Stack Overflow](https://stackoverflow.com/questions/8322849/mysql-order-by-specific-id-values)  
             * [sql - How to declare a variable in MySQL? - Stack Overflow](https://stackoverflow.com/questions/11754781/how-to-declare-a-variable-in-mysql)  
@@ -402,6 +404,7 @@
           * [LXDE: Autostart Apps With .desktop Files](http://pclosmag.com/html/Issues/201009/page10.html)  
           * [Volume Control and Output Selection with PulseAudio Command Line Tools | Tero Karvinen](http://terokarvinen.com/2015/volume-control-with-pulseaudio-command-line-tools)  
           * [[Solved] System Program Problem Detected in Ubuntu](https://itsfoss.com/how-to-fix-system-program-problem-detected-ubuntu/)  
+          * [bash - kill a screen (but not all screens) - Server Fault](https://serverfault.com/questions/96406/kill-a-screen-but-not-all-screens)  
           * [crontab.guru - the cron schedule expression editor](https://crontab.guru/)  
           * [ssh - How to upload local file to server through Linux terminal - Super User](https://superuser.com/questions/850740/how-to-upload-local-file-to-server-through-linux-terminal)  
         * [PhotoRec - CGSecurity](http://www.cgsecurity.org/wiki/PhotoRec)  
@@ -1083,6 +1086,14 @@
             * [Subprocesses — Python 3.7.4 documentation](https://docs.python.org/3/library/asyncio-subprocess.html)  
             * [datetime — Basic date and time types — Python 3.8.2 documentation](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes)  
             * [queue — A synchronized queue class — Python 3.7.4 documentation](https://docs.python.org/3/library/queue.html)  
+          * gist.github.com  
+            * [How do I round to 2 decimals in python?](https://gist.github.com/jackiekazil/6201722)  
+            * [Python Requests Ignore Bad SSL certificate](https://gist.github.com/random-robbie/bb65335b9632bf1ed38923c768cefa02)  
+            * [Python code for sending HTML email (Attachment + Multiple Recipients )](https://gist.github.com/srv89/1d3dac6672895f5ca65f)  
+            * [list of pytz time zones](https://gist.github.com/heyalexej/8bf688fd67d7199be4a1682b3eec7568)  
+          * github.com  
+            * [derrekyoung/url-checker-python: Python scripts to check URLs](https://github.com/derrekyoung/url-checker-python)  
+            * [selenium/headless.py at master · pyzzled/selenium](https://github.com/pyzzled/selenium/blob/master/headless_browser/headless.py)  
           * pandas.pydata.org  
             * [pandas.DataFrame.astype — pandas 1.0.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.astype.html)  
             * [pandas.DataFrame.drop — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html)  
@@ -1118,6 +1129,7 @@
           * realpython.com  
             * [A Guide to Excel Spreadsheets in Python With openpyxl – Real Python](https://realpython.com/openpyxl-excel-spreadsheets-python/#bonus-working-with-pandas)  
             * [Defining Main Functions in Python – Real Python](https://realpython.com/python-main-function/)  
+            * [How to Iterate Through a Dictionary in Python – Real Python](https://realpython.com/iterate-through-dictionary-python/)  
             * [How to Round Numbers in Python – Real Python](https://realpython.com/python-rounding/)  
             * [Pandas GroupBy: Your Guide to Grouping Data in Python – Real Python](https://realpython.com/pandas-groupby/)  
             * [Python sleep(): How to Add Time Delays to Your Code – Real Python](https://realpython.com/python-sleep/)  
@@ -1366,7 +1378,6 @@
           * [Extract month and year to a new column in Pandas | Data Interview Questions](https://www.interviewqs.com/ddi_code_snippets/extract_month_year_pandas)  
           * [For loop with range - Learn Python 3 - Snakify](https://snakify.org/en/lessons/for_loop_range/)  
           * [Get Previous, Current and Next-Day System Dates in Python - Data to Fish](https://datatofish.com/get-previous-current-and-next-day-system-dates-in-python/)  
-          * [How do I round to 2 decimals in python?](https://gist.github.com/jackiekazil/6201722)  
           * [How to Add Leading Zeros to a Number in MySQL | Database.Guide](https://database.guide/how-to-add-leading-zeros-to-a-number-in-mysql/)  
           * [How to add a dataframe to an existing excel file](https://python-forum.io/Thread-How-to-add-a-dataframe-to-an-existing-excel-file)  
           * [How to flatten a hierarchical index in pandas DataFrame columns in Python](https://kite.com/python/answers/how-to-flatten-a-hierarchical-index-in-pandas-dataframe-columns-in-python)  
@@ -1390,10 +1401,8 @@
           * [Python How To Get Date Range From Week Number - MVSourceCode - mvsourcecode](http://mvsourcecode.com/python-how-to-get-date-range-from-week-number-mvsourcecode/)  
           * [Python Openpyxl Tutorial - javatpoint](https://www.javatpoint.com/python-openpyxl)  
           * [Python Range() function explained with Examples [Complete Guide]](https://pynative.com/python-range-function/)  
-          * [Python Requests Ignore Bad SSL certificate](https://gist.github.com/random-robbie/bb65335b9632bf1ed38923c768cefa02)  
           * [Python Requests TimeoutError: [WinError 10060] A connection attempt failed](https://pythonexamples.org/python-requests-timeouterror-winerror-10060-a-connection-attempt-failed/)  
           * [Python String Format Cookbook – mkaz.blog](https://mkaz.blog/code/python-string-format-cookbook/)  
-          * [Python code for sending HTML email (Attachment + Multiple Recipients )](https://gist.github.com/srv89/1d3dac6672895f5ca65f)  
           * [Python strftime reference](https://strftime.org/)  
           * [Python: How to Print Without Newline? (The Idiomatic Way) - Afternerd](https://www.afternerd.com/blog/how-to-print-without-a-newline-in-python/)  
           * [Python: List Files in a Directory](https://stackabuse.com/python-list-files-in-a-directory/)  
@@ -1403,10 +1412,7 @@
           * [chomp() functionality in Python | Python Adventures](https://pythonadventures.wordpress.com/2010/10/11/chomp-functionality-in-python/)  
           * [command line - How do I check whether a module is installed in Python, and install it if needed? - Ask Ubuntu](https://askubuntu.com/questions/588390/how-do-i-check-whether-a-module-is-installed-in-python-and-install-it-if-needed)  
           * [iloc, loc, and ix for data selection in Python Pandas | Shane Lynn](https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/)  
-          * [learnbyexample/Python_Basics: Syntax, working with Shell commands, Files, Text Processing, and more...](https://github.com/learnbyexample/Python_Basics)  
-          * [list of pytz time zones](https://gist.github.com/heyalexej/8bf688fd67d7199be4a1682b3eec7568)  
           * [osdba's blog : A tool for packaging python scripts into binary executables](http://blog.osdba.net/530.html)  
-          * [selenium/headless.py at master · pyzzled/selenium](https://github.com/pyzzled/selenium/blob/master/headless_browser/headless.py)  
           * [windows - How to install the win32com python library - Super User](https://superuser.com/questions/609447/how-to-install-the-win32com-python-library)  
         * Python Packages  
           * [Boto 3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)  
@@ -1422,7 +1428,6 @@
           * [unicodecsv · PyPI](https://pypi.org/project/unicodecsv/)  
         * [Python.org](https://www.python.org/)  
         * [Spyder Website](https://www.spyder-ide.org/)  
-        * [derrekyoung/url-checker-python: Python scripts to check URLs](https://github.com/derrekyoung/url-checker-python)  
       * R  
         * R How To  
           * stackoverflow.com  
