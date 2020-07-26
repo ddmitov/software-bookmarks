@@ -26,6 +26,7 @@
       * [BabelStone : BabelMap (Unicode Character Map for Windows)](http://www.babelstone.co.uk/Software/BabelMap.html)  
       * [BabelStone : BabelPad (Unicode Text Editor for Windows)](http://www.babelstone.co.uk/Software/BabelPad.html)  
       * [Shapecatcher: Draw the Unicode character you want!](http://shapecatcher.com/)  
+      * [Unicode - Compart](https://www.compart.com/en/unicode/)  
       * [Unicode Inputter Page](https://babel.mml.ox.ac.uk/naughton/inputter.html)  
     * [Laurence Anthony's AntConc](http://www.laurenceanthony.net/software/antconc/)  
   * Multimedia  
@@ -58,8 +59,10 @@
       * Excel How To  
         * exceljet.net  
           * [Excel formula: Count cells between two numbers | Exceljet](https://exceljet.net/formula/count-cells-between-two-numbers)  
+          * [Excel formula: Count visible rows in a filtered list | Exceljet](https://exceljet.net/formula/count-visible-rows-in-a-filtered-list)  
           * [Excel formula: Sum visible rows in a filtered list | Exceljet](https://exceljet.net/formula/sum-visible-rows-in-a-filtered-list)  
           * [How to use the Excel CHAR function | Exceljet](https://exceljet.net/excel-functions/excel-char-function)  
+          * [How to use the Excel CONCATENATE function | Exceljet](https://exceljet.net/excel-functions/excel-concatenate-function)  
           * [How to use the Excel SUBTOTAL function | Exceljet](https://exceljet.net/excel-functions/excel-subtotal-function)  
           * [How to use the Excel VLOOKUP function | Exceljet](https://exceljet.net/excel-functions/excel-vlookup-function)  
         * support.office.com  
@@ -67,13 +70,17 @@
           * [Convert numbers stored as text to numbers - Office Support](https://support.office.com/en-us/article/convert-numbers-stored-as-text-to-numbers-40105f2a-fe79-4477-a171-c5bad0f0a885)  
           * [Create a PivotTable to analyze worksheet data - Office Support](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576?ocmsassetID=RZ010205886&CTT=1&CorrelationId=b851e418-681d-486c-88da-6d92b465d785&ui=en-US&rs=en-US&ad=US)  
           * [Excel specifications and limits - Excel](https://support.office.com/en-us/article/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3)  
+          * [Freeze panes to lock rows and columns - Excel](https://support.microsoft.com/en-us/office/freeze-panes-to-lock-rows-and-columns-dab2ffc9-020d-4026-8121-67dd25f2508f)  
           * [Refresh PivotTable data - Excel](https://support.office.com/en-us/article/refresh-pivottable-data-6d24cece-a038-468a-8176-8b6568ca9be2)  
           * [SUBTOTAL function - Office Support](https://support.office.com/en-us/article/subtotal-function-7b027003-f060-4ade-9040-e478765b9939)  
           * [Show or hide gridlines on a worksheet - Office Support](https://support.office.com/en-us/article/show-or-hide-gridlines-on-a-worksheet-3ef5aacb-4539-4ad5-9945-5ed53772dc4d)  
           * [Start a new line of text inside a cell in Excel - Office Support](https://support.office.com/en-us/article/start-a-new-line-of-text-inside-a-cell-in-excel-33e41eab-8b5e-4193-93d6-9a06ecf812b3)  
           * [Wrap text in a cell - Excel](https://support.office.com/en-us/article/wrap-text-in-a-cell-2a18cff5-ccc1-4bce-95e4-f0d4f3ff4e84)  
+        * www.ablebits.com  
+          * [How to hide and unhide rows in Excel](https://www.ablebits.com/office-addins-blog/2017/11/29/hide-unhide-rows-excel/#unhide-rows-excel)  
+          * [How to remove blank columns in Excel](https://www.ablebits.com/office-addins-blog/2018/11/21/remove-blank-columns-excel/)  
         * [Excel Pivot Table -- Dynamic Data Source](https://www.contextures.com/xlPivot01.html)  
-        * [How to remove blank columns in Excel](https://www.ablebits.com/office-addins-blog/2018/11/21/remove-blank-columns-excel/)  
+        * [What are the 56 ColorIndex colors in Excel | ExcelSuperSite](https://www.excelsupersite.com/what-are-the-56-colorindex-colors-in-excel/)  
       * [About Office: What version of Office am I using? - Office Support](https://support.office.com/en-us/article/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)  
       * [How to import and export signatures in Microsoft Outlook?](https://www.extendoffice.com/documents/outlook/1453-outlook-import-export-signatures.html)  
     * [tesseract-ocr/tesseract: Tesseract Open Source OCR Engine (main repository)](https://github.com/tesseract-ocr/tesseract)  
@@ -121,7 +128,6 @@
             * [How to query cloudwatch logs using boto3 in python - Stack Overflow](https://stackoverflow.com/questions/59240107/how-to-query-cloudwatch-logs-using-boto3-in-python)  
             * [amazon web services - how to get a existent aws lambda source code using aws cli - Stack Overflow](https://stackoverflow.com/questions/53951208/how-to-get-a-existent-aws-lambda-source-code-using-aws-cli)  
           * [Connecting to RDS using IAM user - Francisco Edilton - Medium](https://medium.com/@franciscoed/connecting-to-rds-using-iam-user-86de4401086e)  
-          * [Write a "Hello World" into an AWS CloudWatch Logs service](https://gist.github.com/olegdulin/fd18906343d75142a487b9a9da9042e0)  
         * CLI  
           * [AWS Command Line Interface](https://aws.amazon.com/cli/)  
           * [Configuring the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)  
@@ -140,6 +146,7 @@
           * [Allow users to connect to Amazon RDS with IAM credentials](https://aws.amazon.com/premiumsupport/knowledge-center/users-connect-rds-iam/)  
           * [Using SSL/TLS to Encrypt a Connection to a DB Instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html)  
         * [AWS Account Identifiers - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/acct-identifiers.html)  
+        * [AWS service endpoints - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/rande.html)  
         * [checkip.amazonaws.com](http://checkip.amazonaws.com/)  
       * Heroku  
         * [How to create a named app in heroku | The Agile Warrior](https://agilewarrior.wordpress.com/2014/05/16/how-to-create-a-named-app-in-heroku/)  
@@ -278,6 +285,7 @@
             * [MySQL UPDATE Statement - Updating Data In a Table](https://www.mysqltutorial.org/mysql-update-data.aspx/)  
           * www.w3resource.com  
             * [MySQL CONVERT_TZ() function - w3resource](https://www.w3resource.com/mysql/date-and-time-functions/mysql-convert_tz-function.php)  
+            * [MySQL SUBSTRING_INDEX() function - w3resource](https://www.w3resource.com/mysql/string-functions/mysql-substring_index-function.php)  
             * [MySQL sum() with group by - w3resource](https://www.w3resource.com/mysql/aggregate-functions-and-grouping/aggregate-functions-and-grouping-sum-with-group-by.php)  
           * www.w3schools.com  
             * [MySQL CASE Function](https://www.w3schools.com/sql/func_mysql_case.asp)  
@@ -364,6 +372,7 @@
       * [idleberg/Creative-Commons-Markdown: Markdown-formatted Creative Commons licenses](https://github.com/idleberg/Creative-Commons-Markdown)  
       * [remy/mit-license: Hosted MIT License with details controlled through this repo](https://github.com/remy/mit-license)  
     * Network Administration  
+      * [IP Calculator / IP Subnetting](http://jodies.de/ipcalc)  
       * [OSI model - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/OSI_model)  
       * [Online IP Subnet Calculator](http://www.subnet-calculator.com/)  
       * [Speedtest.net - The Global Broadband Speed Test](http://www.speedtest.net/)  
@@ -924,7 +933,6 @@
           * perlmaven.com  
             * [Exception handling in Perl: How to deal with fatal errors in external modules](https://perlmaven.com/fatal-errors-in-external-modules)  
             * [Hash of Arrays in Perl](https://perlmaven.com/hash-of-arrays)  
-            * [How much memory does my Perl application use?](https://perlmaven.com/how-much-memory-does-the-perl-application-use)  
             * [How to create an Excel file with Perl?](https://perlmaven.com/create-an-excel-file-with-perl)  
             * [JSON in Perl](https://perlmaven.com/json)  
             * [Scalar and List context in Perl, the size of an array](https://perlmaven.com/scalar-and-list-context-in-perl)  
@@ -1123,6 +1131,9 @@
           * programminghistorian.org  
             * [Installing Python Modules with pip | Programming Historian](https://programminghistorian.org/en/lessons/installing-python-modules-pip)  
             * [Working with Text Files in Python | Programming Historian](https://programminghistorian.org/lessons/working-with-text-files)  
+          * pythonexamples.org  
+            * [How to Add or Insert Row to Pandas DataFrame?](https://pythonexamples.org/pandas-dataframe-add-append-row/)  
+            * [Python Requests TimeoutError: [WinError 10060] A connection attempt failed](https://pythonexamples.org/python-requests-timeouterror-winerror-10060-a-connection-attempt-failed/)  
           * queirozf.com  
             * [Pandas DataFrame: GroupBy Examples](http://queirozf.com/entries/pandas-dataframe-groupby-examples)  
             * [Python 3 Subprocess Examples](http://queirozf.com/entries/python-3-subprocess-examples)  
@@ -1143,6 +1154,7 @@
             * [Change/Set maximum message size for Python smtplib - Stack Overflow](https://stackoverflow.com/questions/45409799/change-set-maximum-message-size-for-python-smtplib)  
             * [Check key exist in python dict - Stack Overflow](https://stackoverflow.com/questions/44035287/check-key-exist-in-python-dict/44035382)  
             * [Compare only time part in datetime - Python - Stack Overflow](https://stackoverflow.com/questions/15105112/compare-only-time-part-in-datetime-python)  
+            * [Convert decimal to binary in python - Stack Overflow](https://stackoverflow.com/questions/3528146/convert-decimal-to-binary-in-python)  
             * [Does Python have a string 'contains' substring method? - Stack Overflow](https://stackoverflow.com/questions/3437059/does-python-have-a-string-contains-substring-method)  
             * [Drop all duplicate rows in Python Pandas - Stack Overflow](https://stackoverflow.com/questions/23667369/drop-all-duplicate-rows-in-python-pandas)  
             * [Executing periodic actions in Python - Stack Overflow](https://stackoverflow.com/questions/8600161/executing-periodic-actions-in-python)  
@@ -1153,6 +1165,7 @@
             * [Getting the last element of a list in Python - Stack Overflow](https://stackoverflow.com/questions/930397/getting-the-last-element-of-a-list-in-python)  
             * [How can I fill out a Python string with spaces? - Stack Overflow](https://stackoverflow.com/questions/5676646/how-can-i-fill-out-a-python-string-with-spaces)  
             * [How can I get the previous week in Python? - Stack Overflow](https://stackoverflow.com/questions/19686856/how-can-i-get-the-previous-week-in-python)  
+            * [How can I reverse a list in Python? - Stack Overflow](https://stackoverflow.com/questions/3940128/how-can-i-reverse-a-list-in-python)  
             * [How do I copy a file in Python? - Stack Overflow](https://stackoverflow.com/questions/123198/how-do-i-copy-a-file-in-python)  
             * [How do I create a multiline Python string with inline variables? - Stack Overflow](https://stackoverflow.com/questions/10112614/how-do-i-create-a-multiline-python-string-with-inline-variables)  
             * [How do I lowercase a string in Python? - Stack Overflow](https://stackoverflow.com/questions/6797984/how-do-i-lowercase-a-string-in-python)  
@@ -1167,6 +1180,7 @@
             * [How to send SMTP email for office365 with python using tls/ssl - Stack Overflow](https://stackoverflow.com/questions/46160886/how-to-send-smtp-email-for-office365-with-python-using-tls-ssl)  
             * [How to send email to multiple recipients using python smtplib? - Stack Overflow](https://stackoverflow.com/questions/8856117/how-to-send-email-to-multiple-recipients-using-python-smtplib)  
             * [How to sort a dataFrame in python pandas by two or more columns? - Stack Overflow](https://stackoverflow.com/questions/17141558/how-to-sort-a-dataframe-in-python-pandas-by-two-or-more-columns)  
+            * [How to split a string into an array of characters in Python? - Stack Overflow](https://stackoverflow.com/questions/4978787/how-to-split-a-string-into-an-array-of-characters-in-python)  
             * [How to use a variable as function name in Python - Stack Overflow](https://stackoverflow.com/questions/34794634/how-to-use-a-variable-as-function-name-in-python)  
             * [Jira python calculate time - Stack Overflow](https://stackoverflow.com/questions/37744027/jira-python-calculate-time)  
             * [Parse JSON in Python - Stack Overflow](https://stackoverflow.com/questions/7771011/parse-json-in-python)  
@@ -1205,6 +1219,7 @@
             * [pandas drops index index on merge in Python? - Stack Overflow](https://stackoverflow.com/questions/15661455/pandas-drops-index-index-on-merge-in-python)  
             * [pip - How to use requirements.txt to install all dependencies in a python project - Stack Overflow](https://stackoverflow.com/questions/41457612/how-to-use-requirements-txt-to-install-all-dependencies-in-a-python-project)  
             * [printing - How to print to stderr in Python? - Stack Overflow](https://stackoverflow.com/questions/5574702/how-to-print-to-stderr-in-python)  
+            * [python - Adding a background color to Cell OpenPyXL - Stack Overflow](https://stackoverflow.com/questions/35918504/adding-a-background-color-to-cell-openpyxl)  
             * [python - Apply 'wrap_text' to all cells using openpyxl - Stack Overflow](https://stackoverflow.com/questions/42215933/apply-wrap-text-to-all-cells-using-openpyxl/52494457)  
             * [python - Applying borders to a cell in OpenPyxl - Stack Overflow](https://stackoverflow.com/questions/24917201/applying-borders-to-a-cell-in-openpyxl)  
             * [python - Can't compare naive and aware datetime.now() <= challenge.datetime_end - Stack Overflow](https://stackoverflow.com/questions/15307623/cant-compare-naive-and-aware-datetime-now-challenge-datetime-end)  
@@ -1232,6 +1247,7 @@
             * [python - How do I check whether a file exists without exceptions? - Stack Overflow](https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-without-exceptions)  
             * [python - How do I convert seconds to hours, minutes and seconds? - Stack Overflow](https://stackoverflow.com/questions/775049/how-do-i-convert-seconds-to-hours-minutes-and-seconds)  
             * [python - How do I count unique values inside a list - Stack Overflow](https://stackoverflow.com/questions/12282232/how-do-i-count-unique-values-inside-a-list)  
+            * [python - How do I expand the output display to see more columns of a pandas DataFrame? - Stack Overflow](https://stackoverflow.com/questions/11707586/how-do-i-expand-the-output-display-to-see-more-columns-of-a-pandas-dataframe)  
             * [python - How do I get interactive plots again in Spyder/IPython/matplotlib? - Stack Overflow](https://stackoverflow.com/questions/23585126/how-do-i-get-interactive-plots-again-in-spyder-ipython-matplotlib)  
             * [python - How do I get the day of week given a date? - Stack Overflow](https://stackoverflow.com/questions/9847213/how-do-i-get-the-day-of-week-given-a-date)  
             * [python - How do I get the row count of a pandas DataFrame? - Stack Overflow](https://stackoverflow.com/questions/15943769/how-do-i-get-the-row-count-of-a-pandas-dataframe)  
@@ -1250,6 +1266,7 @@
             * [python - How to iterate over rows in a DataFrame in Pandas? - Stack Overflow](https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas)  
             * [python - How to load a tsv file into a Pandas DataFrame? - Stack Overflow](https://stackoverflow.com/questions/9652832/how-to-load-a-tsv-file-into-a-pandas-dataframe)  
             * [python - How to merge two dataframes side-by-side? - Stack Overflow](https://stackoverflow.com/questions/23891575/how-to-merge-two-dataframes-side-by-side)  
+            * [python - How to rearrange Pandas column sequence? - Stack Overflow](https://stackoverflow.com/questions/12329853/how-to-rearrange-pandas-column-sequence/23741704)  
             * [python - How to send a POST request via WebKit [PySide/PyQt] - Stack Overflow](https://stackoverflow.com/questions/12345841/how-to-send-a-post-request-via-webkit-pyside-pyqt)  
             * [python - How to send email attachments? - Stack Overflow](https://stackoverflow.com/questions/3362600/how-to-send-email-attachments)  
             * [python - How to sort mongodb with pymongo - Stack Overflow](https://stackoverflow.com/questions/8109122/how-to-sort-mongodb-with-pymongo)  
@@ -1273,6 +1290,7 @@
             * [python - Pandas: sum DataFrame rows for given columns - Stack Overflow](https://stackoverflow.com/questions/25748683/pandas-sum-dataframe-rows-for-given-columns)  
             * [python - Platform-independent file paths? - Stack Overflow](https://stackoverflow.com/questions/6036129/platform-independent-file-paths)  
             * [python - Print all day-dates between two dates - Stack Overflow](https://stackoverflow.com/questions/7274267/print-all-day-dates-between-two-dates)  
+            * [python - RegEx to check if a string is a number - Stack Overflow](https://stackoverflow.com/questions/44506983/regex-to-check-if-a-string-is-a-number)  
             * [python - Renaming columns in pandas - Stack Overflow](https://stackoverflow.com/questions/11346283/renaming-columns-in-pandas)  
             * [python - Round number to nearest integer - Stack Overflow](https://stackoverflow.com/questions/31818050/round-number-to-nearest-integer)  
             * [python - Search for "does-not-contain" on a DataFrame in pandas - Stack Overflow](https://stackoverflow.com/questions/17097643/search-for-does-not-contain-on-a-dataframe-in-pandas)  
@@ -1282,6 +1300,7 @@
             * [python - Turtle graphics - How do I control when the window closes? - Stack Overflow](https://stackoverflow.com/questions/6234798/turtle-graphics-how-do-i-control-when-the-window-closes)  
             * [python - TypeError: sequence item 0: expected string, int found - Stack Overflow](https://stackoverflow.com/questions/10880813/typeerror-sequence-item-0-expected-string-int-found)  
             * [python - UnicodeEncodeError: 'latin-1' codec can't encode character - Stack Overflow](https://stackoverflow.com/questions/3942888/unicodeencodeerror-latin-1-codec-cant-encode-character)  
+            * [python - Update index after sorting data-frame - Stack Overflow](https://stackoverflow.com/questions/33165734/update-index-after-sorting-data-frame/33165860)  
             * [python - Use a list of values to select rows from a pandas dataframe - Stack Overflow](https://stackoverflow.com/questions/12096252/use-a-list-of-values-to-select-rows-from-a-pandas-dataframe)  
             * [python - What is as_index in groupby in pandas? - Stack Overflow](https://stackoverflow.com/questions/41236370/what-is-as-index-in-groupby-in-pandas)  
             * [python - Where does pip install its packages? - Stack Overflow](https://stackoverflow.com/questions/29980798/where-does-pip-install-its-packages/45309460)  
@@ -1292,6 +1311,7 @@
             * [python - how to sort pandas dataframe from one column - Stack Overflow](https://stackoverflow.com/questions/37787698/how-to-sort-pandas-dataframe-from-one-column)  
             * [python - obtaining last value of dataframe column without index - Stack Overflow](https://stackoverflow.com/questions/34166030/obtaining-last-value-of-dataframe-column-without-index/34166097)  
             * [python - openpyxl check for empty cell - Stack Overflow](https://stackoverflow.com/questions/7907928/openpyxl-check-for-empty-cell)  
+            * [python - pandas get rows which are NOT in other dataframe - Stack Overflow](https://stackoverflow.com/questions/28901683/pandas-get-rows-which-are-not-in-other-dataframe)  
             * [python - pandas: filter rows of DataFrame with operator chaining - Stack Overflow](https://stackoverflow.com/questions/11869910/pandas-filter-rows-of-dataframe-with-operator-chaining)  
             * [python - pandas: merge (join) two data frames on multiple columns - Stack Overflow](https://stackoverflow.com/questions/41815079/pandas-merge-join-two-data-frames-on-multiple-columns)  
             * [python - pip install fails with "connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:598)" - Stack Overflow](https://stackoverflow.com/questions/25981703/pip-install-fails-with-connection-error-ssl-certificate-verify-failed-certi)  
@@ -1321,6 +1341,7 @@
             * [WhileLoop - Python Wiki](https://wiki.python.org/moin/WhileLoop)  
           * www.geeksforgeeks.org  
             * [Adding new column to existing DataFrame in Pandas - GeeksforGeeks](https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/)  
+            * [Apply function to every row in a Pandas DataFrame - GeeksforGeeks](https://www.geeksforgeeks.org/apply-function-to-every-row-in-a-pandas-dataframe/)  
             * [GET and POST requests using Python - GeeksforGeeks](https://www.geeksforgeeks.org/get-post-requests-using-python/)  
             * [Get all rows in a Pandas DataFrame containing given substring - GeeksforGeeks](https://www.geeksforgeeks.org/get-all-rows-in-a-pandas-dataframe-containing-given-substring/)  
             * [Get unique values from a column in Pandas DataFrame - GeeksforGeeks](https://www.geeksforgeeks.org/get-unique-values-from-a-column-in-pandas-dataframe/)  
@@ -1329,9 +1350,11 @@
             * [Python | How to copy data from one excel sheet to another - GeeksforGeeks](https://www.geeksforgeeks.org/python-how-to-copy-data-from-one-excel-sheet-to-another/)  
             * [Python | Pandas Series.iteritems() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-series-iteritems/)  
             * [Python | Pandas Series.to_string() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-series-to_string/)  
+            * [Python | Pandas dataframe.drop_duplicates() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-dataframe-drop_duplicates/)  
             * [Python | Pandas dataframe.get_value() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-dataframe-get_value/)  
             * [Python | Pandas dataframe.set_value() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-dataframe-set_value/)  
             * [Python | Plotting charts in excel sheet using openpyxl module](https://www.geeksforgeeks.org/python-plotting-charts-in-excel-sheet-using-openpyxl-module-set-1/)  
+            * [Python | Reversing a List - GeeksforGeeks](https://www.geeksforgeeks.org/python-reversing-list/)  
             * [Python | Ways to concatenate two lists - GeeksforGeeks](https://www.geeksforgeeks.org/python-ways-to-concatenate-two-lists/)  
             * [Python | Writing to an excel file using openpyxl module - GeeksforGeeks](https://www.geeksforgeeks.org/python-writing-excel-file-using-openpyxl-module/)  
             * [Stack and Queue in Python using queue Module - GeeksforGeeks](https://www.geeksforgeeks.org/stack-queue-python-using-module-queue/)  
@@ -1352,6 +1375,7 @@
           * www.tutorialspoint.com  
             * [How to convert date and time with different timezones in Python?](https://www.tutorialspoint.com/How-to-convert-date-and-time-with-different-timezones-in-Python)  
             * [Python File flush() Method - Tutorialspoint](https://www.tutorialspoint.com/python/file_flush.htm)  
+            * [Python Tuple len() Method - Tutorialspoint](https://www.tutorialspoint.com/python/tuple_len.htm)  
           * www.w3resource.com  
             * [NumPy: Convert numpy datetime64 to Timestamp - w3resource](https://www.w3resource.com/python-exercises/numpy/python-numpy-datetime-exercise-7.php)  
             * [Pandas DataFrame: loc() function - w3resource](https://www.w3resource.com/pandas/dataframe/dataframe-loc.php)  
@@ -1369,6 +1393,7 @@
             * [Python String replace() Method](https://www.w3schools.com/python/ref_string_replace.asp)  
             * [Python String split() Method](https://www.w3schools.com/python/ref_string_split.asp)  
             * [Python range() Function](https://www.w3schools.com/python/ref_func_range.asp)  
+          * [Apply a function to every row in a pandas dataframe](http://jonathansoma.com/lede/foundations/classes/pandas%20columns%20and%20functions/apply-a-function-to-every-row-in-a-pandas-dataframe/)  
           * [Asyncio Event Loops Tutorial | TutorialEdge.net](https://tutorialedge.net/python/concurrency/asyncio-event-loops-tutorial/)  
           * [Change the order of columns in Pandas dataframe](https://erikrood.com/Python_References/change_order_dataframe_columns_final.html)  
           * [Convert a string representing the date or epoch time to datetime and change timezone in Python - Sou-Nan-De-Gesu](https://www.soudegesu.com/en/python/python-datetime/)  
@@ -1401,7 +1426,6 @@
           * [Python How To Get Date Range From Week Number - MVSourceCode - mvsourcecode](http://mvsourcecode.com/python-how-to-get-date-range-from-week-number-mvsourcecode/)  
           * [Python Openpyxl Tutorial - javatpoint](https://www.javatpoint.com/python-openpyxl)  
           * [Python Range() function explained with Examples [Complete Guide]](https://pynative.com/python-range-function/)  
-          * [Python Requests TimeoutError: [WinError 10060] A connection attempt failed](https://pythonexamples.org/python-requests-timeouterror-winerror-10060-a-connection-attempt-failed/)  
           * [Python String Format Cookbook – mkaz.blog](https://mkaz.blog/code/python-string-format-cookbook/)  
           * [Python strftime reference](https://strftime.org/)  
           * [Python: How to Print Without Newline? (The Idiomatic Way) - Afternerd](https://www.afternerd.com/blog/how-to-print-without-a-newline-in-python/)  
