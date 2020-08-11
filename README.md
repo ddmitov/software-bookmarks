@@ -1579,17 +1579,6 @@
     * Testing  
       * [Internet Speed Test | Fast.com](https://fast.com/)  
       * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
-* Work  
-* Software  
-  * [ Postman Download](https://www.postman.com/downloads/)  
-  * [FileZilla Client Portable (FTP client) | PortableApps.com](https://portableapps.com/apps/internet/filezilla_portable)  
-  * [Portable SmarTTY - Download](https://sysprogs.com/SmarTTY/portable/)  
-  * [Python Releases for Windows | Python.org](https://www.python.org/downloads/windows/)  
-  * [RStudio](https://rstudio.com/products/rstudio/)  
-  * [Robomongo](https://robomongo.org/download)  
-  * [Snip & Sketch - Wikipedia](https://en.wikipedia.org/wiki/Snip_%26_Sketch)  
-  * [WinSCP :: All Downloads](https://winscp.net/eng/downloads.php#additional)  
-  * [WinSCP :: Portable Use](https://winscp.net/eng/docs/portable)  
 
 Created using [Bookmark Extractor](https://github.com/ddmitov/bookmark-extractor)
 
