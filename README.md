@@ -2,6 +2,9 @@
   * Archivers  
     * [7-Zip](https://www.7-zip.org/)  
     * [PeaZip free archiver utility, open extract RAR TAR ZIP files](http://www.peazip.org/)  
+  * Bootloaders  
+    * [GNU GRUB - Wikipedia](https://en.wikipedia.org/wiki/GNU_GRUB)  
+    * [SYSLINUX - Wikipedia](https://en.wikipedia.org/wiki/SYSLINUX)  
   * Bug Tracking  
     * JIRA How To  
       * community.atlassian.com  
@@ -255,7 +258,7 @@
     * [FileZilla - The free FTP solution](https://filezilla-project.org/)  
     * [Just Color Picker 5.2 - best free colour tool for Windows and macOS](http://annystudio.com/software/colorpicker/)  
     * [WinMerge - You will see the difference…](http://winmerge.org/?lang=en)  
-  * Encryption  
+  * Encryption Applications  
     * [KeePass Password Safe](https://keepass.info/)  
     * [KeePassXC Password Manager](https://keepassxc.org/)  
   * Human Languages  
@@ -288,7 +291,7 @@
       * [Unicode - Compart](https://www.compart.com/en/unicode/)  
       * [Unicode Inputter Page](https://babel.mml.ox.ac.uk/naughton/inputter.html)  
     * [Laurence Anthony's AntConc](http://www.laurenceanthony.net/software/antconc/)  
-  * Multimedia  
+  * Multimedia Applications  
     * [ClipGrab - Free YouTube Downloader & Converter](http://clipgrab.org/)  
     * [Flameshot](https://flameshot.js.org/#/)  
     * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)  
@@ -297,10 +300,13 @@
     * [Open Broadcaster Software | OBS](https://obsproject.com/)  
     * [XnView · Image Viewer, Photo Resizer & Graphic Converter](https://www.xnview.com/en/)  
   * Network Administration  
-    * [IP Calculator / IP Subnetting](http://jodies.de/ipcalc)  
+    * Speed Tests  
+      * [Internet Speed Test | Fast.com](https://fast.com/)  
+      * [Speedtest.net - The Global Broadband Speed Test](http://www.speedtest.net/)  
+    * Subnetting Calculators  
+      * [IP Calculator / IP Subnetting](http://jodies.de/ipcalc)  
+      * [Online IP Subnet Calculator](http://www.subnet-calculator.com/)  
     * [OSI model - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/OSI_model)  
-    * [Online IP Subnet Calculator](http://www.subnet-calculator.com/)  
-    * [Speedtest.net - The Global Broadband Speed Test](http://www.speedtest.net/)  
     * [Technitium MAC Address Changer v5 Release 3 (FREEWARE)](http://www.technitium.com/tmac/index.html)  
   * Office Software  
     * Document Search  
@@ -341,6 +347,7 @@
           * [How to remove blank columns in Excel](https://www.ablebits.com/office-addins-blog/2018/11/21/remove-blank-columns-excel/)  
         * [Excel Pivot Table -- Dynamic Data Source](https://www.contextures.com/xlPivot01.html)  
         * [In excel how do I reference the current row but a specific column? - Stack Overflow](https://stackoverflow.com/questions/16501448/in-excel-how-do-i-reference-the-current-row-but-a-specific-column)  
+        * [Move Columns in Excel - Easy Excel Tutorial](https://www.excel-easy.com/examples/move-columns.html)  
         * [What are the 56 ColorIndex colors in Excel | ExcelSuperSite](https://www.excelsupersite.com/what-are-the-56-colorindex-colors-in-excel/)  
       * Microsoft Teams How To  
         * [Post external requests to Microsoft Teams with incoming webhooks - Teams | Microsoft Docs](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook)  
@@ -356,6 +363,9 @@
       * [wkhtmltopdf](https://wkhtmltopdf.org/)  
     * [tesseract-ocr/tesseract: Tesseract Open Source OCR Engine (main repository)](https://github.com/tesseract-ocr/tesseract)  
   * Operating Systems  
+    * FreeDOS  
+      * [FreeDOS | The FreeDOS Project](https://www.freedos.org/)  
+      * [Text editor Bloček](http://laaca.sweb.cz/)  
     * Linux  
       * AppImage  
         * [AppImage | Linux apps that run anywhere](http://appimage.org/)  
@@ -385,6 +395,7 @@
         * stackoverflow.com  
           * [automation - CRON job to run on the last day of the month - Stack Overflow](https://stackoverflow.com/questions/6139189/cron-job-to-run-on-the-last-day-of-the-month)  
           * [linux - How do I get out of a screen without typing 'exit'? - Stack Overflow](https://stackoverflow.com/questions/4847691/how-do-i-get-out-of-a-screen-without-typing-exit)  
+          * [linux - How i can read tty file with timeout? - Stack Overflow](https://stackoverflow.com/questions/6713668/how-i-can-read-tty-file-with-timeout)  
         * [A simple command to toggle mute with pulseaudio (any sink)](https://www.commandlinefu.com/commands/view/13133/a-simple-command-to-toggle-mute-with-pulseaudio-any-sink)  
         * [How To Suspend A Process And Resume It Later In Linux - OSTechNix](https://www.ostechnix.com/suspend-process-resume-later-linux/)  
         * [How to check CentOS version - LinuxConfig.org](https://linuxconfig.org/how-to-check-centos-version)  
@@ -397,8 +408,8 @@
       * [PhotoRec - CGSecurity](http://www.cgsecurity.org/wiki/PhotoRec)  
       * [TestDisk - CGSecurity](http://www.cgsecurity.org/wiki/TestDisk)  
       * [Tomas-M/iotop: A top utility for IO](https://github.com/Tomas-M/iotop)  
+      * [Webmin](http://www.webmin.com/)  
       * [lookbusy -- a synthetic load generator](http://www.devin.com/lookbusy/)  
-      * [luebking/qarma: Zenity Clone for Qt4/Qt5](https://github.com/luebking/qarma)  
     * Windows  
       * Windows How To  
         * [Create Show Desktop Shortcut in Windows | Tutorials](https://www.tenforums.com/tutorials/21027-create-show-desktop-shortcut-windows.html)  
@@ -415,18 +426,20 @@
       * [Windows Sysinternals - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/en-us/sysinternals/)  
       * [XSearch - Search files on your computer](http://www.easexp.com/xsearch/index.html)  
       * [maravento/winzenity: Zenity Portable for Windows](https://github.com/maravento/winzenity)  
-  * Plotting  
-    * Matplotlib  
-      * Matplotlib How To  
-        * [Customizing Matplotlib with style sheets and rcParams — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/tutorials/introductory/customizing.html)  
-        * [How-To — Matplotlib 3.1.1 documentation](https://matplotlib.org/faq/howto_faq.html)  
-        * [Multiple Figs Demo — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/gallery/subplots_axes_and_figures/multiple_figs_demo.html)  
+  * Plotting Applications  
+    * GnuPlot  
+      * GnuPlot How To  
+        * [datetime - How to use GnuPlot to plot a time series chart from a CSV file date and time stored in separate columns? - Stack Overflow](https://stackoverflow.com/questions/10921043/how-to-use-gnuplot-to-plot-a-time-series-chart-from-a-csv-file-date-and-time-sto)  
+        * [wxt « Gnuplotting](http://www.gnuplotting.org/tag/wxt/)  
     * [ploticus: ploticus data display package](http://ploticus.sourceforge.net/doc/welcome.html)  
   * Programming Editors  
     * Visual Studio Code  
       * Extensions  
         * [Markdown Preview Enhanced - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)  
+        * [MySQL Syntax - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=jakebathman.mysql-syntax)  
+        * [Python - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-python.python)  
         * [Rainbow CSV - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)  
+        * [vscode-base64 - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=adamhartford.vscode-base64)  
       * Visual Studio Code How To  
         * [How to add a right margin to the Visual Studio Code editor? - Stack Overflow](https://stackoverflow.com/questions/42607666/how-to-add-a-right-margin-to-the-visual-studio-code-editor)  
         * [JSON editing in Visual Studio Code](https://code.visualstudio.com/docs/languages/json)  
@@ -436,7 +449,12 @@
       * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)  
     * [* Arachnophilia](https://arachnoid.com/arachnophilia/)  
     * [Atom](https://atom.io/)  
+    * [Eclipse IDE for Java Developers | Eclipse Packages](https://www.eclipse.org/downloads/packages/release/neon/2/eclipse-ide-java-developers)  
+    * [Notepad++](https://notepad-plus-plus.org/)  
+    * [Notepad2](http://www.flos-freeware.ch/notepad2.html)  
+    * [Open Perl IDE](http://open-perl-ide.sourceforge.net/)  
     * [PyCharm: the Python IDE for Professional Developers by JetBrains](https://www.jetbrains.com/pycharm/)  
+    * [Qt Creator - A Cross-platform IDE for Application Development](https://www.qt.io/product/development-tools)  
     * [Scintilla and SciTE](https://www.scintilla.org/SciTE.html)  
   * Programming Languages  
     * AutoIt  
@@ -444,12 +462,21 @@
         * [AutoIt v3 Reference](https://www.autoitscript.com/autoit3/docs/)  
         * [Mozilla Activex Control - Example Scripts - AutoIt Forums](http://www.autoitscript.com/forum/topic/26127-mozilla-activex-control/)  
       * [AutoIt Script Editor - AutoIt](https://www.autoitscript.com/site/autoit-script-editor/)  
+      * [AutoIt v3 Simple Browser based on Internet Explorer ActiveX Component](https://gist.github.com/ddmitov/55bb0ab2635f6a03a66b)  
     * Bash  
       * Bash How To  
         * [How do I parse command line arguments in Bash? - Stack Overflow](https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments-in-bash)  
         * [bash - How to copy some, but not all files? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/41693/how-to-copy-some-but-not-all-files)  
+      * [Opera Session Converter](https://gist.github.com/ddmitov/9bb3a7b0920beaf68191)  
       * [ShellCheck – shell script analysis tool](https://www.shellcheck.net/)  
     * C  
+      * Arduino  
+        * Arduino How To  
+          * [Arduino Playground - DirectMathVoltmeter](https://playground.arduino.cc/Main/DirectMathVoltmeter/)  
+          * [Arduino Playground - Linux](https://playground.arduino.cc/Learning/Linux/)  
+          * [Arduino Playground - LinuxTTY](https://playground.arduino.cc/Interfacing/LinuxTTY/)  
+          * [Serial - Arduino Reference](https://www.arduino.cc/reference/en/language/functions/communication/serial/)  
+        * [Arduino-based voltage monitor for DC UPS devices powering Linux computers with DC-DC power supplies - SUSPENDED PROJECT](https://gist.github.com/ddmitov/b9b252df2d11d4b27aae)  
       * C How To  
         * stackoverflow.com  
           * [How can I run an external program from C and parse its output? - Stack Overflow](https://stackoverflow.com/questions/43116/how-can-i-run-an-external-program-from-c-and-parse-its-output)  
@@ -458,10 +485,10 @@
           * [c - fork() child and parent processes - Stack Overflow](https://stackoverflow.com/questions/7265718/fork-child-and-parent-processes)  
           * [command line - How to use setenv() to export a variable in c++? - Stack Overflow](https://stackoverflow.com/questions/17929414/how-to-use-setenv-to-export-a-variable-in-c)  
           * [unix - How to get the current directory in a C program? - Stack Overflow](https://stackoverflow.com/questions/298510/how-to-get-the-current-directory-in-a-c-program)  
-        * [Add one line to your C/C++ source to make it executable.](https://gist.github.com/jdarpinian/1952a58b823222627cc1a8b83a7aa4e2)  
         * [Read a whole file into memory in C](https://www.lemoda.net/c/read-whole-file/)  
         * [Set and get environment variables in C](http://www.lemoda.net/c/set-get-env/)  
         * [The GNU C Library: Environment Access](http://www.gnu.org/software/libc/manual/html_node/Environment-Access.html)  
+      * [ddmitov/cyrconv: Cyrillic text file convertor from CP1251 to UTF-8 and vice versa - ARCHIVED](https://github.com/ddmitov/cyrconv)  
       * [ilvn/aes256ctr: Byte-oriented AES-256 in CTR mode](https://github.com/ilvn/aes256ctr)  
       * [littlstar/b64.c: Base64 encode/decode](https://github.com/littlstar/b64.c)  
     * C++  
@@ -617,6 +644,7 @@
         * [Index of /archive/qt](https://download.qt.io/archive/qt/)  
         * [QuaZIP: QuaZIP - Qt/C++ wrapper for ZIP/UNZIP package](http://quazip.sourceforge.net/)  
         * [TinyAES - A very small AES encryption library for Qt 5.x (Page 1) / Community Contributions / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=173884)  
+        * [ddmitov/html-messagebox: HTML message box for command-line scripts](https://github.com/ddmitov/html-messagebox)  
         * [devbean/QtCipherSqlitePlugin](https://github.com/devbean/QtCipherSqlitePlugin)  
         * [qt-examples/sitespecificbrowser at master · richmoore/qt-examples](https://github.com/richmoore/qt-examples/tree/master/sitespecificbrowser)  
       * [Cppcheck - A tool for static C/C++ code analysis](http://cppcheck.sourceforge.net/)  
@@ -651,8 +679,10 @@
         * [Maven – Introduction to the POM](https://maven.apache.org/guides/introduction/introduction-to-the-pom.html)  
         * [Setting JAVA_HOME](https://docs.opsgenie.com/docs/setting-java_home)  
         * [gson/UserGuide.md at master · google/gson](https://github.com/google/gson/blob/master/UserGuide.md)  
+        * [jPortable : Portable Java Runtime Environment (JRE) for Windows](https://www.trishtech.com/2013/07/jportable-portable-java-runtime-environment-jre-for-windows/)  
       * [GSON - Gson](http://tutorials.jenkov.com/java-json/gson.html)  
       * [ddmitov/bookmark-extractor: Selective Chromium bookmarks extractor and formatter](https://github.com/ddmitov/bookmark-extractor)  
+      * [jPortable (portable Java® runtime environment) | PortableApps.com](https://portableapps.com/apps/utilities/java_portable)  
     * JavaScript  
       * Electron  
         * Electron How To  
@@ -806,18 +836,28 @@
         * [npms](https://npms.io/)  
         * [npmsearch - node.js Package Search Utility](https://npmsearch.com/)  
       * Progressive Web Apps  
+        * developers.google.com  
+          * [Progressive Web App Checklist  |  Web  |  Google Developers](https://developers.google.com/web/progressive-web-apps/checklist)  
+          * [Progressive Web Apps  |  Web  |  Google Developers](https://developers.google.com/web/progressive-web-apps/)  
+          * [The Web App Manifest  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/web-app-manifest/)  
         * [Basic Service Worker Sample](https://googlechrome.github.io/samples/service-worker/basic/)  
-        * [Progressive Web App Checklist  |  Web  |  Google Developers](https://developers.google.com/web/progressive-web-apps/checklist)  
-        * [Progressive Web Apps  |  Web  |  Google Developers](https://developers.google.com/web/progressive-web-apps/)  
         * [ServiceWorker Cookbook](https://serviceworke.rs/)  
-        * [The Web App Manifest  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/web-app-manifest/)  
-        * [mdn/simple-web-worker: A simple web worker test.](https://github.com/mdn/simple-web-worker)  
+        * [ddmitov/magna-carta: Magna Carta Libertatum with a word frequency index](https://github.com/ddmitov/magna-carta)  
       * [JSFiddle - Code Playground](https://jsfiddle.net/)  
       * [JavaScript variable name validator](https://mothereff.in/js-variables)  
       * [douglascrockford/JSLint: The JavaScript Code Quality Tool](https://github.com/douglascrockford/JSLint)  
       * [douglascrockford/JSMin: JavaScript Minification Filter](https://github.com/douglascrockford/JSMin)  
     * NSIS  
-      * [Setting Environment Variables - NSIS](http://nsis.sourceforge.net/Setting_Environment_Variables)  
+      * Plugins  
+        * [Dialogs plug-in - NSIS](https://nsis.sourceforge.io/Dialogs_plug-in)  
+        * [NSIS Simple Service Plugin - NSIS](https://nsis.sourceforge.io/NSIS_Simple_Service_Plugin)  
+        * [Unicode plug-in - NSIS](https://nsis.sourceforge.io/Unicode_plug-in)  
+        * [Version plug-in - NSIS](https://nsis.sourceforge.io/Version_plug-in)  
+        * [XtInfoPlugin plug-in - NSIS](https://nsis.sourceforge.io/XtInfoPlugin_plug-in)  
+      * [Uninstall Windows Services using NSIS](https://gist.github.com/ddmitov/842304e34208b32054d4)  
+      * [Webpage Loader - simple NSIS script to load a webpage in the default browser](https://gist.github.com/ddmitov/a0e9b37f2b1a64b9573c)  
+      * [ddmitov/comhere: Windows Command Prompt starter in the current directory - ARCHIVED](https://github.com/ddmitov/comhere)  
+      * [ddmitov/unicnv: Windows text file encoding convertors - ansi2utf and utf2ansi - ARCHIVED](https://github.com/ddmitov/unicnv)  
       * [nullsoft scriptable install system](https://nsis.sourceforge.io/Main_Page)  
     * PHP  
       * PHP How To  
@@ -850,11 +890,15 @@
         * [Customer's Session TimeOut in zen-cart - Stack Overflow](https://stackoverflow.com/questions/27751995/customers-session-timeout-in-zen-cart)  
         * [Ojambo Zen Cart Upgrade 1.3 To 1.5](http://www.ojambo.com/zen-cart-upgrade-1-3-to-1-5)  
         * [Tableau Responsive Theme for Zen Cart](https://www.numinix.com/templates/zen-cart-templates/tableau-for-zen-cart-dl-936)  
+      * SQL Maestro  
+        * [MySQL PHP Generator - PHP Code Generator and CRUD form builder by SQL Maestro Group](https://www.sqlmaestro.com/products/mysql/phpgenerator/)  
+        * [SQLite PHP Generator - Free PHP SQLite Generator by SQL Maestro Group](https://www.sqlmaestro.com/products/sqlite/phpgenerator/)  
       * [PHP Classes](http://www.phpclasses.org/)  
       * [phpMyAdmin](http://www.phpmyadmin.net/home_page/index.php)  
       * [phpMyBackupPro - the MySQL backup tool](http://www.phpmybackuppro.net/)  
     * Perl 5  
       * CPAN  
+        * [AnyEvent - the DBI of event loop programming - metacpan.org](https://metacpan.org/pod/AnyEvent)  
         * [Browser::Open - open a browser in a given URL - metacpan.org](https://metacpan.org/pod/distribution/Browser-Open/lib/Browser/Open.pm)  
         * [DBD::SQLeet - Self-contained RDBMS in a DBI Driver - metacpan.org](https://metacpan.org/pod/DBD::SQLeet)  
         * [DBI::Profile - Performance profiling and benchmarking for the DBI - metacpan.org](https://metacpan.org/pod/DBI::Profile)  
@@ -925,8 +969,12 @@
         * perlmaven.com  
           * [Exception handling in Perl: How to deal with fatal errors in external modules](https://perlmaven.com/fatal-errors-in-external-modules)  
           * [Hash of Arrays in Perl](https://perlmaven.com/hash-of-arrays)  
+          * [Hashes in Perl](https://perlmaven.com/perl-hashes)  
           * [How to create an Excel file with Perl?](https://perlmaven.com/create-an-excel-file-with-perl)  
+          * [How to remove, copy or rename a file with Perl](https://perlmaven.com/how-to-remove-copy-or-rename-a-file-with-perl)  
+          * [How to sort a hash in Perl?](https://perlmaven.com/how-to-sort-a-hash-in-perl)  
           * [JSON in Perl](https://perlmaven.com/json)  
+          * [Processing command line arguments - @ARGV in Perl](https://perlmaven.com/argv-in-perl)  
           * [Scalar and List context in Perl, the size of an array](https://perlmaven.com/scalar-and-list-context-in-perl)  
           * [Simple Database access using Perl DBI and SQL](https://perlmaven.com/simple-database-access-using-perl-dbi-and-sql)  
         * perlmeme.org  
@@ -951,6 +999,7 @@
           * [How do I get the execution time of a Perl program? - Stack Overflow](https://stackoverflow.com/questions/33547199/how-do-i-get-the-execution-time-of-a-perl-program)  
           * [How do I include a Perl module that's in a different directory? - Stack Overflow](https://stackoverflow.com/questions/841785/how-do-i-include-a-perl-module-thats-in-a-different-directory)  
           * [How do I redefine built in Perl functions? - Stack Overflow](https://stackoverflow.com/questions/651124/how-do-i-redefine-built-in-perl-functions)  
+          * [How do I remove duplicate items from an array in Perl? - Stack Overflow](https://stackoverflow.com/questions/7651/how-do-i-remove-duplicate-items-from-an-array-in-perl)  
           * [How is Perl's @INC constructed? (aka What are all the ways of affecting where Perl modules are searched for?) - Stack Overflow](http://stackoverflow.com/questions/2526804/how-is-perls-inc-constructed-aka-what-are-all-the-ways-of-affecting-where-pe)  
           * [How to compare string date time in perl? - Stack Overflow](http://stackoverflow.com/questions/8221841/how-to-compare-string-date-time-in-perl)  
           * [How to get the name of Perl script that is running - Stack Overflow](https://stackoverflow.com/questions/4600192/how-to-get-the-name-of-perl-script-that-is-running)  
@@ -960,6 +1009,7 @@
           * [Simple example of using data from a YAML configuration file in a Perl script - Stack Overflow](http://stackoverflow.com/questions/3453573/simple-example-of-using-data-from-a-yaml-configuration-file-in-a-perl-script)  
           * [Sorting an Array of Hash by multiple keys Perl - Stack Overflow](https://stackoverflow.com/questions/10395383/sorting-an-array-of-hash-by-multiple-keys-perl)  
           * [What is the best way in Perl to copy files into a yet-to-be-created directory tree? - Stack Overflow](http://stackoverflow.com/questions/229357/what-is-the-best-way-in-perl-to-copy-files-into-a-yet-to-be-created-directory-tr)  
+          * [What is the correct way to break a line of Perl code into two? - Stack Overflow](https://stackoverflow.com/questions/3984769/what-is-the-correct-way-to-break-a-line-of-perl-code-into-two)  
           * [What's the difference between Perl's backticks, system, and exec? - Stack Overflow](http://stackoverflow.com/questions/799968/whats-the-difference-between-perls-backticks-system-and-exec)  
           * [Which Perl built-ins cannot be overridden in CORE::GLOBAL? - Stack Overflow](https://stackoverflow.com/questions/3678882/which-perl-built-ins-cannot-be-overridden-in-coreglobal)  
           * [arrays - Is there a Perl shortcut to count the number of matches in a string? - Stack Overflow](http://stackoverflow.com/questions/1849329/is-there-a-perl-shortcut-to-count-the-number-of-matches-in-a-string)  
@@ -994,7 +1044,9 @@
           * [Detach from terminal](http://www.perlmonks.org/?node_id=286747)  
           * [Disabling buffering of serial port?](http://www.perlmonks.org/?node_id=934393)  
           * [Edit a node value in xml](http://www.perlmonks.org/?node_id=782694)  
+          * [Exploring the color palette](https://www.perlmonks.org/?node_id=509827)  
           * [Find perl module version from command-line](http://www.perlmonks.org/?node_id=37237)  
+          * [Fuser under perl](https://www.perlmonks.org/?node_id=36349)  
           * [How do I find the index of a specific array value?](http://www.perlmonks.org/?node_id=75660)  
           * [How do I pick a random element from an array?](http://www.perlmonks.org/?node_id=1870)  
           * [How do I shuffle an array?](http://www.perlmonks.org/?node_id=1869)  
@@ -1016,6 +1068,7 @@
           * [Reading contents of a zip file without opening it](http://www.perlmonks.org/?node=Reading%20contents%20of%20a%20zip%20file%20without%20opening%20it)  
           * [Reading password from STDIN without echoing](http://www.perlmonks.org/bare/?node_id=307151)  
           * [Removing Directory and Contents with Perl](http://www.perlmonks.org/?node_id=602793)  
+          * [Running parallel processes without communication](https://www.perlmonks.org/?node_id=880265)  
           * [Safe module security and emebeded perl](http://www.perlmonks.org/?node=Safe%20module%20security%20and%20emebeded%20perl)  
           * [ScanDeps usage](http://www.perlmonks.org/?node_id=982572)  
           * [Stepping up from XML::Simple to XML::LibXML](http://www.perlmonks.org/?node_id=490846)  
@@ -1030,6 +1083,7 @@
         * [Checking if a module is installed (without actually loading it) | perlancar's blog](https://perlancar.wordpress.com/2016/08/02/checking-if-a-module-is-loadable-without-actually-loading-it/)  
         * [Connecting to the SQLite database with Perl](http://zetcode.com/db/sqliteperltutorial/connect/)  
         * [Creating a Perl Daemon in Ubuntu « andrewault.net](http://www.andrewault.net/2010/05/27/creating-a-perl-daemon-in-ubuntu/)  
+        * [Exporting a scalar variable from a module using Perl](http://johnbokma.com/mexit/2006/07/05/exporting-scalar-variable-perl.html)  
         * [File Test Operators](http://www.cs.cf.ac.uk/Dave/PERL/node69.html)  
         * [Finding the Index and Number of Occurrences of a Pattern in a String | Code Repose](https://coderepose.wordpress.com/2015/08/03/finding-the-index-and-number-of-occurrences-of-a-pattern-in-a-string/)  
         * [First steps in Sqlite and Perl](http://lauraliparulo.altervista.org/first-steps-in-sqlite-and-perl/)  
@@ -1060,14 +1114,17 @@
         * [open() for Command Execution](http://www.shlomifish.org/lecture/Perl/Newbies/lecture4/processes/opens.html)  
         * [xantus/mojo-websocket-examples: Mojolicious WebSocket Examples](https://github.com/xantus/mojo-websocket-examples)  
       * [CSV Database Scripts](http://www.ezscripting.com/csv/)  
-      * [Open Perl IDE](http://open-perl-ide.sourceforge.net/)  
+      * [Execute remote commands using Perl5, Net::OpenSSH and a private key](https://gist.github.com/ddmitov/1527f9fca9fb954fed57d550571b4776)  
+      * [Linux RSS Memory Meter](https://gist.github.com/ddmitov/fff9205922c633cdd3a28283ba258873)  
+      * [Linux RSS Memory Meter - core Perl modules only](https://gist.github.com/ddmitov/80a4fdc4404617790c9c3414bb749518)  
       * [Perl::Critic](http://perlcritic.com/)  
       * [Perlbrew](http://perlbrew.pl/)  
       * [The Perl Programming Language - www.perl.org](https://www.perl.org/)  
       * [ddmitov/bg-volumina: Bibliographic Database Script Kit - ARCHIVED](https://github.com/ddmitov/bg-volumina)  
-      * [ddmitov/camel-doctor: Linux and Mac HTML interface for the Perl 5 debugger](https://github.com/ddmitov/camel-doctor)  
+      * [ddmitov/camel-doctor: Linux and Mac HTML interface for the Perl 5 debugger - ARCHIVED](https://github.com/ddmitov/camel-doctor)  
+      * [ddmitov/perl-arduino-plotter: Real-time Plotter for Arduino Devices - ARCHIVED](https://github.com/ddmitov/perl-arduino-plotter)  
       * [ddmitov/perl-executing-browser: HTML interface for Perl 5 desktop applications](https://github.com/ddmitov/perl-executing-browser)  
-      * [ddmitov/tabula: Mojolicious framework for desktop applications](https://github.com/ddmitov/tabula)  
+      * [ddmitov/tabula: Mojolicious framework for desktop applications - ARCHIVED](https://github.com/ddmitov/tabula)  
       * [perlc - convert perl to C code or executables to "hide" your source](http://marginalhacks.com/Hacks/perlc/)  
       * [skaji/relocatable-perl: self-contained, portable perl binaries](https://github.com/skaji/relocatable-perl)  
     * PowerShell  
@@ -1095,6 +1152,10 @@
         * github.com  
           * [derrekyoung/url-checker-python: Python scripts to check URLs](https://github.com/derrekyoung/url-checker-python)  
           * [selenium/headless.py at master · pyzzled/selenium](https://github.com/pyzzled/selenium/blob/master/headless_browser/headless.py)  
+        * matplotlib.org  
+          * [Customizing Matplotlib with style sheets and rcParams — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/tutorials/introductory/customizing.html)  
+          * [How-To — Matplotlib 3.1.1 documentation](https://matplotlib.org/faq/howto_faq.html)  
+          * [Multiple Figs Demo — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/gallery/subplots_axes_and_figures/multiple_figs_demo.html)  
         * pandas.pydata.org  
           * [pandas.DataFrame.astype — pandas 1.0.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.astype.html)  
           * [pandas.DataFrame.drop — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html)  
@@ -1507,12 +1568,13 @@
       * API  
         * [Postman | API Development Environment](https://www.getpostman.com/)  
         * [Postwoman • API request builder](https://postwoman.io/)  
-      * Servers  
+      * Web Servers  
         * Mongoose  
-          * [cesanta/mongoose: Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and bro](https://github.com/cesanta/mongoose)  
+          * [cesanta/mongoose: Mongoose Embedded Web Server Library](https://github.com/cesanta/mongoose)  
           * [ctrix/free-mongoose](https://github.com/ctrix/free-mongoose/)  
-        * [Webmin](http://www.webmin.com/)  
+          * [ddmitov/desktop-mongoose: Mongoose v.5.1 HTTP Server for Desktop Use](https://github.com/ddmitov/desktop-mongoose)  
         * [Xitami - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Xitami)  
+        * [ZazouMiniWebServer](http://www.xgarreau.org/zazouminiwebserver/)  
     * Frontend  
       * CSS  
         * CSS How To  
@@ -1572,13 +1634,14 @@
             * [How To Create an On Scroll Fixed Header](https://www.w3schools.com/howto/howto_js_sticky_header.asp)  
           * [You Might Not Need JavaScript](http://youmightnotneedjs.com/)  
           * [html - How do I use .woff fonts for my website? - Stack Overflow](https://stackoverflow.com/questions/12812441/how-do-i-use-woff-fonts-for-my-website)  
+        * HTML Validators  
+          * [The W3C Markup Validation Service](http://validator.w3.org/)  
+          * [Validator.nu](http://validator.nu/)  
         * [Free Online HTML Escape / Unescape Tool - FreeFormatter.com](https://www.freeformatter.com/html-escape.html)  
-        * [The W3C Markup Validation Service](http://validator.w3.org/)  
-        * [Validator.nu](http://validator.nu/)  
       * [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)  
     * Testing  
-      * [Internet Speed Test | Fast.com](https://fast.com/)  
       * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
+    * [ddmitov/mneme: Bulgarian history online quiz](https://github.com/ddmitov/mneme)  
 
 Created using [Bookmark Extractor](https://github.com/ddmitov/bookmark-extractor)
 
