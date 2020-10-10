@@ -152,6 +152,8 @@
           * [MySQL :: MySQL 8.0 Reference Manual :: 13.2.11.8 Derived Tables](https://dev.mysql.com/doc/refman/8.0/en/derived-tables.html)  
           * [MySQL :: MySQL 8.0 Reference Manual :: 13.3.1 START TRANSACTION, COMMIT, and ROLLBACK Syntax](https://dev.mysql.com/doc/refman/8.0/en/commit.html)  
           * [MySQL :: MySQL 8.0 Reference Manual :: 13.7.7.10 SHOW CREATE TABLE Statement](https://dev.mysql.com/doc/refman/8.0/en/show-create-table.html)  
+          * [MySQL :: MySQL 8.0 Reference Manual :: 13.7.7.5 SHOW COLUMNS Statement](https://dev.mysql.com/doc/refman/8.0/en/show-columns.html)  
+          * [MySQL :: MySQL 8.0 Reference Manual :: 13.7.7.9 SHOW CREATE PROCEDURE Statement](https://dev.mysql.com/doc/refman/8.0/en/show-create-procedure.html)  
           * [MySQL :: MySQL 8.0 Reference Manual :: 4.2.4 Connecting to the MySQL Server Using Command Options](https://dev.mysql.com/doc/refman/8.0/en/connecting.html)  
           * [MySQL :: MySQL 8.0 Reference Manual :: 6.2.2 Privileges Provided by MySQL](https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html)  
           * [MySQL :: MySQL 8.0 Reference Manual :: 9.1.1 String Literals](https://dev.mysql.com/doc/refman/8.0/en/string-literals.html)  
@@ -161,6 +163,7 @@
           * [Extract value without quotation mark from MySQL JSON data type - Stack Overflow](https://stackoverflow.com/questions/36933742/extract-value-without-quotation-mark-from-mysql-json-data-type)  
           * [Find and replace in entire mysql database - Stack Overflow](https://stackoverflow.com/questions/4822638/find-and-replace-in-entire-mysql-database)  
           * [Finding duplicate values in MySQL - Stack Overflow](https://stackoverflow.com/questions/688549/finding-duplicate-values-in-mysql)  
+          * [How can I make SQL case sensitive string comparison on MySQL? - Stack Overflow](https://stackoverflow.com/questions/5629111/how-can-i-make-sql-case-sensitive-string-comparison-on-mysql)  
           * [How do I escape special characters in MySQL? - Stack Overflow](https://stackoverflow.com/questions/881194/how-do-i-escape-special-characters-in-mysql)  
           * [How to get a list of MySQL views? - Stack Overflow](https://stackoverflow.com/questions/2834016/how-to-get-a-list-of-mysql-views)  
           * [how to use rowcount in mysql using python - Stack Overflow](https://stackoverflow.com/questions/44962932/how-to-use-rowcount-in-mysql-using-python)  
@@ -170,6 +173,7 @@
           * [mysql - INSERT with SELECT - Stack Overflow](https://stackoverflow.com/questions/5391344/insert-with-select)  
           * [mysql - Select records from NOW() -1 Day - Stack Overflow](https://stackoverflow.com/questions/8544438/select-records-from-now-1-day)  
           * [MySQL error code: 1175 during UPDATE in MySQL Workbench - Stack Overflow](https://stackoverflow.com/questions/11448068/mysql-error-code-1175-during-update-in-mysql-workbench/33432031)  
+          * [MySQL select fields in one table that are not in another table - Stack Overflow](https://stackoverflow.com/questions/8153557/mysql-select-fields-in-one-table-that-are-not-in-another-table)  
           * [MySQL show status - active or total connections? - Stack Overflow](https://stackoverflow.com/questions/7432241/mysql-show-status-active-or-total-connections)  
           * [MySQL string replace - Stack Overflow](https://stackoverflow.com/questions/5956993/mysql-string-replace)  
           * [MySQL: Enable LOAD DATA LOCAL INFILE - Stack Overflow](https://stackoverflow.com/questions/10762239/mysql-enable-load-data-local-infile)  
@@ -447,7 +451,6 @@
     * Visual Studio Code  
       * Extensions  
         * [Markdown Preview Enhanced - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)  
-        * [MySQL Syntax - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=jakebathman.mysql-syntax)  
         * [Python - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-python.python)  
         * [Rainbow CSV - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)  
         * [vscode-base64 - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=adamhartford.vscode-base64)  
@@ -803,7 +806,7 @@
           * [jQuery: The Write Less, Do More, JavaScript Library](https://jquery.com/)  
         * [Ace - The High Performance Code Editor for the Web](http://ace.c9.io/)  
         * [alertify.js - browser dialogs never looked so good](http://fabien-d.github.io/alertify.js/)  
-        * [Hosted Libraries  |  Hosted Libraries  |  Google Developers](https://developers.google.com/speed/libraries/)  
+        * [jExcel - the javascript spreadsheet](https://bossanova.uk/jexcel/v4/)  
         * [michmech/xonomy: A schema-driven XML editor for the web.](https://github.com/michmech/xonomy)  
       * Node.js  
         * Node.js How To  
@@ -1183,6 +1186,7 @@
           * [How-To — Matplotlib 3.1.1 documentation](https://matplotlib.org/faq/howto_faq.html)  
           * [Multiple Figs Demo — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/gallery/subplots_axes_and_figures/multiple_figs_demo.html)  
         * pandas.pydata.org  
+          * [How do I select a subset of a DataFrame?](https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html)  
           * [pandas.concat](https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.concat.html)  
           * [pandas.DataFrame.astype](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.astype.html)  
           * [pandas.DataFrame.combine_first](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.combine_first.html)  
@@ -1290,11 +1294,13 @@
           * [pandas drops index index on merge in Python? - Stack Overflow](https://stackoverflow.com/questions/15661455/pandas-drops-index-index-on-merge-in-python)  
           * [Parse JSON in Python - Stack Overflow](https://stackoverflow.com/questions/7771011/parse-json-in-python)  
           * [pip - How to use requirements.txt to install all dependencies in a python project - Stack Overflow](https://stackoverflow.com/questions/41457612/how-to-use-requirements-txt-to-install-all-dependencies-in-a-python-project)  
+          * [Pretty-Print JSON Data to a File using Python - Stack Overflow](https://stackoverflow.com/questions/9170288/pretty-print-json-data-to-a-file-using-python)  
           * [printing - How to print to stderr in Python? - Stack Overflow](https://stackoverflow.com/questions/5574702/how-to-print-to-stderr-in-python)  
           * [python - Adding a background color to Cell OpenPyXL - Stack Overflow](https://stackoverflow.com/questions/35918504/adding-a-background-color-to-cell-openpyxl)  
           * [python - adding hyperlinks in some cells openpyxl - Stack Overflow](https://stackoverflow.com/questions/39077661/adding-hyperlinks-in-some-cells-openpyxl)  
           * [python - Apply 'wrap_text' to all cells using openpyxl - Stack Overflow](https://stackoverflow.com/questions/42215933/apply-wrap-text-to-all-cells-using-openpyxl/52494457)  
           * [python - Applying borders to a cell in OpenPyxl - Stack Overflow](https://stackoverflow.com/questions/24917201/applying-borders-to-a-cell-in-openpyxl)  
+          * [Python - Automatically adjust width of an excel file's columns - Stack Overflow](https://stackoverflow.com/questions/39529662/python-automatically-adjust-width-of-an-excel-files-columns)  
           * [python - Can't compare naive and aware datetime.now() <= challenge.datetime_end - Stack Overflow](https://stackoverflow.com/questions/15307623/cant-compare-naive-and-aware-datetime-now-challenge-datetime-end)  
           * [python - Can't use matplotlib.use('Agg'), graphs always show on the screen - Stack Overflow](https://stackoverflow.com/questions/44086597/cant-use-matplotlib-useagg-graphs-always-show-on-the-screen)  
           * [python - Change data type of columns in Pandas - Stack Overflow](https://stackoverflow.com/questions/15891038/change-data-type-of-columns-in-pandas)  
@@ -1353,6 +1359,7 @@
           * [python - how to sort pandas dataframe from one column - Stack Overflow](https://stackoverflow.com/questions/37787698/how-to-sort-pandas-dataframe-from-one-column)  
           * [python - How to store mySQL query result into pandas DataFrame with pymysql? - Stack Overflow](https://stackoverflow.com/questions/47328402/how-to-store-mysql-query-result-into-pandas-dataframe-with-pymysql)  
           * [python - How to update/upgrade a package using pip? - Stack Overflow](https://stackoverflow.com/questions/47071256/how-to-update-upgrade-a-package-using-pip)  
+          * [python - Hyperlink style in Openpyxl - Stack Overflow](https://stackoverflow.com/questions/32802296/hyperlink-style-in-openpyxl)  
           * [python - Identifying cell in Openpyxl - Stack Overflow](https://stackoverflow.com/questions/30992146/identifying-cell-in-openpyxl)  
           * [python - If list index exists, do X - Stack Overflow](https://stackoverflow.com/questions/11786157/if-list-index-exists-do-x)  
           * [python - Installing pip packages to $HOME folder - Stack Overflow](https://stackoverflow.com/questions/7143077/installing-pip-packages-to-home-folder)  
@@ -1385,9 +1392,11 @@
           * [python - Repeat a string n times and print n lines of it - Stack Overflow](https://stackoverflow.com/questions/40008279/repeat-a-string-n-times-and-print-n-lines-of-it/40008504)  
           * [python - return string with first match Regex - Stack Overflow](https://stackoverflow.com/questions/38579725/return-string-with-first-match-regex)  
           * [python - Round number to nearest integer - Stack Overflow](https://stackoverflow.com/questions/31818050/round-number-to-nearest-integer)  
+          * [python - Saving utf-8 texts in json.dumps as UTF8, not as \u escape sequence - Stack Overflow](https://stackoverflow.com/questions/18337407/saving-utf-8-texts-in-json-dumps-as-utf8-not-as-u-escape-sequence)  
           * [python - Search for "does-not-contain" on a DataFrame in pandas - Stack Overflow](https://stackoverflow.com/questions/17097643/search-for-does-not-contain-on-a-dataframe-in-pandas)  
           * [python - Set order of columns in pandas dataframe - Stack Overflow](https://stackoverflow.com/questions/41968732/set-order-of-columns-in-pandas-dataframe)  
           * [python - Set value for particular cell in pandas DataFrame using index - Stack Overflow](https://stackoverflow.com/questions/13842088/set-value-for-particular-cell-in-pandas-dataframe-using-index)  
+          * [python - Setting proxy to urllib.request (Python3) - Stack Overflow](https://stackoverflow.com/questions/34576665/setting-proxy-to-urllib-request-python3)  
           * [python - Show 2 plots at same time instead of one after another in matplotlib - Stack Overflow](https://stackoverflow.com/questions/42595052/show-2-plots-at-same-time-instead-of-one-after-another-in-matplotlib)  
           * [python - Splitting on first occurrence - Stack Overflow](https://stackoverflow.com/questions/6903557/splitting-on-first-occurrence)  
           * [python - Turtle graphics - How do I control when the window closes? - Stack Overflow](https://stackoverflow.com/questions/6234798/turtle-graphics-how-do-i-control-when-the-window-closes)  
@@ -1406,8 +1415,8 @@
           * [python 3.x - How to use Tor with Chrome browser through Selenium - Stack Overflow](https://stackoverflow.com/questions/55689701/how-to-use-tor-with-chrome-browser-through-selenium)  
           * [python 3.x - Python3 Asyncio call from Flask route - Stack Overflow](https://stackoverflow.com/questions/47841985/python3-asyncio-call-from-flask-route)  
           * [python dataframe pandas drop column using int - Stack Overflow](https://stackoverflow.com/questions/20297317/python-dataframe-pandas-drop-column-using-int)  
-          * [python date of the previous month - Stack Overflow](https://stackoverflow.com/questions/9724906/python-date-of-the-previous-month/18498964)  
           * [python date of the previous month - Stack Overflow](https://stackoverflow.com/questions/9724906/python-date-of-the-previous-month)  
+          * [python date of the previous month - Stack Overflow](https://stackoverflow.com/questions/9724906/python-date-of-the-previous-month/18498964)  
           * [Python File Slurp - Stack Overflow](https://stackoverflow.com/questions/1631897/python-file-slurp)  
           * [python get timezone value from datetime object - Stack Overflow](https://stackoverflow.com/questions/47443605/python-get-timezone-value-from-datetime-object)  
           * [Python Join a list of integers - Stack Overflow](https://stackoverflow.com/questions/11139330/python-join-a-list-of-integers/11139368)  
@@ -1475,6 +1484,7 @@
           * [How to get a value from a cell of a DataFrame? - PythonProgramming.in](https://www.pythonprogramming.in/how-to-get-a-value-from-a-cell-of-a-dataframe.html)  
           * [Iterate over rows and columns in Pandas DataFrame - PythonProgramming.in](https://www.pythonprogramming.in/iterate-over-rows-and-columns-pandas-dataframe.html)  
         * www.tutorialspoint.com  
+          * [How can I create a directory if it does not exist using Python?](https://www.tutorialspoint.com/How-can-I-create-a-directory-if-it-does-not-exist-using-Python)  
           * [How to convert date and time with different timezones in Python?](https://www.tutorialspoint.com/How-to-convert-date-and-time-with-different-timezones-in-Python)  
           * [Python File flush() Method - Tutorialspoint](https://www.tutorialspoint.com/python/file_flush.htm)  
           * [Python Tuple len() Method - Tutorialspoint](https://www.tutorialspoint.com/python/tuple_len.htm)  
@@ -1575,7 +1585,9 @@
     * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)  
   * Software Documentation  
     * Confluence How To  
-      * [List all pages in a space](https://community.atlassian.com/t5/Confluence-questions/List-all-pages-in-a-space-showing-titles-of-page-and-IDs/qaq-p/855277)  
+      * community.atlassian.com  
+        * [Solved: confluence pages - get attached files via REST API...](https://community.atlassian.com/t5/Answers-Developer-Questions/confluence-pages-get-attached-files-via-REST-API/qaq-p/529873)  
+        * [List all pages in a space](https://community.atlassian.com/t5/Confluence-questions/List-all-pages-in-a-space-showing-titles-of-page-and-IDs/qaq-p/855277)  
       * [The Confluence Cloud REST API](https://developer.atlassian.com/cloud/confluence/rest/intro/)  
     * Markdown  
       * [License Badges for your Project](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)  
