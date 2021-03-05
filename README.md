@@ -49,14 +49,24 @@
             * [list-rules — AWS CLI 1.17.3 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-rules.html)  
             * [list-tags — AWS CLI 1.17.6 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-tags.html)  
             * [list-targets-by-rule — AWS CLI 1.17.3 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-targets-by-rule.html)  
+          * Lambda  
+            * [AWS Lambda function handler in Python - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html)  
+            * [Using AWS Lambda with Amazon API Gateway - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway.html)  
           * RDS  
             * [Allow users to connect to Amazon RDS with IAM credentials](https://aws.amazon.com/premiumsupport/knowledge-center/users-connect-rds-iam/)  
+            * [IAM database authentication for MySQL and PostgreSQL - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.html)  
             * [Using SSL/TLS to Encrypt a Connection to a DB Instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html)  
+          * S3  
+            * S3 Select  
+              * [Querying data without servers or databases using Amazon S3 Select | AWS Storage Blog](https://aws.amazon.com/blogs/storage/querying-data-without-servers-or-databases-using-amazon-s3-select/)  
+              * [Selecting content from objects - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/dev/selecting-content-from-objects.html)  
+              * [SQL reference for Amazon S3 Select and S3 Glacier Select - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-glacier-select-sql-reference.html)  
+            * [Understand S3 Object Key Naming Patterns for High Request Rates](https://aws.amazon.com/premiumsupport/knowledge-center/s3-object-key-naming-pattern/)  
           * [AWS Account Identifiers - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/acct-identifiers.html)  
           * [AWS service endpoints - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/rande.html)  
         * [amazon web services - how to get a existent aws lambda source code using aws cli - Stack Overflow](https://stackoverflow.com/questions/53951208/how-to-get-a-existent-aws-lambda-source-code-using-aws-cli)  
         * [checkip.amazonaws.com](http://checkip.amazonaws.com/)  
-        * [Connecting to RDS using IAM user - Francisco Edilton - Medium](https://medium.com/@franciscoed/connecting-to-rds-using-iam-user-86de4401086e)  
+        * [gregwhitaker/s3-select-example: Example of querying a CSV file in AmazonS3 using S3 Select](https://github.com/gregwhitaker/s3-select-example)  
     * Heroku  
       * [How to create a named app in heroku | The Agile Warrior](https://agilewarrior.wordpress.com/2014/05/16/how-to-create-a-named-app-in-heroku/)  
       * [judofyr/perloku: Perl on Heroku](https://github.com/judofyr/perloku)  
@@ -161,6 +171,9 @@
         * [MongoDB - Query a Collection](https://www.quackit.com/mongodb/tutorial/mongodb_query_a_collection.cfm)  
     * MySQL  
       * MySQL How To  
+        * dataedo.com  
+          * [List all indexes in MySQL database - MySQL Data Dictionary Queries](https://dataedo.com/kb/query/mysql/list-all-indexes-in-the-database)  
+          * [List sessions / active connections on MySQL server - MySQL Data Dictionary Queries](https://dataedo.com/kb/query/mysql/list-database-sessions)  
         * dba.stackexchange.com  
           * [Difference between show status and show global status in mysql - Database Administrators Stack Exchange](https://dba.stackexchange.com/questions/54337/difference-between-show-status-and-show-global-status-in-mysql)  
           * [Enabling LOAD DATA LOCAL INFILE in mysql - Database Administrators Stack Exchange](https://dba.stackexchange.com/questions/48751/enabling-load-data-local-infile-in-mysql)  
@@ -259,8 +272,6 @@
         * [How to Filter for SQL Null or Empty String - SQL Training Online](http://www.sqltrainingonline.com/how-to-filter-for-sql-null-or-empty-string/)  
         * [How to INSERT If Row Does Not Exist (UPSERT) in MySQL | Tutorial by Chartio](https://chartio.com/resources/tutorials/how-to-insert-if-row-does-not-exist-upsert-in-mysql/)  
         * [How to Test Foreign Key Constraints in Your Database - TestProject](https://blog.testproject.io/2017/06/19/test-foreign-key-constraints-database/)  
-        * [List all indexes in MySQL database - MySQL Data Dictionary Queries](https://dataedo.com/kb/query/mysql/list-all-indexes-in-the-database)  
-        * [List sessions / active connections on MySQL server - MySQL Data Dictionary Queries](https://dataedo.com/kb/query/mysql/list-database-sessions)  
         * [MySQL - DELETE Query - Tutorialspoint](https://www.tutorialspoint.com/mysql/mysql-delete-query.htm)  
         * [MySQL - How to see the foreign key relationships of a table? | TablePlus](https://tableplus.com/blog/2018/08/mysql-how-to-see-foreign-key-relationship-of-a-table.html)  
         * [MySQL Format Date | date_format Tool](http://www.mysqlformatdate.com/)  
@@ -268,6 +279,7 @@
         * [Overview of the SQL REPLACE function](https://www.sqlshack.com/overview-of-the-sql-replace-function/)  
         * [SQL Notes for Professionals](https://books.goalkicker.com/SQLBook/)  
         * [SQL style guide by Simon Holywell](https://www.sqlstyle.guide/)  
+        * [The Materialized Path Technique: Tree Structures for Relational Database Systems - DZone Database](https://dzone.com/articles/materialized-paths-tree-structures-relational-database)  
         * [What are SQL Joins? Types of SQL joins explained - DEV](https://dev.to/educative/what-are-sql-joins-types-of-sql-joins-explained-5ci5)  
     * Redis  
       * Redis How To  
@@ -469,6 +481,7 @@
           * [How To Use Linux Screen | Linuxize](https://linuxize.com/post/how-to-use-linux-screen/)  
           * [Linux Chown Command | Linuxize](https://linuxize.com/post/linux-chown-command/)  
         * nixCraft  
+          * [How To Add Jobs To cron Under Linux or UNIX - nixCraft](https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/)  
           * [How to check if port is in use on Linux or Unix - nixCraft](https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/)  
           * [How to find a folder in Linux using the command line - nixCraft](https://www.cyberciti.biz/faq/how-to-find-a-folder-in-linux-using-the-command-line/)  
           * [Linux Find Out My Machine Name/Hostname - nixCraft](https://www.cyberciti.biz/faq/find-my-linux-machine-name/)  
@@ -1270,9 +1283,6 @@
           * [Customizing Matplotlib with style sheets and rcParams — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/tutorials/introductory/customizing.html)  
           * [How-To — Matplotlib 3.1.1 documentation](https://matplotlib.org/faq/howto_faq.html)  
           * [Multiple Figs Demo — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/gallery/subplots_axes_and_figures/multiple_figs_demo.html)  
-        * medium.com  
-          * [Common Excel formulas in Python by Rohit Raj | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/common-excel-formulas-in-python-c5a7ce0ae07a)  
-          * [How to rewrite your SQL queries in Pandas, and more](https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e)  
         * pandas.pydata.org  
           * [Comparison with SQL](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sql.html)  
           * [How do I select a subset of a DataFrame?](https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html)  
@@ -1308,6 +1318,7 @@
           * [Common Excel Tasks Demonstrated in Pandas - Part 2 - Practical Business Python](https://pbpython.com/excel-pandas-comp-2.html)  
           * [Common Excel Tasks Demonstrated in Pandas - Practical Business Python](https://pbpython.com/excel-pandas-comp.html)  
           * [Comprehensive Guide to Grouping and Aggregating with Pandas - Practical Business Python](https://pbpython.com/groupby-agg.html)  
+          * [Improving Pandas Excel Output - Practical Business Python](https://pbpython.com/improve-pandas-excel-output.html)  
         * pip.pypa.io  
           * [pip list](https://pip.pypa.io/en/stable/reference/pip_list/)  
           * [pip uninstall](https://pip.pypa.io/en/stable/reference/pip_uninstall/)  
@@ -1514,6 +1525,7 @@
           * [python - Replicating GROUP_CONCAT for pandas.DataFrame - Stack Overflow](https://stackoverflow.com/questions/18138693/replicating-group-concat-for-pandas-dataframe)  
           * [python - return string with first match Regex - Stack Overflow](https://stackoverflow.com/questions/38579725/return-string-with-first-match-regex)  
           * [python - Round number to nearest integer - Stack Overflow](https://stackoverflow.com/questions/31818050/round-number-to-nearest-integer)  
+          * [python - Running Jupyter via command line on Windows - Stack Overflow](https://stackoverflow.com/questions/41034866/running-jupyter-via-command-line-on-windows)  
           * [python - Saving utf-8 texts in json.dumps as UTF8, not as \u escape sequence - Stack Overflow](https://stackoverflow.com/questions/18337407/saving-utf-8-texts-in-json-dumps-as-utf8-not-as-u-escape-sequence)  
           * [python - Search for "does-not-contain" on a DataFrame in pandas - Stack Overflow](https://stackoverflow.com/questions/17097643/search-for-does-not-contain-on-a-dataframe-in-pandas)  
           * [python - Select by partial string from a pandas DataFrame - Stack Overflow](https://stackoverflow.com/questions/11350770/select-by-partial-string-from-a-pandas-dataframe)  
@@ -1548,6 +1560,7 @@
           * [python get timezone value from datetime object - Stack Overflow](https://stackoverflow.com/questions/47443605/python-get-timezone-value-from-datetime-object)  
           * [Python Join a list of integers - Stack Overflow](https://stackoverflow.com/questions/11139330/python-join-a-list-of-integers/11139368)  
           * [Python Pandas Conditional Sum with Groupby - Stack Overflow](https://stackoverflow.com/questions/17266129/python-pandas-conditional-sum-with-groupby)  
+          * [Python pandas unique value ignoring NaN - Stack Overflow](https://stackoverflow.com/questions/46218652/python-pandas-unique-value-ignoring-nan/46218844)  
           * [Python replace and overwrite instead of appending - Stack Overflow](https://stackoverflow.com/questions/11469228/python-replace-and-overwrite-instead-of-appending/11469328)  
           * [python theading.Timer: how to pass argument to the callback? - Stack Overflow](https://stackoverflow.com/questions/4415672/python-theading-timer-how-to-pass-argument-to-the-callback)  
           * [Python truncate a long string - Stack Overflow](https://stackoverflow.com/questions/2872512/python-truncate-a-long-string)  
@@ -1701,23 +1714,24 @@
         * pypi.org  
           * [pykeepass · PyPI](https://pypi.org/project/pykeepass/)  
           * [pymsteams · PyPI](https://pypi.org/project/pymsteams/)  
+          * [redis · PyPI](https://pypi.org/project/redis/)  
           * [unicodecsv · PyPI](https://pypi.org/project/unicodecsv/)  
         * readthedocs.io  
-          * openpyxl  
-            * [openpyxl](https://openpyxl.readthedocs.io/en/stable/)  
-            * [Working with styles — openpyxl 3.0.5 documentation](https://openpyxl.readthedocs.io/en/stable/styles.html)  
           * [Confluence](https://atlassian-python-api.readthedocs.io/confluence.html)  
           * [JIRA](https://jira.readthedocs.io/en/master/)  
+          * [JupyterLab](https://jupyterlab.readthedocs.io/)  
+          * [openpyxl](https://openpyxl.readthedocs.io/en/stable/)  
           * [PyMySQL’](https://pymysql.readthedocs.io/en/latest/)  
           * [Requests](https://requests.readthedocs.io/en/master/)  
           * [Selenium](https://selenium-python.readthedocs.io/)  
           * [Subprocess](https://asyncio.readthedocs.io/en/latest/subprocess.html)  
           * [websockets](https://websockets.readthedocs.io/en/stable/)  
-          * [XlsxWriter](https://xlsxwriter.readthedocs.io/contents.html)  
+          * [XlsxWriter](https://xlsxwriter.readthedocs.io/)  
         * [noplay/python-mysql-replication: Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL](https://github.com/noplay/python-mysql-replication)  
         * [Python Extension Packages for Windows - Christoph Gohlke](https://www.lfd.uci.edu/~gohlke/pythonlibs/)  
         * [Python Wheels](https://pythonwheels.com/)  
       * [CoCalc](https://cocalc.com/projects?session=default)  
+      * [Project Jupyter | Try Jupyter](https://jupyter.org/try)  
       * [Python.org](https://www.python.org/)  
       * [Spyder Website](https://www.spyder-ide.org/)  
     * R  
