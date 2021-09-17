@@ -3,6 +3,12 @@
     * [7-Zip](https://www.7-zip.org/)  
     * [IZArc - Free Zip/Unzip Files Utility](https://www.izarc.org/)  
     * [PeaZip free archiver utility, open extract RAR TAR ZIP files](http://www.peazip.org/)  
+  * Authentication  
+    * Auth0  
+      * [Auth0: Secure access for everyone. But not just anyone.](https://auth0.com/)  
+      * [Auth0 Regular Web App Quickstarts](https://auth0.com/docs/quickstart/webapp)  
+      * [Auth0 Python SDK Quickstarts: Login](https://auth0.com/docs/quickstart/webapp/python)  
+    * [Authy | Two-factor Authentication (2FA) App & Guides](https://authy.com/)  
   * Bootloaders  
     * [GNU GRUB - Wikipedia](https://en.wikipedia.org/wiki/GNU_GRUB)  
     * [SYSLINUX - Wikipedia](https://en.wikipedia.org/wiki/SYSLINUX)  
@@ -34,51 +40,70 @@
         * [OAuth for REST APIs](https://developer.atlassian.com/cloud/jira/platform/jira-rest-api-oauth-authentication/)  
       * [Advanced search reference - JQL fields | Jira Software Cloud | Atlassian Support](https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-fields/)  
       * [JQL: The most flexible way to search Jira](https://www.atlassian.com/blog/jira-software/jql-the-most-flexible-way-to-search-jira-14)  
+    * [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)  
   * Cloud Computing  
-    * Amazon Web Services  
-      * Amazon Web Services How To  
-        * aws.amazon.com  
-          * CLI  
-            * [AWS Command Line Interface](https://aws.amazon.com/cli/)  
-            * [Configuring the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)  
-            * [describe-rule — AWS CLI 1.17.7 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/describe-rule.html)  
-            * [get-function — AWS CLI 1.17.7 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-function.html)  
-            * [Install the AWS CLI version 1 on Windows - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/install-windows.html)  
-            * [lambda — AWS CLI 1.17.6 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/index.html#cli-aws-lambda)  
-            * [list-functions — AWS CLI 1.17.3 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-functions.html)  
-            * [list-rules — AWS CLI 1.17.3 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-rules.html)  
-            * [list-tags — AWS CLI 1.17.6 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-tags.html)  
-            * [list-targets-by-rule — AWS CLI 1.17.3 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-targets-by-rule.html)  
-          * Lambda  
-            * [AWS Lambda function handler in Python - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html)  
-            * [Using AWS Lambda with Amazon API Gateway - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway.html)  
-          * RDS  
-            * [Allow users to connect to Amazon RDS with IAM credentials](https://aws.amazon.com/premiumsupport/knowledge-center/users-connect-rds-iam/)  
-            * [Enable Binary Logging for Amazon Aurora Instances Running MySQL](https://aws.amazon.com/premiumsupport/knowledge-center/enable-binary-logging-aurora/)  
-            * [IAM database authentication for MySQL and PostgreSQL - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.html)  
-            * [MySQL database log files - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_LogAccess.Concepts.MySQL.html#USER_LogAccess.MySQL.BinaryFormat)  
-            * [Replication between Aurora and MySQL or between Aurora and another Aurora DB cluster (binary log replication) - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.MySQL.html)  
-            * [Using SSL/TLS to Encrypt a Connection to a DB Instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html)  
-          * S3  
-            * S3 Select  
-              * [Querying data without servers or databases using Amazon S3 Select | AWS Storage Blog](https://aws.amazon.com/blogs/storage/querying-data-without-servers-or-databases-using-amazon-s3-select/)  
-              * [S3 Select and Glacier Select – Retrieving Subsets of Objects | AWS News Blog](https://aws.amazon.com/blogs/aws/s3-glacier-select/)  
-              * [Selecting content from objects - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/dev/selecting-content-from-objects.html)  
-              * [SQL reference for Amazon S3 Select and S3 Glacier Select - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-glacier-select-sql-reference.html)  
-            * [Understand S3 Object Key Naming Patterns for High Request Rates](https://aws.amazon.com/premiumsupport/knowledge-center/s3-object-key-naming-pattern/)  
-          * [AWS Account Identifiers - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/acct-identifiers.html)  
-          * [AWS service endpoints - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/rande.html)  
-        * [amazon web services - how to get a existent aws lambda source code using aws cli - Stack Overflow](https://stackoverflow.com/questions/53951208/how-to-get-a-existent-aws-lambda-source-code-using-aws-cli)  
-        * [checkip.amazonaws.com](http://checkip.amazonaws.com/)  
-        * [gregwhitaker/s3-select-example: Example of querying a CSV file in AmazonS3 using S3 Select](https://github.com/gregwhitaker/s3-select-example)  
-    * Heroku  
-      * [How to create a named app in heroku | The Agile Warrior](https://agilewarrior.wordpress.com/2014/05/16/how-to-create-a-named-app-in-heroku/)  
-      * [judofyr/perloku: Perl on Heroku](https://github.com/judofyr/perloku)  
-      * [pussinboots/heroku-badge: Simple heroku badge.](https://github.com/pussinboots/heroku-badge)  
+    * Cloud Platforms  
+      * Amazon Web Services  
+        * Amazon Web Services How To  
+          * aws.amazon.com  
+            * CLI  
+              * [AWS Command Line Interface](https://aws.amazon.com/cli/)  
+              * [Configuring the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)  
+              * [describe-rule — AWS CLI 1.17.7 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/describe-rule.html)  
+              * [get-function — AWS CLI 1.17.7 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-function.html)  
+              * [Install the AWS CLI version 1 on Windows - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/install-windows.html)  
+              * [lambda — AWS CLI 1.17.6 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/index.html#cli-aws-lambda)  
+              * [list-functions — AWS CLI 1.17.3 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-functions.html)  
+              * [list-rules — AWS CLI 1.17.3 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-rules.html)  
+              * [list-tags — AWS CLI 1.17.6 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-tags.html)  
+              * [list-targets-by-rule — AWS CLI 1.17.3 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-targets-by-rule.html)  
+            * Lambda  
+              * [AWS Lambda function handler in Python - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html)  
+              * [Using AWS Lambda with Amazon API Gateway - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway.html)  
+            * RDS  
+              * [Allow users to connect to Amazon RDS with IAM credentials](https://aws.amazon.com/premiumsupport/knowledge-center/users-connect-rds-iam/)  
+              * [Enable Binary Logging for Amazon Aurora Instances Running MySQL](https://aws.amazon.com/premiumsupport/knowledge-center/enable-binary-logging-aurora/)  
+              * [IAM database authentication for MySQL and PostgreSQL - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.html)  
+              * [MySQL database log files - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_LogAccess.Concepts.MySQL.html#USER_LogAccess.MySQL.BinaryFormat)  
+              * [Replication between Aurora and MySQL or between Aurora and another Aurora DB cluster (binary log replication) - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.MySQL.html)  
+              * [Using SSL/TLS to Encrypt a Connection to a DB Instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html)  
+            * S3  
+              * S3 Select  
+                * [Querying data without servers or databases using Amazon S3 Select | AWS Storage Blog](https://aws.amazon.com/blogs/storage/querying-data-without-servers-or-databases-using-amazon-s3-select/)  
+                * [Selecting content from objects - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/dev/selecting-content-from-objects.html)  
+              * [Understand S3 Object Key Naming Patterns for High Request Rates](https://aws.amazon.com/premiumsupport/knowledge-center/s3-object-key-naming-pattern/)  
+            * [AWS Account Identifiers - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/acct-identifiers.html)  
+            * [AWS service endpoints - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/rande.html)  
+            * [Amazon EC2 Instance Types](https://www.amazonaws.cn/en/ec2/instance-types/)  
+          * [AWS Pricing Calculator](https://calculator.aws/)  
+          * [checkip.amazonaws.com](http://checkip.amazonaws.com/)  
+          * [Is it on AWS?](https://isitonaws.com/)  
+        * [Cloud Services - Amazon Web Services (AWS)](https://aws.amazon.com/)  
+      * Fly  
+        * Fly How To  
+          * [App Configuration (fly.toml) · Fly](https://fly.io/docs/reference/configuration/)  
+          * [Introducing Flyctl - The Fly CLI · Fly](https://fly.io/docs/flyctl/)  
+          * [Build, Deploy And Run A Python Application · Fly](https://fly.io/docs/getting-started/python/)  
+        * [Fly](https://fly.io/)  
+        * [Fly.io Status](https://status.flyio.net/)  
+      * Heroku  
+        * Heroku How To  
+          * [How to create a named app in heroku | The Agile Warrior](https://agilewarrior.wordpress.com/2014/05/16/how-to-create-a-named-app-in-heroku/)  
+          * [judofyr/perloku: Perl on Heroku](https://github.com/judofyr/perloku)  
+        * [Cloud Application Platform | Heroku](https://www.heroku.com/)  
+    * Cloud Storage  
+      * rclone  
+        * rclone how to  
+          * rclone.org  
+            * [Microsoft OneDrive](https://rclone.org/onedrive/)  
+            * [OneDrive Size/Hash differs - Help and Support - rclone forum](https://forum.rclone.org/t/onedrive-size-hash-differs/11869/4)  
+            * [Rclone config different path - Help and Support - rclone forum](https://forum.rclone.org/t/rclone-config-different-path/4672/6)  
+            * [rclone config file](https://rclone.org/commands/rclone_config_file/)  
+            * [rclone link](https://rclone.org/commands/rclone_link/)  
+            * [Remote Setup](https://rclone.org/remote_setup/)  
+          * [Transferring files to OneDrive for Business via rclone - Academic Computing Team](https://research.reading.ac.uk/act/knowledgebase/rclone-sync/)  
+        * [rclone - rsync for cloud storage](https://rclone.org/)  
     * [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)  
-    * [rclone - rsync for cloud storage](https://rclone.org/)  
-  * Concepts  
-    * [PrinciplesDotDev/principles: A list of principles used in software development](https://github.com/PrinciplesDotDev/principles)  
   * Containers  
     * Docker  
       * Docker How To  
@@ -88,21 +113,19 @@
           * [docker image rm | Docker Documentation](https://docs.docker.com/engine/reference/commandline/image_rm/)  
           * [docker images | Docker Documentation](https://docs.docker.com/engine/reference/commandline/images/)  
           * [docker stats | Docker Documentation](https://docs.docker.com/engine/reference/commandline/stats/)  
+          * [Get started with Docker Compose | Docker Documentation](https://docs.docker.com/compose/gettingstarted/)  
           * [Runtime metrics | Docker Documentation](https://docs.docker.com/config/containers/runmetrics/)  
         * [Docker: Remove all images and containers – TechOverflow](https://techoverflow.net/2013/10/22/docker-remove-all-images-and-containers/)  
         * [Exiting a Docker Container · vsupalov.com](https://vsupalov.com/exit-docker-container/)  
         * [How To Remove Docker Containers, Images, Volumes, and Networks | Linuxize](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/)  
         * [Stopping Docker containers by image name - Ubuntu - Stack Overflow](https://stackoverflow.com/questions/32073971/stopping-docker-containers-by-image-name-ubuntu)  
       * [aptible/supercronic: Cron for containers](https://github.com/aptible/supercronic)  
-    * Kubernetes  
-      * Kubernetes How To  
-        * [bambash/kube-cron-example: A collection of ways to schedule jobs in Kubernetes](https://github.com/bambash/kube-cron-example)  
-        * [Running Automated Tasks with a CronJob - Kubernetes](https://kubernetes.io/docs/tasks/job/automated-tasks-with-cron-jobs/)  
-      * [MicroK8s - Fast, Light, Upstream Developer Kubernetes](https://microk8s.io/)  
+    * [MicroK8s - Fast, Light, Upstream Developer Kubernetes](https://microk8s.io/)  
   * Continuous Integration  
     * [Customizing the Build - Travis CI](https://docs.travis-ci.com/user/customizing-the-build)  
     * [How do I get Travis' build working directory in .travis.yml? - Stack Overflow](https://stackoverflow.com/questions/14006810/how-do-i-get-travis-build-working-directory-in-travis-yml)  
   * Data Analytics  
+    * [Apache Superset](https://superset.apache.org/)  
     * [OLAP cube - Wikipedia](https://en.wikipedia.org/wiki/OLAP_cube)  
     * [The Rise and Fall of the OLAP Cube](https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/)  
     * [What is OLAP? Cube, Operations & Types in Data Warehouse](https://www.guru99.com/online-analytical-processing.html)  
@@ -133,9 +156,12 @@
           * [xml - XPath with multiple conditions - Stack Overflow](https://stackoverflow.com/questions/10247978/xpath-with-multiple-conditions)  
     * [Apache Parquet](https://parquet.apache.org/)  
   * Data Visualization  
-    * [Apache Superset](https://superset.apache.org/)  
+    * [Analysis of Napoleon’s Russian campaign in light of Charles Minard](https://analyticsindiamag.com/analysis-napoleons-russian-campaign-light-charles-joseph-minard-founder-modern-day-data-visualization/)  
     * [Awesome dataviz tools by Cube.js](https://awesome.cube.dev/)  
-    * [The Data Visualisation Catalogue](https://datavizcatalogue.com/index.html)  
+    * [Data visualization - Wikipedia](https://en.wikipedia.org/wiki/Data_visualization)  
+    * [Data Viz Project | Collection of data visualizations to get inspired and finding the right type.](https://datavizproject.com/)  
+    * [Florence Nightingale's Rose Diagram : History of Information](https://www.historyofinformation.com/detail.php?entryid=3815)  
+    * [The Data Visualisation Catalogue](https://datavizcatalogue.com/)  
   * Database Editors  
     * DBase Editors  
       * [DBF Explorer](http://www.pablosoftwaresolutions.com/html/dbf_explorer.html)  
@@ -211,6 +237,7 @@
           * [MySQL: How to check foreign keys related to a table - Database Administrators Stack Exchange](https://dba.stackexchange.com/questions/102371/mysql-how-to-check-foreign-keys-related-to-a-table)  
           * [sql server - Grouping UNION ALL - Database Administrators Stack Exchange](https://dba.stackexchange.com/questions/90171/grouping-union-all)  
         * dev.mysql.com  
+          * [MySQL :: MySQL 5.7 Reference Manual :: 25.12.15.7 Table I/O and Lock Wait Summary Tables](https://dev.mysql.com/doc/refman/5.7/en/performance-schema-table-wait-summary-tables.html)  
           * [MySQL :: MySQL 5.7 Reference Manual :: 3.3.3 Loading Data into a Table](https://dev.mysql.com/doc/refman/5.7/en/loading-tables.html)  
           * [MySQL :: MySQL 8.0 Reference Manual :: 12.10 Cast Functions and Operators](https://dev.mysql.com/doc/refman/8.0/en/cast-functions.html)  
           * [MySQL :: MySQL 8.0 Reference Manual :: 12.7.2 Regular Expressions](https://dev.mysql.com/doc/refman/8.0/en/regexp.html)  
@@ -240,6 +267,7 @@
           * [information schema - How to find all the tables in MySQL with specific column names in them? - Stack Overflow](https://stackoverflow.com/questions/193780/how-to-find-all-the-tables-in-mysql-with-specific-column-names-in-them)  
           * [join - Count with if condition in mysql query - Stack Overflow](https://stackoverflow.com/questions/9798937/count-with-if-condition-in-mysql-query)  
           * [mysql - 'IF' in 'SELECT' statement - choose output value based on column values - Stack Overflow](https://stackoverflow.com/questions/5951157/if-in-select-statement-choose-output-value-based-on-column-values)  
+          * [MySQL - How to count the number of inserts/updates to a table - Stack Overflow](https://stackoverflow.com/questions/39459185/mysql-how-to-count-the-number-of-inserts-updates-to-a-table)  
           * [mysql - INSERT with SELECT - Stack Overflow](https://stackoverflow.com/questions/5391344/insert-with-select)  
           * [mysql - Select records from NOW() -1 Day - Stack Overflow](https://stackoverflow.com/questions/8544438/select-records-from-now-1-day)  
           * [MySQL select fields in one table that are not in another table - Stack Overflow](https://stackoverflow.com/questions/8153557/mysql-select-fields-in-one-table-that-are-not-in-another-table)  
@@ -332,7 +360,6 @@
         * stackoverflow.com  
           * [celery - What is the maximum value size you can store in redis? - Stack Overflow](https://stackoverflow.com/questions/5606106/what-is-the-maximum-value-size-you-can-store-in-redis)  
           * [How do I delete everything in Redis? - Stack Overflow](https://stackoverflow.com/questions/6851909/how-do-i-delete-everything-in-redis)  
-        * [How to use consumer groups in Redis Streams | InfoWorld](https://www.infoworld.com/article/3321938/how-to-use-redis-streams.html)  
         * [Beyond the Cache with Python | Redis Labs](https://redislabs.com/blog/beyond-the-cache-with-python/)  
       * [redis](https://hub.docker.com/_/redis)  
       * [Redis](https://redis.io/)  
@@ -349,6 +376,7 @@
         * [SQLite Sample Database And Its Diagram (in PDF format)](http://www.sqlitetutorial.net/sqlite-sample-database/)  
       * [resilar/sqleet: SQLite3 encryption that sucks less](https://github.com/resilar/sqleet)  
     * [ClickHouse - fast open-source OLAP DBMS](https://clickhouse.tech/)  
+    * [HarperDB | Simplicity Without Sacrifice](https://harperdb.io/)  
   * Development Best Practices  
     * [Avoid Common Software Project Mistakes](https://ovid.github.io/articles/avoid-common-software-project-mistakes.html)  
     * [Ind.ie — Ethical Design Manifesto](https://ind.ie/ethical-design/)  
@@ -364,11 +392,6 @@
         * [Autotype Custom Sequence · keepassxreboot/keepassxc Wiki](https://github.com/keepassxreboot/keepassxc/wiki/Autotype-Custom-Sequence)  
       * [KeePass Password Safe](https://keepass.info/)  
       * [KeePassXC Password Manager](https://keepassxc.org/)  
-  * Free Development Resources  
-    * [255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon.](https://github.com/255kb/stack-on-a-budget)  
-    * [Free for developers](https://free-for.dev/#/)  
-    * [GitHub - public-apis/public-apis: A collective list of free APIs](https://github.com/public-apis/public-apis)  
-    * [GitHub - ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)  
   * Geographic Data  
     * [GeoJSON Maps of the globe](https://geojson-maps.ash.ms/)  
     * [ISO 3166-1 - Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1)  
@@ -406,12 +429,6 @@
       * [Unicode Inputter Page](https://babel.mml.ox.ac.uk/naughton/inputter.html)  
     * [Laurence Anthony's AntConc](http://www.laurenceanthony.net/software/antconc/)  
   * Mathematics and Statistics  
-    * numpy.org  
-      * [numpy.polyfit — NumPy v1.20 Manual](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)  
-      * [numpy.polynomial.polynomial.Polynomial.fit — NumPy v1.20 Manual](https://numpy.org/doc/stable/reference/generated/numpy.polynomial.polynomial.Polynomial.fit.html#numpy.polynomial.polynomial.Polynomial.fit)  
-    * stackoverflow.com  
-      * [python - Convert Scientific Notation to Float - Stack Overflow](https://stackoverflow.com/questions/25099626/convert-scientific-notation-to-float)  
-      * [python - How can I detect if trend is increasing or decreasing in time series? - Stack Overflow](https://stackoverflow.com/questions/55649356/how-can-i-detect-if-trend-is-increasing-or-decreasing-in-time-series)  
     * www.mathsisfun.com  
       * [Calculating the mean from a frequency table](https://www.mathsisfun.com/data/mean-frequency-table.html)  
       * [Finding a Central Value](https://www.mathsisfun.com/data/central-measures.html)  
@@ -419,13 +436,6 @@
       * [How to Calculate the Mode or Modal Value](https://www.mathsisfun.com/mode.html)  
       * [How to Find the Median Value](https://www.mathsisfun.com/median.html)  
       * [Standard Deviation and Variance](https://www.mathsisfun.com/data/standard-deviation.html)  
-    * www.statsmodels.org  
-      * [statsmodels.tsa.seasonal.DecomposeResult — statsmodels](https://www.statsmodels.org/stable/generated/statsmodels.tsa.seasonal.DecomposeResult.html#statsmodels.tsa.seasonal.DecomposeResult)  
-      * [statsmodels.tsa.seasonal.seasonal_decompose — statsmodels](https://www.statsmodels.org/stable/generated/statsmodels.tsa.seasonal.seasonal_decompose.html)  
-    * [Florence Nightingale's Rose Diagram : History of Information](https://www.historyofinformation.com/detail.php?entryid=3815)  
-    * [Forecasting with a Time Series Model using Python: Part One | Bounteous](https://www.bounteous.com/insights/2020/09/15/forecasting-time-series-model-using-python-part-one/)  
-    * [How to Decompose Time Series Data into Trend and Seasonality](https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/)  
-    * [Time Series Analysis in Python. A very important concept in Time Series… | by Parkash Sharma | Medium](https://medium.com/@parkashsharma/time-series-analysis-in-python-4f2e7a453ded)  
   * Mobile Applications  
     * [Organic Maps | Fast detailed offline maps for travelers, tourists, hikers and cyclists](https://organicmaps.app/)  
     * [Vigilante | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/packages/com.crazylegend.vigilante/)  
@@ -631,6 +641,7 @@
           * [keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)  
           * [Linting Python in Visual Studio Code](https://code.visualstudio.com/docs/python/linting)  
           * [Portable Mode in Visual Studio Code](https://code.visualstudio.com/docs/editor/portable)  
+          * [Settings Sync in Visual Studio Code](https://code.visualstudio.com/docs/editor/settings-sync)  
           * [Visual Studio Code Key Bindings](https://code.visualstudio.com/docs/getstarted/keybindings)  
           * [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)  
           * [Visual Studio Code User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings)  
@@ -967,6 +978,8 @@
         * [You Can't Detect A Touchscreen | Blog | Stu Cox](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/)  
         * [You Don't Need jQuery!](https://blog.garstasio.com/you-dont-need-jquery/)  
       * JavaScript Libraries  
+        * d3  
+          * [vasturiano/sunburst-chart: A sunburst interactive chart web component for visualizing hierarchical data](https://github.com/vasturiano/sunburst-chart)  
         * jQuery  
           * jQuery How To  
             * learn.jquery.com  
@@ -994,8 +1007,6 @@
         * [michmech/xonomy: A schema-driven XML editor for the web.](https://github.com/michmech/xonomy)  
         * [Papa Parse - Powerful CSV Parser for JavaScript](https://www.papaparse.com/)  
         * [PivotTable.js](https://pivottable.js.org/examples/)  
-        * [reduction-admin/react-reduction: React Reduction - Free Admin Template Built with React and Bootstrap4](https://github.com/reduction-admin/react-reduction)  
-        * [vasturiano/sunburst-chart: A sunburst interactive chart web component for visualizing hierarchical data](https://github.com/vasturiano/sunburst-chart)  
         * [WebDataRocks | Free Web Reporting Tool](https://www.webdatarocks.com/)  
       * Node.js  
         * Node.js How To  
@@ -1058,6 +1069,7 @@
       * [douglascrockford/JSLint: The JavaScript Code Quality Tool](https://github.com/douglascrockford/JSLint)  
       * [douglascrockford/JSMin: JavaScript Minification Filter](https://github.com/douglascrockford/JSMin)  
       * [JavaScript variable name validator](https://mothereff.in/js-variables)  
+      * [Online JavaScript beautifier](https://beautifier.io/)  
     * NSIS  
       * Plugins  
         * [Dialogs plug-in - NSIS](https://nsis.sourceforge.io/Dialogs_plug-in)  
@@ -1373,6 +1385,13 @@
         * chrisalbon.com  
           * [List Unique Values In A pandas Column](https://chrisalbon.com/python/data_wrangling/pandas_list_unique_values_in_column/)  
           * [Loading A CSV Into pandas](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_importing_csv/)  
+        * dash.plotly.com  
+          * [Adding CSS & JS and Overriding the Page-Load Template | Dash for Python Documentation | Plotly](https://dash.plotly.com/external-resources)  
+          * [Dash Documentation & User Guide | Plotly](https://dash.plotly.com/)  
+          * [dcc.DatePickerRange | Dash for Python Documentation | Plotly](https://dash.plotly.com/dash-core-components/datepickerrange)  
+          * [dcc.Input | Dash for Python Documentation | Plotly](https://dash.plotly.com/dash-core-components/input)  
+          * [dcc.Textarea | Dash for Python Documentation | Plotly](https://dash.plotly.com/dash-core-components/textarea)  
+          * [html.Form | Dash for Python Documentation | Plotly](https://dash.plotly.com/dash-html-components/form)  
         * datatofish.com  
           * [Get a List of all Column Names in Pandas DataFrame - Data to Fish](https://datatofish.com/list-column-names-pandas-dataframe/)  
           * [Get Previous, Current and Next-Day System Dates in Python - Data to Fish](https://datatofish.com/get-previous-current-and-next-day-system-dates-in-python/)  
@@ -1382,10 +1401,13 @@
           * [How to use PIP to Uninstall a Package in Python - Data to Fish](https://datatofish.com/pip-uninstall-package/)  
         * docs.python.org  
           * [argparse — Parser for command-line options, arguments and sub-commands](https://docs.python.org/3/library/argparse.html)  
+          * [Built-in Exceptions](https://docs.python.org/3.9/library/exceptions.html#exception-hierarchy)  
           * [Coroutines and Tasks](https://docs.python.org/3/library/asyncio-task.html#asyncio.async)  
           * [datetime — Basic date and time types](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes)  
           * [Event Loop](https://docs.python.org/3/library/asyncio-eventloop.html)  
+          * [gc — Garbage Collector interface](https://docs.python.org/3/library/gc.html)  
           * [queue — A synchronized queue class](https://docs.python.org/3/library/queue.html)  
+          * [subprocess — Subprocess management](https://docs.python.org/3/library/subprocess.html#replacing-the-os-spawn-family)  
           * [Subprocesses](https://docs.python.org/3/library/asyncio-subprocess.html)  
           * [threading — Thread-based parallelism](https://docs.python.org/3/library/threading.html)  
           * [venv — Creation of virtual environments](https://docs.python.org/3/library/venv.html)  
@@ -1396,18 +1418,43 @@
           * [Python Requests Ignore Bad SSL certificate](https://gist.github.com/random-robbie/bb65335b9632bf1ed38923c768cefa02)  
         * github.com  
           * [derrekyoung/url-checker-python: Python scripts to check URLs](https://github.com/derrekyoung/url-checker-python)  
+          * [microsoft/ML-For-Beginners: 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)  
           * [selenium/headless.py at master · pyzzled/selenium](https://github.com/pyzzled/selenium/blob/master/headless_browser/headless.py)  
+          * [Suppressing Stan optimizer printing in Python · Issue #223 · facebook/prophet](https://github.com/facebook/prophet/issues/223#issuecomment-326455744)  
         * indhumathychelliah.com  
           * [5 Types of Arguments in Python Function Definition – All About AI-ML](https://indhumathychelliah.com/2020/09/02/5-types-of-arguments-in-python-function-definition/)  
+          * [An Introduction to Python Pandas – All About AI-ML](https://indhumathychelliah.com/2020/06/19/an-introduction-to-python-pandas/)  
+          * [Break, Continue, and Else Clauses on Loops in Python – All About AI-ML](https://indhumathychelliah.com/2020/08/11/break-continue-and-else-clauses-on-loops-in-python/)  
+          * [Concatenation (+) and Repetition (*) in Python – All About AI-ML](https://indhumathychelliah.com/2020/08/25/concatenation-and-repetition-in-python/)  
+          * [Different Ways of Using Sorted Function in Python – All About AI-ML](https://indhumathychelliah.com/2020/06/24/different-ways-of-using-sorted-function-in-python/)  
+          * [Different Ways to Replace Occurences of a Substring in Python Strings – All About AI-ML](https://indhumathychelliah.com/2020/12/20/different-ways-to-replace-occurences-of-a-substring-in-python-strings/)  
+          * [Exploring Descriptive Statistics Using Pandas and Seaborn – All About AI-ML](https://indhumathychelliah.com/2020/10/10/exploring-descriptive-statistics-using-pandas-and-seaborn/)  
+          * [Exploring Python Basic Terms – All About AI-ML](https://indhumathychelliah.com/2020/09/12/exploring-python-basic-terms/)  
+          * [Indexing and Slicing Python Pandas DataFrame – All About AI-ML](https://indhumathychelliah.com/2020/09/30/indexing-and-slicing-python-pandas-dataframe/)  
+          * [Looping Techniques in Python – All About AI-ML](https://indhumathychelliah.com/2020/07/30/looping-techniques-in-python/)  
           * [Mathematical Set Operations in Python](https://indhumathychelliah.com/2020/08/27/mathematical-set-operations-in-python/)  
+          * [New String Methods to Remove Prefixes and Suffixes in Python 3.9 – All About AI-ML](https://indhumathychelliah.com/2020/10/12/new-string-methods-to-remove-prefixes-and-suffixes-in-python-3-9/)  
+          * [New Union Operators to Merge Dictionaries in Python 3.9 – All About AI-ML](https://indhumathychelliah.com/2020/10/14/new-union-operators-to-merge-dictionaries-in-python-3-9/)  
+          * [Shallow Copy vs Deep Copy vs Assignment in Python – All About AI-ML](https://indhumathychelliah.com/2020/07/26/shallow-copy-vs-deep-copy-vs-assignment-in-python/)  
           * [Sorting a Python Pandas DataFrames by Index and Value](https://indhumathychelliah.com/2020/09/29/sorting-a-python-pandas-dataframes-by-index-and-value/)  
+          * [split() vs. partition() in Python Strings – All About AI-ML](https://indhumathychelliah.com/2020/09/17/split-vs-partition-in-python-strings/)  
+          * [String Methods in Python – All About AI-ML](https://indhumathychelliah.com/2020/06/29/string-methods-in-python/)  
+          * [The Special Meaning of Underscores in Python – All About AI-ML](https://indhumathychelliah.com/2020/09/21/the-special-meaning-of-underscores-in-python/)  
+        * machinelearningmastery.com  
+          * [A Gentle Introduction to SARIMA for Time Series Forecasting in Python](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)  
+          * [How to Decompose Time Series Data into Trend and Seasonality](https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/)  
+          * [Time Series Forecasting With Prophet in Python](https://machinelearningmastery.com/time-series-forecasting-with-prophet-in-python/)  
         * matplotlib.org  
           * [Customizing Matplotlib with style sheets and rcParams — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/tutorials/introductory/customizing.html)  
+          * [Fixing common date annoyances — Matplotlib 3.3.4 documentation](https://matplotlib.org/3.3.4/gallery/recipes/common_date_problems.html)  
           * [How-To — Matplotlib 3.1.1 documentation](https://matplotlib.org/faq/howto_faq.html)  
           * [Multiple Figs Demo — Matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/gallery/subplots_axes_and_figures/multiple_figs_demo.html)  
         * medium.com  
           * [Are you confused using Series.str.contains() and DataFrame.isin() then look into this article | by Rekha Kalwa | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/filter-pandas-dataframe-rows-by-a-list-of-strings-e95c225822fa)  
           * [For Anyone Using Jupyter Notebook — Installing Packages | by Shivangi Sareen | Medium](https://medium.com/@shivangisareen/for-anyone-using-jupyter-notebook-installing-packages-18a9468d0c1c)  
+        * numpy.org  
+          * [numpy.polyfit — NumPy v1.20 Manual](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)  
+          * [numpy.polynomial.polynomial.Polynomial.fit — NumPy v1.20 Manual](https://numpy.org/doc/stable/reference/generated/numpy.polynomial.polynomial.Polynomial.fit.html#numpy.polynomial.polynomial.Polynomial.fit)  
         * pandas.pydata.org  
           * [Comparison with SQL](https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_sql.html)  
           * [How do I select a subset of a DataFrame?](https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html)  
@@ -1442,6 +1489,7 @@
           * [pandas.read_csv](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html)  
           * [pandas.read_excel](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html)  
           * [pandas.read_parquet](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_parquet.html)  
+          * [pandas.Series.clip](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.clip.html)  
           * [pandas.Series.dt.to_period](https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.to_period.html)  
           * [pandas.Series.index](https://pandas.pydata.org/docs/reference/api/pandas.Series.index.html)  
           * [pandas.Series.iteritems](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.iteritems.html)  
@@ -1479,27 +1527,11 @@
           * [Pandas DataFrame: GroupBy Examples](https://queirozf.com/entries/pandas-dataframe-groupby-examples)  
           * [Pandas Query Examples: SQL-like queries in dataframes](https://queirozf.com/entries/pandas-query-examples-sql-like-syntax-queries-in-dataframes)  
           * [Python 3 Subprocess Examples](http://queirozf.com/entries/python-3-subprocess-examples)  
-        * realpython.com  
-          * [A Guide to Excel Spreadsheets in Python With openpyxl – Real Python](https://realpython.com/openpyxl-excel-spreadsheets-python/#bonus-working-with-pandas)  
-          * [A Guide to the Newer Python String Format Techniques – Real Python](https://realpython.com/python-formatted-output/)  
-          * [Defining Main Functions in Python – Real Python](https://realpython.com/python-main-function/)  
-          * [How to Iterate Through a Dictionary in Python – Real Python](https://realpython.com/iterate-through-dictionary-python/)  
-          * [How to Round Numbers in Python – Real Python](https://realpython.com/python-rounding/)  
-          * [Pandas GroupBy: Your Guide to Grouping Data in Python – Real Python](https://realpython.com/pandas-groupby/)  
-          * [Pandas Sort: Your Guide to Sorting Data in Python – Real Python](https://realpython.com/pandas-sort-python/?__s=v57i8ug7i63x2wa0b33g)  
-          * [Pandas Sort: Your Guide to Sorting Data in Python – Real Python](https://realpython.com/pandas-sort-python/)  
-          * [Python & APIs: A Winning Combo for Reading Public Data – Real Python](https://realpython.com/python-api/)  
-          * [Python sleep(): How to Add Time Delays to Your Code – Real Python](https://realpython.com/python-sleep/)  
-          * [Python String Formatting Best Practices – Real Python](https://realpython.com/python-string-formatting/)  
-          * [Python, Boto3, and AWS S3: Demystified – Real Python](https://realpython.com/python-boto3-aws-s3/)  
-          * [Python’s Requests Library (Guide) – Real Python](https://realpython.com/python-requests/#status-codes)  
-          * [Reading and Writing Files in Python (Guide) – Real Python](https://realpython.com/read-write-files-python/)  
-          * [Variables in Python – Real Python](https://realpython.com/python-variables/#object-references)  
-          * [When to Use a List Comprehension in Python – Real Python](https://realpython.com/list-comprehension-python/)  
         * sparkbyexamples.com  
           * [Convert PySpark DataFrame to Pandas — SparkByExamples](https://sparkbyexamples.com/pyspark/convert-pyspark-dataframe-to-pandas/)  
           * [PySpark Read CSV file into DataFrame — SparkByExamples](https://sparkbyexamples.com/pyspark/pyspark-read-csv-file-into-dataframe/)  
         * stackabuse.com  
+          * [Change Figure Size in Matplotlib](https://stackabuse.com/change-figure-size-in-matplotlib/)  
           * [Python: Check if String Contains Substring](https://stackabuse.com/python-check-if-string-contains-substring)  
           * [Python: List Files in a Directory](https://stackabuse.com/python-list-files-in-a-directory/)  
           * [Read a File Line-by-Line in Python](https://stackabuse.com/read-a-file-line-by-line-in-python/)  
@@ -1530,6 +1562,7 @@
           * [Does Python have a string 'contains' substring method? - Stack Overflow](https://stackoverflow.com/questions/3437059/does-python-have-a-string-contains-substring-method)  
           * [Drop all duplicate rows in Python Pandas - Stack Overflow](https://stackoverflow.com/questions/23667369/drop-all-duplicate-rows-in-python-pandas)  
           * [email - Specify a sender when sending mail with Python (smtplib) - Stack Overflow](https://stackoverflow.com/questions/540976/specify-a-sender-when-sending-mail-with-python-smtplib)  
+          * [exception - How can I safely create a nested directory in Python? - Stack Overflow](https://stackoverflow.com/questions/273192/how-can-i-safely-create-a-nested-directory-in-python)  
           * [Executing periodic actions in Python - Stack Overflow](https://stackoverflow.com/questions/8600161/executing-periodic-actions-in-python)  
           * [Extracting Hyperlinks From Excel (.xlsx) with Python - Stack Overflow](https://stackoverflow.com/questions/16676727/extracting-hyperlinks-from-excel-xlsx-with-python)  
           * [Find all files in a directory with extension .txt in Python - Stack Overflow](https://stackoverflow.com/questions/3964681/find-all-files-in-a-directory-with-extension-txt-in-python)  
@@ -1542,9 +1575,11 @@
           * [How can I get the previous week in Python? - Stack Overflow](https://stackoverflow.com/questions/19686856/how-can-i-get-the-previous-week-in-python)  
           * [How can I remove Nan from list Python/NumPy - Stack Overflow](https://stackoverflow.com/questions/21011777/how-can-i-remove-nan-from-list-python-numpy)  
           * [How can I reverse a list in Python? - Stack Overflow](https://stackoverflow.com/questions/3940128/how-can-i-reverse-a-list-in-python)  
+          * [How can I use Python to get the system hostname? - Stack Overflow](https://stackoverflow.com/questions/4271740/how-can-i-use-python-to-get-the-system-hostname)  
           * [How do I copy a file in Python? - Stack Overflow](https://stackoverflow.com/questions/123198/how-do-i-copy-a-file-in-python)  
           * [How do I create a multiline Python string with inline variables? - Stack Overflow](https://stackoverflow.com/questions/10112614/how-do-i-create-a-multiline-python-string-with-inline-variables)  
           * [How do I get a value of datetime.today() in Python that is "timezone aware"? - Stack Overflow](https://stackoverflow.com/questions/4530069/how-do-i-get-a-value-of-datetime-today-in-python-that-is-timezone-aware)  
+          * [How do I get the path of the Python script I am running in? - Stack Overflow](https://stackoverflow.com/questions/595305/how-do-i-get-the-path-of-the-python-script-i-am-running-in)  
           * [How do I lowercase a string in Python? - Stack Overflow](https://stackoverflow.com/questions/6797984/how-do-i-lowercase-a-string-in-python)  
           * [How do you create nested dict in Python? - Stack Overflow](https://stackoverflow.com/questions/16333296/how-do-you-create-nested-dict-in-python)  
           * [How to construct a set out of list items in python? - Stack Overflow](https://stackoverflow.com/questions/15768757/how-to-construct-a-set-out-of-list-items-in-python)  
@@ -1597,6 +1632,7 @@
           * [python - Convert bytes to a string? - Stack Overflow](https://stackoverflow.com/questions/606191/convert-bytes-to-a-string)  
           * [python - Convert floats to ints in Pandas? - Stack Overflow](https://stackoverflow.com/questions/21291259/convert-floats-to-ints-in-pandas)  
           * [python - Convert pandas dataframe to tuple of tuples - Stack Overflow](https://stackoverflow.com/questions/51897708/convert-pandas-dataframe-to-tuple-of-tuples)  
+          * [python - Convert Scientific Notation to Float - Stack Overflow](https://stackoverflow.com/questions/25099626/convert-scientific-notation-to-float)  
           * [python - Converting string to date object without time info - Stack Overflow](https://stackoverflow.com/questions/23324266/converting-string-to-date-object-without-time-info)  
           * [python - Correct way to write line to file? - Stack Overflow](https://stackoverflow.com/questions/6159900/correct-way-to-write-line-to-file)  
           * [python - Count unique values with pandas per groups - Stack Overflow](https://stackoverflow.com/questions/38309729/count-unique-values-with-pandas-per-groups)  
@@ -1614,16 +1650,20 @@
           * [python - Get first and second highest values in pandas columns - Stack Overflow](https://stackoverflow.com/questions/39066260/get-first-and-second-highest-values-in-pandas-columns)  
           * [python - get list from pandas dataframe column - Stack Overflow](https://stackoverflow.com/questions/22341271/get-list-from-pandas-dataframe-column)  
           * [python - Group dataframe and get sum AND count? - Stack Overflow](https://stackoverflow.com/questions/38174155/group-dataframe-and-get-sum-and-count)  
+          * [python - How can I detect if trend is increasing or decreasing in time series? - Stack Overflow](https://stackoverflow.com/questions/55649356/how-can-i-detect-if-trend-is-increasing-or-decreasing-in-time-series)  
           * [python - How can I replace all the NaN values with Zeros in a column of a pandas dataframe - Stack Overflow](https://stackoverflow.com/questions/13295735/how-can-i-replace-all-the-nan-values-with-zeros-in-a-column-of-a-pandas-datafram)  
           * [python - How can I sort a dictionary by key? - Stack Overflow](https://stackoverflow.com/questions/9001509/how-can-i-sort-a-dictionary-by-key)  
+          * [python - How can I write a `try`/`except` block that catches all exceptions? - Stack Overflow](https://stackoverflow.com/questions/4990718/how-can-i-write-a-try-except-block-that-catches-all-exceptions)  
           * [python - How do I check if a list is empty? - Stack Overflow](https://stackoverflow.com/questions/53513/how-do-i-check-if-a-list-is-empty)  
           * [python - How do I check whether a file exists without exceptions? - Stack Overflow](https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-without-exceptions)  
           * [python - How do I convert seconds to hours, minutes and seconds? - Stack Overflow](https://stackoverflow.com/questions/775049/how-do-i-convert-seconds-to-hours-minutes-and-seconds)  
+          * [python - How do I correctly use DatePickerRange in Dash? I keep receiving TypeError - Stack Overflow](https://stackoverflow.com/questions/55551344/how-do-i-correctly-use-datepickerrange-in-dash-i-keep-receiving-typeerror)  
           * [python - How do I count unique values inside a list - Stack Overflow](https://stackoverflow.com/questions/12282232/how-do-i-count-unique-values-inside-a-list)  
           * [python - How do I expand the output display to see more columns of a pandas DataFrame? - Stack Overflow](https://stackoverflow.com/questions/11707586/how-do-i-expand-the-output-display-to-see-more-columns-of-a-pandas-dataframe)  
           * [python - How do I get interactive plots again in Spyder/IPython/matplotlib? - Stack Overflow](https://stackoverflow.com/questions/23585126/how-do-i-get-interactive-plots-again-in-spyder-ipython-matplotlib)  
           * [python - How do I get the day of week given a date? - Stack Overflow](https://stackoverflow.com/questions/9847213/how-do-i-get-the-day-of-week-given-a-date)  
           * [python - How do I get the row count of a pandas DataFrame? - Stack Overflow](https://stackoverflow.com/questions/15943769/how-do-i-get-the-row-count-of-a-pandas-dataframe)  
+          * [python - How do I merge two dictionaries in a single expression (taking union of dictionaries)? - Stack Overflow](https://stackoverflow.com/questions/38987/how-do-i-merge-two-dictionaries-in-a-single-expression-taking-union-of-dictiona)  
           * [python - How do I remove the microseconds from a timedelta object? - Stack Overflow](https://stackoverflow.com/questions/18470627/how-do-i-remove-the-microseconds-from-a-timedelta-object)  
           * [python - How do I replace whitespaces with underscore and vice versa? - Stack Overflow](https://stackoverflow.com/questions/1007481/how-do-i-replace-whitespaces-with-underscore-and-vice-versa)  
           * [python - How do I write JSON data to a file? - Stack Overflow](https://stackoverflow.com/questions/12309269/how-do-i-write-json-data-to-a-file)  
@@ -1684,8 +1724,8 @@
           * [python - pandas how to check dtype for all columns in a dataframe? - Stack Overflow](https://stackoverflow.com/questions/40353079/pandas-how-to-check-dtype-for-all-columns-in-a-dataframe)  
           * [python - Pandas select the second to last column which is also not nan - Stack Overflow](https://stackoverflow.com/questions/37955900/pandas-select-the-second-to-last-column-which-is-also-not-nan)  
           * [python - Pandas Split Dataframe into two Dataframes - Stack Overflow](https://stackoverflow.com/questions/41624241/pandas-split-dataframe-into-two-dataframes/41624272)  
-          * [python - pandas: filter rows of DataFrame with operator chaining - Stack Overflow](https://stackoverflow.com/questions/11869910/pandas-filter-rows-of-dataframe-with-operator-chaining)  
           * [python - pandas: filter rows of DataFrame with operator chaining - Stack Overflow](https://stackoverflow.com/questions/11869910/pandas-filter-rows-of-dataframe-with-operator-chaining?rq=1)  
+          * [python - pandas: filter rows of DataFrame with operator chaining - Stack Overflow](https://stackoverflow.com/questions/11869910/pandas-filter-rows-of-dataframe-with-operator-chaining)  
           * [python - pandas: merge (join) two data frames on multiple columns - Stack Overflow](https://stackoverflow.com/questions/41815079/pandas-merge-join-two-data-frames-on-multiple-columns)  
           * [python - Pandas: sum DataFrame rows for given columns - Stack Overflow](https://stackoverflow.com/questions/25748683/pandas-sum-dataframe-rows-for-given-columns)  
           * [python - pip install fails with "connection error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:598)" - Stack Overflow](https://stackoverflow.com/questions/25981703/pip-install-fails-with-connection-error-ssl-certificate-verify-failed-certi)  
@@ -1732,8 +1772,8 @@
           * [python 3.x - pymysql stopped working : NameError: name 'byte2int' is not defined - Stack Overflow](https://stackoverflow.com/questions/51565646/pymysql-stopped-working-nameerror-name-byte2int-is-not-defined)  
           * [Python argparse command line flags without arguments - Stack Overflow](https://stackoverflow.com/questions/8259001/python-argparse-command-line-flags-without-arguments)  
           * [python dataframe pandas drop column using int - Stack Overflow](https://stackoverflow.com/questions/20297317/python-dataframe-pandas-drop-column-using-int)  
-          * [python date of the previous month - Stack Overflow](https://stackoverflow.com/questions/9724906/python-date-of-the-previous-month)  
           * [python date of the previous month - Stack Overflow](https://stackoverflow.com/questions/9724906/python-date-of-the-previous-month/18498964)  
+          * [python date of the previous month - Stack Overflow](https://stackoverflow.com/questions/9724906/python-date-of-the-previous-month)  
           * [Python date string to date object - Stack Overflow](https://stackoverflow.com/questions/2803852/python-date-string-to-date-object)  
           * [Python File Slurp - Stack Overflow](https://stackoverflow.com/questions/1631897/python-file-slurp)  
           * [python get timezone value from datetime object - Stack Overflow](https://stackoverflow.com/questions/47443605/python-get-timezone-value-from-datetime-object)  
@@ -1778,13 +1818,18 @@
         * wiki.python.org  
           * [HandlingExceptions - Python Wiki](https://wiki.python.org/moin/HandlingExceptions)  
           * [WhileLoop - Python Wiki](https://wiki.python.org/moin/WhileLoop)  
+        * www.delftstack.com  
+          * [Count Unique Values Per Group(s) in Pandas | Delft Stack](https://www.delftstack.com/howto/python-pandas/how-to-count-unique-values-with-pandas-per-groups/)  
+          * [Hide Axis Text Ticks and/or Tick Labels in Matplotlib | Delft Stack](https://www.delftstack.com/howto/matplotlib/how-to-hide-axis-text-ticks-and-or-tick-labels-in-matplotlib/#xaxis.set_ticklabels%2fyaxis.set_ticklabels-to-hide-axis-label-%2f-text-in-matplotlib)  
         * www.geeksforgeeks.org  
           * [Adding new column to existing DataFrame in Pandas - GeeksforGeeks](https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/)  
           * [append() and extend() in Python - GeeksforGeeks](https://www.geeksforgeeks.org/append-extend-python/)  
           * [Apply function to every row in a Pandas DataFrame - GeeksforGeeks](https://www.geeksforgeeks.org/apply-function-to-every-row-in-a-pandas-dataframe/)  
           * [Break a list into chunks of size N in Python - GeeksforGeeks](https://www.geeksforgeeks.org/break-list-chunks-size-n-python/)  
           * [Change Data Type for one or more columns in Pandas Dataframe - GeeksforGeeks](https://www.geeksforgeeks.org/change-data-type-for-one-or-more-columns-in-pandas-dataframe/)  
+          * [Convert the column type from string to datetime format in Pandas dataframe - GeeksforGeeks](https://www.geeksforgeeks.org/convert-the-column-type-from-string-to-datetime-format-in-pandas-dataframe/)  
           * [Defaultdict in Python - GeeksforGeeks](https://www.geeksforgeeks.org/defaultdict-in-python/)  
+          * [Garbage Collection in Python - GeeksforGeeks](https://www.geeksforgeeks.org/garbage-collection-python/)  
           * [Get all rows in a Pandas DataFrame containing given substring - GeeksforGeeks](https://www.geeksforgeeks.org/get-all-rows-in-a-pandas-dataframe-containing-given-substring/)  
           * [GET and POST requests using Python - GeeksforGeeks](https://www.geeksforgeeks.org/get-post-requests-using-python/)  
           * [Get unique values from a column in Pandas DataFrame - GeeksforGeeks](https://www.geeksforgeeks.org/get-unique-values-from-a-column-in-pandas-dataframe/)  
@@ -1804,6 +1849,7 @@
           * [Python | Pandas dataframe.set_value() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-dataframe-set_value/)  
           * [Python | Pandas Series.dt.to_period - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-series-dt-to_period/)  
           * [Python | Pandas Series.iteritems() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-series-iteritems/)  
+          * [Python | Pandas Series.to_frame() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-series-to_frame/)  
           * [Python | Pandas Series.to_string() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-series-to_string/)  
           * [Python | Plotting charts in excel sheet using openpyxl module](https://www.geeksforgeeks.org/python-plotting-charts-in-excel-sheet-using-openpyxl-module-set-1/)  
           * [Python | Reversing a List - GeeksforGeeks](https://www.geeksforgeeks.org/python-reversing-list/)  
@@ -1826,9 +1872,14 @@
           * [How to change the order of DataFrame columns in Pandas? - PythonProgramming.in](https://www.pythonprogramming.in/how-to-change-the-order-of-dataframe-columns.html)  
           * [How to get a value from a cell of a DataFrame? - PythonProgramming.in](https://www.pythonprogramming.in/how-to-get-a-value-from-a-cell-of-a-dataframe.html)  
           * [Iterate over rows and columns in Pandas DataFrame - PythonProgramming.in](https://www.pythonprogramming.in/iterate-over-rows-and-columns-pandas-dataframe.html)  
+        * www.statsmodels.org  
+          * [statsmodels.tsa.seasonal.DecomposeResult — statsmodels](https://www.statsmodels.org/stable/generated/statsmodels.tsa.seasonal.DecomposeResult.html#statsmodels.tsa.seasonal.DecomposeResult)  
+          * [statsmodels.tsa.seasonal.seasonal_decompose — statsmodels](https://www.statsmodels.org/stable/generated/statsmodels.tsa.seasonal.seasonal_decompose.html)  
+          * [statsmodels.tsa.statespace.sarimax.SARIMAX — statsmodels](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)  
         * www.tutorialspoint.com  
           * [How can I create a directory if it does not exist using Python?](https://www.tutorialspoint.com/How-can-I-create-a-directory-if-it-does-not-exist-using-Python)  
           * [How to convert date and time with different timezones in Python?](https://www.tutorialspoint.com/How-to-convert-date-and-time-with-different-timezones-in-Python)  
+          * [Python - Command Line Arguments](https://www.tutorialspoint.com/python/python_command_line_arguments.htm)  
           * [Python File flush() Method - Tutorialspoint](https://www.tutorialspoint.com/python/file_flush.htm)  
           * [Python Tuple len() Method - Tutorialspoint](https://www.tutorialspoint.com/python/tuple_len.htm)  
         * www.w3resource.com  
@@ -1853,10 +1904,12 @@
           * [Python MongoDB Sort](https://www.w3schools.com/python/python_mongodb_sort.asp)  
           * [Python range() Function](https://www.w3schools.com/python/ref_func_range.asp)  
           * [Python Requests post Method](https://www.w3schools.com/python/ref_requests_post.asp)  
+          * [Python round() Function](https://www.w3schools.com/python/ref_func_round.asp)  
           * [Python Set union() Method](https://www.w3schools.com/python/ref_set_union.asp)  
           * [Python String replace() Method](https://www.w3schools.com/python/ref_string_replace.asp)  
           * [Python String split() Method](https://www.w3schools.com/python/ref_string_split.asp)  
           * [Python String zfill() Method](https://www.w3schools.com/python/ref_string_zfill.asp)  
+          * [Python Try Except](https://www.w3schools.com/python/python_try_except.asp)  
         * [Apply a function to every row in a pandas dataframe](http://jonathansoma.com/lede/foundations/classes/pandas%20columns%20and%20functions/apply-a-function-to-every-row-in-a-pandas-dataframe/)  
         * [Asyncio Event Loops Tutorial | TutorialEdge.net](https://tutorialedge.net/python/concurrency/asyncio-event-loops-tutorial/)  
         * [Change the order of columns in Pandas dataframe](https://erikrood.com/Python_References/change_order_dataframe_columns_final.html)  
@@ -1865,8 +1918,7 @@
         * [Convert a string representing the date or epoch time to datetime and change timezone in Python - Sou-Nan-De-Gesu](https://www.soudegesu.com/en/python/python-datetime/)  
         * [Convert string to int in Python – Python Principles](https://pythonprinciples.com/blog/python-convert-string-to-int/)  
         * [Converting time zones for datetime objects in Python - SaltyCrane Blog](https://www.saltycrane.com/blog/2009/05/converting-time-zones-datetime-objects-python/)  
-        * [Count Unique Values Per Group(s) in Pandas | Delft Stack](https://www.delftstack.com/howto/python-pandas/how-to-count-unique-values-with-pandas-per-groups/)  
-        * [Dash DataTable | Dash for Python Documentation | Plotly](https://dash.plotly.com/datatable)  
+        * [Dash Bootstrap Components Quickstart](https://dash-bootstrap-components.opensource.faculty.ai/docs/)  
         * [DataCamp PySpark SQL Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_SQL_Cheat_Sheet_Python.pdf)  
         * [decimal – Fixed and floating point math - Python Module of the Week](https://pymotw.com/2/decimal/)  
         * [Driving Headless Chrome with Python | Decipher](https://duo.com/decipher/driving-headless-chrome-with-python)  
@@ -1876,12 +1928,14 @@
         * [How to Add Leading Zeros to a Number in MySQL | Database.Guide](https://database.guide/how-to-add-leading-zeros-to-a-number-in-mysql/)  
         * [How to encode URLs in Python | URLEncoder](https://www.urlencoder.io/python/)  
         * [How to flatten a hierarchical index in pandas DataFrame columns in Python](https://kite.com/python/answers/how-to-flatten-a-hierarchical-index-in-pandas-dataframe-columns-in-python)  
+        * [How to Plot Multiple Lines in Matplotlib - Statology](https://www.statology.org/plot-multiple-lines-matplotlib/)  
         * [How to use proxies with Python Requests module](https://blog.scrapinghub.com/python-requests-proxy)  
         * [How to use sys.argv in Python](http://www.pythonforbeginners.com/system/python-sys-argv)  
+        * [How to write parquet file from pandas dataframe in S3 in python | Newbedev](https://newbedev.com/how-to-write-parquet-file-from-pandas-dataframe-in-s3-in-python)  
         * [Installing packages using pip and virtual environments — Python Packaging User Guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)  
         * [Joining DataFrames in Pandas (article) - DataCamp](https://www.datacamp.com/community/tutorials/joining-dataframes-pandas)  
         * [List all the packages, modules installed in python pip - DataScience Made Simple](http://www.datasciencemadesimple.com/list-packages-modules-installed-python/)  
-        * [Multiple Criteria Pandas Dataframe Filtering](https://www.ritchieng.com/pandas-multi-criteria-filtering/)  
+        * [Multiple Criteria Filtering | Machine Learning, Deep Learning, and Computer Vision](https://www.ritchieng.com/pandas-multi-criteria-filtering/)  
         * [osdba's blog : A tool for packaging python scripts into binary executables](http://blog.osdba.net/530.html)  
         * [Pandas DataFrames - Writing to and reading from MySQL Table | Pythontic.com](https://pythontic.com/pandas/serialization/mysql)  
         * [Pandas Tutorial - Selecting Rows From a DataFrame | Novixys Software Dev Blog](https://www.novixys.com/blog/pandas-tutorial-select-dataframe/)  
@@ -1895,6 +1949,7 @@
         * [Python Excel win32com Mini Cookbook | Python Excels](https://pythonexcels.com/python/2009/10/05/python-excel-mini-cookbook)  
         * [Python Exception Handling - ImportError and ModuleNotFoundError](https://airbrake.io/blog/python-exception-handling/importerror-and-modulenotfounderror)  
         * [Python How To Get Date Range From Week Number - MVSourceCode - mvsourcecode](http://mvsourcecode.com/python-how-to-get-date-range-from-week-number-mvsourcecode/)  
+        * [Python io - BytesIO, StringIO - JournalDev](https://www.journaldev.com/19178/python-io-bytesio-stringio)  
         * [Python Openpyxl Tutorial - javatpoint](https://www.javatpoint.com/python-openpyxl)  
         * [Python Range() function explained with Examples [Complete Guide]](https://pynative.com/python-range-function/)  
         * [Python RegEx: re.match(), re.search(), re.findall() with Example](https://www.guru99.com/python-regular-expressions-complete-tutorial.html)  
@@ -1908,6 +1963,7 @@
         * [SQLite Python](http://www.sqlitetutorial.net/sqlite-python/)  
         * [windows - How to install the win32com python library - Super User](https://superuser.com/questions/609447/how-to-install-the-win32com-python-library)  
         * [Working with Datetime Objects and Timezones in Python - Howchoo](https://howchoo.com/g/ywi5m2vkodk/working-with-datetime-objects-and-timezones-in-python)  
+        * [Working with MultiIndex and Pivot Tables in Pandas and Python - Parametric Thoughts](https://janakiev.com/blog/pandas-multiindex-pivot/)  
         * [Writing and Reading config files in Python :: TutsWiki Beta](https://tutswiki.com/read-write-config-files-in-python/)  
       * Python Packages  
         * boto3.amazonaws.com  
@@ -1916,6 +1972,7 @@
         * github.com  
           * [duckdb/duckdb: DuckDB is an in-process SQL OLAP Database Management System](https://github.com/duckdb/duckdb)  
           * [fbdesignpro/sweetviz: Visualize and compare datasets, target values and associations, with one line of code.](https://github.com/fbdesignpro/sweetviz)  
+          * [linkedin/greykite: A flexible, intuitive and fast forecasting library](https://github.com/linkedin/greykite)  
           * [noplay/python-mysql-replication: Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL](https://github.com/noplay/python-mysql-replication)  
           * [plotly/dash-pivottable: react-pivottable in Dash](https://github.com/plotly/dash-pivottable)  
           * [pola-rs/polars: Fast multi-threaded DataFrame library in Rust and Python](https://github.com/pola-rs/polars)  
@@ -1942,11 +1999,15 @@
           * [websockets](https://websockets.readthedocs.io/en/stable/)  
           * [XlsxWriter](https://xlsxwriter.readthedocs.io/)  
         * [Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/)  
+        * [Greykite: A flexible, intuitive, and fast forecasting library | LinkedIn Engineering](https://engineering.linkedin.com/blog/2021/greykite--a-flexible--intuitive--and-fast-forecasting-library)  
+        * [Prophet | Forecasting at scale.](https://facebook.github.io/prophet/)  
         * [Python Extension Packages for Windows - Christoph Gohlke](https://www.lfd.uci.edu/~gohlke/pythonlibs/)  
         * [Python Wheels](https://pythonwheels.com/)  
+        * [scikit-learn: machine learning in Python](https://scikit-learn.org/stable/)  
+        * [Vaex.io: An ML Ready Fast DataFrame for Python 🚀](https://vaex.io/)  
       * [Binder](https://mybinder.org/)  
       * [Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)  
-      * [Project Jupyter | Try Jupyter](https://jupyter.org/try)  
+      * [Project Jupyter](https://jupyter.org/)  
       * [Python.org](https://www.python.org/)  
       * [Spyder Website](https://www.spyder-ide.org/)  
     * R  
@@ -1964,6 +2025,7 @@
         * [use_proxy: Use a proxy to connect to the internet. in httr: Tools for Working with URLs and HTTP](https://rdrr.io/cran/httr/man/use_proxy.html)  
       * [RStudio](https://rstudio.com/products/rstudio/)  
     * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)  
+    * [Sourcegraph](https://sourcegraph.com/search)  
   * Software Documentation  
     * Confluence How To  
       * community.atlassian.com  
@@ -2006,7 +2068,7 @@
         * [Git save password under windows - Dirask](https://dirask.com/posts/Git-save-password-under-windows-gp52xj)  
         * [github/gitignore: A collection of useful .gitignore templates](https://github.com/github/gitignore)  
         * [How can I undo the last commit?](https://www.git-tower.com/learn/git/faq/undo-last-commit)  
-      * [Github Release Stats](http://www.somsubhra.com/github-release-stats/)  
+      * [GitHub](https://github.com/)  
       * [GitHub Résumé](http://resume.github.io/)  
   * Virtualization  
     * VirtualBox  
@@ -2042,9 +2104,6 @@
     * [Vivaldi Browser](https://vivaldi.com/)  
   * Web Development  
     * Backend  
-      * API  
-        * [Postman | API Development Environment](https://www.getpostman.com/)  
-        * [Postwoman • API request builder](https://postwoman.io/)  
       * Web Servers  
         * Mongoose  
           * [cesanta/mongoose: Mongoose Embedded Web Server Library](https://github.com/cesanta/mongoose)  
@@ -2052,6 +2111,7 @@
           * [ddmitov/desktop-mongoose: Mongoose v.5.1 HTTP Server for Desktop Use](https://github.com/ddmitov/desktop-mongoose)  
         * [Xitami - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Xitami)  
         * [ZazouMiniWebServer](http://www.xgarreau.org/zazouminiwebserver/)  
+      * [Postman | API Development Environment](https://www.getpostman.com/)  
     * Frontend  
       * CSS  
         * CSS How To  
@@ -2066,10 +2126,6 @@
             * [CSS overflow property](http://www.w3schools.com/cssref/pr_pos_overflow.asp)  
             * [CSS3 box-sizing property](http://www.w3schools.com/cssref/css3_pr_box-sizing.asp)  
         * [loading.io - Your SVG + GIF Ajax Loading Icons](http://loading.io/)  
-      * Fonts  
-        * [Font Awesome Brand Icons](https://www.w3schools.com/icons/fontawesome_icons_brand.asp)  
-        * [Google Fonts](http://www.google.com/fonts/)  
-        * [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts)  
       * Frameworks  
         * Bootstrap  
           * Bootstrap How To  
@@ -2105,6 +2161,7 @@
             * [Bootswatch: Free themes for Bootstrap](https://bootswatch.com/)  
             * [Font Awesome v.4.5.0 | Bootstrap Cheat Sheets](http://fontawesome.bootstrapcheatsheets.com/)  
             * [How to Create Dropdown Menu with Bootstrap 3 - Tutorial Republic](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-dropdowns.php)  
+          * [Bootstrap · The most popular HTML, CSS, and JS library in the world.](https://getbootstrap.com/)  
       * HTML  
         * HTML How To  
           * www.w3schools.com  
@@ -2119,6 +2176,7 @@
         * [Free Online HTML Escape / Unescape Tool - FreeFormatter.com](https://www.freeformatter.com/html-escape.html)  
         * [HTML5 Template: A Basic Boilerplate for Any Project - SitePoint](https://www.sitepoint.com/a-basic-html5-template/)  
       * [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)  
+      * [Google Fonts](http://www.google.com/fonts/)  
     * [ddmitov/mneme: Bulgarian history online quiz](https://github.com/ddmitov/mneme)  
     * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
 
