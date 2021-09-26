@@ -156,11 +156,13 @@
           * [xml - XPath with multiple conditions - Stack Overflow](https://stackoverflow.com/questions/10247978/xpath-with-multiple-conditions)  
     * [Apache Parquet](https://parquet.apache.org/)  
   * Data Visualization  
+    * [20 ideas for better data visualization | by Taras Bakusevych | Aug, 2021 | UX Collective](https://uxdesign.cc/20-ideas-for-better-data-visualization-73f7e3c2782d)  
     * [Analysis of Napoleon’s Russian campaign in light of Charles Minard](https://analyticsindiamag.com/analysis-napoleons-russian-campaign-light-charles-joseph-minard-founder-modern-day-data-visualization/)  
     * [Awesome dataviz tools by Cube.js](https://awesome.cube.dev/)  
     * [Data visualization - Wikipedia](https://en.wikipedia.org/wiki/Data_visualization)  
     * [Data Viz Project | Collection of data visualizations to get inspired and finding the right type.](https://datavizproject.com/)  
     * [Florence Nightingale's Rose Diagram : History of Information](https://www.historyofinformation.com/detail.php?entryid=3815)  
+    * [Improve your Data Storytelling | 8 Data Visualization Tips](https://www.analyticsvidhya.com/blog/2020/07/8-data-visualization-tips-to-improve-data-stories/)  
     * [The Data Visualisation Catalogue](https://datavizcatalogue.com/)  
   * Database Editors  
     * DBase Editors  
@@ -318,6 +320,7 @@
           * [MySQL CASE Function](https://www.w3schools.com/sql/func_mysql_case.asp)  
           * [MySQL CAST() Function](https://www.w3schools.com/sql/func_mysql_cast.asp)  
           * [MySQL CONCAT() Function](https://www.w3schools.com/sql/func_mysql_concat.asp)  
+          * [MySQL DATE_ADD() Function](https://www.w3schools.com/mysql/func_mysql_date_add.asp)  
           * [MySQL Functions](https://www.w3schools.com/mysql/mysql_ref_functions.asp)  
           * [MySQL IF() Function](https://www.w3schools.com/sql/func_mysql_if.asp)  
           * [MySQL IFNULL() Function](https://www.w3schools.com/sql/func_mysql_ifnull.asp)  
@@ -857,6 +860,10 @@
         * [stachenov/quazip: Qt/C++ wrapper over minizip](https://github.com/stachenov/quazip)  
         * [TinyAES - A very small AES encryption library for Qt 5.x (Page 1) / Community Contributions / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=173884)  
       * [Cppcheck - A tool for static C/C++ code analysis](http://cppcheck.sourceforge.net/)  
+    * Golang  
+      * Golang How To  
+        * [Serving Static Sites with Go - Alex Edwards](https://www.alexedwards.net/blog/serving-static-sites-with-go)  
+      * [The Go Programming Language](https://golang.org/)  
     * Java  
       * Java How To  
         * javacreed.com  
@@ -888,6 +895,10 @@
       * [ddmitov/bookmark-extractor: Selective Chromium bookmarks extractor and formatter](https://github.com/ddmitov/bookmark-extractor)  
       * [GSON - Gson](http://tutorials.jenkov.com/java-json/gson.html)  
     * JavaScript  
+      * Deno  
+        * Deno How To  
+          * [Compiling executables | Manual | Deno](https://deno.land/manual/tools/compiler)  
+        * [Deno - A secure runtime for JavaScript and TypeScript](https://deno.land/)  
       * Electron  
         * Electron How To  
           * stackoverflow.com  
@@ -956,6 +967,7 @@
           * [JavaScript function in href vs. onclick - Stack Overflow](https://stackoverflow.com/questions/1070760/javascript-function-in-href-vs-onclick)  
           * [JavaScript load a page on button click - Stack Overflow](https://stackoverflow.com/questions/3682805/javascript-load-a-page-on-button-click)  
           * [regex - Javascript + Unicode regexes - Stack Overflow](https://stackoverflow.com/questions/280712/javascript-unicode-regexes)  
+          * [Scroll to the top of the page using JavaScript? - Stack Overflow](https://stackoverflow.com/questions/1144805/scroll-to-the-top-of-the-page-using-javascript)  
           * [SyntaxError: Unexpected EOF when evaluating JavaScript in iOS UIWebView - Stack Overflow](https://stackoverflow.com/questions/11478324/syntaxerror-unexpected-eof-when-evaluating-javascript-in-ios-uiwebview)  
         * w3schools  
           * [How To Remove a Property from a JavaScript Object](https://www.w3schools.com/howto/howto_js_remove_property_object.asp)  
@@ -971,15 +983,22 @@
           * [onsubmit Event](http://www.w3schools.com/jsref/event_onsubmit.asp)  
           * [JavaScript Array unshift() Method](https://www.w3schools.com/jsref/jsref_unshift.asp)  
           * [JavaScript Array shift() Method](https://www.w3schools.com/jsref/jsref_shift.asp)  
+        * www.amcharts.com  
+          * [About “Chart was not disposed” warning – amCharts 4 Documentation](https://www.amcharts.com/docs/v4/tutorials/chart-was-not-disposed/)  
+          * [Anatomy of a Map Chart – amCharts 4 Documentation](https://www.amcharts.com/docs/v4/chart-types/map/)  
+          * [Anatomy of a Sunburst Diagram – amCharts 4 Documentation](https://www.amcharts.com/docs/v4/chart-types/sunburst/)  
+          * [Drill-down sunburst chart - amCharts](https://www.amcharts.com/demos/drill-down-sunburst-chart/)  
+          * [Drill-down to countries - amCharts](https://www.amcharts.com/demos/drill-down-to-countries/)  
+          * [Using JavaScript – amCharts 4 Documentation](https://www.amcharts.com/docs/v4/getting-started/using-javascript/)  
         * [Creating a downloadable text-file using blobs - JSFiddle](http://jsfiddle.net/UselessCode/qm5AG/)  
         * [Detect the Operating System of User using JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/detect-the-operating-system-of-user-using-javascript/)  
+        * [How to Remove All Child Nodes in JavaScript](https://www.javascripttutorial.net/dom/manipulating/remove-all-child-nodes/)  
+        * [JavaScript function in href vs. onClick](https://www.tutorialspoint.com/JavaScript-function-in-href-vs-onClick)  
         * [Let's try React without Node.js - DEV Community](https://dev.to/luispa/lets-try-react-without-nodejs-3a7)  
         * [typeof - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)  
         * [You Can't Detect A Touchscreen | Blog | Stu Cox](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/)  
         * [You Don't Need jQuery!](https://blog.garstasio.com/you-dont-need-jquery/)  
       * JavaScript Libraries  
-        * d3  
-          * [vasturiano/sunburst-chart: A sunburst interactive chart web component for visualizing hierarchical data](https://github.com/vasturiano/sunburst-chart)  
         * jQuery  
           * jQuery How To  
             * learn.jquery.com  
@@ -1007,6 +1026,7 @@
         * [michmech/xonomy: A schema-driven XML editor for the web.](https://github.com/michmech/xonomy)  
         * [Papa Parse - Powerful CSV Parser for JavaScript](https://www.papaparse.com/)  
         * [PivotTable.js](https://pivottable.js.org/examples/)  
+        * [vasturiano/sunburst-chart: A sunburst interactive chart web component for visualizing hierarchical data](https://github.com/vasturiano/sunburst-chart)  
         * [WebDataRocks | Free Web Reporting Tool](https://www.webdatarocks.com/)  
       * Node.js  
         * Node.js How To  
@@ -1029,6 +1049,7 @@
           * [Child Process Node.js v5.10.1 Manual & Documentation](https://nodejs.org/api/child_process.html)  
           * [Customizing your npm package's page on Tonic - npm - RunKit Discuss](https://discuss.runkit.com/t/customizing-your-npm-packages-page-on-tonic/23)  
           * [File Manipulation with Node.js | DevDungeon](http://www.devdungeon.com/content/file-manipulation-nodejs)  
+          * [How To Install Node.js on Ubuntu 20.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)  
           * [Node - Child Processes](https://gist.github.com/leommoore/4484379)  
           * [Node.js Best Practices – Just Build Something](http://justbuildsomething.com/node-js-best-practices/)  
           * [Package.json validator](http://package-json-validator.com/)  
@@ -1360,16 +1381,16 @@
     * PowerShell  
       * PowerShell How To  
         * stackoverflow.com  
-          * [com - Copy Excel Worksheet from one Workbook to another with Powershell - Stack Overflow](https://stackoverflow.com/questions/3226096/copy-excel-worksheet-from-one-workbook-to-another-with-powershell)  
           * [How do I get the current username in Windows PowerShell? - Stack Overflow](https://stackoverflow.com/questions/2085744/how-do-i-get-the-current-username-in-windows-powershell)  
           * [Setting Windows PowerShell environment variables - Stack Overflow](https://stackoverflow.com/questions/714877/setting-windows-powershell-environment-variables)  
           * [windows - Recursively list directories in powershell - Stack Overflow](https://stackoverflow.com/questions/42440753/recursively-list-directories-in-powershell)  
         * [Get-ChildItem](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-childitem?view=powershell-6)  
         * [How to find empty directories in Windows using a Powershell Script - Super User](https://superuser.com/questions/321231/how-to-find-empty-directories-in-windows-using-a-powershell-script)  
     * Python  
-      * Python Handbooks  
-        * [Python Data Science Handbook | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)  
-        * [The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)  
+      * Jupyter  
+        * [Binder](https://mybinder.org/)  
+        * [jupyterlab/jupyterlab_app: A desktop application for JupyterLab, based on Electron.](https://github.com/jupyterlab/jupyterlab_app)  
+        * [Project Jupyter](https://jupyter.org/)  
       * Python How To  
         * arrow.apache.org  
           * [Data Types and Schemas](https://arrow.apache.org/docs/python/api/datatypes.html)  
@@ -1959,6 +1980,7 @@
         * [Python: How to Print Without Newline? (The Idiomatic Way) - Afternerd](https://www.afternerd.com/blog/how-to-print-without-a-newline-in-python/)  
         * [Python: Sort dictionary by value](https://code-maven.com/slides/python-programming/sort-dictionary-by-value)  
         * [PyWin32 - How to Bring a Window to Front - The Mouse Vs. The Python](https://www.blog.pythonlibrary.org/2014/10/20/pywin32-how-to-bring-a-window-to-front/)  
+        * [Quart documentation](https://pgjones.gitlab.io/quart/index.html)  
         * [SettingwithCopyWarning: How to Fix This Warning in Pandas – Dataquest](https://www.dataquest.io/blog/settingwithcopywarning/)  
         * [SQLite Python](http://www.sqlitetutorial.net/sqlite-python/)  
         * [windows - How to install the win32com python library - Super User](https://superuser.com/questions/609447/how-to-install-the-win32com-python-library)  
@@ -2000,14 +2022,12 @@
           * [XlsxWriter](https://xlsxwriter.readthedocs.io/)  
         * [Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/)  
         * [Greykite: A flexible, intuitive, and fast forecasting library | LinkedIn Engineering](https://engineering.linkedin.com/blog/2021/greykite--a-flexible--intuitive--and-fast-forecasting-library)  
+        * [pgjones / quart · GitLab](https://gitlab.com/pgjones/quart)  
         * [Prophet | Forecasting at scale.](https://facebook.github.io/prophet/)  
         * [Python Extension Packages for Windows - Christoph Gohlke](https://www.lfd.uci.edu/~gohlke/pythonlibs/)  
         * [Python Wheels](https://pythonwheels.com/)  
         * [scikit-learn: machine learning in Python](https://scikit-learn.org/stable/)  
         * [Vaex.io: An ML Ready Fast DataFrame for Python 🚀](https://vaex.io/)  
-      * [Binder](https://mybinder.org/)  
-      * [Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)  
-      * [Project Jupyter](https://jupyter.org/)  
       * [Python.org](https://www.python.org/)  
       * [Spyder Website](https://www.spyder-ide.org/)  
     * R  
@@ -2021,7 +2041,6 @@
           * [install.packages function | R Documentation](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/install.packages)  
         * [Configuring R to Use an HTTP or HTTPS Proxy – RStudio Support](https://support.rstudio.com/hc/en-us/articles/200488488-Configuring-R-to-Use-an-HTTP-or-HTTPS-Proxy)  
         * [Configuring R to Use an HTTP Proxy / FAQ / Knowledge Base – RStudio Support – Lost in Replications](https://bhoom.wordpress.com/2013/05/27/configuring-r-to-use-an-http-proxy-faq-knowledge-base-rstudio-support/)  
-        * [Profvis — Interactive Visualizations for Profiling R Code](https://rstudio.github.io/profvis/index.html)  
         * [use_proxy: Use a proxy to connect to the internet. in httr: Tools for Working with URLs and HTTP](https://rdrr.io/cran/httr/man/use_proxy.html)  
       * [RStudio](https://rstudio.com/products/rstudio/)  
     * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)  
@@ -2111,6 +2130,7 @@
           * [ddmitov/desktop-mongoose: Mongoose v.5.1 HTTP Server for Desktop Use](https://github.com/ddmitov/desktop-mongoose)  
         * [Xitami - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Xitami)  
         * [ZazouMiniWebServer](http://www.xgarreau.org/zazouminiwebserver/)  
+      * [Mockaroo - Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel](https://www.mockaroo.com/)  
       * [Postman | API Development Environment](https://www.getpostman.com/)  
     * Frontend  
       * CSS  
@@ -2125,18 +2145,16 @@
             * [CSS How to](http://www.w3schools.com/css/css_howto.asp)  
             * [CSS overflow property](http://www.w3schools.com/cssref/pr_pos_overflow.asp)  
             * [CSS3 box-sizing property](http://www.w3schools.com/cssref/css3_pr_box-sizing.asp)  
-        * [loading.io - Your SVG + GIF Ajax Loading Icons](http://loading.io/)  
       * Frameworks  
         * Bootstrap  
           * Bootstrap How To  
             * gerbootstrap.com  
-              * [JavaScript · Bootstrap :: Modal Boxes](http://getbootstrap.com/javascript/)  
-              * [Getting started · Bootstrap](http://getbootstrap.com/getting-started/)  
-              * [Fixed Top Navbar Example for Bootstrap](https://getbootstrap.com/docs/3.3/examples/navbar-fixed-top/)  
-              * [Customize and download · Bootstrap](http://getbootstrap.com/customize/)  
               * [CSS · Bootstrap](http://getbootstrap.com/css/)  
-              * [Components · Bootstrap](http://getbootstrap.com/components/)  
-              * [Components · Bootstrap - Nesting - Split button dropdowns](http://getbootstrap.com/components/#labels)  
+              * [Dashboard Template · Bootstrap v5.0](https://getbootstrap.com/docs/5.0/examples/dashboard/#)  
+              * [Examples · Bootstrap v5.0](https://getbootstrap.com/docs/5.0/examples/)  
+              * [Fixed Top Navbar Example for Bootstrap 3.3](https://getbootstrap.com/docs/3.3/examples/navbar-fixed-top/)  
+              * [Flex · Bootstrap 4.0](https://getbootstrap.com/docs/4.0/utilities/flex/)  
+              * [Grid system · Bootstrap v5.0](https://getbootstrap.com/docs/5.0/layout/grid/)  
             * stackoverflow.com  
               * [Bootstrap center heading - Stack Overflow](https://stackoverflow.com/questions/11155046/bootstrap-center-heading)  
               * [css - Center content in responsive bootstrap navbar - Stack Overflow](https://stackoverflow.com/questions/18777235/center-content-in-responsive-bootstrap-navbar)  
