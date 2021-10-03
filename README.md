@@ -45,7 +45,7 @@
     * Cloud Platforms  
       * Amazon Web Services  
         * Amazon Web Services How To  
-          * aws.amazon.com  
+          * amazon.com  
             * CLI  
               * [AWS Command Line Interface](https://aws.amazon.com/cli/)  
               * [Configuring the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)  
@@ -72,12 +72,14 @@
                 * [Querying data without servers or databases using Amazon S3 Select | AWS Storage Blog](https://aws.amazon.com/blogs/storage/querying-data-without-servers-or-databases-using-amazon-s3-select/)  
                 * [Selecting content from objects - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/dev/selecting-content-from-objects.html)  
               * [Understand S3 Object Key Naming Patterns for High Request Rates](https://aws.amazon.com/premiumsupport/knowledge-center/s3-object-key-naming-pattern/)  
+            * [Amazon EC2 Instance Types](https://www.amazonaws.cn/en/ec2/instance-types/)  
             * [AWS Account Identifiers - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/acct-identifiers.html)  
             * [AWS service endpoints - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/rande.html)  
-            * [Amazon EC2 Instance Types](https://www.amazonaws.cn/en/ec2/instance-types/)  
-          * [AWS Pricing Calculator](https://calculator.aws/)  
-          * [checkip.amazonaws.com](http://checkip.amazonaws.com/)  
+            * [checkip.amazonaws.com](http://checkip.amazonaws.com/)  
+          * [AWS Cloud Ping - Latency & Response Speed Test](https://www.cloudping.cloud/aws)  
           * [Is it on AWS?](https://isitonaws.com/)  
+        * [AWS Pricing Calculator](https://calculator.aws/)  
+        * [AWS Service Health Dashboard](https://status.aws.amazon.com/)  
         * [Cloud Services - Amazon Web Services (AWS)](https://aws.amazon.com/)  
       * Fly  
         * Fly How To  
@@ -862,6 +864,7 @@
       * [Cppcheck - A tool for static C/C++ code analysis](http://cppcheck.sourceforge.net/)  
     * Golang  
       * Golang How To  
+        * [Golang: Open URL in Browser](https://gist.github.com/nanmu42/4fbaf26c771da58095fa7a9f14f23d27)  
         * [Serving Static Sites with Go - Alex Edwards](https://www.alexedwards.net/blog/serving-static-sites-with-go)  
       * [The Go Programming Language](https://golang.org/)  
     * Java  
@@ -917,6 +920,12 @@
         * [Electron](http://electron.atom.io/)  
         * [electron/rcedit: Command line tool to edit resources of exe](https://github.com/electron/rcedit)  
       * JavaScript How To  
+        * developer.mozilla.org  
+          * [Regular expressions - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)  
+          * [typeof - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)  
+        * observablehq.com  
+          * [An Illustrated Guide to Arquero Verbs / UW Interactive Data Lab / Observable](https://observablehq.com/@uwdata/an-illustrated-guide-to-arquero-verbs)  
+          * [Arquero Data Wrangler / Observable](https://observablehq.com/@observablehq/data-wrangler)  
         * stackoverflow.com  
           * [Calling a JavaScript function named in a variable - Stack Overflow](https://stackoverflow.com/questions/1723287/calling-a-javascript-function-named-in-a-variable)  
           * [Delete a line of text in javascript - Stack Overflow](https://stackoverflow.com/questions/2528076/delete-a-line-of-text-in-javascript)  
@@ -966,6 +975,7 @@
           * [JavaScript check if variable exists (is defined/initialized) - Stack Overflow](https://stackoverflow.com/questions/5113374/javascript-check-if-variable-exists-is-defined-initialized)  
           * [JavaScript function in href vs. onclick - Stack Overflow](https://stackoverflow.com/questions/1070760/javascript-function-in-href-vs-onclick)  
           * [JavaScript load a page on button click - Stack Overflow](https://stackoverflow.com/questions/3682805/javascript-load-a-page-on-button-click)  
+          * [Loop through an array in JavaScript - Stack Overflow](https://stackoverflow.com/questions/3010840/loop-through-an-array-in-javascript)  
           * [regex - Javascript + Unicode regexes - Stack Overflow](https://stackoverflow.com/questions/280712/javascript-unicode-regexes)  
           * [Scroll to the top of the page using JavaScript? - Stack Overflow](https://stackoverflow.com/questions/1144805/scroll-to-the-top-of-the-page-using-javascript)  
           * [SyntaxError: Unexpected EOF when evaluating JavaScript in iOS UIWebView - Stack Overflow](https://stackoverflow.com/questions/11478324/syntaxerror-unexpected-eof-when-evaluating-javascript-in-ios-uiwebview)  
@@ -995,10 +1005,13 @@
         * [How to Remove All Child Nodes in JavaScript](https://www.javascripttutorial.net/dom/manipulating/remove-all-child-nodes/)  
         * [JavaScript function in href vs. onClick](https://www.tutorialspoint.com/JavaScript-function-in-href-vs-onClick)  
         * [Let's try React without Node.js - DEV Community](https://dev.to/luispa/lets-try-react-without-nodejs-3a7)  
-        * [typeof - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)  
+        * [Using ES Modules in the Browser Today - SitePoint](https://www.sitepoint.com/using-es-modules/)  
         * [You Can't Detect A Touchscreen | Blog | Stu Cox](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/)  
         * [You Don't Need jQuery!](https://blog.garstasio.com/you-dont-need-jquery/)  
       * JavaScript Libraries  
+        * Apache Arrow  
+          * [Apache Arrow in JS - v5.0.0](https://arrow.apache.org/docs/js/)  
+          * [Arquero | arquero](https://uwdata.github.io/arquero/)  
         * jQuery  
           * jQuery How To  
             * learn.jquery.com  
@@ -1087,9 +1100,9 @@
         * [Basic Service Worker Sample](https://googlechrome.github.io/samples/service-worker/basic/)  
         * [ddmitov/magna-carta: Magna Carta Libertatum with a word frequency index](https://github.com/ddmitov/magna-carta)  
         * [ServiceWorker Cookbook](https://serviceworke.rs/)  
-      * [douglascrockford/JSLint: The JavaScript Code Quality Tool](https://github.com/douglascrockford/JSLint)  
-      * [douglascrockford/JSMin: JavaScript Minification Filter](https://github.com/douglascrockford/JSMin)  
+      * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)  
       * [JavaScript variable name validator](https://mothereff.in/js-variables)  
+      * [JSLint: The JavaScript Code Quality Tool](https://www.jslint.com/)  
       * [Online JavaScript beautifier](https://beautifier.io/)  
     * NSIS  
       * Plugins  
@@ -1396,13 +1409,13 @@
           * [Data Types and Schemas](https://arrow.apache.org/docs/python/api/datatypes.html)  
           * [Filesystem Interface](https://arrow.apache.org/docs/python/filesystems.html)  
           * [pyarrow.concat_tables](https://arrow.apache.org/docs/python/generated/pyarrow.concat_tables.html)  
+          * [pyarrow.ipc.new_file](https://arrow.apache.org/docs/python/generated/pyarrow.ipc.new_file.html#pyarrow.ipc.new_file)  
           * [pyarrow.parquet.ParquetDataset](https://arrow.apache.org/docs/python/generated/pyarrow.parquet.ParquetDataset.html)  
           * [pyarrow.parquet.write_table](https://arrow.apache.org/docs/python/generated/pyarrow.parquet.write_table.html)  
           * [pyarrow.Schema](https://arrow.apache.org/docs/python/generated/pyarrow.Schema.html)  
           * [pyarrow.Table](https://arrow.apache.org/docs/python/generated/pyarrow.Table.html)  
           * [Reading and Writing the Apache Parquet Format](https://arrow.apache.org/docs/python/parquet.html)  
           * [Tabular Datasets](https://arrow.apache.org/docs/python/dataset.html)  
-          * [Try Neo4j - Neo4j Graph Database Platform](https://neo4j.com/try-neo4j/)  
         * chrisalbon.com  
           * [List Unique Values In A pandas Column](https://chrisalbon.com/python/data_wrangling/pandas_list_unique_values_in_column/)  
           * [Loading A CSV Into pandas](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_importing_csv/)  
@@ -1444,14 +1457,21 @@
           * [Suppressing Stan optimizer printing in Python · Issue #223 · facebook/prophet](https://github.com/facebook/prophet/issues/223#issuecomment-326455744)  
         * indhumathychelliah.com  
           * [5 Types of Arguments in Python Function Definition – All About AI-ML](https://indhumathychelliah.com/2020/09/02/5-types-of-arguments-in-python-function-definition/)  
+          * [An Introduction to Python Dictionary – All About AI-ML](https://indhumathychelliah.com/2020/07/12/an-introduction-to-python-dictionary/)  
+          * [An Introduction to Python List – All About AI-ML](https://indhumathychelliah.com/2020/06/12/an-introduction-to-python-list/)  
           * [An Introduction to Python Pandas – All About AI-ML](https://indhumathychelliah.com/2020/06/19/an-introduction-to-python-pandas/)  
+          * [An Introduction to Python Set – All About AI-ML](https://indhumathychelliah.com/2020/06/15/an-introduction-to-python-set/)  
+          * [An Introduction to Python Tuple – All About AI-ML](https://indhumathychelliah.com/2020/07/19/an-introduction-to-python-tuple/)  
           * [Break, Continue, and Else Clauses on Loops in Python – All About AI-ML](https://indhumathychelliah.com/2020/08/11/break-continue-and-else-clauses-on-loops-in-python/)  
           * [Concatenation (+) and Repetition (*) in Python – All About AI-ML](https://indhumathychelliah.com/2020/08/25/concatenation-and-repetition-in-python/)  
           * [Different Ways of Using Sorted Function in Python – All About AI-ML](https://indhumathychelliah.com/2020/06/24/different-ways-of-using-sorted-function-in-python/)  
           * [Different Ways to Replace Occurences of a Substring in Python Strings – All About AI-ML](https://indhumathychelliah.com/2020/12/20/different-ways-to-replace-occurences-of-a-substring-in-python-strings/)  
+          * [Equality vs Identity vs Membership Operation in Python – All About AI-ML](https://indhumathychelliah.com/2020/09/24/equality-vs-identity-vs-membership-operation-in-python/)  
           * [Exploring Descriptive Statistics Using Pandas and Seaborn – All About AI-ML](https://indhumathychelliah.com/2020/10/10/exploring-descriptive-statistics-using-pandas-and-seaborn/)  
           * [Exploring Python Basic Terms – All About AI-ML](https://indhumathychelliah.com/2020/09/12/exploring-python-basic-terms/)  
           * [Indexing and Slicing Python Pandas DataFrame – All About AI-ML](https://indhumathychelliah.com/2020/09/30/indexing-and-slicing-python-pandas-dataframe/)  
+          * [Indexing vs Slicing in Python – All About AI-ML](https://indhumathychelliah.com/2020/09/22/indexing-vs-slicing-in-python/)  
+          * [List, Set, Dictionary Comprehensions in Python – All About AI-ML](https://indhumathychelliah.com/2020/07/22/list-set-dictionary-comprehensions-in-python/)  
           * [Looping Techniques in Python – All About AI-ML](https://indhumathychelliah.com/2020/07/30/looping-techniques-in-python/)  
           * [Mathematical Set Operations in Python](https://indhumathychelliah.com/2020/08/27/mathematical-set-operations-in-python/)  
           * [New String Methods to Remove Prefixes and Suffixes in Python 3.9 – All About AI-ML](https://indhumathychelliah.com/2020/10/12/new-string-methods-to-remove-prefixes-and-suffixes-in-python-3-9/)  
@@ -1618,6 +1638,7 @@
           * [How to sort a dataFrame in python pandas by two or more columns? - Stack Overflow](https://stackoverflow.com/questions/17141558/how-to-sort-a-dataframe-in-python-pandas-by-two-or-more-columns)  
           * [How to split a string into an array of characters in Python? - Stack Overflow](https://stackoverflow.com/questions/4978787/how-to-split-a-string-into-an-array-of-characters-in-python)  
           * [How to use a variable as function name in Python - Stack Overflow](https://stackoverflow.com/questions/34794634/how-to-use-a-variable-as-function-name-in-python)  
+          * [How to write a pandas dataframe to .arrow file - Stack Overflow](https://stackoverflow.com/questions/64629670/how-to-write-a-pandas-dataframe-to-arrow-file)  
           * [https - How do I disable the security certificate check in Python requests - Stack Overflow](https://stackoverflow.com/questions/15445981/how-do-i-disable-the-security-certificate-check-in-python-requests)  
           * [Jira python calculate time - Stack Overflow](https://stackoverflow.com/questions/37744027/jira-python-calculate-time)  
           * [newline - How to write Unix end of line characters in Windows using Python - Stack Overflow](https://stackoverflow.com/questions/2536545/how-to-write-unix-end-of-line-characters-in-windows-using-python)  
@@ -1626,6 +1647,7 @@
           * [pandas drops index index on merge in Python? - Stack Overflow](https://stackoverflow.com/questions/15661455/pandas-drops-index-index-on-merge-in-python)  
           * [Parse JSON in Python - Stack Overflow](https://stackoverflow.com/questions/7771011/parse-json-in-python)  
           * [partition string in python and get value of last segment after colon - Stack Overflow](https://stackoverflow.com/questions/6169324/partition-string-in-python-and-get-value-of-last-segment-after-colon/6169363)  
+          * [pip - How to list dependencies for a python library without installing? - Stack Overflow](https://stackoverflow.com/questions/41816693/how-to-list-dependencies-for-a-python-library-without-installing/50424967#50424967)  
           * [pip - How to use requirements.txt to install all dependencies in a python project - Stack Overflow](https://stackoverflow.com/questions/41457612/how-to-use-requirements-txt-to-install-all-dependencies-in-a-python-project)  
           * [portability - Is there a portable way to get the current username in Python? - Stack Overflow](https://stackoverflow.com/questions/842059/is-there-a-portable-way-to-get-the-current-username-in-python)  
           * [Pretty-Print JSON Data to a File using Python - Stack Overflow](https://stackoverflow.com/questions/9170288/pretty-print-json-data-to-a-file-using-python)  
@@ -2033,14 +2055,30 @@
     * R  
       * R How To  
         * stackoverflow.com  
+          * [For each row in an R dataframe - Stack Overflow](https://stackoverflow.com/questions/1699046/for-each-row-in-an-r-dataframe)  
           * [Function to clear the console in R and RStudio - Stack Overflow](https://stackoverflow.com/questions/14260340/function-to-clear-the-console-in-r-and-rstudio)  
+          * [How do I combine many zoo objects in R - Stack Overflow](https://stackoverflow.com/questions/25293299/how-do-i-combine-many-zoo-objects-in-r)  
+          * [How to loop through a list in R - Stack Overflow](https://stackoverflow.com/questions/26297024/how-to-loop-through-a-list-in-r)  
           * [Measuring function execution time in R - Stack Overflow](https://stackoverflow.com/questions/6262203/measuring-function-execution-time-in-r)  
           * [Proxy setting for R - Stack Overflow](https://stackoverflow.com/questions/6467277/proxy-setting-for-r)  
+          * [R - Concatenate two dataframes? - Stack Overflow](https://stackoverflow.com/questions/8169323/r-concatenate-two-dataframes)  
+          * [r - converting zoo to dataframe - Stack Overflow](https://stackoverflow.com/questions/40120968/converting-zoo-to-dataframe)  
+          * [r - Write xts/zoo object to csv with index - Stack Overflow](https://stackoverflow.com/questions/20748721/write-xts-zoo-object-to-csv-with-index)  
         * www.rdocumentation.org  
           * [getPass function | R Documentation](https://www.rdocumentation.org/packages/getPass/versions/0.2-2/topics/getPass)  
           * [install.packages function | R Documentation](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/install.packages)  
         * [Configuring R to Use an HTTP or HTTPS Proxy – RStudio Support](https://support.rstudio.com/hc/en-us/articles/200488488-Configuring-R-to-Use-an-HTTP-or-HTTPS-Proxy)  
         * [Configuring R to Use an HTTP Proxy / FAQ / Knowledge Base – RStudio Support – Lost in Replications](https://bhoom.wordpress.com/2013/05/27/configuring-r-to-use-an-http-proxy-faq-knowledge-base-rstudio-support/)  
+        * [dplyr: A Grammar of Data Manipulation](https://cran.r-project.org/web/packages/dplyr/dplyr.pdf)  
+        * [Get the List of column names of dataframe in R - DataScience Made Simple](https://www.datasciencemadesimple.com/get-the-list-of-column-names-of-dataframe-in-r-2/)  
+        * [How to Add a Column to a Dataframe in R with tibble & dplyr](https://www.marsja.se/how-to-add-a-column-to-dataframe-in-r-with-tibble-dplyr/)  
+        * [How to Check Data type in R](https://r-lang.com/how-to-check-data-type-of-variable-in-r/)  
+        * [R Merge - How To Merge Two R Data Frames - ProgrammingR](https://www.programmingr.com/examples/r-dataframe/merge-data-frames/)  
+        * [R scripts as command line tools | R-bloggers](https://www.r-bloggers.com/2019/11/r-scripts-as-command-line-tools/)  
+        * [Rename Data Frame Columns in R - Datanovia](https://www.datanovia.com/en/lessons/rename-data-frame-columns-in-r/)  
+        * [Reordering Data Frame Columns in R - Easy Guides - Wiki - STHDA](http://www.sthda.com/english/wiki/reordering-data-frame-columns-in-r)  
+        * [String Concatenation in R Programming - GeeksforGeeks](https://www.geeksforgeeks.org/string-concatenation-in-r-programming/)  
+        * [Sys.sleep function - RDocumentation](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/Sys.sleep)  
         * [use_proxy: Use a proxy to connect to the internet. in httr: Tools for Working with URLs and HTTP](https://rdrr.io/cran/httr/man/use_proxy.html)  
       * [RStudio](https://rstudio.com/products/rstudio/)  
     * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)  
@@ -2074,7 +2112,11 @@
   * Version Control  
     * Git  
       * Git How To  
+        * github.com  
+          * [github/gitignore: A collection of useful .gitignore templates](https://github.com/github/gitignore)  
+          * [Configuring Git to handle line endings - GitHub Docs](https://docs.github.com/en/github/using-git/configuring-git-to-handle-line-endings)  
         * stackoverflow.com  
+          * [controls - Accidentally deleted .git folder - can it be restored? - Stack Overflow](https://stackoverflow.com/questions/30993981/accidentally-deleted-git-folder-can-it-be-restored/40561212)  
           * [git - Cannot push to GitHub - keeps saying need merge - Stack Overflow](https://stackoverflow.com/questions/10298291/cannot-push-to-github-keeps-saying-need-merge)  
           * [How do I properly force a Git push? - Stack Overflow](https://stackoverflow.com/questions/5509543/how-do-i-properly-force-a-git-push)  
           * [msysgit - How do I force git to use LF instead of CR+LF under windows? - Stack Overflow](https://stackoverflow.com/questions/2517190/how-do-i-force-git-to-use-lf-instead-of-crlf-under-windows)  
@@ -2082,10 +2124,8 @@
           * [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/install-git#windows)  
           * [Git cheat sheet | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)  
           * [git stash - Saving Changes | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)  
-        * [Configuring Git to handle line endings - GitHub Docs](https://docs.github.com/en/github/using-git/configuring-git-to-handle-line-endings)  
         * [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)  
         * [Git save password under windows - Dirask](https://dirask.com/posts/Git-save-password-under-windows-gp52xj)  
-        * [github/gitignore: A collection of useful .gitignore templates](https://github.com/github/gitignore)  
         * [How can I undo the last commit?](https://www.git-tower.com/learn/git/faq/undo-last-commit)  
       * [GitHub](https://github.com/)  
       * [GitHub Résumé](http://resume.github.io/)  
