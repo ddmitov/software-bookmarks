@@ -85,6 +85,7 @@
             * [checkip.amazonaws.com](http://checkip.amazonaws.com/)  
           * [AWS Cloud Ping - Latency & Response Speed Test](https://www.cloudping.cloud/aws)  
           * [Is it on AWS?](https://isitonaws.com/)  
+          * [Serverless patterns | Serverless Land](https://serverlessland.com/patterns)  
         * [AWS Pricing Calculator](https://calculator.aws/)  
         * [AWS Service Health Dashboard](https://status.aws.amazon.com/)  
         * [Cloud Services - Amazon Web Services (AWS)](https://aws.amazon.com/)  
@@ -121,9 +122,11 @@
       * [MinIO | High Performance, Kubernetes Native Object Storage](https://min.io/)  
     * Storj  
       * Storj How To  
-        * [Create Access Grant in CLI - Storj DCS](https://docs.storj.io/dcs/getting-started/quickstart-uplink-cli/generate-access-grants-and-tokens/generate-a-token)  
-        * [Uplink CLI - Storj DCS](https://docs.storj.io/dcs/api-reference/uplink-cli)  
-        * [Usage Limits - Storj DCS](https://docs.storj.io/dcs/concepts/limits)  
+        * docs.storj.io  
+          * [Create Access Grant in CLI - Storj DCS](https://docs.storj.io/dcs/getting-started/quickstart-uplink-cli/generate-access-grants-and-tokens/generate-a-token)  
+          * [Rclone with Native Integration | Storj Docs](https://docs.storj.io/dcs/how-tos/sync-files-with-rclone/rclone-with-native-integration/)  
+          * [Uplink CLI - Storj DCS](https://docs.storj.io/dcs/api-reference/uplink-cli)  
+          * [Usage Limits - Storj DCS](https://docs.storj.io/dcs/concepts/limits)  
       * [Storj - Decentralized Cloud Storage](https://www.storj.io/)  
   * Concepts  
     * [Why SOLID principles are still the foundation for modern software architecture - Stack Overflow Blog](https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/)  
@@ -133,6 +136,7 @@
         * docs.docker.com  
           * [Build your Python image | Docker Documentation](https://docs.docker.com/language/python/build-images/)  
           * [Compose file version 3 reference | Docker Documentation](https://docs.docker.com/compose/compose-file/compose-file-v3/)  
+          * [Control startup and shutdown order in Compose | Docker Documentation](https://docs.docker.com/compose/startup-order/)  
           * [docker | Docker Documentation](https://docs.docker.com/engine/reference/commandline/docker/)  
           * [docker container ls | Docker Documentation](https://docs.docker.com/engine/reference/commandline/container_ls/)  
           * [docker container stop | Docker Documentation](https://docs.docker.com/engine/reference/commandline/container_stop/)  
@@ -155,15 +159,10 @@
         * [Exiting a Docker Container · vsupalov.com](https://vsupalov.com/exit-docker-container/)  
         * [How To Remove Docker Containers, Images, Volumes, and Networks | Linuxize](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/)  
         * [Howto use docker-compose to Start, Stop, Remove Docker Containers](https://www.thegeekstuff.com/2016/04/docker-compose-up-stop-rm/)  
-      * [aptible/supercronic: Cron for containers](https://github.com/aptible/supercronic)  
     * [MicroK8s - Fast, Light, Upstream Developer Kubernetes](https://microk8s.io/)  
   * Continuous Integration  
     * [Customizing the Build - Travis CI](https://docs.travis-ci.com/user/customizing-the-build)  
     * [How do I get Travis' build working directory in .travis.yml? - Stack Overflow](https://stackoverflow.com/questions/14006810/how-do-i-get-travis-build-working-directory-in-travis-yml)  
-  * Data Analytics  
-    * [OLAP cube - Wikipedia](https://en.wikipedia.org/wiki/OLAP_cube)  
-    * [The Rise and Fall of the OLAP Cube](https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/)  
-    * [What is OLAP? Cube, Operations & Types in Data Warehouse](https://www.guru99.com/online-analytical-processing.html)  
   * Data Formats  
     * JSON  
       * GeoJSON  
@@ -214,13 +213,14 @@
           * [Amazon S3 - Dremio](https://docs.dremio.com/software/data-sources/s3/)  
           * [Analyzing Data with Python and Dremio on Docker and Kubernetes - Dremio | Dremio](https://www.dremio.com/resources/tutorials/python-dremio-and-kubernetes/)  
           * [DBeaver - Dremio](https://docs.dremio.com/software/client-applications/dbeaver/)  
-          * [Dremio Documentation](https://docs.dremio.com/)  
-          * [Eliminating Data Exports for Data Science with Apache Arrow Flight - Dremio](https://www.dremio.com/eliminating-data-exports-for-data-science-with-apache-arrow-flight)  
+          * [Dremio Events - Eliminating Data Exports for Data Science with Apache Arrow Flight | Dremio](https://www.dremio.com/blog/eliminating-data-exports-for-data-science-with-apache-arrow-flight/)  
           * [Getting Oriented to Dremio | Dremio](https://www.dremio.com/resources/tutorials/getting-oriented-to-dremio/)  
           * [Overview of Dremio Cloud - Dremio](https://docs.dremio.com/cloud/getting-started/architecture/)  
+          * [PIVOT - Dremio](https://docs.dremio.com/software/sql-reference/sql-functions/functions/pivot/)  
           * [Reflections Overview - Dremio](https://docs.dremio.com/software/acceleration/reflections/)  
           * [SQL Reference - Dremio](https://docs.dremio.com/software/sql-reference/)  
           * [Standalone Cluster - Dremio](https://docs.dremio.com/software/deployment/standalone/standalone-cluster/)  
+          * [System Requirements - Dremio](https://docs.dremio.com/software/deployment/system-requirements/)  
           * [Virtual Datasets - Dremio](https://docs.dremio.com/software/working-with-datasets/virtual-datasets/)  
       * [dremio/dremio-cloud-tools: Dremio Container Tools](https://github.com/dremio/dremio-cloud-tools)  
       * [Dremio | The Forever-Free Data Lakehouse Platform](https://www.dremio.com/)  
@@ -250,6 +250,7 @@
     * [Apache Superset](https://superset.apache.org/)  
     * [Awesome dataviz tools by Cube.js](https://awesome.cube.dev/)  
     * [chroma.js palette helper](https://vis4.net/palettes/)  
+    * [Word Cloud Generator](https://www.jasondavies.com/wordcloud/)  
   * Database Editors  
     * DBase Editors  
       * [DBF Explorer](http://www.pablosoftwaresolutions.com/html/dbf_explorer.html)  
@@ -358,6 +359,7 @@
           * [mysql - 'IF' in 'SELECT' statement - choose output value based on column values - Stack Overflow](https://stackoverflow.com/questions/5951157/if-in-select-statement-choose-output-value-based-on-column-values)  
           * [MySQL - How to count the number of inserts/updates to a table - Stack Overflow](https://stackoverflow.com/questions/39459185/mysql-how-to-count-the-number-of-inserts-updates-to-a-table)  
           * [mysql - INSERT with SELECT - Stack Overflow](https://stackoverflow.com/questions/5391344/insert-with-select)  
+          * [mysql - joining two select statements - Stack Overflow](https://stackoverflow.com/questions/6035901/joining-two-select-statements)  
           * [mysql - Select records from NOW() -1 Day - Stack Overflow](https://stackoverflow.com/questions/8544438/select-records-from-now-1-day)  
           * [MySQL select fields in one table that are not in another table - Stack Overflow](https://stackoverflow.com/questions/8153557/mysql-select-fields-in-one-table-that-are-not-in-another-table)  
           * [MySQL show status - active or total connections? - Stack Overflow](https://stackoverflow.com/questions/7432241/mysql-show-status-active-or-total-connections)  
@@ -401,6 +403,10 @@
           * [MySQL SUBSTRING_INDEX() function - w3resource](https://www.w3resource.com/mysql/string-functions/mysql-substring_index-function.php)  
           * [MySQL sum() with group by - w3resource](https://www.w3resource.com/mysql/aggregate-functions-and-grouping/aggregate-functions-and-grouping-sum-with-group-by.php)  
           * [MySQL TIMESTAMPDIFF() function - w3resource](https://www.w3resource.com/mysql/date-and-time-functions/mysql-timestampdiff-function.php)  
+          * [SQL COUNT() with DISTINCT - w3resource](https://www.w3resource.com/sql/aggregate-functions/count-with-distinct.php)  
+          * [SQL COUNT() with HAVING - w3resource](https://www.w3resource.com/sql/aggregate-functions/count-having.php)  
+          * [SQL MAX() function with GROUP by, ORDER by - w3resource](https://www.w3resource.com/sql/aggregate-functions/Max-with-group-by.php)  
+          * [SQL SELECT with DISTINCT on multiple columns - w3resource](https://www.w3resource.com/sql/select-statement/queries-with-distinct-multiple-columns.php)  
         * www.w3schools.com  
           * [MySQL CASE Function](https://www.w3schools.com/sql/func_mysql_case.asp)  
           * [MySQL CAST() Function](https://www.w3schools.com/sql/func_mysql_cast.asp)  
@@ -643,8 +649,14 @@
     * Linux  
       * AppImage  
         * [AppImage | Linux apps that run anywhere](http://appimage.org/)  
-        * [AppStream Generator](http://output.jsbin.com/qoqukof)  
         * [probonopd/linuxdeployqt: Makes Linux applications self-contained by copying in the Qt libraries and plugins that the application uses.](https://github.com/probonopd/linuxdeployqt)  
+      * Cron  
+        * Cron How To  
+          * [automation - CRON job to run on the last day of the month - Stack Overflow](https://stackoverflow.com/questions/6139189/cron-job-to-run-on-the-last-day-of-the-month)  
+          * [crontab.guru - the cron schedule expression editor](https://crontab.guru/)  
+          * [How To Add Jobs To cron Under Linux or UNIX - nixCraft](https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/)  
+        * [aptible/supercronic: Cron for containers](https://github.com/aptible/supercronic)  
+        * [healthchecks/healthchecks: A cron monitoring tool written in Python & Django](https://github.com/healthchecks/healthchecks)  
       * Linux Applications  
         * [lookbusy -- a synthetic load generator](http://www.devin.com/lookbusy/)  
         * [PhotoRec - CGSecurity](http://www.cgsecurity.org/wiki/PhotoRec)  
@@ -686,9 +698,9 @@
           * [How To Use Linux Screen | Linuxize](https://linuxize.com/post/how-to-use-linux-screen/)  
           * [Linux Chown Command | Linuxize](https://linuxize.com/post/linux-chown-command/)  
         * nixCraft  
-          * [How To Add Jobs To cron Under Linux or UNIX - nixCraft](https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/)  
           * [How to check if port is in use on Linux or Unix - nixCraft](https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/)  
           * [How to find a folder in Linux using the command line - nixCraft](https://www.cyberciti.biz/faq/how-to-find-a-folder-in-linux-using-the-command-line/)  
+          * [Linux Find Number of CPU Cores Command - nixCraft](https://www.cyberciti.biz/faq/linux-get-number-of-cpus-core-command/)  
           * [Linux Find Out My Machine Name/Hostname - nixCraft](https://www.cyberciti.biz/faq/find-my-linux-machine-name/)  
           * [Linux find process by name - nixCraft](https://www.cyberciti.biz/faq/linux-find-process-name/)  
           * [Linux List The Open Ports And The Process That Owns Them – nixCraft](https://www.cyberciti.biz/tips/linux-display-open-ports-owner.html)  
@@ -697,9 +709,9 @@
           * [Check if port is open or closed on a Linux server? - Server Fault](https://serverfault.com/questions/309052/check-if-port-is-open-or-closed-on-a-linux-server)  
           * [Dump a linux process's memory to file - Server Fault](https://serverfault.com/questions/173999/dump-a-linux-processs-memory-to-file/970213)  
         * stackoverflow.com  
-          * [automation - CRON job to run on the last day of the month - Stack Overflow](https://stackoverflow.com/questions/6139189/cron-job-to-run-on-the-last-day-of-the-month)  
           * [linux - How do I get out of a screen without typing 'exit'? - Stack Overflow](https://stackoverflow.com/questions/4847691/how-do-i-get-out-of-a-screen-without-typing-exit)  
           * [linux - How i can read tty file with timeout? - Stack Overflow](https://stackoverflow.com/questions/6713668/how-i-can-read-tty-file-with-timeout)  
+          * [linux - Kill detached screen session - Stack Overflow](https://stackoverflow.com/questions/1509677/kill-detached-screen-session)  
           * [linux - Redirect stderr to /dev/null - Stack Overflow](https://stackoverflow.com/questions/44758736/redirect-stderr-to-dev-null)  
         * superuser.com  
           * [How Can I Create A Dump File of a Running Process in Linux? - Super User](https://superuser.com/questions/401182/how-can-i-create-a-dump-file-of-a-running-process-in-linux)  
@@ -707,7 +719,6 @@
         * [5 commands to check memory usage on Linux - BinaryTides](https://www.binarytides.com/linux-command-check-memory-usage/)  
         * [7 Linux Grep OR, Grep AND, Grep NOT Operator Examples](https://www.thegeekstuff.com/2011/10/grep-or-and-not-operators/)  
         * [A simple command to toggle mute with pulseaudio (any sink)](https://www.commandlinefu.com/commands/view/13133/a-simple-command-to-toggle-mute-with-pulseaudio-any-sink)  
-        * [crontab.guru - the cron schedule expression editor](https://crontab.guru/)  
         * [Different Ways To Generate A Strong Password In Linux - OSTechNix](https://ostechnix.com/4-easy-ways-to-generate-a-strong-password-in-linux/)  
         * [How to check CentOS version - LinuxConfig.org](https://linuxconfig.org/how-to-check-centos-version)  
         * [How to find your IP address in Linux | Opensource.com](https://opensource.com/article/18/5/how-find-ip-address-linux)  
@@ -805,6 +816,7 @@
           * [How to get the total physical memory in Bash to assign it to a variable? - Stack Overflow](https://stackoverflow.com/questions/2441046/how-to-get-the-total-physical-memory-in-bash-to-assign-it-to-a-variable)  
           * [How to output a multiline string in Bash? - Stack Overflow](https://stackoverflow.com/questions/10969953/how-to-output-a-multiline-string-in-bash)  
           * [linux - Get program execution time in the shell - Stack Overflow](https://stackoverflow.com/questions/385408/get-program-execution-time-in-the-shell)  
+          * [variables - How to remove a newline from a string in Bash - Stack Overflow](https://stackoverflow.com/questions/19345872/how-to-remove-a-newline-from-a-string-in-bash)  
         * [bash - How to copy some, but not all files? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/41693/how-to-copy-some-but-not-all-files)  
       * [Opera Session Converter](https://gist.github.com/ddmitov/9bb3a7b0920beaf68191)  
       * [ShellCheck – shell script analysis tool](https://www.shellcheck.net/)  
@@ -1157,6 +1169,7 @@
           * [Stacked area chart template for d3.js](https://www.d3-graph-gallery.com/graph/stackedarea_template.html)  
         * www.javascripttutorial.net  
           * [3 Ways to Check If a Property Exists in an Object in JavaScript](https://www.javascripttutorial.net/object/javascript-check-if-property-exists/)  
+          * [Getting Width & Height of an Element in JavaScript](https://www.javascripttutorial.net/javascript-dom/javascript-width-height/)  
           * [How to Add Styles to an Element in JavaScript](https://www.javascripttutorial.net/dom/css/add-styles-to-an-element/)  
           * [How to Remove All Child Nodes in JavaScript](https://www.javascripttutorial.net/dom/manipulating/remove-all-child-nodes/)  
           * [Make Your Code Cleaner with JavaScript Ternary Operator](https://www.javascripttutorial.net/javascript-ternary-operator/)  
@@ -1182,6 +1195,7 @@
           * [onpaste Event](http://www.w3schools.com/jsref/event_onpaste.asp)  
           * [onsubmit Event](http://www.w3schools.com/jsref/event_onsubmit.asp)  
           * [Window setInterval() Method](https://www.w3schools.com/jsref/met_win_setinterval.asp)  
+        * [Add React to a Website – React](https://reactjs.org/docs/add-react-to-a-website.html)  
         * [Avoid enormous network payloads | GTmetrix](https://gtmetrix.com/avoid-enormous-network-payloads.html)  
         * [Check if variable is a number in JavaScript - Mkyong.com](https://mkyong.com/javascript/check-if-variable-is-a-number-in-javascript/)  
         * [Code caching for JavaScript developers · V8](https://v8.dev/blog/code-caching-for-devs)  
@@ -1230,12 +1244,13 @@
           * [jQuery: The Write Less, Do More, JavaScript Library](https://jquery.com/)  
         * [Ace - The High Performance Code Editor for the Web](http://ace.c9.io/)  
         * [alertify.js - browser dialogs never looked so good](http://fabien-d.github.io/alertify.js/)  
+        * [amCharts](https://www.amcharts.com/)  
         * [Axios](https://axios-http.com/)  
         * [Highcharts - Interactive javascript charts library](https://www.highcharts.com/)  
-        * [JavaScript Charts & Maps - amCharts](https://www.amcharts.com/)  
         * [Jspreadsheet v4: The javascript spreadsheet](https://bossanova.uk/jspreadsheet/v4/)  
         * [Papa Parse - Powerful CSV Parser for JavaScript](https://www.papaparse.com/)  
         * [PivotTable.js](https://pivottable.js.org/examples/)  
+        * [sorttable: Make all your tables sortable](https://www.kryogenix.org/code/browser/sorttable/)  
         * [WebDataRocks | Free Web Reporting Tool](https://www.webdatarocks.com/)  
       * JavaScript Online Code Editors  
         * [CodePen: Online Code Editor and Front End Web Developer Community](https://codepen.io/)  
@@ -1620,6 +1635,7 @@
           * [Filesystem Interface](https://arrow.apache.org/docs/python/filesystems.html)  
           * [Introducing Apache Arrow Flight: A Framework for Fast Data Transport | Apache Arrow](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/)  
           * [Pandas Integration — Apache Arrow v7.0.0](https://arrow.apache.org/docs/python/pandas.html)  
+          * [Powered by | Apache Arrow](https://arrow.apache.org/powered_by/)  
           * [pyarrow.concat_tables](https://arrow.apache.org/docs/python/generated/pyarrow.concat_tables.html)  
           * [pyarrow.ipc.new_file](https://arrow.apache.org/docs/python/generated/pyarrow.ipc.new_file.html#pyarrow.ipc.new_file)  
           * [pyarrow.parquet.ParquetDataset](https://arrow.apache.org/docs/python/generated/pyarrow.parquet.ParquetDataset.html)  
@@ -1665,13 +1681,18 @@
           * [threading — Thread-based parallelism](https://docs.python.org/3/library/threading.html)  
           * [venv — Creation of virtual environments](https://docs.python.org/3/library/venv.html)  
         * duckdb.org  
+          * [DuckDB - Aggregate Functions](https://duckdb.org/docs/sql/aggregates)  
+          * [DuckDB - Date Format](https://duckdb.org/docs/sql/functions/dateformat)  
           * [DuckDB - Date Functions](https://duckdb.org/docs/sql/functions/date)  
           * [DuckDB - Date Parts](https://duckdb.org/docs/sql/functions/datepart)  
           * [DuckDB - DuckDB quacks Arrow: A zero-copy data integration between Apache Arrow and DuckDB](https://duckdb.org/2021/12/03/duck-arrow.html)  
           * [DuckDB - Efficient SQL on Pandas with DuckDB](https://duckdb.org/2021/05/14/sql-on-pandas.html)  
           * [DuckDB - Full Text Search](https://duckdb.org/docs/sql/full_text_search)  
           * [DuckDB - Interval Functions](https://duckdb.org/docs/sql/functions/interval)  
+          * [DuckDB - Pragmas](https://duckdb.org/docs/sql/pragmas)  
+          * [DuckDB - Python API](https://duckdb.org/docs/api/python)  
           * [DuckDB - SQL Introduction](https://duckdb.org/docs/sql/introduction)  
+          * [DuckDB - Text Functions](https://duckdb.org/docs/sql/functions/char)  
           * [DuckDB - Time Functions](https://duckdb.org/docs/sql/functions/time)  
           * [DuckDB - Timestamp Functions](https://duckdb.org/docs/sql/functions/timestamp)  
           * [DuckDB Shell](https://shell.duckdb.org/)  
@@ -1685,6 +1706,7 @@
           * [Upload folder contents to AWS S3](https://gist.github.com/feelinc/d1f541af4f31d09a2ec3)  
         * github.com  
           * [arrow-cookbook/flight.rst at main · apache/arrow-cookbook](https://github.com/apache/arrow-cookbook/blob/main/python/source/flight.rst)  
+          * [arrow-flight-client-examples/python at main · dremio-hub/arrow-flight-client-examples](https://github.com/dremio-hub/arrow-flight-client-examples/tree/main/python)  
           * [arrow/python/examples/flight at master · apache/arrow](https://github.com/apache/arrow/tree/master/python/examples/flight)  
           * [arrow/test_flight.py at master · apache/arrow](https://github.com/apache/arrow/blob/master/python/pyarrow/tests/test_flight.py)  
           * [derrekyoung/url-checker-python: Python scripts to check URLs](https://github.com/derrekyoung/url-checker-python)  
@@ -1787,6 +1809,9 @@
           * [Comprehensive Guide to Grouping and Aggregating with Pandas - Practical Business Python](https://pbpython.com/groupby-agg.html)  
           * [Guide to Encoding Categorical Values in Python - Practical Business Python](https://pbpython.com/categorical-encoding.html)  
           * [Overview of Pandas Data Types - Practical Business Python](https://pbpython.com/pandas_dtypes.html)  
+        * pgjones.gitlab.io  
+          * [Deploying Quart — Quart 0.16.2 documentation](https://pgjones.gitlab.io/quart/tutorials/deployment.html)  
+          * [Cheatsheet — Quart 0.16.3 documentation](https://pgjones.gitlab.io/quart/reference/cheatsheet.html?highlight=static)  
         * pip.pypa.io  
           * [pip list](https://pip.pypa.io/en/stable/reference/pip_list/)  
           * [pip uninstall](https://pip.pypa.io/en/stable/reference/pip_uninstall/)  
@@ -1811,6 +1836,7 @@
         * spark.apache.org  
           * [Distributed SQL Engine - Spark 3.2.1 Documentation](https://spark.apache.org/docs/latest/sql-distributed-sql-engine.html)  
           * [Python Package Management — PySpark 3.2.0 documentation](https://spark.apache.org/docs/latest/api/python/user_guide/python_packaging.html)  
+          * [SQL Syntax - Spark 3.0.0 Documentation](https://spark.apache.org/docs/3.0.0/sql-ref-syntax.html)  
           * [Submitting Applications - Spark 3.2.0 Documentation](https://spark.apache.org/docs/latest/submitting-applications.html)  
         * sparkbyexamples.com  
           * [Convert PySpark DataFrame to Pandas — SparkByExamples](https://sparkbyexamples.com/pyspark/convert-pyspark-dataframe-to-pandas/)  
@@ -1823,6 +1849,7 @@
           * [Reading and Writing JSON to a File in Python](https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/)  
         * stackoverflow.com  
           * [apache - Auto reloading python Flask app upon code changes - Stack Overflow](https://stackoverflow.com/questions/16344756/auto-reloading-python-flask-app-upon-code-changes)  
+          * [Append integer to beginning of list in Python - Stack Overflow](https://stackoverflow.com/questions/17911091/append-integer-to-beginning-of-list-in-python)  
           * [Append values to a set in Python - Stack Overflow](https://stackoverflow.com/questions/3392354/append-values-to-a-set-in-python)  
           * [Can't sort my list because it is NoneType? Simple Python - Stack Overflow](https://stackoverflow.com/questions/13668154/cant-sort-my-list-because-it-is-nonetype-simple-python)  
           * [Cancellable threading.Timer in Python - Stack Overflow](https://stackoverflow.com/questions/9812344/cancellable-threading-timer-in-python/9812806)  
@@ -2043,6 +2070,7 @@
           * [python - Repeat a string n times and print n lines of it - Stack Overflow](https://stackoverflow.com/questions/40008279/repeat-a-string-n-times-and-print-n-lines-of-it/40008504)  
           * [python - replacing NaT with 0 days - Stack Overflow](https://stackoverflow.com/questions/49240881/replacing-nat-with-0-days)  
           * [python - Replicating GROUP_CONCAT for pandas.DataFrame - Stack Overflow](https://stackoverflow.com/questions/18138693/replicating-group-concat-for-pandas-dataframe)  
+          * [python - Requests -- how to tell if you're getting a 404 - Stack Overflow](https://stackoverflow.com/questions/15258728/requests-how-to-tell-if-youre-getting-a-404)  
           * [python - return string with first match Regex - Stack Overflow](https://stackoverflow.com/questions/38579725/return-string-with-first-match-regex)  
           * [python - round a single column in pandas - Stack Overflow](https://stackoverflow.com/questions/26133538/round-a-single-column-in-pandas)  
           * [python - Round number to nearest integer - Stack Overflow](https://stackoverflow.com/questions/31818050/round-number-to-nearest-integer)  
@@ -2071,6 +2099,7 @@
           * [python - What is as_index in groupby in pandas? - Stack Overflow](https://stackoverflow.com/questions/41236370/what-is-as-index-in-groupby-in-pandas)  
           * [python - What is wrong with using a bare 'except'? - Stack Overflow](https://stackoverflow.com/questions/54948548/what-is-wrong-with-using-a-bare-except)  
           * [python - Where does pip install its packages? - Stack Overflow](https://stackoverflow.com/questions/29980798/where-does-pip-install-its-packages/45309460)  
+          * [python - Writing a connection string when password contains special characters - Stack Overflow](https://stackoverflow.com/questions/1423804/writing-a-connection-string-when-password-contains-special-characters)  
           * [python - Writing a pandas DataFrame to CSV file - Stack Overflow](https://stackoverflow.com/questions/16923281/writing-a-pandas-dataframe-to-csv-file)  
           * [Python : IndexError: tuple index out of range - Stack Overflow](https://stackoverflow.com/questions/25169563/python-indexerror-tuple-index-out-of-range/25169619)  
           * [python .replace() regex - Stack Overflow](https://stackoverflow.com/questions/11475885/python-replace-regex)  
@@ -2133,6 +2162,9 @@
         * wiki.python.org  
           * [HandlingExceptions - Python Wiki](https://wiki.python.org/moin/HandlingExceptions)  
           * [WhileLoop - Python Wiki](https://wiki.python.org/moin/WhileLoop)  
+        * www.analyticsvidhya.com  
+          * [Pandas Pivot table | Create Pivot Table Using Pandas in Python](https://www.analyticsvidhya.com/blog/2020/03/pivot-table-pandas-python/)  
+          * [The Guide to Data Analysis with DuckDB - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/12/the-guide-to-data-analysis-with-duckdb/)  
         * www.delftstack.com  
           * [Count Unique Values Per Group(s) in Pandas | Delft Stack](https://www.delftstack.com/howto/python-pandas/how-to-count-unique-values-with-pandas-per-groups/)  
           * [Hide Axis Text Ticks and/or Tick Labels in Matplotlib | Delft Stack](https://www.delftstack.com/howto/matplotlib/how-to-hide-axis-text-ticks-and-or-tick-labels-in-matplotlib/#xaxis.set_ticklabels%2fyaxis.set_ticklabels-to-hide-axis-label-%2f-text-in-matplotlib)  
@@ -2247,11 +2279,9 @@
         * [Python: How to Print Without Newline? (The Idiomatic Way) - Afternerd](https://www.afternerd.com/blog/how-to-print-without-a-newline-in-python/)  
         * [Python: Sort dictionary by value](https://code-maven.com/slides/python-programming/sort-dictionary-by-value)  
         * [PyWin32 - How to Bring a Window to Front - The Mouse Vs. The Python](https://www.blog.pythonlibrary.org/2014/10/20/pywin32-how-to-bring-a-window-to-front/)  
-        * [Quart documentation](https://pgjones.gitlab.io/quart/index.html)  
         * [SettingwithCopyWarning: How to Fix This Warning in Pandas – Dataquest](https://www.dataquest.io/blog/settingwithcopywarning/)  
         * [SQLite Python](http://www.sqlitetutorial.net/sqlite-python/)  
         * [The 5 Minute Introduction to DuckDB: The SQLite for Analytics – Shekhar Gulati](https://shekhargulati.com/2019/12/15/the-5-minute-introduction-to-duckdb-the-sqlite-for-analytics/)  
-        * [The Guide to Data Analysis with DuckDB - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/12/the-guide-to-data-analysis-with-duckdb/)  
         * [Using Apache Spark Streaming to Tackle Twitter Hashtags | Toptal](https://www.toptal.com/apache/apache-spark-streaming-twitter)  
         * [windows - How to install the win32com python library - Super User](https://superuser.com/questions/609447/how-to-install-the-win32com-python-library)  
         * [Working with Datetime Objects and Timezones in Python - Howchoo](https://howchoo.com/g/ywi5m2vkodk/working-with-datetime-objects-and-timezones-in-python)  
@@ -2571,5 +2601,6 @@
     * [For fast and secure sites | Jamstack](https://jamstack.org/)  
     * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
   * [endoflife.date](https://endoflife.date/)  
+  * [Nushell](https://www.nushell.sh/)  
 
 Created using [Python Bookmark Extractor](https://github.com/ddmitov/python-bookmark-extractor)  
