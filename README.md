@@ -2,7 +2,7 @@
   * Archivers  
     * [7-Zip](https://www.7-zip.org/)  
     * [IZArc - Free Zip/Unzip Files Utility](https://www.izarc.org/)  
-    * [PeaZip free archiver utility, open extract RAR TAR ZIP files](http://www.peazip.org/)  
+    * [PeaZip free archiver utility, open extract RAR TAR ZIP files](https://peazip.github.io/)  
   * Authentication  
     * Auth0  
       * [Auth0: Secure access for everyone. But not just anyone.](https://auth0.com/)  
@@ -39,13 +39,17 @@
         * [Jira REST API examples](https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/)  
         * [OAuth for REST APIs](https://developer.atlassian.com/cloud/jira/platform/jira-rest-api-oauth-authentication/)  
         * [The Jira Cloud platform REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3/)  
-      * [Advanced search reference - JQL fields | Jira Software Cloud | Atlassian Support](https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-fields/)  
+      * support.atlassian.com  
+        * [Advanced search reference - JQL fields | Jira Software Cloud | Atlassian Support](https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-fields/)  
+        * [Create issues and comments from email | Atlassian Support](https://support.atlassian.com/jira-cloud-administration/docs/create-issues-and-comments-from-email/)  
       * [Jira 8.22.0](https://docs.atlassian.com/software/jira/docs/api/REST/8.22.0/)  
       * [JQL: The most flexible way to search Jira](https://www.atlassian.com/blog/jira-software/jql-the-most-flexible-way-to-search-jira-14)  
     * [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)  
   * Cloud Computing  
     * Cloud Platforms  
       * Amazon Web Services  
+        * Amazon Web Services Applications  
+          * [aws-adfs-cli-mfa/mfa-saml.py at master · asagage/aws-adfs-cli-mfa](https://github.com/asagage/aws-adfs-cli-mfa/blob/master/mfa-saml.py)  
         * Amazon Web Services How To  
           * amazon.com  
             * CLI  
@@ -60,6 +64,11 @@
               * [list-tags — AWS CLI 1.17.6 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-tags.html)  
               * [list-targets-by-rule — AWS CLI 1.17.3 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-targets-by-rule.html)  
               * [Named profiles for the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html)  
+            * ECR  
+              * [Private registry authentication - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/registry_auth.html)  
+              * [Pushing a Docker image - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/docker-push-ecr-image.html)  
+              * [Troubleshooting errors with Docker commands when using Amazon ECR - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/common-errors-docker.html)  
+              * [Using Amazon ECR with the AWS CLI - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/getting-started-cli.html)  
             * Lambda  
               * [AWS Lambda function handler in Python - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html)  
               * [Using AWS Lambda with Amazon API Gateway - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway.html)  
@@ -114,22 +123,6 @@
           * [Transferring files to OneDrive for Business via rclone - Academic Computing Team](https://research.reading.ac.uk/act/knowledgebase/rclone-sync/)  
         * [rclone - rsync for cloud storage](https://rclone.org/)  
     * [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)  
-  * Cloud Object Storage  
-    * MinIO  
-      * MinIO How To  
-        * [MinIO | How to use AWS SDK for Python with MinIO Server - Cookbook/Recipe](https://docs.min.io/docs/how-to-use-aws-sdk-for-python-with-minio-server.html)  
-        * [MinIO | Learn more about MinIO's Docker Implementation](https://docs.min.io/docs/minio-docker-quickstart-guide.html)  
-      * [MinIO | High Performance, Kubernetes Native Object Storage](https://min.io/)  
-    * Storj  
-      * Storj How To  
-        * docs.storj.io  
-          * [Create Access Grant in CLI - Storj DCS](https://docs.storj.io/dcs/getting-started/quickstart-uplink-cli/generate-access-grants-and-tokens/generate-a-token)  
-          * [Rclone with Native Integration | Storj Docs](https://docs.storj.io/dcs/how-tos/sync-files-with-rclone/rclone-with-native-integration/)  
-          * [Uplink CLI - Storj DCS](https://docs.storj.io/dcs/api-reference/uplink-cli)  
-          * [Usage Limits - Storj DCS](https://docs.storj.io/dcs/concepts/limits)  
-      * [Storj - Decentralized Cloud Storage](https://www.storj.io/)  
-  * Concepts  
-    * [Why SOLID principles are still the foundation for modern software architecture - Stack Overflow Blog](https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/)  
   * Containers  
     * Docker  
       * Docker How To  
@@ -154,7 +147,6 @@
           * [docker - Error "The input device is not a TTY" - Stack Overflow](https://stackoverflow.com/questions/43099116/error-the-input-device-is-not-a-tty)  
           * [Get Docker container id from container name - Stack Overflow](https://stackoverflow.com/questions/34496882/get-docker-container-id-from-container-name)  
           * [Stopping Docker containers by image name - Ubuntu - Stack Overflow](https://stackoverflow.com/questions/32073971/stopping-docker-containers-by-image-name-ubuntu)  
-        * [Docker Expose Port: How To Expose or Publish Docker Ports](https://www.whitesourcesoftware.com/free-developer-tools/blog/docker-expose-port/)  
         * [Docker: Remove all images and containers – TechOverflow](https://techoverflow.net/2013/10/22/docker-remove-all-images-and-containers/)  
         * [Exiting a Docker Container · vsupalov.com](https://vsupalov.com/exit-docker-container/)  
         * [How To Remove Docker Containers, Images, Volumes, and Networks | Linuxize](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/)  
@@ -213,10 +205,11 @@
           * [Amazon S3 - Dremio](https://docs.dremio.com/software/data-sources/s3/)  
           * [Analyzing Data with Python and Dremio on Docker and Kubernetes - Dremio | Dremio](https://www.dremio.com/resources/tutorials/python-dremio-and-kubernetes/)  
           * [DBeaver - Dremio](https://docs.dremio.com/software/client-applications/dbeaver/)  
+          * [Developing Client Applications with Apache Arrow Flight - Dremio](https://docs.dremio.com/cloud/arrow-flight/)  
           * [Dremio Events - Eliminating Data Exports for Data Science with Apache Arrow Flight | Dremio](https://www.dremio.com/blog/eliminating-data-exports-for-data-science-with-apache-arrow-flight/)  
           * [Getting Oriented to Dremio | Dremio](https://www.dremio.com/resources/tutorials/getting-oriented-to-dremio/)  
           * [Overview of Dremio Cloud - Dremio](https://docs.dremio.com/cloud/getting-started/architecture/)  
-          * [PIVOT - Dremio](https://docs.dremio.com/software/sql-reference/sql-functions/functions/pivot/)  
+          * [PIVOT - Dremio](https://docs.dremio.com/software/sql-reference/sql-functions/functions/PIVOT/)  
           * [Reflections Overview - Dremio](https://docs.dremio.com/software/acceleration/reflections/)  
           * [SQL Reference - Dremio](https://docs.dremio.com/software/sql-reference/)  
           * [Standalone Cluster - Dremio](https://docs.dremio.com/software/deployment/standalone/standalone-cluster/)  
@@ -234,6 +227,7 @@
       * Redpanda How To  
         * [Docker | Redpanda Documentation](https://docs.redpanda.com/docs/getting-started/quick-start-docker)  
       * [Redpanda is a Kafka® compatible event streaming platform](https://redpanda.com/)  
+    * [Real-time query engine | Deephaven](https://deephaven.io/)  
   * Data Visualization  
     * Data Visualization How To  
       * [20 ideas for better data visualization | by Taras Bakusevych | Aug, 2021 | UX Collective](https://uxdesign.cc/20-ideas-for-better-data-visualization-73f7e3c2782d)  
@@ -278,10 +272,9 @@
         * [rsachetto/sqliteman-qt5: Qt5 Port of sqliteman (https://sourceforge.net/projects/sqliteman/)](https://github.com/rsachetto/sqliteman-qt5)  
         * [rparkins999/sqliteman: http://sqliteman.com/](https://github.com/rparkins999/sqliteman)  
       * [DB Browser for SQLite](https://sqlitebrowser.org/)  
-      * [phpLiteAdmin | An SQLite database management tool](https://www.phpliteadmin.org/)  
-      * [SQLite Administrator - International Milestone Beta](http://sqliteadmin.orbmu2k.de/)  
+      * [phpLiteAdmin](https://www.phpliteadmin.org/)  
+      * [SQLite Administrator](http://sqliteadmin.orbmu2k.de/)  
       * [SQLite browser - Online SQL interpreter](https://extendsclass.com/sqlite-browser.html)  
-      * [SQLiteSpy [Delphi Inspiration]](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)  
       * [SQLiteStudio](https://sqlitestudio.pl/)  
     * [Robo 3T | Free, open-source MongoDB GUI (formerly Robomongo)](https://robomongo.org/)  
   * Databases  
@@ -471,9 +464,12 @@
           * [The SQLite Amalgamation](https://www.sqlite.org/amalgamation.html)  
         * [sqlite - How to convert sqlite2 to sqlite3 and what are the differences between both versions? - Stack Overflow](https://stackoverflow.com/questions/9409073/how-to-convert-sqlite2-to-sqlite3-and-what-are-the-differences-between-both-vers)  
         * [SQLite Sample Database And Its Diagram (in PDF format)](http://www.sqlitetutorial.net/sqlite-sample-database/)  
+      * [Litestream - Streaming SQLite Replication](https://litestream.io/)  
       * [resilar/sqleet: SQLite3 encryption that sucks less](https://github.com/resilar/sqleet)  
+      * [SQLite Home Page](https://www.sqlite.org/index.html)  
     * [ClickHouse - fast open-source OLAP DBMS](https://clickhouse.tech/)  
     * [HarperDB | Simplicity Without Sacrifice](https://harperdb.io/)  
+    * [QuestDB | Time series data, faster](https://questdb.io/)  
   * Development Best Practices  
     * [Avoid Common Software Project Mistakes](https://ovid.github.io/articles/avoid-common-software-project-mistakes.html)  
     * [Ind.ie — Ethical Design Manifesto](https://ind.ie/ethical-design/)  
@@ -544,7 +540,7 @@
       * [Avidemux - Main Page](http://avidemux.sourceforge.net/)  
       * [ClipGrab - Free YouTube Downloader & Converter](http://clipgrab.org/)  
       * [Open Broadcaster Software | OBS](https://obsproject.com/)  
-    * [Flameshot](https://flameshot.js.org/)  
+    * [Flameshot | Open Source Screenshot Software](https://flameshot.org/)  
     * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)  
     * [ImgBurn](http://www.imgburn.com/)  
     * [Impressive](http://impressive.sourceforge.net/)  
@@ -562,6 +558,20 @@
       * [WHOIS Search, Domain Name, Website, and IP Tools - Who.is](https://who.is/)  
     * [OSI model - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/OSI_model)  
     * [Technitium MAC Address Changer v5 Release 3 (FREEWARE)](http://www.technitium.com/tmac/index.html)  
+  * Object Storage  
+    * MinIO  
+      * MinIO How To  
+        * [MinIO | How to use AWS SDK for Python with MinIO Server - Cookbook/Recipe](https://docs.min.io/docs/how-to-use-aws-sdk-for-python-with-minio-server.html)  
+        * [MinIO | Learn more about MinIO's Docker Implementation](https://docs.min.io/docs/minio-docker-quickstart-guide.html)  
+      * [MinIO | High Performance, Kubernetes Native Object Storage](https://min.io/)  
+    * Storj  
+      * Storj How To  
+        * docs.storj.io  
+          * [Create Access Grant in CLI - Storj DCS](https://docs.storj.io/dcs/getting-started/quickstart-uplink-cli/generate-access-grants-and-tokens/generate-a-token)  
+          * [Rclone with Native Integration | Storj Docs](https://docs.storj.io/dcs/how-tos/sync-files-with-rclone/rclone-with-native-integration/)  
+          * [Uplink CLI - Storj DCS](https://docs.storj.io/dcs/api-reference/uplink-cli)  
+          * [Usage Limits - Storj DCS](https://docs.storj.io/dcs/concepts/limits)  
+      * [Storj - Decentralized Cloud Storage](https://www.storj.io/)  
   * Office Software  
     * Document Search  
       * Xapian  
@@ -569,13 +579,14 @@
         * [CGI parameters to Omega](https://xapian.org/docs/omega/cgiparams.html)  
         * [The Xapian Project](https://xapian.org/)  
       * [DocFetcher - Fast Document Search](http://docfetcher.sourceforge.net/en/index.html)  
-      * [dtSearch – Text Retrieval / Full Text Search Engine](https://dtsearch.com/)  
     * LibreOffice  
       * LibreOffice How To  
         * ask.libreoffice.org  
           * [how do I reduce the space between lines? - Ask LibreOffice](https://ask.libreoffice.org/en/question/101649/how-do-i-reduce-the-space-between-lines/)  
           * [Modify footnote number size within "actual footnote"?? - Ask LibreOffice](https://ask.libreoffice.org/en/question/173623/modify-footnote-number-size-within-actual-footnote/)  
         * [Inserting External Data in Table (WebQuery)](https://help.libreoffice.org/latest/is/text/scalc/guide/webquery.html?&DbPAR=WRITER&System=UNIX)  
+      * [Bulgarian Dictionaries (български речници) | Apache OpenOffice Extensions](https://extensions.openoffice.org/en/project/dictionaries-bg)  
+      * [LibreOffice - Free Office Suite](https://www.libreoffice.org/)  
     * Microsoft Office  
       * Microsoft Excel How To  
         * exceljet.net  
@@ -658,6 +669,7 @@
         * [aptible/supercronic: Cron for containers](https://github.com/aptible/supercronic)  
         * [healthchecks/healthchecks: A cron monitoring tool written in Python & Django](https://github.com/healthchecks/healthchecks)  
       * Linux Applications  
+        * [HP Developers Portal | HP Linux Imaging and Printing](https://developers.hp.com/hp-linux-imaging-and-printing)  
         * [lookbusy -- a synthetic load generator](http://www.devin.com/lookbusy/)  
         * [PhotoRec - CGSecurity](http://www.cgsecurity.org/wiki/PhotoRec)  
         * [TestDisk - CGSecurity](http://www.cgsecurity.org/wiki/TestDisk)  
@@ -697,13 +709,6 @@
           * [Chgrp Command in Linux (Change Group) | Linuxize](https://linuxize.com/post/chgrp-command-in-linux/)  
           * [How To Use Linux Screen | Linuxize](https://linuxize.com/post/how-to-use-linux-screen/)  
           * [Linux Chown Command | Linuxize](https://linuxize.com/post/linux-chown-command/)  
-        * nixCraft  
-          * [How to check if port is in use on Linux or Unix - nixCraft](https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/)  
-          * [How to find a folder in Linux using the command line - nixCraft](https://www.cyberciti.biz/faq/how-to-find-a-folder-in-linux-using-the-command-line/)  
-          * [Linux Find Number of CPU Cores Command - nixCraft](https://www.cyberciti.biz/faq/linux-get-number-of-cpus-core-command/)  
-          * [Linux Find Out My Machine Name/Hostname - nixCraft](https://www.cyberciti.biz/faq/find-my-linux-machine-name/)  
-          * [Linux find process by name - nixCraft](https://www.cyberciti.biz/faq/linux-find-process-name/)  
-          * [Linux List The Open Ports And The Process That Owns Them – nixCraft](https://www.cyberciti.biz/tips/linux-display-open-ports-owner.html)  
         * serverfault.com  
           * [bash - kill a screen (but not all screens) - Server Fault](https://serverfault.com/questions/96406/kill-a-screen-but-not-all-screens)  
           * [Check if port is open or closed on a Linux server? - Server Fault](https://serverfault.com/questions/309052/check-if-port-is-open-or-closed-on-a-linux-server)  
@@ -716,12 +721,20 @@
         * superuser.com  
           * [How Can I Create A Dump File of a Running Process in Linux? - Super User](https://superuser.com/questions/401182/how-can-i-create-a-dump-file-of-a-running-process-in-linux)  
           * [ssh - How to upload local file to server through Linux terminal - Super User](https://superuser.com/questions/850740/how-to-upload-local-file-to-server-through-linux-terminal)  
+        * www.cyberciti.biz  
+          * [How to check if port is in use on Linux or Unix - nixCraft](https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/)  
+          * [How to find a folder in Linux using the command line - nixCraft](https://www.cyberciti.biz/faq/how-to-find-a-folder-in-linux-using-the-command-line/)  
+          * [Linux Find Number of CPU Cores Command - nixCraft](https://www.cyberciti.biz/faq/linux-get-number-of-cpus-core-command/)  
+          * [Linux Find Out My Machine Name/Hostname - nixCraft](https://www.cyberciti.biz/faq/find-my-linux-machine-name/)  
+          * [Linux find process by name - nixCraft](https://www.cyberciti.biz/faq/linux-find-process-name/)  
+          * [Linux List The Open Ports And The Process That Owns Them – nixCraft](https://www.cyberciti.biz/tips/linux-display-open-ports-owner.html)  
         * [5 commands to check memory usage on Linux - BinaryTides](https://www.binarytides.com/linux-command-check-memory-usage/)  
         * [7 Linux Grep OR, Grep AND, Grep NOT Operator Examples](https://www.thegeekstuff.com/2011/10/grep-or-and-not-operators/)  
         * [A simple command to toggle mute with pulseaudio (any sink)](https://www.commandlinefu.com/commands/view/13133/a-simple-command-to-toggle-mute-with-pulseaudio-any-sink)  
         * [Different Ways To Generate A Strong Password In Linux - OSTechNix](https://ostechnix.com/4-easy-ways-to-generate-a-strong-password-in-linux/)  
         * [How to check CentOS version - LinuxConfig.org](https://linuxconfig.org/how-to-check-centos-version)  
         * [How to find your IP address in Linux | Opensource.com](https://opensource.com/article/18/5/how-find-ip-address-linux)  
+        * [How to Install Adobe Acrobat Reader DC (WINE) on Ubuntu 20.04 Focal Fossa Linux](https://linuxconfig.org/how-to-install-adobe-acrobat-reader-dc-wine-on-ubuntu-20-04-focal-fossa-linux)  
         * [How to Kill a Detached screen Session | Baeldung on Linux](https://www.baeldung.com/linux/kill-detached-screen-session)  
         * [How to Kill a Process from the Command Line - Linux.com](https://www.linux.com/training-tutorials/how-kill-process-command-line/)  
         * [How To Suspend A Process And Resume It Later In Linux - OSTechNix](https://www.ostechnix.com/suspend-process-resume-later-linux/)  
@@ -736,11 +749,12 @@
           * [PortableApps.com - Portable software for USB, portable, and cloud drives](https://portableapps.com/)  
           * [Portapps - Applications](https://portapps.io/apps/)  
         * [Cmder | Console Emulator](https://cmder.net/)  
-        * [Dependency Walker (depends.exe) Home Page](http://www.dependencywalker.com/)  
+        * [Dependency Walker (depends.exe) Home Page](https://www.dependencywalker.com/)  
         * [electron/rcedit: Command line tool to edit resources of exe](https://github.com/electron/rcedit)  
         * [Image Writer for Windows in Launchpad](https://launchpad.net/win32-image-writer)  
         * [NirSoft - freeware utilities: password recovery, system utilities, desktop utilities](https://www.nirsoft.net/)  
         * [Rapid Environment Editor :: Freeware Windows environment variables editor](https://www.rapidee.com/)  
+        * [Resource Hacker](http://www.angusj.com/resourcehacker/)  
         * [SmarTTY - a multi-tabbed SSH client with SCP support](http://smartty.sysprogs.com/)  
         * [Windows Sysinternals - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/en-us/sysinternals/)  
         * [XSearch - Search files on your computer](http://www.easexp.com/xsearch/index.html)  
@@ -808,7 +822,6 @@
         * [Mozilla Activex Control - Example Scripts - AutoIt Forums](http://www.autoitscript.com/forum/topic/26127-mozilla-activex-control/)  
       * [AutoIt](https://www.autoitscript.com/site/)  
       * [AutoIt Script Editor - AutoIt](https://www.autoitscript.com/site/autoit-script-editor/)  
-      * [AutoIt v3 Simple Browser based on Internet Explorer ActiveX Component](https://gist.github.com/ddmitov/55bb0ab2635f6a03a66b)  
     * Bash  
       * Bash How To  
         * stackoverflow.com  
@@ -846,7 +859,6 @@
     * C++  
       * C++ How To  
         * [Detaching from Console](http://cboard.cprogramming.com/linux-programming/101532-detaching-console.html)  
-        * [How To Determine Whether a Thread Is Running in User Context of Local Administrator Account](http://support.microsoft.com/kb/q118626)  
         * [putenv() and setenv()](http://www.greenend.org.uk/rjk/tech/putenv.html)  
       * Qt  
         * Qt Applications  
@@ -1210,7 +1222,6 @@
         * [Round a Number to 2 Decimal Places in JavaScript | Delft Stack](https://www.delftstack.com/howto/javascript/javascript-round-to-2-decimal-places/)  
         * [Time Formatting - D3 wiki](https://d3-wiki.readthedocs.io/zh_CN/master/Time-Formatting/)  
         * [Using ES Modules in the Browser Today - SitePoint](https://www.sitepoint.com/using-es-modules/)  
-        * [You Can't Detect A Touchscreen | Blog | Stu Cox](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/)  
         * [You Don't Need jQuery!](https://blog.garstasio.com/you-dont-need-jquery/)  
       * JavaScript Libraries  
         * Apache Arrow  
@@ -1275,8 +1286,6 @@
             * [node.js - Nodejs npm show latest version of a module - Stack Overflow](https://stackoverflow.com/questions/11949419/nodejs-npm-show-latest-version-of-a-module)  
             * [Node.js: Writing a function to return spawn stdout as a string - Stack Overflow](https://stackoverflow.com/questions/15515549/node-js-writing-a-function-to-return-spawn-stdout-as-a-string)  
           * www.hacksparrow.com  
-            * [Difference between spawn and exec of Node.js child_process](http://www.hacksparrow.com/difference-between-spawn-and-exec-of-node-js-child_process.html)  
-          * [Checking whether a file/directory exists without using fs.exists | gregJS](https://www.gregjs.com/javascript/2016/checking-whether-a-file-directory-exists-without-using-fs-exists/)  
           * [Child Process Node.js v5.10.1 Manual & Documentation](https://nodejs.org/api/child_process.html)  
           * [Customizing your npm package's page on Tonic - npm - RunKit Discuss](https://discuss.runkit.com/t/customizing-your-npm-packages-page-on-tonic/23)  
           * [File Manipulation with Node.js | DevDungeon](http://www.devdungeon.com/content/file-manipulation-nodejs)  
@@ -1296,7 +1305,6 @@
           * [executable-harness - npm](https://www.npmjs.com/package/executable-harness)  
         * [Node.js](https://nodejs.org/en/)  
         * [npms](https://npms.io/)  
-        * [npmsearch - node.js Package Search Utility](https://npmsearch.com/)  
       * NW.js  
         * NW.js How To  
           * [Changes related to node · nwjs/nw.js Wiki](https://github.com/nwjs/nw.js/wiki/Changes-related-to-node)  
@@ -1313,16 +1321,14 @@
           * [Progressive Web Apps  |  Web  |  Google Developers](https://developers.google.com/web/progressive-web-apps/)  
         * [Basic Service Worker Sample](https://googlechrome.github.io/samples/service-worker/basic/)  
         * [ddmitov/magna-carta: Magna Carta Libertatum with a word frequency index](https://github.com/ddmitov/magna-carta)  
-        * [ServiceWorker Cookbook](https://serviceworke.rs/)  
       * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)  
       * [JavaScript.com](https://www.javascript.com/)  
+      * [Neutralinojs](https://neutralino.js.org/)  
       * [standard/standard: 🌟 JavaScript Style Guide, with linter & automatic code fixer](https://github.com/standard/standard)  
     * NSIS  
       * NSIS Applications  
         * [ddmitov/comhere: Windows Command Prompt starter in the current directory - ARCHIVED](https://github.com/ddmitov/comhere)  
         * [ddmitov/unicnv: Windows text file encoding convertors - ansi2utf and utf2ansi - ARCHIVED](https://github.com/ddmitov/unicnv)  
-        * [Uninstall Windows Services using NSIS](https://gist.github.com/ddmitov/842304e34208b32054d4)  
-        * [Webpage Loader - simple NSIS script to load a webpage in the default browser](https://gist.github.com/ddmitov/a0e9b37f2b1a64b9573c)  
       * Plugins  
         * [Dialogs plug-in - NSIS](https://nsis.sourceforge.io/Dialogs_plug-in)  
         * [NSIS Simple Service Plugin - NSIS](https://nsis.sourceforge.io/NSIS_Simple_Service_Plugin)  
@@ -1525,15 +1531,12 @@
           * [ScanDeps usage](https://www.perlmonks.org/?node_id=982572)  
           * [Stepping up from XML::Simple to XML::LibXML](https://www.perlmonks.org/?node_id=490846)  
           * [Uncommon* but Useful Perl Command Line Options for One-liners](https://www.perlmonks.org/?node_id=324749)  
-        * [Connecting to the SQLite database with Perl](http://zetcode.com/db/sqliteperltutorial/connect/)  
-        * [Creating a Perl Daemon in Ubuntu « andrewault.net](http://www.andrewault.net/2010/05/27/creating-a-perl-daemon-in-ubuntu/)  
         * [davorg/easy-psgi](https://github.com/davorg/easy-psgi)  
         * [Exporting a scalar variable from a module using Perl](http://johnbokma.com/mexit/2006/07/05/exporting-scalar-variable-perl.html)  
         * [File Test Operators](http://www.cs.cf.ac.uk/Dave/PERL/node69.html)  
         * [First steps in Sqlite and Perl](http://lauraliparulo.altervista.org/first-steps-in-sqlite-and-perl/)  
         * [How to code a port scanner in Perl with Sockets – BinaryTides](https://www.binarytides.com/perl-port-scanner-code/)  
         * [How to merge two arrays at Perl](http://icfun.blogspot.com/2010/11/how-to-merge-two-arrays-at-perl.html)  
-        * [How to read and write JSON files in Perl » OpenAlfa Blog](http://blog-en.openalfa.com/how-to-read-and-write-json-files-in-perl)  
         * [Introduction to JSON in Perl - Go4Expert](http://www.go4expert.com/articles/introduction-json-perl-t27215/)  
         * [Introduction to Perl one-liners - good coders code, great reuse](http://www.catonmat.net/blog/introduction-to-perl-one-liners/)  
         * [Learn Perl - Geekuni blog: Perl string concatenation and repetition](http://blog.geekuni.com/2017/10/perl-string-concatenation-and-repetition.html)  
@@ -1545,9 +1548,7 @@
         * [Perl XML::LibXML by Example — Perl XML::LibXML by Example documentation](http://grantm.github.io/perl-libxml-by-example/)  
         * [Perl: Sorting an Array of Hashes | Storm Consultancy – Web Design Bath](https://www.stormconsultancy.co.uk/blog/development/code-snippets/perl-sorting-an-array-of-hashes/)  
         * [Perldoc Browser](https://perldoc.pl/)  
-        * [POD Web View](http://podwebview.odyniec.net/)  
         * [Redirecting STDOUT and STDERR to file in perl | Adventures in SCM](https://adventuresinscm.wordpress.com/2012/08/13/redirecting-stdout-and-stderr-to-file-in-perl/)  
-        * [Regular expressions in Perl - a summary with examples](https://www.cs.tut.fi/~jkorpela/perl/regexp.html)  
         * [Schwartzian transform - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Schwartzian_transform)  
         * [Simple Perl-based Port Scanner](https://gist.github.com/rkulla/1116085)  
         * [Suffering from Buffering?](http://www.plover.com/FAQs/Buffering.html)  
@@ -1562,8 +1563,7 @@
         * [ddmitov/perl-executing-browser: HTML interface for Perl 5 desktop applications](https://github.com/ddmitov/perl-executing-browser)  
         * [ddmitov/tabula: Mojolicious framework for desktop applications - ARCHIVED](https://github.com/ddmitov/tabula)  
         * [Execute remote commands using Perl5, Net::OpenSSH and a private key](https://gist.github.com/ddmitov/1527f9fca9fb954fed57d550571b4776)  
-        * [Linux RSS Memory Meter](https://gist.github.com/ddmitov/fff9205922c633cdd3a28283ba258873)  
-        * [Linux RSS Memory Meter - core Perl modules only](https://gist.github.com/ddmitov/80a4fdc4404617790c9c3414bb749518)  
+        * [Linux RSS Memory Meter](https://gist.github.com/ddmitov/80a4fdc4404617790c9c3414bb749518)  
         * [perlc - convert perl to C code or executables to "hide" your source](http://marginalhacks.com/Hacks/perlc/)  
       * [Perl::Critic](http://perlcritic.com/)  
       * [Perlbrew](http://perlbrew.pl/)  
@@ -1645,9 +1645,6 @@
           * [pyarrow.Table](https://arrow.apache.org/docs/python/generated/pyarrow.Table.html)  
           * [Reading and Writing the Apache Parquet Format](https://arrow.apache.org/docs/python/parquet.html)  
           * [Tabular Datasets](https://arrow.apache.org/docs/python/dataset.html)  
-        * chrisalbon.com  
-          * [List Unique Values In A pandas Column](https://chrisalbon.com/python/data_wrangling/pandas_list_unique_values_in_column/)  
-          * [Loading A CSV Into pandas](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_importing_csv/)  
         * dash.plotly.com  
           * [Adding CSS & JS and Overriding the Page-Load Template | Dash for Python Documentation | Plotly](https://dash.plotly.com/external-resources)  
           * [Dash Documentation & User Guide | Plotly](https://dash.plotly.com/)  
@@ -1679,6 +1676,7 @@
           * [subprocess — Subprocess management](https://docs.python.org/3/library/subprocess.html)  
           * [Subprocesses](https://docs.python.org/3/library/asyncio-subprocess.html)  
           * [threading — Thread-based parallelism](https://docs.python.org/3/library/threading.html)  
+          * [urllib.parse — Parse URLs into components](https://docs.python.org/3/library/urllib.parse.html)  
           * [venv — Creation of virtual environments](https://docs.python.org/3/library/venv.html)  
         * duckdb.org  
           * [DuckDB - Aggregate Functions](https://duckdb.org/docs/sql/aggregates)  
@@ -1687,10 +1685,10 @@
           * [DuckDB - Date Parts](https://duckdb.org/docs/sql/functions/datepart)  
           * [DuckDB - DuckDB quacks Arrow: A zero-copy data integration between Apache Arrow and DuckDB](https://duckdb.org/2021/12/03/duck-arrow.html)  
           * [DuckDB - Efficient SQL on Pandas with DuckDB](https://duckdb.org/2021/05/14/sql-on-pandas.html)  
-          * [DuckDB - Full Text Search](https://duckdb.org/docs/sql/full_text_search)  
           * [DuckDB - Interval Functions](https://duckdb.org/docs/sql/functions/interval)  
           * [DuckDB - Pragmas](https://duckdb.org/docs/sql/pragmas)  
           * [DuckDB - Python API](https://duckdb.org/docs/api/python)  
+          * [DuckDB - Querying Parquet with Precision using DuckDB](https://duckdb.org/2021/06/25/querying-parquet.html)  
           * [DuckDB - SQL Introduction](https://duckdb.org/docs/sql/introduction)  
           * [DuckDB - Text Functions](https://duckdb.org/docs/sql/functions/char)  
           * [DuckDB - Time Functions](https://duckdb.org/docs/sql/functions/time)  
@@ -1740,6 +1738,9 @@
           * [split() vs. partition() in Python Strings – All About AI-ML](https://indhumathychelliah.com/2020/09/17/split-vs-partition-in-python-strings/)  
           * [String Methods in Python – All About AI-ML](https://indhumathychelliah.com/2020/06/29/string-methods-in-python/)  
           * [The Special Meaning of Underscores in Python – All About AI-ML](https://indhumathychelliah.com/2020/09/21/the-special-meaning-of-underscores-in-python/)  
+        * jupyter-docker-stacks.readthedocs.io  
+          * [Jupyter Docker Stacks — Docker Stacks documentation](https://jupyter-docker-stacks.readthedocs.io/en/latest/)  
+          * [Selecting an Image — Docker Stacks documentation](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)  
         * machinelearningmastery.com  
           * [A Gentle Introduction to SARIMA for Time Series Forecasting in Python](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)  
           * [How to Decompose Time Series Data into Trend and Seasonality](https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/)  
@@ -1824,9 +1825,6 @@
           * [How to Add or Insert Row to Pandas DataFrame?](https://pythonexamples.org/pandas-dataframe-add-append-row/)  
           * [How to set Column as Index in Pandas DataFrame? - Python Examples](https://pythonexamples.org/pandas-set-column-as-index/)  
           * [How to Write Pandas DataFrame to Excel Sheet? - Python Examples](https://pythonexamples.org/pandas-write-dataframe-to-excel-sheet/)  
-        * pythonise.com  
-          * [Your first Flask app | Learning Flask Ep. 1](https://pythonise.com/series/learning-flask/your-first-flask-app)  
-          * [Serving static files | Learning Flask Ep. 4](https://pythonise.com/series/learning-flask/serving-static-files-with-flask)  
         * queirozf.com  
           * [Matplotlib examples: Number Formatting for Axis Labels](https://queirozf.com/entries/matplotlib-examples-number-formatting-for-axes-labels)  
           * [Pandas DataFrame: GroupBy Examples](http://queirozf.com/entries/pandas-dataframe-groupby-examples)  
@@ -2141,6 +2139,7 @@
           * [Search and filter pandas dataframe with regular expressions - Stack Overflow](https://stackoverflow.com/questions/32614357/search-and-filter-pandas-dataframe-with-regular-expressions)  
           * [Sorting dictionary descending in Python - Stack Overflow](https://stackoverflow.com/questions/35624064/sorting-dictionary-descending-in-python)  
           * [string - How to get the filename without the extension from a path in Python? - Stack Overflow](https://stackoverflow.com/questions/678236/how-to-get-the-filename-without-the-extension-from-a-path-in-python)  
+          * [Strip HTML from strings in Python - Stack Overflow](https://stackoverflow.com/questions/753052/strip-html-from-strings-in-python)  
           * [time - High-precision clock in Python - Stack Overflow](https://stackoverflow.com/questions/1938048/high-precision-clock-in-python)  
           * [trim - Remove all whitespace in a string in Python - Stack Overflow](https://stackoverflow.com/questions/8270092/remove-all-whitespace-in-a-string-in-python/8270146)  
           * [What is the difference between Python's list methods append and extend? - Stack Overflow](https://stackoverflow.com/questions/252703/what-is-the-difference-between-pythons-list-methods-append-and-extend)  
@@ -2233,7 +2232,6 @@
         * [Docker Best Practices for Python Developers | TestDriven.io](https://testdriven.io/blog/docker-best-practices/)  
         * [Dockerize your Flask Application | Runnable Docker Guides](https://runnable.com/docker/python/dockerize-your-flask-application)  
         * [Driving Headless Chrome with Python | Decipher](https://duo.com/decipher/driving-headless-chrome-with-python)  
-        * [DuckDB - Querying Parquet with Precision using DuckDB](https://duckdb.org/2021/06/25/querying-parquet.html)  
         * [Extract month and year to a new column in Pandas | Data Interview Questions](https://www.interviewqs.com/ddi_code_snippets/extract_month_year_pandas)  
         * [For loop with range - Learn Python 3 - Snakify](https://snakify.org/en/lessons/for_loop_range/)  
         * [How to add a dataframe to an existing excel file](https://python-forum.io/Thread-How-to-add-a-dataframe-to-an-existing-excel-file)  
@@ -2247,7 +2245,6 @@
         * [How to use sys.argv in Python](http://www.pythonforbeginners.com/system/python-sys-argv)  
         * [How to write parquet file from pandas dataframe in S3 in python | Newbedev](https://newbedev.com/how-to-write-parquet-file-from-pandas-dataframe-in-s3-in-python)  
         * [Installing packages using pip and virtual environments — Python Packaging User Guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)  
-        * [Joining DataFrames in Pandas (article) - DataCamp](https://www.datacamp.com/community/tutorials/joining-dataframes-pandas)  
         * [Learn How to Open Web Browser in Python Script](https://elearning.wsldp.com/python3/python-open-web-browser/)  
         * [List all the packages, modules installed in python pip - DataScience Made Simple](http://www.datasciencemadesimple.com/list-packages-modules-installed-python/)  
         * [Mirai Solutions :: Apache Arrow Flight at first glance](https://mirai-solutions.ch/news/2020/06/11/apache-arrow-flight-tutorial/)  
@@ -2286,6 +2283,7 @@
         * [windows - How to install the win32com python library - Super User](https://superuser.com/questions/609447/how-to-install-the-win32com-python-library)  
         * [Working with Datetime Objects and Timezones in Python - Howchoo](https://howchoo.com/g/ywi5m2vkodk/working-with-datetime-objects-and-timezones-in-python)  
         * [Working with MultiIndex and Pivot Tables in Pandas and Python - Parametric Thoughts](https://janakiev.com/blog/pandas-multiindex-pivot/)  
+        * [Working with S3 in Python using Boto3](https://hands-on.cloud/working-with-s3-in-python-using-boto3/)  
         * [Writing and Reading config files in Python :: TutsWiki Beta](https://tutswiki.com/read-write-config-files-in-python/)  
       * Python Packages  
         * boto3.amazonaws.com  
@@ -2332,7 +2330,6 @@
         * [pgjones / quart · GitLab](https://gitlab.com/pgjones/quart)  
         * [Polars](https://www.pola.rs/)  
         * [Prophet | Forecasting at scale.](https://facebook.github.io/prophet/)  
-        * [Python Extension Packages for Windows - Christoph Gohlke](https://www.lfd.uci.edu/~gohlke/pythonlibs/)  
         * [Python Wheels](https://pythonwheels.com/)  
         * [scikit-learn: machine learning in Python](https://scikit-learn.org/stable/)  
         * [Vaex.io: An ML Ready Fast DataFrame for Python 🚀](https://vaex.io/)  
@@ -2372,22 +2369,12 @@
         * [R scripts as command line tools | R-bloggers](https://www.r-bloggers.com/2019/11/r-scripts-as-command-line-tools/)  
         * [Reordering Data Frame Columns in R - Easy Guides - Wiki - STHDA](http://www.sthda.com/english/wiki/reordering-data-frame-columns-in-r)  
         * [use_proxy: Use a proxy to connect to the internet. in httr: Tools for Working with URLs and HTTP](https://rdrr.io/cran/httr/man/use_proxy.html)  
+      * [R-base - Official Image | Docker Hub](https://hub.docker.com/_/r-base)  
       * [R: The R Project for Statistical Computing](https://www.r-project.org/)  
       * [RStudio](https://rstudio.com/products/rstudio/)  
-    * Rust  
-      * Rust Applications  
-        * [joseluisq/static-web-server: A blazing fast and asynchronous web server for static files-serving. ⚡](https://github.com/joseluisq/static-web-server)  
-        * [svenstaro/miniserve: 🌟 For when you really just want to serve some files over HTTP right now!](https://github.com/svenstaro/miniserve/)  
-      * Rust How To  
-        * [Build Configuration - The Rust Performance Book](https://nnethercote.github.io/perf-book/build-configuration.html)  
-        * [Install Rust - Rust Programming Language](https://www.rust-lang.org/tools/install)  
-        * [Introduction - The Cargo Book](https://doc.rust-lang.org/cargo/index.html)  
-        * [johnthagen/min-sized-rust: 🦀 How to minimize Rust binary size 📦](https://github.com/johnthagen/min-sized-rust)  
-      * Rust Packages  
-        * [Actix Web | A powerful, pragmatic, and extremely fast web framework for Rust.](https://actix.rs/)  
-      * [Rust Programming Language](https://www.rust-lang.org/)  
     * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)  
     * [Sourcegraph](https://sourcegraph.com/search)  
+    * [https://www.datacamp.com/community/tutorials/joining-dataframes-pandas](https://www.datacamp.com/community/tutorials/joining-dataframes-pandas)  
   * Remote Procedure Call  
     * gRPC  
       * [gRPC](https://grpc.io/)  
@@ -2405,6 +2392,7 @@
         * [License Badges for your Project](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)  
         * [linguist/languages.yml at master · github/linguist](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)  
         * [Markdown Cheatsheet · adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+        * [Organizing information with tables - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)  
         * [scotch-io/All-Github-Emoji-Icons: A repo of every emoji icon as a separate file and commit.](https://github.com/scotch-io/All-Github-Emoji-Icons)  
       * [Extended Syntax | Markdown Guide](https://www.markdownguide.org/extended-syntax/)  
       * [markdown - Is there a way to represent a directory tree in a Github README.md? - Stack Overflow](https://stackoverflow.com/questions/23989232/is-there-a-way-to-represent-a-directory-tree-in-a-github-readme-md)  
@@ -2495,6 +2483,7 @@
           * [ctrix/free-mongoose](https://github.com/ctrix/free-mongoose/)  
           * [ddmitov/desktop-mongoose: Mongoose v.5.1 HTTP Server for Desktop Use](https://github.com/ddmitov/desktop-mongoose)  
         * [Apache HTTP Server Project](https://httpd.apache.org/)  
+        * [joseluisq/static-web-server: A blazing fast and asynchronous web server for static files-serving. ⚡](https://github.com/joseluisq/static-web-server)  
         * [Xitami - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Xitami)  
         * [ZazouMiniWebServer](http://www.xgarreau.org/zazouminiwebserver/)  
       * [Mockaroo - Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel](https://www.mockaroo.com/)  
@@ -2576,7 +2565,6 @@
             * [Bootswatch: Free themes for Bootstrap](https://bootswatch.com/)  
             * [Font Awesome v.4.5.0 | Bootstrap Cheat Sheets](http://fontawesome.bootstrapcheatsheets.com/)  
             * [How to Create Dropdown Menu with Bootstrap 3 - Tutorial Republic](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-dropdowns.php)  
-            * [How to create sidebar navigation for Bootstrap 5 ? - Web Development](https://webdevpuneet.com/how-to-create-sidebar-navigation-for-bootstrap-5/#gsc.tab=0)  
           * [Bootstrap · The most popular HTML, CSS, and JS library in the world.](https://getbootstrap.com/)  
       * HTML  
         * HTML How To  
@@ -2597,10 +2585,12 @@
         * [HTML5 Template: A Basic Boilerplate for Any Project - SitePoint](https://www.sitepoint.com/a-basic-html5-template/)  
       * [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)  
       * [Google Fonts](http://www.google.com/fonts/)  
+      * [SEO Tools, Software and Articles | SEO Site Checkup](https://seositecheckup.com/)  
     * [ddmitov/mneme: Bulgarian history online quiz](https://github.com/ddmitov/mneme)  
     * [For fast and secure sites | Jamstack](https://jamstack.org/)  
     * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
   * [endoflife.date](https://endoflife.date/)  
   * [Nushell](https://www.nushell.sh/)  
+  * [Strong Random Password Generator](https://passwordsgenerator.net/)  
 
 Created using [Python Bookmark Extractor](https://github.com/ddmitov/python-bookmark-extractor)  
