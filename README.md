@@ -55,14 +55,14 @@
             * CLI  
               * [AWS Command Line Interface](https://aws.amazon.com/cli/)  
               * [Configuring the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)  
-              * [describe-rule — AWS CLI 1.17.7 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/describe-rule.html)  
-              * [get-function — AWS CLI 1.17.7 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-function.html)  
+              * [describe-rule — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/describe-rule.html)  
+              * [get-function — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-function.html)  
               * [Installing or updating the latest version of the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)  
-              * [lambda — AWS CLI 1.17.6 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/index.html#cli-aws-lambda)  
-              * [list-functions — AWS CLI 1.17.3 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-functions.html)  
-              * [list-rules — AWS CLI 1.17.3 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-rules.html)  
-              * [list-tags — AWS CLI 1.17.6 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-tags.html)  
-              * [list-targets-by-rule — AWS CLI 1.17.3 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-targets-by-rule.html)  
+              * [lambda — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/index.html#cli-aws-lambda)  
+              * [list-functions — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-functions.html)  
+              * [list-rules — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-rules.html)  
+              * [list-tags — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-tags.html)  
+              * [list-targets-by-rule — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-targets-by-rule.html)  
               * [Named profiles for the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html)  
             * ECR  
               * [Private registry authentication - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/registry_auth.html)  
@@ -120,6 +120,7 @@
             * [rclone config file](https://rclone.org/commands/rclone_config_file/)  
             * [rclone link](https://rclone.org/commands/rclone_link/)  
             * [Remote Setup](https://rclone.org/remote_setup/)  
+            * [Storj](https://rclone.org/storj/)  
           * [Transferring files to OneDrive for Business via rclone - Academic Computing Team](https://research.reading.ac.uk/act/knowledgebase/rclone-sync/)  
         * [rclone - rsync for cloud storage](https://rclone.org/)  
     * [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)  
@@ -140,9 +141,11 @@
           * [docker ps | Docker Documentation](https://docs.docker.com/engine/reference/commandline/ps/)  
           * [docker stats | Docker Documentation](https://docs.docker.com/engine/reference/commandline/stats/)  
           * [docker system df | Docker Documentation](https://docs.docker.com/engine/reference/commandline/system_df/)  
+          * [docker volume create | Docker Documentation](https://docs.docker.com/engine/reference/commandline/volume_create/)  
           * [docker-compose stop | Docker Documentation](https://docs.docker.com/compose/reference/stop/)  
           * [Get started with Docker Compose | Docker Documentation](https://docs.docker.com/compose/gettingstarted/)  
           * [Runtime metrics | Docker Documentation](https://docs.docker.com/config/containers/runmetrics/)  
+          * [Use volumes | Docker Documentation](https://docs.docker.com/storage/volumes/)  
         * stackoverflow.com  
           * [docker - Error "The input device is not a TTY" - Stack Overflow](https://stackoverflow.com/questions/43099116/error-the-input-device-is-not-a-tty)  
           * [Get Docker container id from container name - Stack Overflow](https://stackoverflow.com/questions/34496882/get-docker-container-id-from-container-name)  
@@ -151,6 +154,8 @@
         * [Exiting a Docker Container · vsupalov.com](https://vsupalov.com/exit-docker-container/)  
         * [How To Remove Docker Containers, Images, Volumes, and Networks | Linuxize](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/)  
         * [Howto use docker-compose to Start, Stop, Remove Docker Containers](https://www.thegeekstuff.com/2016/04/docker-compose-up-stop-rm/)  
+        * [Understanding Docker Volumes - Earthly Blog](https://earthly.dev/blog/docker-volumes/)  
+      * [Docker](https://www.docker.com/)  
     * [MicroK8s - Fast, Light, Upstream Developer Kubernetes](https://microk8s.io/)  
   * Continuous Integration  
     * [Customizing the Build - Travis CI](https://docs.travis-ci.com/user/customizing-the-build)  
@@ -198,23 +203,40 @@
         * [michmech/xonomy: A schema-driven XML editor for the web.](https://github.com/michmech/xonomy)  
     * [Apache Arrow](https://arrow.apache.org/)  
     * [Apache Parquet](https://parquet.apache.org/)  
+    * [Storage size and generation time in popular file formats | Adaltas](https://www.adaltas.com/en/2021/03/22/performance-comparison-of-file-formats/)  
   * Data Lakes  
     * Dremio  
       * Dremio How To  
-        * www.dremio.com  
+        * community.dremio.com  
+          * [Basic guidelines for using dremio docker - Dremio](https://community.dremio.com/t/basic-guidelines-for-using-dremio-docker/1935)  
+          * [Path /opt/dremio/data is not writable when try to run persist dremio docker - Dremio](https://community.dremio.com/t/path-opt-dremio-data-is-not-writable-when-try-to-run-persist-dremio-docker/3790)  
+        * docs.dremio.com  
           * [Amazon S3 - Dremio](https://docs.dremio.com/software/data-sources/s3/)  
-          * [Analyzing Data with Python and Dremio on Docker and Kubernetes - Dremio | Dremio](https://www.dremio.com/resources/tutorials/python-dremio-and-kubernetes/)  
+          * [CAST - Dremio](https://docs.dremio.com/software/sql-reference/sql-functions/functions/CAST/)  
+          * [CONCAT - Dremio](https://docs.dremio.com/software/sql-reference/sql-functions/functions/CONCAT/)  
+          * [Configuring Metadata Storage - Dremio](https://docs.dremio.com/software/deployment/metadata-store-config/)  
+          * [Configuring Standalone Clusters - Dremio](https://docs.dremio.com/software/deployment/dremio-config/)  
+          * [Configuring via dremio.conf - Dremio](https://docs.dremio.com/software/advanced-administration/dremio-conf/)  
+          * [Data Formats - Dremio](https://docs.dremio.com/software/data-formats/)  
           * [DBeaver - Dremio](https://docs.dremio.com/software/client-applications/dbeaver/)  
-          * [Developing Client Applications with Apache Arrow Flight - Dremio](https://docs.dremio.com/cloud/arrow-flight/)  
-          * [Dremio Events - Eliminating Data Exports for Data Science with Apache Arrow Flight | Dremio](https://www.dremio.com/blog/eliminating-data-exports-for-data-science-with-apache-arrow-flight/)  
-          * [Getting Oriented to Dremio | Dremio](https://www.dremio.com/resources/tutorials/getting-oriented-to-dremio/)  
+          * [Developing Arrow Flight Client Applications for Dremio - Dremio](https://docs.dremio.com/software/developing-client-apps/arrow-flight/)  
+          * [External Sources - Dremio](https://docs.dremio.com/cloud/sources/external/)  
+          * [Limits - Dremio](https://docs.dremio.com/software/advanced-administration/limits/)  
           * [Overview of Dremio Cloud - Dremio](https://docs.dremio.com/cloud/getting-started/architecture/)  
           * [PIVOT - Dremio](https://docs.dremio.com/software/sql-reference/sql-functions/functions/PIVOT/)  
+          * [Python - Dremio](https://docs.dremio.com/software/client-applications/python/)  
           * [Reflections Overview - Dremio](https://docs.dremio.com/software/acceleration/reflections/)  
           * [SQL Reference - Dremio](https://docs.dremio.com/software/sql-reference/)  
           * [Standalone Cluster - Dremio](https://docs.dremio.com/software/deployment/standalone/standalone-cluster/)  
           * [System Requirements - Dremio](https://docs.dremio.com/software/deployment/system-requirements/)  
+          * [Table SQL Statements - Dremio](https://docs.dremio.com/software/sql-reference/sql-commands/tables/#create-table-as)  
           * [Virtual Datasets - Dremio](https://docs.dremio.com/software/working-with-datasets/virtual-datasets/)  
+        * www.dremio.com  
+          * [Analyzing Data with Python and Dremio on Docker and Kubernetes - Dremio | Dremio](https://www.dremio.com/resources/tutorials/python-dremio-and-kubernetes/)  
+          * [Dremio Events - Eliminating Data Exports for Data Science with Apache Arrow Flight | Dremio](https://www.dremio.com/blog/eliminating-data-exports-for-data-science-with-apache-arrow-flight/)  
+          * [DremioArchitectureGuide.pdf](https://www.dremio.com/downloads/DremioArchitectureGuide.pdf)  
+          * [Getting Oriented to Dremio | Dremio](https://www.dremio.com/resources/tutorials/getting-oriented-to-dremio/)  
+          * [The Origins of Apache Arrow & Its Fit in Today's Data Landscape](https://www.dremio.com/subsurface/the-origins-of-apache-arrow-its-fit-in-todays-data-landscape/?utm_content=1657638700&utm_medium=social-free&utm_source=linkedin)  
       * [dremio/dremio-cloud-tools: Dremio Container Tools](https://github.com/dremio/dremio-cloud-tools)  
       * [Dremio | The Forever-Free Data Lakehouse Platform](https://www.dremio.com/)  
   * Data Streaming  
@@ -245,6 +267,24 @@
     * [Awesome dataviz tools by Cube.js](https://awesome.cube.dev/)  
     * [chroma.js palette helper](https://vis4.net/palettes/)  
     * [Word Cloud Generator](https://www.jasondavies.com/wordcloud/)  
+  * Data Warehouses  
+    * Snowflake  
+      * Snowflake How To  
+        * docs.snowflake.com  
+          * [Access Control Privileges — Snowflake Documentation](https://docs.snowflake.com/en/user-guide/security-access-control-privileges.html)  
+          * [Account Identifiers — Snowflake Documentation](https://docs.snowflake.com/en/user-guide/admin-account-identifier.html#format-1-preferred-account-name-in-your-organization)  
+          * [Data Types — Snowflake Documentation](https://docs.snowflake.com/en/sql-reference/data-types.html)  
+          * [Using the Snowflake SQLAlchemy Toolkit with the Python Connector — Snowflake Documentation](https://docs.snowflake.com/en/user-guide/sqlalchemy.html)  
+        * stackoverflow.com  
+          * [python - AttributeError: 'SnowflakeCursor' object has no attribute 'cursor' - Stack Overflow](https://stackoverflow.com/questions/64505552/attributeerror-snowflakecursor-object-has-no-attribute-cursor)  
+          * [python - NoSuchModuleError: Can't load plugin: sqlalchemy.dialects:snowflake - Stack Overflow](https://stackoverflow.com/questions/53284762/nosuchmoduleerror-cant-load-plugin-sqlalchemy-dialectssnowflake)  
+        * stephenallwright.com  
+          * [Connect to Snowflake using SQLAlchemy, simply explained!](https://stephenallwright.com/connect-snowflake-sqlalchemy/)  
+          * [Create Snowflake table from Pandas DataFrame (2022)](https://stephenallwright.com/create-snowflake-table-pandas-dataframe/)  
+          * [Write Pandas DataFrame to Snowflake table, explained (2022)](https://stephenallwright.com/write-to-snowflake-from-pandas-dataframe/)  
+        * [How to Create a Table in Snowflake in Snowflake - PopSQL](https://popsql.com/learn-sql/snowflake/how-to-create-a-table-in-snowflake)  
+      * [Snowflake Cost Calculator](https://www.godatadrive.com/snowflake-calculator)  
+      * [Snowflake Data Cloud | Enable the Most Critical Workloads](https://www.snowflake.com/)  
   * Database Editors  
     * DBase Editors  
       * [DBF Explorer](http://www.pablosoftwaresolutions.com/html/dbf_explorer.html)  
@@ -333,6 +373,8 @@
           * [MySQL :: MySQL 8.0 Reference Manual :: 4.2.4 Connecting to the MySQL Server Using Command Options](https://dev.mysql.com/doc/refman/8.0/en/connecting.html)  
           * [MySQL :: MySQL 8.0 Reference Manual :: 6.2.2 Privileges Provided by MySQL](https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html)  
           * [MySQL :: MySQL 8.0 Reference Manual :: 9.1.1 String Literals](https://dev.mysql.com/doc/refman/8.0/en/string-literals.html)  
+          * [MySQL :: MySQL Partitioning](https://dev.mysql.com/doc/mysql-partitioning-excerpt/8.0/en/)  
+          * [MySQL :: MySQL Tutorial :: 7.9 Using AUTO_INCREMENT](https://dev.mysql.com/doc/mysql-tutorial-excerpt/5.7/en/example-auto-increment.html)  
         * serverfault.com  
           * [log files - enable binlog in MySQL on Ubuntu - Server Fault](https://serverfault.com/questions/706699/enable-binlog-in-mysql-on-ubuntu)  
           * [mysql replication - error 1236 A slave with the same server_uuid/server_id as this slave has connected to the master - Server Fault](https://serverfault.com/questions/965037/error-1236-a-slave-with-the-same-server-uuid-server-id-as-this-slave-has-connect)  
@@ -364,6 +406,7 @@
           * [sql - How can I return pivot table output in MySQL? - Stack Overflow](https://stackoverflow.com/questions/7674786/how-can-i-return-pivot-table-output-in-mysql)  
           * [sql - How to declare a variable in MySQL? - Stack Overflow](https://stackoverflow.com/questions/11754781/how-to-declare-a-variable-in-mysql)  
           * [sql - I need to find and replace \n in a mysql field - Stack Overflow](https://stackoverflow.com/questions/9362213/i-need-to-find-and-replace-n-in-a-mysql-field)  
+          * [sql - MySQL - Conditional COUNT with GROUP BY - Stack Overflow](https://stackoverflow.com/questions/9560432/mysql-conditional-count-with-group-by)  
           * [sql - MySQL GROUP BY behavior - Stack Overflow](https://stackoverflow.com/questions/1645921/mysql-group-by-behavior)  
           * [sql - MySQL Like multiple values - Stack Overflow](https://stackoverflow.com/questions/4172195/mysql-like-multiple-values)  
           * [sql - mysql search for segment of table name - Stack Overflow](https://stackoverflow.com/questions/11931961/mysql-search-for-segment-of-table-name)  
@@ -393,6 +436,7 @@
         * www.w3resource.com  
           * [MySQL GROUP_CONCAT() function - w3resource](https://www.w3resource.com/mysql/aggregate-functions-and-grouping/aggregate-functions-and-grouping-group_concat.php)  
           * [MySQL IF() function - w3resource](https://www.w3resource.com/mysql/control-flow-functions/if-function.php)  
+          * [MySQL Partitioning - w3resource](https://www.w3resource.com/mysql/mysql-partition.php)  
           * [MySQL SUBSTRING_INDEX() function - w3resource](https://www.w3resource.com/mysql/string-functions/mysql-substring_index-function.php)  
           * [MySQL sum() with group by - w3resource](https://www.w3resource.com/mysql/aggregate-functions-and-grouping/aggregate-functions-and-grouping-sum-with-group-by.php)  
           * [MySQL TIMESTAMPDIFF() function - w3resource](https://www.w3resource.com/mysql/date-and-time-functions/mysql-timestampdiff-function.php)  
@@ -602,6 +646,7 @@
           * [How to use the Excel VLOOKUP function | Exceljet](https://exceljet.net/excel-functions/excel-vlookup-function)  
         * support.microsoft.com  
           * [CONCAT function - Office Support](https://support.microsoft.com/en-us/office/concat-function-9b1a9a3f-94ff-41af-9736-694cbd6b4ca2)  
+          * [Excel specifications and limits](https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3)  
           * [Formulas and functions - Excel](https://support.microsoft.com/en-us/office/formulas-and-functions-294d9486-b332-48ed-b489-abe7d0f9eda9)  
           * [ROUND function - Office Support](https://support.microsoft.com/en-us/office/round-function-c018c5d8-40fb-4053-90b1-b3e7f61a213c)  
           * [Start the Power Pivot add-in for Excel - Excel](https://support.microsoft.com/en-us/office/start-the-power-pivot-add-in-for-excel-a891a66d-36e3-43fc-81e8-fc4798f39ea8)  
@@ -702,6 +747,7 @@
           * [log - How do I check if last shutdown was clean? - Ask Ubuntu](http://askubuntu.com/questions/103015/how-do-i-check-if-last-shutdown-was-clean)  
           * [package management - Snap in Ubuntu 16.04 - Ask Ubuntu](https://askubuntu.com/questions/763078/snap-in-ubuntu-16-04)  
           * [partitioning - Change owner of internal hard drive partition from root to user - Ask Ubuntu](https://askubuntu.com/questions/43570/change-owner-of-internal-hard-drive-partition-from-root-to-user)  
+          * [versions - How to find architecture of my PC and Ubuntu? - Ask Ubuntu](https://askubuntu.com/questions/189640/how-to-find-architecture-of-my-pc-and-ubuntu)  
         * devconnected.com  
           * [How To Chown Recursively on Linux – devconnected](https://devconnected.com/how-to-chown-recursive-on-linux/)  
           * [How To Copy Directory on Linux – devconnected](https://devconnected.com/how-to-copy-directory-on-linux/)  
@@ -721,9 +767,13 @@
         * superuser.com  
           * [How Can I Create A Dump File of a Running Process in Linux? - Super User](https://superuser.com/questions/401182/how-can-i-create-a-dump-file-of-a-running-process-in-linux)  
           * [ssh - How to upload local file to server through Linux terminal - Super User](https://superuser.com/questions/850740/how-to-upload-local-file-to-server-through-linux-terminal)  
+        * unix.stackexchange.com  
+          * [filesystems - How do I find on which physical device a folder is located? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/11311/how-do-i-find-on-which-physical-device-a-folder-is-located)  
+          * [ssh - Scroll inside Screen, or Pause Output - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/40242/scroll-inside-screen-or-pause-output)  
         * www.cyberciti.biz  
           * [How to check if port is in use on Linux or Unix - nixCraft](https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/)  
           * [How to find a folder in Linux using the command line - nixCraft](https://www.cyberciti.biz/faq/how-to-find-a-folder-in-linux-using-the-command-line/)  
+          * [How To Find Largest Top 10 Files and Directories On Linux / UNIX / BSD - nixCraft](https://www.cyberciti.biz/faq/how-do-i-find-the-largest-filesdirectories-on-a-linuxunixbsd-filesystem/)  
           * [Linux Find Number of CPU Cores Command - nixCraft](https://www.cyberciti.biz/faq/linux-get-number-of-cpus-core-command/)  
           * [Linux Find Out My Machine Name/Hostname - nixCraft](https://www.cyberciti.biz/faq/find-my-linux-machine-name/)  
           * [Linux find process by name - nixCraft](https://www.cyberciti.biz/faq/linux-find-process-name/)  
@@ -731,6 +781,7 @@
         * [5 commands to check memory usage on Linux - BinaryTides](https://www.binarytides.com/linux-command-check-memory-usage/)  
         * [7 Linux Grep OR, Grep AND, Grep NOT Operator Examples](https://www.thegeekstuff.com/2011/10/grep-or-and-not-operators/)  
         * [A simple command to toggle mute with pulseaudio (any sink)](https://www.commandlinefu.com/commands/view/13133/a-simple-command-to-toggle-mute-with-pulseaudio-any-sink)  
+        * [Check which folders use the highest disk space in linux - Tutorials and How To - CloudCone](https://cloudcone.com/docs/article/check-which-folders-use-the-highest-disk-space-in-linux/)  
         * [Different Ways To Generate A Strong Password In Linux - OSTechNix](https://ostechnix.com/4-easy-ways-to-generate-a-strong-password-in-linux/)  
         * [How to check CentOS version - LinuxConfig.org](https://linuxconfig.org/how-to-check-centos-version)  
         * [How to find your IP address in Linux | Opensource.com](https://opensource.com/article/18/5/how-find-ip-address-linux)  
@@ -738,9 +789,9 @@
         * [How to Kill a Detached screen Session | Baeldung on Linux](https://www.baeldung.com/linux/kill-detached-screen-session)  
         * [How to Kill a Process from the Command Line - Linux.com](https://www.linux.com/training-tutorials/how-kill-process-command-line/)  
         * [How To Suspend A Process And Resume It Later In Linux - OSTechNix](https://www.ostechnix.com/suspend-process-resume-later-linux/)  
+        * [Linux and Unix du command tutorial with examples | George Ornbo](https://shapeshed.com/unix-du/)  
         * [LXDE: Autostart Apps With .desktop Files](http://pclosmag.com/html/Issues/201009/page10.html)  
         * [pstree - Wikipedia](https://en.wikipedia.org/wiki/Pstree)  
-        * [ssh - Scroll inside Screen, or Pause Output - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/40242/scroll-inside-screen-or-pause-output)  
         * [System Program Problem Detected in Ubuntu](https://itsfoss.com/how-to-fix-system-program-problem-detected-ubuntu/)  
         * [Volume Control and Output Selection with PulseAudio Command Line Tools | Tero Karvinen](http://terokarvinen.com/2015/volume-control-with-pulseaudio-command-line-tools)  
     * Windows  
@@ -748,7 +799,7 @@
         * Portable Applications  
           * [PortableApps.com - Portable software for USB, portable, and cloud drives](https://portableapps.com/)  
           * [Portapps - Applications](https://portapps.io/apps/)  
-        * [Cmder | Console Emulator](https://cmder.net/)  
+        * [Cmder | Console Emulator](https://cmder.app/)  
         * [Dependency Walker (depends.exe) Home Page](https://www.dependencywalker.com/)  
         * [electron/rcedit: Command line tool to edit resources of exe](https://github.com/electron/rcedit)  
         * [Image Writer for Windows in Launchpad](https://launchpad.net/win32-image-writer)  
@@ -1215,11 +1266,13 @@
         * [Dynamically Add JavaScript and CSS Files to Your Website Using JavaScript | Sean C Davis](https://www.seancdavis.com/posts/dynamically-add-javascript-and-css-files-to-your-website-using-javascript/)  
         * [Eliminate render-blocking resources](https://web.dev/render-blocking-resources/)  
         * [Getting started with Highcharts Maps | Highcharts](https://www.highcharts.com/docs/maps/getting-started)  
+        * [How to load another html page from javascript?](http://net-informations.com/js/iq/load.htm)  
         * [JavaScript function in href vs. onClick](https://www.tutorialspoint.com/JavaScript-function-in-href-vs-onClick)  
         * [JavaScript: Four Major Differences between var and let - < Code Topology />](https://codetopology.com/scripts/javascript-var-vs-let/)  
         * [Let's try React without Node.js - DEV Community](https://dev.to/luispa/lets-try-react-without-nodejs-3a7)  
         * [Manage HTML DOM with vanilla JavaScript - HTML DOM](https://htmldom.dev/)  
         * [Round a Number to 2 Decimal Places in JavaScript | Delft Stack](https://www.delftstack.com/howto/javascript/javascript-round-to-2-decimal-places/)  
+        * [The Modern JavaScript Tutorial - Modules, introduction](https://javascript.info/modules-intro)  
         * [Time Formatting - D3 wiki](https://d3-wiki.readthedocs.io/zh_CN/master/Time-Formatting/)  
         * [Using ES Modules in the Browser Today - SitePoint](https://www.sitepoint.com/using-es-modules/)  
         * [You Don't Need jQuery!](https://blog.garstasio.com/you-dont-need-jquery/)  
@@ -1713,7 +1766,9 @@
           * [Support Arrow for table scans and result sets · Issue #151 · duckdb/duckdb](https://github.com/duckdb/duckdb/issues/151)  
           * [Suppressing Stan optimizer printing in Python · Issue #223 · facebook/prophet](https://github.com/facebook/prophet/issues/223#issuecomment-326455744)  
         * indhumathychelliah.com  
+          * [5 Different Ways to Remove Specific Characters From a String in Python – All About AI-ML](https://indhumathychelliah.com/2020/10/02/5-different-ways-to-remove-specific-characters-from-a-string-in-python/)  
           * [5 Types of Arguments in Python Function Definition – All About AI-ML](https://indhumathychelliah.com/2020/09/02/5-types-of-arguments-in-python-function-definition/)  
+          * [A Comprehensive Guide to Pandas for Data Science – All About AI-ML](https://indhumathychelliah.com/2021/01/13/a-comprehensive-guide-to-pandas-for-data-science/)  
           * [An Introduction to Python Dictionary – All About AI-ML](https://indhumathychelliah.com/2020/07/12/an-introduction-to-python-dictionary/)  
           * [An Introduction to Python List – All About AI-ML](https://indhumathychelliah.com/2020/06/12/an-introduction-to-python-list/)  
           * [An Introduction to Python Pandas – All About AI-ML](https://indhumathychelliah.com/2020/06/19/an-introduction-to-python-pandas/)  
@@ -1738,6 +1793,7 @@
           * [split() vs. partition() in Python Strings – All About AI-ML](https://indhumathychelliah.com/2020/09/17/split-vs-partition-in-python-strings/)  
           * [String Methods in Python – All About AI-ML](https://indhumathychelliah.com/2020/06/29/string-methods-in-python/)  
           * [The Special Meaning of Underscores in Python – All About AI-ML](https://indhumathychelliah.com/2020/09/21/the-special-meaning-of-underscores-in-python/)  
+          * [Understanding Higher-Order Functions With Simple Examples in Python – All About AI-ML](https://indhumathychelliah.com/2021/01/19/understanding-higher-order-functions-with-simple-examples-in-python/)  
         * jupyter-docker-stacks.readthedocs.io  
           * [Jupyter Docker Stacks — Docker Stacks documentation](https://jupyter-docker-stacks.readthedocs.io/en/latest/)  
           * [Selecting an Image — Docker Stacks documentation](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)  
@@ -1786,7 +1842,7 @@
           * [pandas.DataFrame.update](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.update.html)  
           * [pandas.pivot_table](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html)  
           * [pandas.read_csv](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html)  
-          * [pandas.read_excel](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html)  
+          * [pandas.read_excel](https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html)  
           * [pandas.read_parquet](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_parquet.html)  
           * [pandas.Series.clip](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.clip.html)  
           * [pandas.Series.dt.to_period](https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.to_period.html)  
@@ -1834,6 +1890,7 @@
         * spark.apache.org  
           * [Distributed SQL Engine - Spark 3.2.1 Documentation](https://spark.apache.org/docs/latest/sql-distributed-sql-engine.html)  
           * [Python Package Management — PySpark 3.2.0 documentation](https://spark.apache.org/docs/latest/api/python/user_guide/python_packaging.html)  
+          * [Spark SQL, Built-in Functions](https://spark.apache.org/docs/latest/api/sql/index.html)  
           * [SQL Syntax - Spark 3.0.0 Documentation](https://spark.apache.org/docs/3.0.0/sql-ref-syntax.html)  
           * [Submitting Applications - Spark 3.2.0 Documentation](https://spark.apache.org/docs/latest/submitting-applications.html)  
         * sparkbyexamples.com  
@@ -1891,6 +1948,7 @@
           * [How can I use Python to get the system hostname? - Stack Overflow](https://stackoverflow.com/questions/4271740/how-can-i-use-python-to-get-the-system-hostname)  
           * [How do I copy a file in Python? - Stack Overflow](https://stackoverflow.com/questions/123198/how-do-i-copy-a-file-in-python)  
           * [How do I create a multiline Python string with inline variables? - Stack Overflow](https://stackoverflow.com/questions/10112614/how-do-i-create-a-multiline-python-string-with-inline-variables)  
+          * [How do I detect the Python version at runtime? - Stack Overflow](https://stackoverflow.com/questions/9079036/how-do-i-detect-the-python-version-at-runtime)  
           * [How do I get a value of datetime.today() in Python that is "timezone aware"? - Stack Overflow](https://stackoverflow.com/questions/4530069/how-do-i-get-a-value-of-datetime-today-in-python-that-is-timezone-aware)  
           * [How do I get the path of the Python script I am running in? - Stack Overflow](https://stackoverflow.com/questions/595305/how-do-i-get-the-path-of-the-python-script-i-am-running-in)  
           * [How do I lowercase a string in Python? - Stack Overflow](https://stackoverflow.com/questions/6797984/how-do-i-lowercase-a-string-in-python)  
@@ -1945,6 +2003,7 @@
           * [python - Change column type in pandas - Stack Overflow](https://stackoverflow.com/questions/15891038/change-column-type-in-pandas)  
           * [python - Change data type of columns in Pandas - Stack Overflow](https://stackoverflow.com/questions/15891038/change-data-type-of-columns-in-pandas)  
           * [python - Change one value based on another value in pandas - Stack Overflow](https://stackoverflow.com/questions/19226488/change-one-value-based-on-another-value-in-pandas)  
+          * [python - check if a key exists in a bucket in s3 using boto3 - Stack Overflow](https://stackoverflow.com/questions/33842944/check-if-a-key-exists-in-a-bucket-in-s3-using-boto3)  
           * [python - Check if a value exists in pandas dataframe index - Stack Overflow](https://stackoverflow.com/questions/23549231/check-if-a-value-exists-in-pandas-dataframe-index)  
           * [python - Check if an INSERT with a SELECT was successfull in PyMySQL - Stack Overflow](https://stackoverflow.com/questions/51983057/check-if-an-insert-with-a-select-was-successfull-in-pymysql)  
           * [python - Check if string matches pattern - Stack Overflow](https://stackoverflow.com/questions/12595051/check-if-string-matches-pattern)  
@@ -2047,6 +2106,7 @@
           * [python - Pandas - Groupby with conditional formula - Stack Overflow](https://stackoverflow.com/questions/45083000/pandas-groupby-with-conditional-formula/45083237)  
           * [python - Pandas DataFrame Groupby two columns and get counts - Stack Overflow](https://stackoverflow.com/questions/17679089/pandas-dataframe-groupby-two-columns-and-get-counts)  
           * [python - Pandas DataFrame to List of Lists - Stack Overflow](https://stackoverflow.com/questions/28006793/pandas-dataframe-to-list-of-lists)  
+          * [python - Pandas dataframe total row - Stack Overflow](https://stackoverflow.com/questions/21752399/pandas-dataframe-total-row)  
           * [python - Pandas every nth row - Stack Overflow](https://stackoverflow.com/questions/25055712/pandas-every-nth-row)  
           * [python - pandas get rows which are NOT in other dataframe - Stack Overflow](https://stackoverflow.com/questions/28901683/pandas-get-rows-which-are-not-in-other-dataframe)  
           * [python - Pandas Groupby and Sum Only One Column - Stack Overflow](https://stackoverflow.com/questions/38985053/pandas-groupby-and-sum-only-one-column)  
@@ -2165,6 +2225,7 @@
           * [Pandas Pivot table | Create Pivot Table Using Pandas in Python](https://www.analyticsvidhya.com/blog/2020/03/pivot-table-pandas-python/)  
           * [The Guide to Data Analysis with DuckDB - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/12/the-guide-to-data-analysis-with-duckdb/)  
         * www.delftstack.com  
+          * [Check Python Module Version | Delft Stack](https://www.delftstack.com/howto/python/module-version-python/)  
           * [Count Unique Values Per Group(s) in Pandas | Delft Stack](https://www.delftstack.com/howto/python-pandas/how-to-count-unique-values-with-pandas-per-groups/)  
           * [Hide Axis Text Ticks and/or Tick Labels in Matplotlib | Delft Stack](https://www.delftstack.com/howto/matplotlib/how-to-hide-axis-text-ticks-and-or-tick-labels-in-matplotlib/#xaxis.set_ticklabels%2fyaxis.set_ticklabels-to-hide-axis-label-%2f-text-in-matplotlib)  
         * www.programiz.com  
@@ -2236,6 +2297,7 @@
         * [For loop with range - Learn Python 3 - Snakify](https://snakify.org/en/lessons/for_loop_range/)  
         * [How to add a dataframe to an existing excel file](https://python-forum.io/Thread-How-to-add-a-dataframe-to-an-existing-excel-file)  
         * [How to Add Leading Zeros to a Number in MySQL | Database.Guide](https://database.guide/how-to-add-leading-zeros-to-a-number-in-mysql/)  
+        * [How to Convert a Tuple to a String in Python [With Examples]](https://codefather.tech/blog/tuple-to-string-python/)  
         * [How to encode URLs in Python | URLEncoder](https://www.urlencoder.io/python/)  
         * [How to flatten a hierarchical index in pandas DataFrame columns in Python](https://kite.com/python/answers/how-to-flatten-a-hierarchical-index-in-pandas-dataframe-columns-in-python)  
         * [How to Merge Two Pandas DataFrames on Index - Statology](https://www.statology.org/pandas-merge-on-index/)  
@@ -2253,6 +2315,7 @@
         * [Pandas - Split Column by Delimiter - Data Science Parichay](https://datascienceparichay.com/article/pandas-split-column-by-delimiter/)  
         * [Pandas DataFrames - Writing to and reading from MySQL Table | Pythontic.com](https://pythontic.com/pandas/serialization/mysql)  
         * [Pandas Tutorial - Selecting Rows From a DataFrame | Novixys Software Dev Blog](https://www.novixys.com/blog/pandas-tutorial-select-dataframe/)  
+        * [Pandas Vs PySpark](https://sargupta93.medium.com/hello-world-of-pyspark-for-python-pandas-user-pandas-vs-pyspark-dba7e626556e)  
         * [Publish Spark SQL DataFrame and RDD with Spark Thrift Server | Adaltas](https://www.adaltas.com/en/2019/03/25/spark-sql-dataframe-thrift-server/)  
         * [PyFormat: Using % and .format() for great good!](https://pyformat.info/)  
         * [python - Calculating time deltas between rows in a Pandas dataframe - Code Review Stack Exchange](https://codereview.stackexchange.com/questions/210070/calculating-time-deltas-between-rows-in-a-pandas-dataframe)  
@@ -2380,23 +2443,31 @@
       * [gRPC](https://grpc.io/)  
       * [gRPC | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/grpc)  
   * Software Documentation  
-    * Confluence How To  
-      * community.atlassian.com  
-        * [Solved: confluence pages - get attached files via REST API...](https://community.atlassian.com/t5/Answers-Developer-Questions/confluence-pages-get-attached-files-via-REST-API/qaq-p/529873)  
-        * [List all pages in a space](https://community.atlassian.com/t5/Confluence-questions/List-all-pages-in-a-space-showing-titles-of-page-and-IDs/qaq-p/855277)  
-      * [How to get a list of the most popular macros used in Confluence | Confluence | Atlassian Documentation](https://confluence.atlassian.com/confkb/how-to-get-a-list-of-the-most-popular-macros-used-in-confluence-353764197.html)  
-      * [The Confluence Cloud REST API](https://developer.atlassian.com/cloud/confluence/rest/intro/)  
+    * Confluence  
+      * Confluence How To  
+        * community.atlassian.com  
+          * [Solved: confluence pages - get attached files via REST API...](https://community.atlassian.com/t5/Answers-Developer-Questions/confluence-pages-get-attached-files-via-REST-API/qaq-p/529873)  
+          * [List all pages in a space](https://community.atlassian.com/t5/Confluence-questions/List-all-pages-in-a-space-showing-titles-of-page-and-IDs/qaq-p/855277)  
+        * [How to get a list of the most popular macros used in Confluence | Confluence | Atlassian Documentation](https://confluence.atlassian.com/confkb/how-to-get-a-list-of-the-most-popular-macros-used-in-confluence-353764197.html)  
+        * [The Confluence Cloud REST API](https://developer.atlassian.com/cloud/confluence/rest/intro/)  
+      * [Confluence | Your Remote-Friendly Team Workspace | Atlassian](https://www.atlassian.com/software/confluence)  
     * Markdown  
-      * github.com  
-        * [Basic writing and formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
-        * [License Badges for your Project](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)  
-        * [linguist/languages.yml at master · github/linguist](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)  
-        * [Markdown Cheatsheet · adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
-        * [Organizing information with tables - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)  
-        * [scotch-io/All-Github-Emoji-Icons: A repo of every emoji icon as a separate file and commit.](https://github.com/scotch-io/All-Github-Emoji-Icons)  
-      * [Extended Syntax | Markdown Guide](https://www.markdownguide.org/extended-syntax/)  
-      * [markdown - Is there a way to represent a directory tree in a Github README.md? - Stack Overflow](https://stackoverflow.com/questions/23989232/is-there-a-way-to-represent-a-directory-tree-in-a-github-readme-md)  
+      * Markdown How To  
+        * docs.github.com  
+          * [Organizing information with tables - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)  
+          * [Basic writing and formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
+        * [Extended Syntax | Markdown Guide](https://www.markdownguide.org/extended-syntax/)  
+        * [markdown - Is there a way to represent a directory tree in a Github README.md? - Stack Overflow](https://stackoverflow.com/questions/23989232/is-there-a-way-to-represent-a-directory-tree-in-a-github-readme-md)  
+      * [License Badges for your Project](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)  
+      * [linguist/languages.yml at master · github/linguist](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)  
+      * [scotch-io/All-Github-Emoji-Icons: A repo of every emoji icon as a separate file and commit.](https://github.com/scotch-io/All-Github-Emoji-Icons)  
       * [Shields.io: Quality metadata badges for open source projects](https://shields.io/)  
+    * Mermaid  
+      * Mermaid How To  
+        * [diagramming - Mermaid CLI - how do you escape characters? - Stack Overflow](https://stackoverflow.com/questions/28121525/mermaid-cli-how-do-you-escape-characters)  
+        * [Mermaid diagram line break - Stack Overflow](https://stackoverflow.com/questions/51366763/mermaid-diagram-line-break)  
+      * [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.](https://mermaid-js.github.io/)  
+      * [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaid.live/edit)  
     * [DevDocs](http://devdocs.io/)  
     * [Zeal - Offline Documentation Browser](https://zealdocs.org/)  
   * Software Licensing  
@@ -2486,9 +2557,12 @@
         * [joseluisq/static-web-server: A blazing fast and asynchronous web server for static files-serving. ⚡](https://github.com/joseluisq/static-web-server)  
         * [Xitami - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Xitami)  
         * [ZazouMiniWebServer](http://www.xgarreau.org/zazouminiwebserver/)  
-      * [Mockaroo - Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel](https://www.mockaroo.com/)  
-      * [Postman | API Development Environment](https://www.getpostman.com/)  
-      * [roapi/roapi: Create full-fledged APIs for static datasets without writing a single line of code.](https://github.com/roapi/roapi)  
+      * Web APIs  
+        * Web APIs How To  
+          * [How to Design an API – Application Programming Interface Best Practices](https://www.freecodecamp.org/news/design-an-api-application-program-interface/)  
+        * [Mockaroo - Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel](https://www.mockaroo.com/)  
+        * [Postman | API Development Environment](https://www.getpostman.com/)  
+        * [roapi/roapi: Create full-fledged APIs for static datasets without writing a single line of code.](https://github.com/roapi/roapi)  
     * Frontend  
       * CSS  
         * CSS How To  
@@ -2548,6 +2622,9 @@
               * [html - how to include glyphicons in bootstrap 3 - Stack Overflow](https://stackoverflow.com/questions/19608873/how-to-include-glyphicons-in-bootstrap-3)  
               * [html - How to put a link on a button with bootstrap? - Stack Overflow](https://stackoverflow.com/questions/36003670/how-to-put-a-link-on-a-button-with-bootstrap)  
               * [html - Responsive image align center bootstrap 3 - Stack Overflow](https://stackoverflow.com/questions/18462808/responsive-image-align-center-bootstrap-3)  
+            * www.tutorialrepublic.com  
+              * [How to Center Buttons in Bootstrap](https://www.tutorialrepublic.com/faq/how-to-center-buttons-in-bootstrap.php)  
+              * [How to Create Dropdown Menu with Bootstrap 3 - Tutorial Republic](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-dropdowns.php)  
             * www.w3schools.com  
               * [Bootstrap CSS Basic Text Reference](http://www.w3schools.com/bootstrap/bootstrap_ref_css_text.asp)  
               * [Bootstrap Dropdown Components](http://www.w3schools.com/bootstrap/bootstrap_ref_comp_dropdowns.asp)  
@@ -2564,7 +2641,6 @@
             * [Bootstrap Glyphicons v3.2.2 | Bootstrap Cheat Sheets](http://glyphicons.bootstrapcheatsheets.com/)  
             * [Bootswatch: Free themes for Bootstrap](https://bootswatch.com/)  
             * [Font Awesome v.4.5.0 | Bootstrap Cheat Sheets](http://fontawesome.bootstrapcheatsheets.com/)  
-            * [How to Create Dropdown Menu with Bootstrap 3 - Tutorial Republic](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-dropdowns.php)  
           * [Bootstrap · The most popular HTML, CSS, and JS library in the world.](https://getbootstrap.com/)  
       * HTML  
         * HTML How To  
