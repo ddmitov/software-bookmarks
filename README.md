@@ -1,4 +1,6 @@
 ## Software
+  * Architecture  
+    * [ConwaysLaw](https://www.martinfowler.com/bliki/ConwaysLaw.html)  
   * Archivers  
     * [7-Zip](https://www.7-zip.org/)  
     * [IZArc - Free Zip/Unzip Files Utility](https://www.izarc.org/)  
@@ -69,6 +71,10 @@
               * [Pushing a Docker image - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/docker-push-ecr-image.html)  
               * [Troubleshooting errors with Docker commands when using Amazon ECR - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/common-errors-docker.html)  
               * [Using Amazon ECR with the AWS CLI - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/getting-started-cli.html)  
+            * IAM  
+              * [Creating an IAM user in your AWS account - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html)  
+              * [Creating your first IAM admin user and user group - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html)  
+              * [Tagging IAM resources - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags.html)  
             * Lambda  
               * [AWS Lambda function handler in Python - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html)  
               * [Using AWS Lambda with Amazon API Gateway - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway.html)  
@@ -84,14 +90,22 @@
                 * [Filtering and retrieving data using Amazon S3 Select - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/selecting-content-from-objects.html)  
                 * [Querying data without servers or databases using Amazon S3 Select | AWS Storage Blog](https://aws.amazon.com/blogs/storage/querying-data-without-servers-or-databases-using-amazon-s3-select/)  
                 * [Selecting content from objects - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/dev/selecting-content-from-objects.html)  
+              * [Bucket naming rules - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html)  
               * [Bucket restrictions and limitations - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/BucketRestrictions.html)  
+              * [Create your first S3 bucket - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-bucket.html)  
               * [Resolve Throttling on Your Amazon S3 Bucket](https://aws.amazon.com/premiumsupport/knowledge-center/s3-request-limit-avoid-throttling/)  
               * [Understand S3 Object Key Naming Patterns for High Request Rates](https://aws.amazon.com/premiumsupport/knowledge-center/s3-object-key-naming-pattern/)  
+            * VPC  
+              * [Control traffic to resources using security groups - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)  
+              * [Work with VPCs - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/working-with-vpcs.html)  
             * [Amazon EC2 Instance Types](https://www.amazonaws.cn/en/ec2/instance-types/)  
             * [AWS Account Identifiers - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/acct-identifiers.html)  
             * [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/)  
             * [AWS service endpoints - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/rande.html)  
+            * [Check for active AWS resources](https://aws.amazon.com/premiumsupport/knowledge-center/check-for-active-resources/)  
             * [checkip.amazonaws.com](http://checkip.amazonaws.com/)  
+            * [Create and attach a policy to an IAM user - Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-and-attach-iam-policy.html)  
+            * [Creating a billing alarm to monitor your estimated AWS charges - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html)  
           * [AWS Cloud Ping - Latency & Response Speed Test](https://www.cloudping.cloud/aws)  
           * [Is it on AWS?](https://isitonaws.com/)  
           * [Serverless patterns | Serverless Land](https://serverlessland.com/patterns)  
@@ -124,6 +138,7 @@
           * [Transferring files to OneDrive for Business via rclone - Academic Computing Team](https://research.reading.ac.uk/act/knowledgebase/rclone-sync/)  
         * [rclone - rsync for cloud storage](https://rclone.org/)  
     * [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)  
+    * [Public Cloud Services Comparison](https://comparecloud.in/)  
   * Containers  
     * Docker  
       * Docker How To  
@@ -138,18 +153,26 @@
           * [docker image ls | Docker Documentation](https://docs.docker.com/engine/reference/commandline/image_ls/)  
           * [docker image rm | Docker Documentation](https://docs.docker.com/engine/reference/commandline/image_rm/)  
           * [docker images | Docker Documentation](https://docs.docker.com/engine/reference/commandline/images/)  
+          * [docker network ls | Docker Documentation](https://docs.docker.com/engine/reference/commandline/network_ls/)  
           * [docker ps | Docker Documentation](https://docs.docker.com/engine/reference/commandline/ps/)  
           * [docker stats | Docker Documentation](https://docs.docker.com/engine/reference/commandline/stats/)  
           * [docker system df | Docker Documentation](https://docs.docker.com/engine/reference/commandline/system_df/)  
           * [docker volume create | Docker Documentation](https://docs.docker.com/engine/reference/commandline/volume_create/)  
           * [docker-compose stop | Docker Documentation](https://docs.docker.com/compose/reference/stop/)  
           * [Get started with Docker Compose | Docker Documentation](https://docs.docker.com/compose/gettingstarted/)  
+          * [Networking in Compose | Docker Documentation](https://docs.docker.com/compose/networking/)  
           * [Runtime metrics | Docker Documentation](https://docs.docker.com/config/containers/runmetrics/)  
           * [Use volumes | Docker Documentation](https://docs.docker.com/storage/volumes/)  
         * stackoverflow.com  
           * [docker - Error "The input device is not a TTY" - Stack Overflow](https://stackoverflow.com/questions/43099116/error-the-input-device-is-not-a-tty)  
+          * [docker - How to mount a single file in a volume - Stack Overflow](https://stackoverflow.com/questions/42248198/how-to-mount-a-single-file-in-a-volume)  
+          * [Docker run override entrypoint with shell script which accepts arguments - Stack Overflow](https://stackoverflow.com/questions/41694329/docker-run-override-entrypoint-with-shell-script-which-accepts-arguments)  
           * [Get Docker container id from container name - Stack Overflow](https://stackoverflow.com/questions/34496882/get-docker-container-id-from-container-name)  
           * [Stopping Docker containers by image name - Ubuntu - Stack Overflow](https://stackoverflow.com/questions/32073971/stopping-docker-containers-by-image-name-ubuntu)  
+        * www.baeldung.com  
+          * [Difference Between links and depends_on in Docker Compose | Baeldung](https://www.baeldung.com/ops/docker-compose-links-depends-on)  
+          * [Mounting a Single File in a Volume Using Docker | Baeldung](https://www.baeldung.com/ops/docker-mount-single-file-in-volume)  
+        * [Demonstrating Hello World Example | dockerlabs](https://dockerlabs.collabnix.com/beginners/helloworld/)  
         * [Docker: Remove all images and containers – TechOverflow](https://techoverflow.net/2013/10/22/docker-remove-all-images-and-containers/)  
         * [Exiting a Docker Container · vsupalov.com](https://vsupalov.com/exit-docker-container/)  
         * [How To Remove Docker Containers, Images, Volumes, and Networks | Linuxize](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/)  
@@ -161,6 +184,13 @@
     * [Customizing the Build - Travis CI](https://docs.travis-ci.com/user/customizing-the-build)  
     * [How do I get Travis' build working directory in .travis.yml? - Stack Overflow](https://stackoverflow.com/questions/14006810/how-do-i-get-travis-build-working-directory-in-travis-yml)  
   * Data Formats  
+    * Arrow  
+      * arrow.apache.org  
+        * [Apache Arrow](https://arrow.apache.org/)  
+        * [Arrow Flight SQL](https://arrow.apache.org/docs/format/FlightSql.html)  
+        * [Introducing Apache Arrow Flight SQL: Accelerating Database Access | Apache Arrow](https://arrow.apache.org/blog/2022/02/16/introducing-arrow-flight-sql/)  
+      * [Apache Arrow Flight: A Primer - Voltron Data](https://voltrondata.com/news/apache-arrow-flight-primer/)  
+      * [Benchmarking Apache Arrow Flight -- A wire-speed protocol for data transfer, querying and microservices](https://www.researchgate.net/publication/359814346_Benchmarking_Apache_Arrow_Flight_--_A_wire-speed_protocol_for_data_transfer_querying_and_microservices)  
     * JSON  
       * GeoJSON  
         * [GeoJSON](https://geojson.org/)  
@@ -171,6 +201,9 @@
         * [JSON Diff - The semantic JSON compare tool](http://www.jsondiff.com/)  
         * [JSONLint - The JSON Validator](https://jsonlint.com/)  
       * [JSON](https://www.json.org/json-en.html)  
+    * Parquet  
+      * [Apache Parquet](https://parquet.apache.org/)  
+      * [What is the Parquet File Format? Use Cases & Benefits | Upsolver](https://www.upsolver.com/blog/apache-parquet-why-use)  
     * XML  
       * EpiDoc  
         * EpiDoc Processing  
@@ -201,44 +234,198 @@
       * XML Processing  
         * [Jing](https://relaxng.org/jclark/jing.html)  
         * [michmech/xonomy: A schema-driven XML editor for the web.](https://github.com/michmech/xonomy)  
-    * [Apache Arrow](https://arrow.apache.org/)  
-    * [Apache Parquet](https://parquet.apache.org/)  
     * [Storage size and generation time in popular file formats | Adaltas](https://www.adaltas.com/en/2021/03/22/performance-comparison-of-file-formats/)  
   * Data Lakes  
+    * Databricks  
+      * Databricks How To  
+        * docs.databricks.com  
+          * [Data objects in the Databricks Lakehouse | Databricks on AWS](https://docs.databricks.com/lakehouse/data-objects.html)  
+          * [Databricks File System (DBFS) | Databricks on AWS](https://docs.databricks.com/data/databricks-file-system.html#!#user-interface)  
+          * [Delta Lake quickstart | Databricks on AWS](https://docs.databricks.com/delta/quick-start.html)  
+          * [Enable table access control for your workspace | Databricks on AWS](https://docs.databricks.com/administration-guide/access-control/table-acl.html)  
+          * [How to interact with files on Databricks | Databricks on AWS](https://docs.databricks.com/files/index.html#access-files-on-the-dbfs-root)  
+          * [Introduction to DataFrames - Python | Databricks on AWS](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html)  
+          * [Libraries | Databricks on AWS](https://docs.databricks.com/libraries/index.html)  
+          * [Optimize conversion between PySpark and pandas DataFrames | Databricks on AWS](https://docs.databricks.com/spark/latest/spark-sql/spark-pandas.html)  
+          * [Query databases using JDBC | Databricks on AWS](https://docs.databricks.com/external-data/jdbc.html)  
+          * [Secret management | Databricks on AWS](https://docs.databricks.com/security/secrets/index.html)  
+          * [Sign up for Databricks Community edition | Databricks on AWS](https://docs.databricks.com/getting-started/community-edition.html)  
+          * [SQL databases using JDBC | Databricks on AWS](https://docs.databricks.com/data/data-sources/sql-databases.html)  
+        * github.com  
+          * [changhsinlee.github.io/dataframe-basics.ipynb at master · changhsinlee/changhsinlee.github.io](https://github.com/changhsinlee/changhsinlee.github.io/blob/master/notebook/2018-03-04-pyspark-dataframe-basics/dataframe-basics.ipynb)  
+          * [MrPowers/delta-examples: Delta Lake examples](https://github.com/MrPowers/delta-examples/)  
+        * stackoverflow.com  
+          * [apache spark - How to export data from a dataframe to a file databricks - Stack Overflow](https://stackoverflow.com/questions/38620050/how-to-export-data-from-a-dataframe-to-a-file-databricks)  
+          * [apache spark - Writing databricks dataframe to S3 using python - Stack Overflow](https://stackoverflow.com/questions/57703270/writing-databricks-dataframe-to-s3-using-python)  
+        * www.databricks.com  
+          * [Databricks Community Edition FAQ – Databricks](https://databricks.com/product/faq/community-edition)  
+          * [Fine-Grained Time Series Forecasting With Facebook Prophet Updated for Apache Spark - The Databricks Blog](https://www.databricks.com/blog/2021/04/06/fine-grained-time-series-forecasting-at-scale-with-facebook-prophet-and-apache-spark-updated-for-spark-3.html)  
+        * [Apache Spark Architecture Overview: Jobs, Stages, Tasks, etc](https://queirozf.com/entries/apache-spark-architecture-overview-clusters-jobs-stages-tasks)  
+      * [Databricks Community Edition](https://community.cloud.databricks.com/)  
     * Dremio  
       * Dremio How To  
         * community.dremio.com  
           * [Basic guidelines for using dremio docker - Dremio](https://community.dremio.com/t/basic-guidelines-for-using-dremio-docker/1935)  
           * [Path /opt/dremio/data is not writable when try to run persist dremio docker - Dremio](https://community.dremio.com/t/path-opt-dremio-data-is-not-writable-when-try-to-run-persist-dremio-docker/3790)  
+          * [Dremio vs Athena - Performance Benchmarks - Dremio](https://community.dremio.com/t/dremio-vs-athena-performance-benchmarks/)  
+          * [Connection between Dremio, Spark with Arrow Flight - Dremio](https://community.dremio.com/t/connection-between-dremio-spark-with-arrow-flight/8294/2)  
         * docs.dremio.com  
-          * [Amazon S3 - Dremio](https://docs.dremio.com/software/data-sources/s3/)  
-          * [CAST - Dremio](https://docs.dremio.com/software/sql-reference/sql-functions/functions/CAST/)  
-          * [CONCAT - Dremio](https://docs.dremio.com/software/sql-reference/sql-functions/functions/CONCAT/)  
-          * [Configuring Metadata Storage - Dremio](https://docs.dremio.com/software/deployment/metadata-store-config/)  
-          * [Configuring Standalone Clusters - Dremio](https://docs.dremio.com/software/deployment/dremio-config/)  
-          * [Configuring via dremio.conf - Dremio](https://docs.dremio.com/software/advanced-administration/dremio-conf/)  
-          * [Data Formats - Dremio](https://docs.dremio.com/software/data-formats/)  
-          * [DBeaver - Dremio](https://docs.dremio.com/software/client-applications/dbeaver/)  
-          * [Developing Arrow Flight Client Applications for Dremio - Dremio](https://docs.dremio.com/software/developing-client-apps/arrow-flight/)  
-          * [External Sources - Dremio](https://docs.dremio.com/cloud/sources/external/)  
-          * [Limits - Dremio](https://docs.dremio.com/software/advanced-administration/limits/)  
-          * [Overview of Dremio Cloud - Dremio](https://docs.dremio.com/cloud/getting-started/architecture/)  
-          * [PIVOT - Dremio](https://docs.dremio.com/software/sql-reference/sql-functions/functions/PIVOT/)  
-          * [Python - Dremio](https://docs.dremio.com/software/client-applications/python/)  
-          * [Reflections Overview - Dremio](https://docs.dremio.com/software/acceleration/reflections/)  
-          * [SQL Reference - Dremio](https://docs.dremio.com/software/sql-reference/)  
-          * [Standalone Cluster - Dremio](https://docs.dremio.com/software/deployment/standalone/standalone-cluster/)  
-          * [System Requirements - Dremio](https://docs.dremio.com/software/deployment/system-requirements/)  
-          * [Table SQL Statements - Dremio](https://docs.dremio.com/software/sql-reference/sql-commands/tables/#create-table-as)  
-          * [Virtual Datasets - Dremio](https://docs.dremio.com/software/working-with-datasets/virtual-datasets/)  
+          * cloud  
+            * [Accelerating Queries with Reflections - Dremio](https://docs.dremio.com/cloud/reflections/)  
+            * [API Reference - Dremio](https://docs.dremio.com/cloud/api/)  
+            * [Configuring Amazon S3 for MinIO - Dremio](https://docs.dremio.com/cloud/sources/amazon-s3/configuring-s3-for-minio/)  
+            * [Connecting from Apache Superset or Preset to Dremio Cloud - Dremio](https://docs.dremio.com/cloud/client-applications/superset/)  
+            * [Connecting from Microsoft Power BI - Dremio Cloud](https://docs.dremio.com/cloud/client-applications/power-bi/)  
+            * [Creating Apache Iceberg Tables - Dremio](https://docs.dremio.com/cloud/sql/commands/apache-iceberg-tables/apache-iceberg-create/)  
+            * [Developing Client Applications with Apache Arrow Flight - Dremio](https://docs.dremio.com/cloud/arrow-flight/)  
+            * [Editions - Dremio](https://docs.dremio.com/cloud/getting-started/editions/)  
+            * [Engines - Dremio](https://docs.dremio.com/cloud/api/engines/)  
+            * [External Sources - Dremio](https://docs.dremio.com/cloud/sources/external/)  
+            * [Inserting Data into Apache Iceberg Tables - Dremio](https://docs.dremio.com/cloud/sql/commands/apache-iceberg-tables/apache-iceberg-insert/)  
+            * [JDBC - Dremio](https://docs.dremio.com/cloud/client-applications/jdbc/)  
+            * [Managing Clouds - Dremio](https://docs.dremio.com/cloud/cloud-entities/clouds/)  
+            * [Managing Engines - Dremio](https://docs.dremio.com/cloud/workloads/engines/)  
+            * [Managing Projects - Dremio](https://docs.dremio.com/cloud/cloud-entities/projects/)  
+            * [Managing Your Data - Dremio](https://docs.dremio.com/cloud/data/)  
+            * [Overview of Dremio Cloud - Dremio](https://docs.dremio.com/cloud/getting-started/architecture/)  
+            * [Personal Access Tokens - Dremio](https://docs.dremio.com/cloud/security/authentication/personal-access-token/)  
+            * [Prerequisites in AWS and Permissions Required by Dremio - Dremio](https://docs.dremio.com/cloud/signing-up/prerequisites-and-permissions/)  
+            * [Python - Dremio](https://docs.dremio.com/cloud/client-applications/python/)  
+            * [Querying Your Data - Dremio](https://docs.dremio.com/cloud/querying-data/)  
+            * [Refreshing Reflections - Dremio](https://docs.dremio.com/cloud/reflections/refreshing-reflections/)  
+            * [Roles - Dremio](https://docs.dremio.com/cloud/security/access-management/roles/)  
+            * [Scratch Directory - Dremio](https://docs.dremio.com/cloud/data/scratch/)  
+            * [System Tables - Dremio](https://docs.dremio.com/cloud/sql/system-tables/)  
+            * [Tables - Dremio](https://docs.dremio.com/cloud/sql/commands/tables/)  
+            * [Understanding Usage - Dremio](https://docs.dremio.com/cloud/usage-and-billing/usage/)  
+            * [Users - Dremio](https://docs.dremio.com/cloud/security/access-management/users/#adding-a-user)  
+            * [Viewing Jobs and Job Details - Dremio](https://docs.dremio.com/cloud/querying-data/jobs/)  
+          * software  
+            * [Acceleration SQL Statements - Dremio](https://docs.dremio.com/software/sql-reference/sql-commands/acceleration/)  
+            * [Access Management - Dremio](https://docs.dremio.com/software/security/rbac/)  
+            * [Admin CLI - Dremio](https://docs.dremio.com/software/advanced-administration/dremio-admin-cli/)  
+            * [Admin Tasks - Dremio](https://docs.dremio.com/software/advanced-administration/)  
+            * [Amazon S3 - Dremio](https://docs.dremio.com/software/data-sources/s3/)  
+            * [Apache Iceberg - Dremio](https://docs.dremio.com/software/data-formats/apache-iceberg/)  
+            * [Apache Ranger: Row-Level Filtering & Column-Masking enterprise - Dremio](https://docs.dremio.com/software/security/rbac/row-column-policies-ranger/)  
+            * [Architecture - Dremio](https://docs.dremio.com/software/deployment/architecture/)  
+            * [Backup Dremio - Dremio](https://docs.dremio.com/software/advanced-administration/backup/)  
+            * [CAST - Dremio](https://docs.dremio.com/software/sql-reference/sql-functions/functions/CAST/)  
+            * [CONCAT - Dremio](https://docs.dremio.com/software/sql-reference/sql-functions/functions/CONCAT/)  
+            * [Configuring Metadata Storage - Dremio](https://docs.dremio.com/software/deployment/metadata-store-config/)  
+            * [Configuring Standalone Clusters - Dremio](https://docs.dremio.com/software/deployment/dremio-config/)  
+            * [Configuring via dremio.conf - Dremio](https://docs.dremio.com/software/advanced-administration/dremio-conf/)  
+            * [Connecting from Microsoft Power BI - Dremio Software](https://docs.dremio.com/software/client-applications/microsoft-power-bi/)  
+            * [Data Curation - Dremio](https://docs.dremio.com/software/managing-data/data-curation/)  
+            * [Data Formats - Dremio](https://docs.dremio.com/software/data-formats/)  
+            * [Data Sources - Dremio](https://docs.dremio.com/software/data-sources/)  
+            * [Data Types - Dremio](https://docs.dremio.com/software/sql-reference/data-types/)  
+            * [Dataset Concepts - Dremio](https://docs.dremio.com/software/managing-data/concepts/)  
+            * [DBeaver - Dremio](https://docs.dremio.com/software/client-applications/dbeaver/)  
+            * [Delta Lake - Dremio](https://docs.dremio.com/software/data-formats/delta-lake/)  
+            * [Deployment Models - Dremio](https://docs.dremio.com/software/deployment/deployment-models/)  
+            * [Developing Arrow Flight Client Applications for Dremio - Dremio](https://docs.dremio.com/software/developing-client-apps/arrow-flight/)  
+            * [External Queries - Dremio](https://docs.dremio.com/software/data-sources/external-queries/)  
+            * [Limits - Dremio](https://docs.dremio.com/software/advanced-administration/limits/)  
+            * [Logs - Dremio](https://docs.dremio.com/software/advanced-administration/log-files/)  
+            * [Metadata Refresh - Dremio](https://docs.dremio.com/software/advanced-administration/metadata-caching/)  
+            * [Microsoft Excel - Dremio](https://docs.dremio.com/software/client-applications/microsoft-excel/microsoft-excel/)  
+            * [ODBC Driver for Arrow Flight SQL - Dremio](https://docs.dremio.com/software/drivers/arrow-flight-sql-odbc-driver/)  
+            * [Offloading Operational Databases - Dremio](https://docs.dremio.com/software/acceleration/offloading-operational-databases/)  
+            * [PIVOT - Dremio](https://docs.dremio.com/software/sql-reference/sql-functions/functions/PIVOT/)  
+            * [Python - Dremio](https://docs.dremio.com/software/client-applications/python/)  
+            * [Querying Dremio Metadata - Dremio](https://docs.dremio.com/software/advanced-administration/querying-metadata/)  
+            * [Querying Your Data - Dremio](https://docs.dremio.com/software/querying-data/)  
+            * [Reflections Overview - Dremio](https://docs.dremio.com/software/acceleration/reflections/)  
+            * [Refreshing Data Reflections - Dremio](https://docs.dremio.com/software/acceleration/updating-reflections/)  
+            * [REST API - Dremio Software](https://docs.dremio.com/software/rest-api/)  
+            * [SQL Commands for Apache Iceberg Tables - Dremio](https://docs.dremio.com/software/sql-reference/sql-commands/apache-iceberg-tables/)  
+            * [SQL Function Categories - Dremio](https://docs.dremio.com/software/sql-reference/sql-functions/)  
+            * [SQL Reference - Dremio](https://docs.dremio.com/software/sql-reference/)  
+            * [Standalone Cluster - Dremio](https://docs.dremio.com/software/deployment/standalone/standalone-cluster/)  
+            * [Standalone Quickstart - Dremio](https://docs.dremio.com/software/quickstart/standalone-quickstart/)  
+            * [System Requirements - Dremio](https://docs.dremio.com/software/deployment/system-requirements/)  
+            * [System Tables - Dremio](https://docs.dremio.com/software/sql-reference/system-tables/)  
+            * [Table SQL Statements - Dremio](https://docs.dremio.com/software/sql-reference/sql-commands/tables/#create-table-as)  
+            * [User-Defined Functions - Dremio](https://docs.dremio.com/software/sql-reference/sql-commands/functions/)  
+            * [Virtual Datasets - Dremio](https://docs.dremio.com/software/managing-data/virtual-datasets/)  
+          * [Dremio Hub](https://www.dremio.com/hub/)  
+          * [Dremio Technology Alliance Program Guide](https://www.dremio.com/files/pdfs/Dremio-Technology-Alliance-Program-Guide.pdf)  
+          * [Partners | Dremio](https://www.dremio.com/partners/)  
+        * github.com  
+          * [gregpalmr/dremio-iceberg-demo: Demonstrate the Dremio Data Lake engine accessing Apache Iceberg tables stored in HDFS](https://github.com/gregpalmr/dremio-iceberg-demo)  
+          * [jentekllc/dremio_flight_spark_ml.ipynb at master · geyungjen/jentekllc](https://github.com/geyungjen/jentekllc/blob/master/Spark/Python/MachineLearning/dremio_flight_spark_ml.ipynb)  
+        * university.dremio.com  
+          * [Data Reflections | Dremio University](https://university.dremio.com/courses/course-v1:dremio+D102+2019/about)  
+          * [Dremio for Data Consumers | Dremio University](https://university.dremio.com/courses/course-v1:dremio+D103+2019/about)  
+          * [Dremio Fundamentals | Dremio University](https://university.dremio.com/courses/course-v1:dremio+D101+2018D101/about)  
         * www.dremio.com  
-          * [Analyzing Data with Python and Dremio on Docker and Kubernetes - Dremio | Dremio](https://www.dremio.com/resources/tutorials/python-dremio-and-kubernetes/)  
-          * [Dremio Events - Eliminating Data Exports for Data Science with Apache Arrow Flight | Dremio](https://www.dremio.com/blog/eliminating-data-exports-for-data-science-with-apache-arrow-flight/)  
+          * blog  
+            * [5 Limitations of Data Warehouses in Today’s World of Infinite Data | Dremio](https://www.dremio.com/blog/5-limitations-of-data-warehouses-in-today-s-world-of-infinite-data/)  
+            * [Announcing Direct Connect from Power BI to Dremio | Dremio](https://www.dremio.com/blog/announcing-direct-connect-from-power-bi-to-dremio/)  
+            * [Dremio Cloud Now Available on the AWS Marketplace! | Dremio](https://www.dremio.com/blog/dremio-cloud-now-available-on-the-aws-marketplace/?utm_content=1660143005&utm_medium=social-free&utm_source=linkedin)  
+            * [Dremio Cloud: Under the Hood | Dremio](https://www.dremio.com/blog/dremio-cloud-under-the-hood/)  
+            * [Dremio Events - Eliminating Data Exports for Data Science with Apache Arrow Flight | Dremio](https://www.dremio.com/blog/eliminating-data-exports-for-data-science-with-apache-arrow-flight/)  
+            * [Enabling a Data Mesh with an Open Lakehouse | Dremio](https://www.dremio.com/blog/enabling-a-data-mesh-with-an-open-lakehouse/)  
+            * [Enabling Open Data Lakes with Dremio and Delta Sharing | Dremio](https://www.dremio.com/blog/enabling-open-data-lakes-with-dremio-and-delta-sharing/)  
+            * [Is Your Data on S3? 21 Reasons Why Dremio Is the Best SQL Engine for You! | Dremio](https://www.dremio.com/blog/is-your-data-on-s3-21-reasons-why-dremio-is-the-best-sql-engine-for-you/?utm_source=linkedin&utm_medium=social-free&utm_campaign=advocacy)  
+            * [It’s Time to Replace ODBC & JDBC | Dremio](https://www.dremio.com/blog/is-time-to-replace-odbc-jdbc/)  
+            * [Looking Back At How We Exited Dremio From Stealth | Dremio](https://www.dremio.com/blog/exiting-dremio-from-stealth/)  
+            * [Melt Away Your Cloud Data Warehouse Costs | Dremio](https://www.dremio.com/blog/melt-away-your-cloud-data-warehouse-costs/?utm_content=1661800201&utm_medium=social-free&utm_source=linkedin)  
+            * [Next-Gen Data Analytics - Open Data Architecture | Dremio](https://www.dremio.com/blog/next-gen-data-analytics-open-data-architecture/)  
+            * [Understanding the Dremio AWS Edition Deployment Architecture | Dremio](https://www.dremio.com/blog/dremio-aws-edition-reployment-architecture/)  
+            * [What Is a Data Lakehouse? | Dremio](https://www.dremio.com/blog/what-is-a-data-lakehouse/)  
+            * [Why We Built a Forever-Free Lakehouse Platform | Dremio](https://www.dremio.com/blog/why-we-built-a-forever-free-lakehouse-platform/)  
+          * drivers  
+            * [JDBC Driver for Apache Arrow Flight SQL | Dremio](https://www.dremio.com/drivers/jdbc/)  
+            * [ODBC Driver for Apache Arrow Flight SQL | Dremio](https://www.dremio.com/drivers/odbc/)  
+          * guides  
+            * [Apache Iceberg: An Architectural Look Under the Covers | Dremio](https://www.dremio.com/resources/guides/apache-iceberg-an-architectural-look-under-the-covers/)  
+            * [What Is a Cloud Data Lake? | Dremio](https://www.dremio.com/resources/guides/cloud-data-lakes/)  
+            * [What Is a Data Pipeline & How Does It Work? | Dremio](https://www.dremio.com/resources/guides/data-pipeline/)  
+            * [What Is Apache Arrow? Capabilities & Benefits | Dremio](https://www.dremio.com/resources/guides/apache-arrow/)  
+            * [What Is Data Engineering? Responsibilities & Tools | Dremio](https://www.dremio.com/resources/guides/data-engineering/)  
+          * platform  
+            * [Dremio Sonar | A SQL engine for open data platforms](https://www.dremio.com/platform/sonar/)  
+            * [The Data Lakehouse Query Engine | Dremio](https://www.dremio.com/platform/sonar/query-engine/)  
+          * subsurface  
+            * [An Introduction to Apache Arrow Flight SQL | Dremio](https://www.dremio.com/subsurface/an-introduction-to-apache-arrow-flight-sql/)  
+            * [Apache Iceberg 101 - Your Guide to Learning Apache Iceberg Concepts and Practices](https://www.dremio.com/subsurface/apache-iceberg-101-your-guide-to-learning-apache-iceberg-concepts-and-practices/)  
+            * [Comparison of Data Lake Table Formats (Iceberg, Hudi and Delta Lake)](https://www.dremio.com/subsurface/comparison-of-data-lake-table-formats-iceberg-hudi-and-delta-lake/)  
+            * [Ensuring High Performance at Any Scale with Apache Iceberg's Object Store File Layout](https://www.dremio.com/subsurface/ensuring-high-performance-at-any-scale-with-apache-icebergs-object-store-file-layout/?utm_content=1664468221&utm_medium=social-free&utm_source=linkedin)  
+            * [Getting Started with Apache Iceberg in Databricks](https://www.dremio.com/subsurface/getting-started-with-apache-iceberg-in-databricks/)  
+            * [Nessie: Git for Data Lakes](https://www.dremio.com/subsurface/nessie-git-for-data-lakes/)  
+            * [The Origins of Apache Arrow & Its Fit in Today's Data Landscape](https://www.dremio.com/subsurface/the-origins-of-apache-arrow-its-fit-in-todays-data-landscape/?utm_content=1657638700&utm_medium=social-free&utm_source=linkedin)  
+          * tutorials  
+            * [Analyzing Data with Python and Dremio on Docker and Kubernetes - Dremio | Dremio](https://www.dremio.com/resources/tutorials/python-dremio-and-kubernetes/)  
+            * [Dremio REST API | Dremio](https://www.dremio.com/resources/tutorials/using-the-rest-api/)  
+            * [Getting Oriented to Dremio | Dremio](https://www.dremio.com/resources/tutorials/getting-oriented-to-dremio/)  
+            * [High Performance Parallel Exports | Dremio](https://www.dremio.com/resources/tutorials/high-performance-parallel-exports/)  
+            * [How to Edit Virtual Data Sets with the Dremio Semantic Layer | Dremio](https://www.dremio.com/resources/tutorials/edit-virtual-datasets-with-dremio-semantic-layer/)  
+            * [Working With Your First Dataset | Dremio](https://www.dremio.com/resources/tutorials/working-with-your-first-dataset/)  
+          * [5 Best Practices to Completely Eliminate Costly Data Copies With a SQL Lakehouse Platform](https://www.dremio.com/wp-content/uploads/2021/12/5-Best-Practices-to-Completely-Eliminate-Costly-Data-Copies-With-a-SQL-Lakehouse-Platform.pdf)  
+          * [Dremio Consumption Units | Dremio](https://www.dremio.com/dcus/)  
           * [DremioArchitectureGuide.pdf](https://www.dremio.com/downloads/DremioArchitectureGuide.pdf)  
-          * [Getting Oriented to Dremio | Dremio](https://www.dremio.com/resources/tutorials/getting-oriented-to-dremio/)  
-          * [The Origins of Apache Arrow & Its Fit in Today's Data Landscape](https://www.dremio.com/subsurface/the-origins-of-apache-arrow-its-fit-in-todays-data-landscape/?utm_content=1657638700&utm_medium=social-free&utm_source=linkedin)  
-      * [dremio/dremio-cloud-tools: Dremio Container Tools](https://github.com/dremio/dremio-cloud-tools)  
+        * [Dremio - Escaping the Data Copy Pyramid of Doom](https://www.commonsense.events/vrt22-dremio-data-copy/)  
+        * [Dremio Cloud is a Lakehouse Platform on AWS That Democratizes Data | AWS Partner Network (APN) Blog](https://aws.amazon.com/blogs/apn/dremio-cloud-is-a-lakehouse-platform-on-aws-that-democratizes-data/)  
+        * [Dremio Cloud review: A fast and flexible data lakehouse on AWS - Reseller News](https://www.reseller.co.nz/article/701322/dremio-cloud-review-fast-flexible-data-lakehouse-aws/)  
+        * [Dremio Cloud review: A fast and flexible data lakehouse on AWS | InfoWorld](https://www.infoworld.com/article/3671872/dremio-cloud-review-a-fast-and-flexible-data-lakehouse-on-aws.html)  
+        * [Dremio Cloud review: A fast and flexible data lakehouse on AWS | InfoWorld](https://www.infoworld.com/article/3671872/dremio-cloud-review-a-fast-and-flexible-data-lakehouse-on-aws.html?page=2)  
+        * [Dremio launches free data lakehouse service for enterprises | VentureBeat](https://venturebeat.com/enterprise/dremio-launches-free-data-lakehouse-service-for-enterprises/)  
+        * [Dremio Officially a ‘Unicorn’ As it Reaches $1B Valuation](https://www.datanami.com/2021/01/06/dremio-officially-a-unicorn-as-it-reaches-1b-valuation/)  
+        * [Dremio Workshop :: Dremio Modernization Workshop](https://dremio.awsworkshop.io/)  
+        * [Dremio: Simpler and faster data analytics | InetServices Blog](https://www.inetservices.com/blog/dremio-simpler-and-faster-data-analytics/)  
+        * [Dremio’s Data Lake Engine Enables Breakthrough Speed for Analytics on Data Lake Storage | Business Wire](https://www.businesswire.com/news/home/20190917005138/en/Dremio%E2%80%99s-Data-Lake-Engine-Enables-Breakthrough-Speed-for-Analytics-on-Data-Lake-Storage)  
+        * [Maximize Your Data Lakehouse Using Dremio Architecture | Preset](https://preset.io/blog/2021-7-27-dremio-superset/)  
+        * [the-data-lake-engine-data-microservices-in-spark-using-apache-arrow-flight-iteblog.com.pdf](https://www.iteblog.com/ppt/sparkaisummit-north-america-2020-iteblog/the-data-lake-engine-data-microservices-in-spark-using-apache-arrow-flight-iteblog.com.pdf)  
+        * [Unable to persist data from a Dremio Docker container using volumes - Stack Overflow](https://stackoverflow.com/questions/70362767/unable-to-persist-data-from-a-dremio-docker-container-using-volumes/73659203#73659203)  
       * [Dremio | The Forever-Free Data Lakehouse Platform](https://www.dremio.com/)  
+      * [dremio/dremio-cloud-tools: Dremio Container Tools](https://github.com/dremio/dremio-cloud-tools)  
+      * [qwshen/spark-flight-connector: A Spark Connector that reads data from / writes data to Arrow-Flight end-points with Arrow-Flight and Flight-SQL](https://github.com/qwshen/spark-flight-connector)  
+    * [Apache Iceberg Documentation](https://iceberg.apache.org/docs/latest/)  
+    * [Data Mesh Principles and Logical Architecture](https://martinfowler.com/articles/data-mesh-principles.html)  
+    * [Delta Lake](https://delta.io/)  
+    * [Delta vs Iceberg : Performance as a decisive criteria | by DataBeans | Medium](https://databeans-blogs.medium.com/delta-vs-iceberg-performance-as-a-decisive-criteria-add7bcdde03d)  
   * Data Streaming  
     * Apache Kafka  
       * Apache Kafka How To  
@@ -263,9 +450,16 @@
       * [From Data to Viz | Find the graphic you need](https://www.data-to-viz.com/)  
       * [Improve your Data Storytelling | 8 Data Visualization Tips](https://www.analyticsvidhya.com/blog/2020/07/8-data-visualization-tips-to-improve-data-stories/)  
       * [The Data Visualisation Catalogue](https://datavizcatalogue.com/)  
+    * Power BI  
+      * Power BI How To  
+        * [Download Microsoft Power BI Desktop from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=58494)  
+        * [How to Create a Pivot Table in Power BI - Goodly](https://goodly.co.in/create-pivot-table-in-power-bi/)  
+      * [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)  
     * [Apache Superset](https://superset.apache.org/)  
     * [Awesome dataviz tools by Cube.js](https://awesome.cube.dev/)  
     * [chroma.js palette helper](https://vis4.net/palettes/)  
+    * [RAWGraphs](https://www.rawgraphs.io/)  
+    * [splitgraph/seafowl: Analytical database for data-driven Web applications](https://github.com/splitgraph/seafowl)  
     * [Word Cloud Generator](https://www.jasondavies.com/wordcloud/)  
   * Data Warehouses  
     * Snowflake  
@@ -483,6 +677,9 @@
     * PostgreSQL  
       * PostgreSQL How To  
         * [Generating time series between two dates in PostgreSQL - Stack Overflow](https://stackoverflow.com/questions/14113469/generating-time-series-between-two-dates-in-postgresql)  
+        * [How do I list all schemas in PostgreSQL? - Database Administrators Stack Exchange](https://dba.stackexchange.com/questions/40045/how-do-i-list-all-schemas-in-postgresql)  
+        * [PostgreSQL BETWEEN](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-between/)  
+        * [PostgreSQL: Documentation: 14: 7.6. LIMIT and OFFSET](https://www.postgresql.org/docs/current/queries-limit.html)  
     * Redis  
       * Redis How To  
         * redis.io  
@@ -490,7 +687,10 @@
           * [Data types – Redis](https://redis.io/topics/data-types)  
           * [Introduction to Redis Streams – Redis](https://redis.io/topics/streams-intro)  
           * [Redis configuration – Redis](https://redis.io/topics/config)  
+          * [Redis Streams | Redis](https://redis.io/docs/data-types/streams/)  
+          * [Redis Streams tutorial | Redis](https://redis.io/docs/data-types/streams-tutorial/)  
           * [redis-cli, the Redis command line interface – Redis](https://redis.io/topics/rediscli)  
+          * [XADD | Redis](https://redis.io/commands/xadd/)  
         * stackoverflow.com  
           * [celery - What is the maximum value size you can store in redis? - Stack Overflow](https://stackoverflow.com/questions/5606106/what-is-the-maximum-value-size-you-can-store-in-redis)  
           * [How do I delete everything in Redis? - Stack Overflow](https://stackoverflow.com/questions/6851909/how-do-i-delete-everything-in-redis)  
@@ -514,6 +714,18 @@
     * [ClickHouse - fast open-source OLAP DBMS](https://clickhouse.tech/)  
     * [HarperDB | Simplicity Without Sacrifice](https://harperdb.io/)  
     * [QuestDB | Time series data, faster](https://questdb.io/)  
+    * [SQL vs. NoSQL Database: When to Use, How to Choose](https://www.ml4devs.com/articles/datastore-choices-sql-vs-nosql-database/)  
+    * [Structured Query Language - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Structured_Query_Language)  
+  * Datasets  
+    * Datalake Datasets  
+      * [Iowa Liquor Sales | Kaggle](https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales)  
+      * [TLC Trip Record Data - TLC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)  
+      * [Yelp Dataset](https://www.yelp.com/dataset)  
+    * Relational Datasets  
+      * [Chinook sample database | YugabyteDB Docs](https://docs.yugabyte.com/preview/sample-data/chinook/)  
+      * [Retail analytics sample database | YugabyteDB Docs](https://docs.yugabyte.com/preview/sample-data/retail-analytics/)  
+      * [SportsDB sample database | YugabyteDB Docs](https://docs.yugabyte.com/preview/sample-data/sportsdb/)  
+      * [SQLite Sample Database And Its Diagram (in PDF format)](https://www.sqlitetutorial.net/sqlite-sample-database/)  
   * Development Best Practices  
     * [Avoid Common Software Project Mistakes](https://ovid.github.io/articles/avoid-common-software-project-mistakes.html)  
     * [Ind.ie — Ethical Design Manifesto](https://ind.ie/ethical-design/)  
@@ -584,6 +796,7 @@
       * [Avidemux - Main Page](http://avidemux.sourceforge.net/)  
       * [ClipGrab - Free YouTube Downloader & Converter](http://clipgrab.org/)  
       * [Open Broadcaster Software | OBS](https://obsproject.com/)  
+    * [Draw Freely | Inkscape](https://inkscape.org/)  
     * [Flameshot | Open Source Screenshot Software](https://flameshot.org/)  
     * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)  
     * [ImgBurn](http://www.imgburn.com/)  
@@ -600,13 +813,21 @@
       * [IP Location](https://iplocation.com/)  
       * [Online nslookup — Find DNS records](https://www.nslookup.io/)  
       * [WHOIS Search, Domain Name, Website, and IP Tools - Who.is](https://who.is/)  
+    * [How To Ping Specific Port Number – devconnected](https://devconnected.com/how-to-ping-specific-port-number/)  
     * [OSI model - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/OSI_model)  
     * [Technitium MAC Address Changer v5 Release 3 (FREEWARE)](http://www.technitium.com/tmac/index.html)  
   * Object Storage  
     * MinIO  
       * MinIO How To  
-        * [MinIO | How to use AWS SDK for Python with MinIO Server - Cookbook/Recipe](https://docs.min.io/docs/how-to-use-aws-sdk-for-python-with-minio-server.html)  
-        * [MinIO | Learn more about MinIO's Docker Implementation](https://docs.min.io/docs/minio-docker-quickstart-guide.html)  
+        * min.io  
+          * [Generate Let’s Encrypt certificate using Certbot for MinIO — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/integrations/generate-lets-encrypt-certificate-using-certbot-for-minio.html)  
+          * [mc admin service — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc-admin/mc-admin-service.html)  
+          * [mc cp — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc/mc-cp.html)  
+          * [mc watch — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc/mc-watch.html#command-mc.watch)  
+          * [MinIO Admin Client — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc-admin.html)  
+          * [MinIO Client — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc.html)  
+          * [MinIO High Performance Object Storage — MinIO Object Storage for Container](https://min.io/docs/minio/container/index.html)  
+        * [docker - Minio: How to make folders and files already in mount point available when starting minio server? - Stack Overflow](https://stackoverflow.com/questions/55496594/minio-how-to-make-folders-and-files-already-in-mount-point-available-when-start)  
       * [MinIO | High Performance, Kubernetes Native Object Storage](https://min.io/)  
     * Storj  
       * Storj How To  
@@ -712,7 +933,6 @@
           * [crontab.guru - the cron schedule expression editor](https://crontab.guru/)  
           * [How To Add Jobs To cron Under Linux or UNIX - nixCraft](https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/)  
         * [aptible/supercronic: Cron for containers](https://github.com/aptible/supercronic)  
-        * [healthchecks/healthchecks: A cron monitoring tool written in Python & Django](https://github.com/healthchecks/healthchecks)  
       * Linux Applications  
         * [HP Developers Portal | HP Linux Imaging and Printing](https://developers.hp.com/hp-linux-imaging-and-printing)  
         * [lookbusy -- a synthetic load generator](http://www.devin.com/lookbusy/)  
@@ -808,11 +1028,16 @@
         * [Resource Hacker](http://www.angusj.com/resourcehacker/)  
         * [SmarTTY - a multi-tabbed SSH client with SCP support](http://smartty.sysprogs.com/)  
         * [Windows Sysinternals - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/en-us/sysinternals/)  
-        * [XSearch - Search files on your computer](http://www.easexp.com/xsearch/index.html)  
+        * [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)  
+        * [XSearch - Search files on your computer](https://www.easexp.com/xsearch/index.html)  
       * Windows How To  
+        * [Change notification and quick settings in Windows](https://support.microsoft.com/en-us/windows/change-notification-and-quick-settings-in-windows-ddcbbcd4-0a02-f6e4-fe14-6766d850f294)  
         * [Create Show Desktop Shortcut in Windows | Tutorials](https://www.tenforums.com/tutorials/21027-create-show-desktop-shortcut-windows.html)  
         * [Help with Microsoft Authenticator app - Azure Active Directory | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/user-help/user-help-auth-app-faq)  
         * [Turn Off Indexing in Windows for Better Performance](https://www.online-tech-tips.com/computer-tips/simple-ways-to-increase-your-computers-performace-turn-off-indexing-on-your-local-drives/)  
+      * WSL  
+        * [Basic commands for WSL | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/basic-commands)  
+        * [The Ultimate Guide to Windows Subsystem for Linux (Windows WSL)](https://adamtheautomator.com/windows-subsystem-for-linux/)  
   * Plotting Applications  
     * GnuPlot  
       * GnuPlot How To  
@@ -827,6 +1052,8 @@
       * [Scintilla and SciTE](https://www.scintilla.org/SciTE.html)  
     * Visual Studio Code  
       * Extensions  
+        * [Live Server - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)  
+        * [Live Share Extension Pack - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)  
         * [Markdown Preview Enhanced - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)  
         * [Python - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-python.python)  
         * [Rainbow CSV - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)  
@@ -842,6 +1069,7 @@
           * [Linting Python in Visual Studio Code](https://code.visualstudio.com/docs/python/linting)  
           * [Portable Mode in Visual Studio Code](https://code.visualstudio.com/docs/editor/portable)  
           * [Settings Sync in Visual Studio Code](https://code.visualstudio.com/docs/editor/settings-sync)  
+          * [Use Microsoft Live Share to collaborate with Visual Studio Code](https://code.visualstudio.com/learn/collaboration/live-share)  
           * [Visual Studio Code Key Bindings](https://code.visualstudio.com/docs/getstarted/keybindings)  
           * [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)  
           * [Visual Studio Code User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings)  
@@ -866,6 +1094,7 @@
     * [Open Perl IDE](http://open-perl-ide.sourceforge.net/)  
     * [PyCharm: the Python IDE for Professional Developers by JetBrains](https://www.jetbrains.com/pycharm/)  
     * [Qt Creator - A Cross-platform IDE for Application Development](https://www.qt.io/product/development-tools)  
+    * [Vim Commands - Comprehensive Vim Cheat Sheet](https://www.keycdn.com/blog/vim-commands)  
   * Programming Languages  
     * AutoIt  
       * AutoIt How To  
@@ -1712,6 +1941,9 @@
           * [How to Export Pandas DataFrame to an Excel File - Data to Fish](https://datatofish.com/export-dataframe-to-excel/)  
           * [How to Import an Excel File into Python using Pandas - Data to Fish](https://datatofish.com/read_excel/)  
           * [How to use PIP to Uninstall a Package in Python - Data to Fish](https://datatofish.com/pip-uninstall-package/)  
+        * docs.djangoproject.com  
+          * [How to manage static files (e.g. images, JavaScript, CSS) | Django documentation | Django](https://docs.djangoproject.com/en/4.1/howto/static-files/)  
+          * [Writing your first Django app, part 1 | Django documentation | Django](https://docs.djangoproject.com/en/4.1/intro/tutorial01/)  
         * docs.jupyter.org  
           * [Running the Notebook — Jupyter Documentation](https://docs.jupyter.org/en/latest/running.html)  
           * [Install and Use — Jupyter Documentation 4.1.1 alpha documentation](https://docs.jupyter.org/en/latest/install.html)  
@@ -1809,7 +2041,15 @@
         * numpy.org  
           * [numpy.polyfit — NumPy v1.20 Manual](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)  
           * [numpy.polynomial.polynomial.Polynomial.fit — NumPy v1.20 Manual](https://numpy.org/doc/stable/reference/generated/numpy.polynomial.polynomial.Polynomial.fit.html#numpy.polynomial.polynomial.Polynomial.fit)  
+        * palletsprojects.com  
+          * flask  
+            * [API — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/api/)  
+            * [Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/)  
+          * quart  
+            * [Cheatsheet — Quart documentation](https://quart.palletsprojects.com/en/latest/reference/cheatsheet.html)  
+            * [Deploying Quart — Quart documentation](https://quart.palletsprojects.com/en/latest/tutorials/deployment.html)  
         * pandas.pydata.org  
+          * [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)  
           * [Comparison with SQL](https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_sql.html)  
           * [How do I select a subset of a DataFrame?](https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html)  
           * [Merge, join, concatenate and compare](https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html)  
@@ -1839,6 +2079,7 @@
           * [pandas.DataFrame.to_html](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_html.html#pandas.DataFrame.to_html)  
           * [pandas.DataFrame.to_json](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_json.html)  
           * [pandas.DataFrame.to_parquet](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_parquet.html)  
+          * [pandas.DataFrame.to_sql](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_sql.html)  
           * [pandas.DataFrame.update](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.update.html)  
           * [pandas.pivot_table](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html)  
           * [pandas.read_csv](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html)  
@@ -1866,9 +2107,6 @@
           * [Comprehensive Guide to Grouping and Aggregating with Pandas - Practical Business Python](https://pbpython.com/groupby-agg.html)  
           * [Guide to Encoding Categorical Values in Python - Practical Business Python](https://pbpython.com/categorical-encoding.html)  
           * [Overview of Pandas Data Types - Practical Business Python](https://pbpython.com/pandas_dtypes.html)  
-        * pgjones.gitlab.io  
-          * [Deploying Quart — Quart 0.16.2 documentation](https://pgjones.gitlab.io/quart/tutorials/deployment.html)  
-          * [Cheatsheet — Quart 0.16.3 documentation](https://pgjones.gitlab.io/quart/reference/cheatsheet.html?highlight=static)  
         * pip.pypa.io  
           * [pip list](https://pip.pypa.io/en/stable/reference/pip_list/)  
           * [pip uninstall](https://pip.pypa.io/en/stable/reference/pip_uninstall/)  
@@ -1895,7 +2133,9 @@
           * [Submitting Applications - Spark 3.2.0 Documentation](https://spark.apache.org/docs/latest/submitting-applications.html)  
         * sparkbyexamples.com  
           * [Convert PySpark DataFrame to Pandas — SparkByExamples](https://sparkbyexamples.com/pyspark/convert-pyspark-dataframe-to-pandas/)  
+          * [How to Sort DataFrame column explained - SparkByExamples](https://sparkbyexamples.com/spark/spark-how-to-sort-dataframe-column-explained/)  
           * [PySpark Read CSV file into DataFrame — SparkByExamples](https://sparkbyexamples.com/pyspark/pyspark-read-csv-file-into-dataframe/)  
+          * [Spark DataFrame Cache and Persist Explained - Spark by {Examples}](https://sparkbyexamples.com/spark/spark-dataframe-cache-and-persist-explained/)  
         * stackabuse.com  
           * [Change Figure Size in Matplotlib](https://stackabuse.com/change-figure-size-in-matplotlib/)  
           * [Python: Check if String Contains Substring](https://stackabuse.com/python-check-if-string-contains-substring)  
@@ -1927,7 +2167,6 @@
           * [datetime - How to get the current time in Python - Stack Overflow](https://stackoverflow.com/questions/415511/how-to-get-the-current-time-in-python)  
           * [datetime - How would I compute exactly 30 days into the past with Python (down to the minute)? - Stack Overflow](https://stackoverflow.com/questions/703907/how-would-i-compute-exactly-30-days-into-the-past-with-python-down-to-the-minut)  
           * [datetime - Round time to nearest hour python - Stack Overflow](https://stackoverflow.com/questions/48937900/round-time-to-nearest-hour-python)  
-          * [django - How can I upgrade specific packages using pip and a requirements file? - Stack Overflow](https://stackoverflow.com/questions/4536103/how-can-i-upgrade-specific-packages-using-pip-and-a-requirements-file)  
           * [django - How do I convert datetime.timedelta to minutes, hours in Python? - Stack Overflow](https://stackoverflow.com/questions/14190045/how-do-i-convert-datetime-timedelta-to-minutes-hours-in-python/43965102)  
           * [Does Python have a string 'contains' substring method? - Stack Overflow](https://stackoverflow.com/questions/3437059/does-python-have-a-string-contains-substring-method)  
           * [Drop all duplicate rows in Python Pandas - Stack Overflow](https://stackoverflow.com/questions/23667369/drop-all-duplicate-rows-in-python-pandas)  
@@ -1946,6 +2185,7 @@
           * [How can I remove Nan from list Python/NumPy - Stack Overflow](https://stackoverflow.com/questions/21011777/how-can-i-remove-nan-from-list-python-numpy)  
           * [How can I reverse a list in Python? - Stack Overflow](https://stackoverflow.com/questions/3940128/how-can-i-reverse-a-list-in-python)  
           * [How can I use Python to get the system hostname? - Stack Overflow](https://stackoverflow.com/questions/4271740/how-can-i-use-python-to-get-the-system-hostname)  
+          * [How do I check the versions of Python modules? - Stack Overflow](https://stackoverflow.com/questions/20180543/how-do-i-check-the-versions-of-python-modules)  
           * [How do I copy a file in Python? - Stack Overflow](https://stackoverflow.com/questions/123198/how-do-i-copy-a-file-in-python)  
           * [How do I create a multiline Python string with inline variables? - Stack Overflow](https://stackoverflow.com/questions/10112614/how-do-i-create-a-multiline-python-string-with-inline-variables)  
           * [How do I detect the Python version at runtime? - Stack Overflow](https://stackoverflow.com/questions/9079036/how-do-i-detect-the-python-version-at-runtime)  
@@ -1975,12 +2215,14 @@
           * [https - How do I disable the security certificate check in Python requests - Stack Overflow](https://stackoverflow.com/questions/15445981/how-do-i-disable-the-security-certificate-check-in-python-requests)  
           * [javascript - How to correctly read an Apache Arrow Feather file produced by pyarrow? - Stack Overflow](https://stackoverflow.com/questions/66585511/how-to-correctly-read-an-apache-arrow-feather-file-produced-by-pyarrow)  
           * [Jira python calculate time - Stack Overflow](https://stackoverflow.com/questions/37744027/jira-python-calculate-time)  
+          * [linux - Force python to use an older version of module (than what I have installed now) - Stack Overflow](https://stackoverflow.com/questions/6445167/force-python-to-use-an-older-version-of-module-than-what-i-have-installed-now)  
           * [newline - How to write Unix end of line characters in Windows using Python - Stack Overflow](https://stackoverflow.com/questions/2536545/how-to-write-unix-end-of-line-characters-in-windows-using-python)  
           * [openpyxl - read only one column from excel file in python? - Stack Overflow](https://stackoverflow.com/questions/34754077/openpyxl-read-only-one-column-from-excel-file-in-python)  
           * [pandas - JOIN two dataframes on common column in python - Stack Overflow](https://stackoverflow.com/questions/41463119/join-two-dataframes-on-common-column-in-python)  
           * [pandas drops index index on merge in Python? - Stack Overflow](https://stackoverflow.com/questions/15661455/pandas-drops-index-index-on-merge-in-python)  
           * [Parse JSON in Python - Stack Overflow](https://stackoverflow.com/questions/7771011/parse-json-in-python)  
           * [partition string in python and get value of last segment after colon - Stack Overflow](https://stackoverflow.com/questions/6169324/partition-string-in-python-and-get-value-of-last-segment-after-colon/6169363)  
+          * [performance - How do I profile a Python script? - Stack Overflow](https://stackoverflow.com/questions/582336/how-do-i-profile-a-python-script)  
           * [pip - How to list dependencies for a python library without installing? - Stack Overflow](https://stackoverflow.com/questions/41816693/how-to-list-dependencies-for-a-python-library-without-installing/50424967#50424967)  
           * [pip - How to use requirements.txt to install all dependencies in a python project - Stack Overflow](https://stackoverflow.com/questions/41457612/how-to-use-requirements-txt-to-install-all-dependencies-in-a-python-project)  
           * [portability - Is there a portable way to get the current username in Python? - Stack Overflow](https://stackoverflow.com/questions/842059/is-there-a-portable-way-to-get-the-current-username-in-python)  
@@ -2019,6 +2261,7 @@
           * [python - Correct way to write line to file? - Stack Overflow](https://stackoverflow.com/questions/6159900/correct-way-to-write-line-to-file)  
           * [python - Count unique values with pandas per groups - Stack Overflow](https://stackoverflow.com/questions/38309729/count-unique-values-with-pandas-per-groups)  
           * [python - Counting duplicate values in Pandas DataFrame - Stack Overflow](https://stackoverflow.com/questions/33993592/counting-duplicate-values-in-pandas-dataframe)  
+          * [python - Creating a dictionary from an iterable - Stack Overflow](https://stackoverflow.com/questions/4084749/creating-a-dictionary-from-an-iterable)  
           * [python - Creating an empty Pandas DataFrame, then filling it? - Stack Overflow](https://stackoverflow.com/questions/13784192/creating-an-empty-pandas-dataframe-then-filling-it)  
           * [python - Deleting DataFrame row in Pandas based on column value - Stack Overflow](https://stackoverflow.com/questions/18172851/deleting-dataframe-row-in-pandas-based-on-column-value)  
           * [python - Display number with leading zeros - Stack Overflow](https://stackoverflow.com/questions/134934/display-number-with-leading-zeros)  
@@ -2030,6 +2273,7 @@
           * [python - Finding the mean and standard deviation of a timedelta object in pandas df - Stack Overflow](https://stackoverflow.com/questions/44616546/finding-the-mean-and-standard-deviation-of-a-timedelta-object-in-pandas-df)  
           * [python - Flask raises TemplateNotFound error even though template file exists - Stack Overflow](https://stackoverflow.com/questions/23327293/flask-raises-templatenotfound-error-even-though-template-file-exists)  
           * [python - Flask to return image stored in database - Stack Overflow](https://stackoverflow.com/questions/11017466/flask-to-return-image-stored-in-database)  
+          * [python - Generate SQL statements from a Pandas Dataframe - Stack Overflow](https://stackoverflow.com/questions/31071952/generate-sql-statements-from-a-pandas-dataframe)  
           * [python - Get first and second highest values in pandas columns - Stack Overflow](https://stackoverflow.com/questions/39066260/get-first-and-second-highest-values-in-pandas-columns)  
           * [python - get list from pandas dataframe column - Stack Overflow](https://stackoverflow.com/questions/22341271/get-list-from-pandas-dataframe-column)  
           * [python - Group dataframe and get sum AND count? - Stack Overflow](https://stackoverflow.com/questions/38174155/group-dataframe-and-get-sum-and-count)  
@@ -2088,6 +2332,7 @@
           * [python - If list index exists, do X - Stack Overflow](https://stackoverflow.com/questions/11786157/if-list-index-exists-do-x)  
           * [python - Insert a row to pandas dataframe - Stack Overflow](https://stackoverflow.com/questions/24284342/insert-a-row-to-pandas-dataframe)  
           * [python - Installing pip packages to $HOME folder - Stack Overflow](https://stackoverflow.com/questions/7143077/installing-pip-packages-to-home-folder)  
+          * [python - Installing specific package version with pip - Stack Overflow](https://stackoverflow.com/questions/5226311/installing-specific-package-version-with-pip)  
           * [python - Installing specific package versions with pip - Stack Overflow](https://stackoverflow.com/questions/5226311/installing-specific-package-versions-with-pip)  
           * [python - Iterate through columns in Read-only workbook in openpyxl - Stack Overflow](https://stackoverflow.com/questions/47582274/iterate-through-columns-in-read-only-workbook-in-openpyxl?rq=1)  
           * [python - Iterating over dictionaries using 'for' loops - Stack Overflow](https://stackoverflow.com/questions/3294889/iterating-over-dictionaries-using-for-loops)  
@@ -2111,6 +2356,7 @@
           * [python - pandas get rows which are NOT in other dataframe - Stack Overflow](https://stackoverflow.com/questions/28901683/pandas-get-rows-which-are-not-in-other-dataframe)  
           * [python - Pandas Groupby and Sum Only One Column - Stack Overflow](https://stackoverflow.com/questions/38985053/pandas-groupby-and-sum-only-one-column)  
           * [python - pandas how to check dtype for all columns in a dataframe? - Stack Overflow](https://stackoverflow.com/questions/40353079/pandas-how-to-check-dtype-for-all-columns-in-a-dataframe)  
+          * [python - Pandas read_csv from url - Stack Overflow](https://stackoverflow.com/questions/32400867/pandas-read-csv-from-url)  
           * [python - Pandas select the second to last column which is also not nan - Stack Overflow](https://stackoverflow.com/questions/37955900/pandas-select-the-second-to-last-column-which-is-also-not-nan)  
           * [python - Pandas Split Dataframe into two Dataframes - Stack Overflow](https://stackoverflow.com/questions/41624241/pandas-split-dataframe-into-two-dataframes/41624272)  
           * [python - pandas: filter rows of DataFrame with operator chaining - Stack Overflow](https://stackoverflow.com/questions/11869910/pandas-filter-rows-of-dataframe-with-operator-chaining)  
@@ -2188,6 +2434,7 @@
           * [Python: How to ignore an exception and proceed? - Stack Overflow](https://stackoverflow.com/questions/574730/python-how-to-ignore-an-exception-and-proceed)  
           * [Python: pandas merge multiple dataframes - Stack Overflow](https://stackoverflow.com/questions/44327999/python-pandas-merge-multiple-dataframes/44338256)  
           * [Python's most efficient way to choose longest string in list? - Stack Overflow](https://stackoverflow.com/questions/873327/pythons-most-efficient-way-to-choose-longest-string-in-list)  
+          * [Raw SQL queries in Django views - Stack Overflow](https://stackoverflow.com/questions/5931586/raw-sql-queries-in-django-views)  
           * [Reading and writing environment variables in Python? - Stack Overflow](https://stackoverflow.com/questions/5971635/reading-and-writing-environment-variables-in-python)  
           * [regex - How does \b work when using regular expressions? - Stack Overflow](https://stackoverflow.com/questions/7605198/how-does-b-work-when-using-regular-expressions)  
           * [regex - Python regular expression match whole word - Stack Overflow](https://stackoverflow.com/questions/15863066/python-regular-expression-match-whole-word)  
@@ -2247,6 +2494,7 @@
           * [How can I create a directory if it does not exist using Python?](https://www.tutorialspoint.com/How-can-I-create-a-directory-if-it-does-not-exist-using-Python)  
           * [How to convert date and time with different timezones in Python?](https://www.tutorialspoint.com/How-to-convert-date-and-time-with-different-timezones-in-Python)  
           * [Python - Command Line Arguments](https://www.tutorialspoint.com/python/python_command_line_arguments.htm)  
+          * [Python - Object Oriented](https://www.tutorialspoint.com/python/python_classes_objects.htm)  
           * [Python File flush() Method - Tutorialspoint](https://www.tutorialspoint.com/python/file_flush.htm)  
           * [Python Tuple len() Method - Tutorialspoint](https://www.tutorialspoint.com/python/tuple_len.htm)  
         * www.w3resource.com  
@@ -2261,6 +2509,8 @@
           * [Python **kwargs](https://www.w3schools.com/python/gloss_python_function_arbitrary_keyword_arguments.asp)  
           * [Python Comments](https://www.w3schools.com/python/python_comments.asp)  
           * [Python Delete File](https://www.w3schools.com/python/python_file_remove.asp)  
+          * [Python Dictionaries](https://www.w3schools.com/python/python_dictionaries.asp)  
+          * [Python Dictionary Methods](https://www.w3schools.com/python/python_ref_dictionary.asp)  
           * [Python File Write](https://www.w3schools.com/python/python_file_write.asp)  
           * [Python Join Two Lists](https://www.w3schools.com/python/gloss_python_join_lists.asp)  
           * [Python JSON](https://www.w3schools.com/python/python_json.asp)  
@@ -2280,6 +2530,7 @@
         * [Apply a function to every row in a pandas dataframe](http://jonathansoma.com/lede/foundations/classes/pandas%20columns%20and%20functions/apply-a-function-to-every-row-in-a-pandas-dataframe/)  
         * [Arguments to waitress.serve — waitress 2.0.0 documentation](https://docs.pylonsproject.org/projects/waitress/en/stable/arguments.html)  
         * [Asyncio Event Loops Tutorial | TutorialEdge.net](https://tutorialedge.net/python/concurrency/asyncio-event-loops-tutorial/)  
+        * [AutoTS Documentation](https://winedarksea.github.io/AutoTS/build/html/source/tutorial.html)  
         * [Change the order of columns in Pandas dataframe](https://erikrood.com/Python_References/change_order_dataframe_columns_final.html)  
         * [Check if a column contains specific string in a Pandas Dataframe - The Coding Bot](https://thecodingbot.com/check-if-a-column-contains-specific-string-in-a-pandas-dataframe/)  
         * [command line - How do I check whether a module is installed in Python, and install it if needed? - Ask Ubuntu](https://askubuntu.com/questions/588390/how-do-i-check-whether-a-module-is-installed-in-python-and-install-it-if-needed)  
@@ -2318,6 +2569,8 @@
         * [Pandas Vs PySpark](https://sargupta93.medium.com/hello-world-of-pyspark-for-python-pandas-user-pandas-vs-pyspark-dba7e626556e)  
         * [Publish Spark SQL DataFrame and RDD with Spark Thrift Server | Adaltas](https://www.adaltas.com/en/2019/03/25/spark-sql-dataframe-thrift-server/)  
         * [PyFormat: Using % and .format() for great good!](https://pyformat.info/)  
+        * [PyInstaller Manual](https://pyinstaller.org/en/stable/)  
+        * [PySpark: DB To Dataframe](https://dbmstutorials.com/pyspark/spark-db-to-dataframe.html)  
         * [python - Calculating time deltas between rows in a Pandas dataframe - Code Review Stack Exchange](https://codereview.stackexchange.com/questions/210070/calculating-time-deltas-between-rows-in-a-pandas-dataframe)  
         * [python - Export pandas to dictionary by combining multiple row values - Data Science Stack Exchange](https://datascience.stackexchange.com/questions/32328/export-pandas-to-dictionary-by-combining-multiple-row-values)  
         * [Python argparse tutorial - parsing command line arguments in Python with argparse module](http://zetcode.com/python/argparse/)  
@@ -2339,8 +2592,10 @@
         * [Python: How to Print Without Newline? (The Idiomatic Way) - Afternerd](https://www.afternerd.com/blog/how-to-print-without-a-newline-in-python/)  
         * [Python: Sort dictionary by value](https://code-maven.com/slides/python-programming/sort-dictionary-by-value)  
         * [PyWin32 - How to Bring a Window to Front - The Mouse Vs. The Python](https://www.blog.pythonlibrary.org/2014/10/20/pywin32-how-to-bring-a-window-to-front/)  
+        * [Quick Wins: Accelerating pandas CSV Reading with Apache Arrow - Voltron Data](https://voltrondata.com/news/quick-wins-accelerating-pandas-csv-reading-with-apache-arrow/)  
         * [SettingwithCopyWarning: How to Fix This Warning in Pandas – Dataquest](https://www.dataquest.io/blog/settingwithcopywarning/)  
         * [SQLite Python](http://www.sqlitetutorial.net/sqlite-python/)  
+        * [Streaming subprocess stdin and stdout with asyncio in Python](https://kevinmccarthy.org/2016/07/25/streaming-subprocess-stdin-and-stdout-with-asyncio-in-python/)  
         * [The 5 Minute Introduction to DuckDB: The SQLite for Analytics – Shekhar Gulati](https://shekhargulati.com/2019/12/15/the-5-minute-introduction-to-duckdb-the-sqlite-for-analytics/)  
         * [Using Apache Spark Streaming to Tackle Twitter Hashtags | Toptal](https://www.toptal.com/apache/apache-spark-streaming-twitter)  
         * [windows - How to install the win32com python library - Super User](https://superuser.com/questions/609447/how-to-install-the-win32com-python-library)  
@@ -2352,18 +2607,17 @@
         * boto3.amazonaws.com  
           * [Downloading files — Boto3 Docs 1.16.59 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-example-download-file.html)  
           * [Uploading files — Boto3 Docs 1.17.5 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-uploading-files.html)  
-        * flask.palletsprojects.com  
-          * [API — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/api/)  
-          * [Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/)  
         * github.com  
           * [fbdesignpro/sweetviz: Visualize and compare datasets, target values and associations, with one line of code.](https://github.com/fbdesignpro/sweetviz)  
           * [jonashaag/bjoern: A screamingly fast Python 2/3 WSGI server written in C.](https://github.com/jonashaag/bjoern)  
           * [linkedin/greykite: A flexible, intuitive and fast forecasting library](https://github.com/linkedin/greykite)  
           * [noplay/python-mysql-replication: Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL](https://github.com/noplay/python-mysql-replication)  
+          * [pallets/quart: An async Python micro framework for building web applications.](https://github.com/pallets/quart)  
           * [pantsbuild/pex: A library and tool for generating .pex (Python EXecutable) files](https://github.com/pantsbuild/pex)  
           * [plotly/dash-pivottable: react-pivottable in Dash](https://github.com/plotly/dash-pivottable)  
           * [PyCQA/pycodestyle: Simple Python style checker in one Python file](https://github.com/PyCQA/pycodestyle)  
           * [viniciuschiele/flask-apscheduler: Adds APScheduler support to Flask](https://github.com/viniciuschiele/flask-apscheduler)  
+          * [winedarksea/AutoTS: Automated Time Series Forecasting](https://github.com/winedarksea/AutoTS)  
         * pypi.org  
           * [dtale · PyPI](https://pypi.org/project/dtale/)  
           * [pykeepass · PyPI](https://pypi.org/project/pykeepass/)  
@@ -2390,10 +2644,9 @@
           * [XlsxWriter](https://xlsxwriter.readthedocs.io/)  
         * [DuckDB - An in-process SQL OLAP database management system](https://duckdb.org/)  
         * [Greykite: A flexible, intuitive, and fast forecasting library | LinkedIn Engineering](https://engineering.linkedin.com/blog/2021/greykite--a-flexible--intuitive--and-fast-forecasting-library)  
-        * [pgjones / quart · GitLab](https://gitlab.com/pgjones/quart)  
         * [Polars](https://www.pola.rs/)  
         * [Prophet | Forecasting at scale.](https://facebook.github.io/prophet/)  
-        * [Python Wheels](https://pythonwheels.com/)  
+        * [PyCaret](https://pycaret.gitbook.io/docs/)  
         * [scikit-learn: machine learning in Python](https://scikit-learn.org/stable/)  
         * [Vaex.io: An ML Ready Fast DataFrame for Python 🚀](https://vaex.io/)  
       * [Python.org](https://www.python.org/)  
@@ -2469,6 +2722,7 @@
       * [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.](https://mermaid-js.github.io/)  
       * [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaid.live/edit)  
     * [DevDocs](http://devdocs.io/)  
+    * [diagrams.net](https://app.diagrams.net/)  
     * [Zeal - Offline Documentation Browser](https://zealdocs.org/)  
   * Software Licensing  
     * [Choose an open source license | Choose a License](https://choosealicense.com/)  
@@ -2492,8 +2746,9 @@
           * [Git - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)  
           * [Git - git-credential-store Documentation](https://git-scm.com/docs/git-credential-store)  
         * github.com  
-          * [github/gitignore: A collection of useful .gitignore templates](https://github.com/github/gitignore)  
           * [Configuring Git to handle line endings - GitHub Docs](https://docs.github.com/en/github/using-git/configuring-git-to-handle-line-endings)  
+          * [GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.](https://pages.github.com/)  
+          * [github/gitignore: A collection of useful .gitignore templates](https://github.com/github/gitignore)  
         * stackoverflow.com  
           * [controls - Accidentally deleted .git folder - can it be restored? - Stack Overflow](https://stackoverflow.com/questions/30993981/accidentally-deleted-git-folder-can-it-be-restored/40561212)  
           * [git - Cannot push to GitHub - keeps saying need merge - Stack Overflow](https://stackoverflow.com/questions/10298291/cannot-push-to-github-keeps-saying-need-merge)  
@@ -2502,15 +2757,18 @@
           * [credentials - How can I save username and password in Git? - Stack Overflow](https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git)  
         * [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)  
         * [How can I undo the last commit?](https://www.git-tower.com/learn/git/faq/undo-last-commit)  
+      * [Git for Windows](https://gitforwindows.org/)  
       * [GitHub](https://github.com/)  
       * [GitHub Résumé](http://resume.github.io/)  
   * Virtualization  
     * VirtualBox  
       * VirtualBox How To  
+        * askubuntu.com  
+          * [How to access shared folders in Ubuntu VM(Oracle Virtualbox) and link them to the home folder - Ask Ubuntu](https://askubuntu.com/questions/323392/how-to-access-shared-folders-in-ubuntu-vmoracle-virtualbox-and-link-them-to-th)  
+          * [permissions - VirtualBox shared folders are owned by root in Lubuntu guest - Ask Ubuntu](https://askubuntu.com/questions/747974/virtualbox-shared-folders-are-owned-by-root-in-lubuntu-guest)  
         * [Chapter 8. VBoxManage](https://www.virtualbox.org/manual/ch08.html)  
         * [Creating a VM using VBoxManage](https://networking.ringofsaturn.com/Unix/Create_Virtual_Machine_VBoxManage.php)  
         * [Headless Mode for Virtual Machines of VirtualBox - Thomas-Krenn-Wiki](https://www.thomas-krenn.com/en/wiki/Headless_Mode_for_Virtual_Machines_of_VirtualBox)  
-        * [How to access shared folders in Ubuntu VM(Oracle Virtualbox) and link them to the home folder - Ask Ubuntu](https://askubuntu.com/questions/323392/how-to-access-shared-folders-in-ubuntu-vmoracle-virtualbox-and-link-them-to-th)  
         * [linux - How to mount a VirtualBox shared folder? - Server Fault](https://serverfault.com/questions/674974/how-to-mount-a-virtualbox-shared-folder)  
         * [Managing Oracle VM VirtualBox from the Command Line](https://www.oracle.com/technetwork/articles/servers-storage-admin/manage-vbox-cli-2264359.html)  
         * [VirtualBox/SharedFolders - Community Help Wiki](https://help.ubuntu.com/community/VirtualBox/SharedFolders)  
@@ -2580,6 +2838,7 @@
             * [CSS overflow property](http://www.w3schools.com/cssref/pr_pos_overflow.asp)  
             * [CSS Styling Links](https://www.w3schools.com/css/css_link.asp)  
             * [CSS3 box-sizing property](http://www.w3schools.com/cssref/css3_pr_box-sizing.asp)  
+          * [CSS Tricks](https://lhammer.cn/You-need-to-know-css/#/)  
           * [opacity - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity)  
         * [PX to REM converter (instantly and bidirectional)](https://nekocalc.com/px-to-rem-converter)  
       * Frameworks  
@@ -2638,9 +2897,11 @@
             * [A Walkthrough of the Bootstrap CSS Table Element](https://blog.hubspot.com/website/bootstrap-table-css)  
             * [BBG - Bootstrap Button Generator](http://blog.koalite.com/bbg/)  
             * [Bootstrap 4 dividers - HTML & CSS snippet template](https://bootstrapious.com/p/bootstrap-divider)  
-            * [Bootstrap Glyphicons v3.2.2 | Bootstrap Cheat Sheets](http://glyphicons.bootstrapcheatsheets.com/)  
             * [Bootswatch: Free themes for Bootstrap](https://bootswatch.com/)  
             * [Font Awesome v.4.5.0 | Bootstrap Cheat Sheets](http://fontawesome.bootstrapcheatsheets.com/)  
+          * github.com  
+            * [mdbootstrap/bootstrap-5-dark-theme: Dark mode / dark theme template. Built with the latest Bootstrap 5 & Material Design.](https://github.com/mdbootstrap/bootstrap-5-dark-theme)  
+            * [themesberg/simple-bootstrap-5-dashboard: Simple Bootstrap 5 Admin Dashboard Template](https://github.com/themesberg/simple-bootstrap-5-dashboard)  
           * [Bootstrap · The most popular HTML, CSS, and JS library in the world.](https://getbootstrap.com/)  
       * HTML  
         * HTML How To  
@@ -2665,8 +2926,11 @@
     * [ddmitov/mneme: Bulgarian history online quiz](https://github.com/ddmitov/mneme)  
     * [For fast and secure sites | Jamstack](https://jamstack.org/)  
     * [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)  
+  * [Cloudflare Radar](https://radar.cloudflare.com/)  
+  * [Code Checker | Free Code Security Tool Powered by AI | Snyk](https://snyk.io/code-checker/)  
   * [endoflife.date](https://endoflife.date/)  
   * [Nushell](https://www.nushell.sh/)  
+  * [PCRE specification](https://www.pcre.org/original/doc/html/index.html)  
   * [Strong Random Password Generator](https://passwordsgenerator.net/)  
 
 Created using [Python Bookmark Extractor](https://github.com/ddmitov/python-bookmark-extractor)  
