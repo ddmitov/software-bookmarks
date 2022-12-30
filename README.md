@@ -1,5 +1,6 @@
 ## Software
   * Architecture  
+    * [Complexity is the biggest threat to cloud success and security | InfoWorld](https://www.infoworld.com/article/3620944/complexity-is-the-biggest-threat-to-cloud-success-and-security.html)  
     * [ConwaysLaw](https://www.martinfowler.com/bliki/ConwaysLaw.html)  
   * Archivers  
     * [7-Zip](https://www.7-zip.org/)  
@@ -77,6 +78,7 @@
               * [Tagging IAM resources - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags.html)  
             * Lambda  
               * [AWS Lambda function handler in Python - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html)  
+              * [Understanding quotas - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/operatorguide/quotas.html)  
               * [Using AWS Lambda with Amazon API Gateway - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway.html)  
             * RDS  
               * [Allow users to connect to Amazon RDS with IAM credentials](https://aws.amazon.com/premiumsupport/knowledge-center/users-connect-rds-iam/)  
@@ -124,6 +126,7 @@
           * [How to create a named app in heroku | The Agile Warrior](https://agilewarrior.wordpress.com/2014/05/16/how-to-create-a-named-app-in-heroku/)  
           * [judofyr/perloku: Perl on Heroku](https://github.com/judofyr/perloku)  
         * [Cloud Application Platform | Heroku](https://www.heroku.com/)  
+      * [Public Cloud Services Comparison](https://comparecloud.in/)  
     * Cloud Storage  
       * rclone  
         * rclone how to  
@@ -138,7 +141,6 @@
           * [Transferring files to OneDrive for Business via rclone - Academic Computing Team](https://research.reading.ac.uk/act/knowledgebase/rclone-sync/)  
         * [rclone - rsync for cloud storage](https://rclone.org/)  
     * [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)  
-    * [Public Cloud Services Comparison](https://comparecloud.in/)  
   * Containers  
     * Docker  
       * Docker How To  
@@ -155,6 +157,7 @@
           * [docker images | Docker Documentation](https://docs.docker.com/engine/reference/commandline/images/)  
           * [docker network ls | Docker Documentation](https://docs.docker.com/engine/reference/commandline/network_ls/)  
           * [docker ps | Docker Documentation](https://docs.docker.com/engine/reference/commandline/ps/)  
+          * [docker save | Docker Documentation](https://docs.docker.com/engine/reference/commandline/save/)  
           * [docker stats | Docker Documentation](https://docs.docker.com/engine/reference/commandline/stats/)  
           * [docker system df | Docker Documentation](https://docs.docker.com/engine/reference/commandline/system_df/)  
           * [docker volume create | Docker Documentation](https://docs.docker.com/engine/reference/commandline/volume_create/)  
@@ -162,6 +165,7 @@
           * [Get started with Docker Compose | Docker Documentation](https://docs.docker.com/compose/gettingstarted/)  
           * [Networking in Compose | Docker Documentation](https://docs.docker.com/compose/networking/)  
           * [Runtime metrics | Docker Documentation](https://docs.docker.com/config/containers/runmetrics/)  
+          * [Runtime options with Memory, CPUs, and GPUs | Docker Documentation](https://docs.docker.com/config/containers/resource_constraints/)  
           * [Use volumes | Docker Documentation](https://docs.docker.com/storage/volumes/)  
         * stackoverflow.com  
           * [docker - Error "The input device is not a TTY" - Stack Overflow](https://stackoverflow.com/questions/43099116/error-the-input-device-is-not-a-tty)  
@@ -241,6 +245,8 @@
         * docs.databricks.com  
           * [Data objects in the Databricks Lakehouse | Databricks on AWS](https://docs.databricks.com/lakehouse/data-objects.html)  
           * [Databricks File System (DBFS) | Databricks on AWS](https://docs.databricks.com/data/databricks-file-system.html#!#user-interface)  
+          * [Databricks SQL dashboards | Databricks on AWS](https://docs.databricks.com/sql/user/dashboards/index.html)  
+          * [Databricks SQL visualizations | Databricks on AWS](https://docs.databricks.com/sql/user/visualizations/index.html)  
           * [Delta Lake quickstart | Databricks on AWS](https://docs.databricks.com/delta/quick-start.html)  
           * [Enable table access control for your workspace | Databricks on AWS](https://docs.databricks.com/administration-guide/access-control/table-acl.html)  
           * [How to interact with files on Databricks | Databricks on AWS](https://docs.databricks.com/files/index.html#access-files-on-the-dbfs-root)  
@@ -259,7 +265,9 @@
           * [apache spark - Writing databricks dataframe to S3 using python - Stack Overflow](https://stackoverflow.com/questions/57703270/writing-databricks-dataframe-to-s3-using-python)  
         * www.databricks.com  
           * [Databricks Community Edition FAQ – Databricks](https://databricks.com/product/faq/community-edition)  
+          * [Databricks Notebook Gallery - Databricks](https://www.databricks.com/discover/notebook-gallery)  
           * [Fine-Grained Time Series Forecasting With Facebook Prophet Updated for Apache Spark - The Databricks Blog](https://www.databricks.com/blog/2021/04/06/fine-grained-time-series-forecasting-at-scale-with-facebook-prophet-and-apache-spark-updated-for-spark-3.html)  
+          * [Medallion Architecture – Databricks](https://www.databricks.com/glossary/medallion-architecture)  
         * [Apache Spark Architecture Overview: Jobs, Stages, Tasks, etc](https://queirozf.com/entries/apache-spark-architecture-overview-clusters-jobs-stages-tasks)  
       * [Databricks Community Edition](https://community.cloud.databricks.com/)  
     * Dremio  
@@ -278,7 +286,6 @@
             * [Connecting from Microsoft Power BI - Dremio Cloud](https://docs.dremio.com/cloud/client-applications/power-bi/)  
             * [Creating Apache Iceberg Tables - Dremio](https://docs.dremio.com/cloud/sql/commands/apache-iceberg-tables/apache-iceberg-create/)  
             * [Developing Client Applications with Apache Arrow Flight - Dremio](https://docs.dremio.com/cloud/arrow-flight/)  
-            * [Editions - Dremio](https://docs.dremio.com/cloud/getting-started/editions/)  
             * [Engines - Dremio](https://docs.dremio.com/cloud/api/engines/)  
             * [External Sources - Dremio](https://docs.dremio.com/cloud/sources/external/)  
             * [Inserting Data into Apache Iceberg Tables - Dremio](https://docs.dremio.com/cloud/sql/commands/apache-iceberg-tables/apache-iceberg-insert/)  
@@ -289,7 +296,7 @@
             * [Managing Your Data - Dremio](https://docs.dremio.com/cloud/data/)  
             * [Overview of Dremio Cloud - Dremio](https://docs.dremio.com/cloud/getting-started/architecture/)  
             * [Personal Access Tokens - Dremio](https://docs.dremio.com/cloud/security/authentication/personal-access-token/)  
-            * [Prerequisites in AWS and Permissions Required by Dremio - Dremio](https://docs.dremio.com/cloud/signing-up/prerequisites-and-permissions/)  
+            * [Prerequisites for Configuring Cloud Resources - Dremio](https://docs.dremio.com/cloud/getting-started/prerequisites/)  
             * [Python - Dremio](https://docs.dremio.com/cloud/client-applications/python/)  
             * [Querying Your Data - Dremio](https://docs.dremio.com/cloud/querying-data/)  
             * [Refreshing Reflections - Dremio](https://docs.dremio.com/cloud/reflections/refreshing-reflections/)  
@@ -297,7 +304,6 @@
             * [Scratch Directory - Dremio](https://docs.dremio.com/cloud/data/scratch/)  
             * [System Tables - Dremio](https://docs.dremio.com/cloud/sql/system-tables/)  
             * [Tables - Dremio](https://docs.dremio.com/cloud/sql/commands/tables/)  
-            * [Understanding Usage - Dremio](https://docs.dremio.com/cloud/usage-and-billing/usage/)  
             * [Users - Dremio](https://docs.dremio.com/cloud/security/access-management/users/#adding-a-user)  
             * [Viewing Jobs and Job Details - Dremio](https://docs.dremio.com/cloud/querying-data/jobs/)  
           * software  
@@ -312,6 +318,7 @@
             * [Backup Dremio - Dremio](https://docs.dremio.com/software/advanced-administration/backup/)  
             * [CAST - Dremio](https://docs.dremio.com/software/sql-reference/sql-functions/functions/CAST/)  
             * [CONCAT - Dremio](https://docs.dremio.com/software/sql-reference/sql-functions/functions/CONCAT/)  
+            * [Configuring Dremio Services - Dremio](https://docs.dremio.com/software/deployment/nodes-config/)  
             * [Configuring Metadata Storage - Dremio](https://docs.dremio.com/software/deployment/metadata-store-config/)  
             * [Configuring Standalone Clusters - Dremio](https://docs.dremio.com/software/deployment/dremio-config/)  
             * [Configuring via dremio.conf - Dremio](https://docs.dremio.com/software/advanced-administration/dremio-conf/)  
@@ -351,14 +358,12 @@
             * [Virtual Datasets - Dremio](https://docs.dremio.com/software/managing-data/virtual-datasets/)  
           * [Dremio Hub](https://www.dremio.com/hub/)  
           * [Dremio Technology Alliance Program Guide](https://www.dremio.com/files/pdfs/Dremio-Technology-Alliance-Program-Guide.pdf)  
+          * [Getting Started with Dremio Test Drive - Dremio](https://docs.dremio.com/cloud/test-drive/)  
           * [Partners | Dremio](https://www.dremio.com/partners/)  
         * github.com  
+          * [ddmitov/lakehouse_analytics_with_dremio: Example files for the lecture "Data Analytics with Dremio", OpenFest 2022](https://github.com/ddmitov/lakehouse_analytics_with_dremio)  
           * [gregpalmr/dremio-iceberg-demo: Demonstrate the Dremio Data Lake engine accessing Apache Iceberg tables stored in HDFS](https://github.com/gregpalmr/dremio-iceberg-demo)  
           * [jentekllc/dremio_flight_spark_ml.ipynb at master · geyungjen/jentekllc](https://github.com/geyungjen/jentekllc/blob/master/Spark/Python/MachineLearning/dremio_flight_spark_ml.ipynb)  
-        * university.dremio.com  
-          * [Data Reflections | Dremio University](https://university.dremio.com/courses/course-v1:dremio+D102+2019/about)  
-          * [Dremio for Data Consumers | Dremio University](https://university.dremio.com/courses/course-v1:dremio+D103+2019/about)  
-          * [Dremio Fundamentals | Dremio University](https://university.dremio.com/courses/course-v1:dremio+D101+2018D101/about)  
         * www.dremio.com  
           * blog  
             * [5 Limitations of Data Warehouses in Today’s World of Infinite Data | Dremio](https://www.dremio.com/blog/5-limitations-of-data-warehouses-in-today-s-world-of-infinite-data/)  
@@ -371,7 +376,6 @@
             * [Is Your Data on S3? 21 Reasons Why Dremio Is the Best SQL Engine for You! | Dremio](https://www.dremio.com/blog/is-your-data-on-s3-21-reasons-why-dremio-is-the-best-sql-engine-for-you/?utm_source=linkedin&utm_medium=social-free&utm_campaign=advocacy)  
             * [It’s Time to Replace ODBC & JDBC | Dremio](https://www.dremio.com/blog/is-time-to-replace-odbc-jdbc/)  
             * [Looking Back At How We Exited Dremio From Stealth | Dremio](https://www.dremio.com/blog/exiting-dremio-from-stealth/)  
-            * [Melt Away Your Cloud Data Warehouse Costs | Dremio](https://www.dremio.com/blog/melt-away-your-cloud-data-warehouse-costs/?utm_content=1661800201&utm_medium=social-free&utm_source=linkedin)  
             * [Next-Gen Data Analytics - Open Data Architecture | Dremio](https://www.dremio.com/blog/next-gen-data-analytics-open-data-architecture/)  
             * [Understanding the Dremio AWS Edition Deployment Architecture | Dremio](https://www.dremio.com/blog/dremio-aws-edition-reployment-architecture/)  
             * [What Is a Data Lakehouse? | Dremio](https://www.dremio.com/blog/what-is-a-data-lakehouse/)  
@@ -405,6 +409,7 @@
             * [Working With Your First Dataset | Dremio](https://www.dremio.com/resources/tutorials/working-with-your-first-dataset/)  
           * [5 Best Practices to Completely Eliminate Costly Data Copies With a SQL Lakehouse Platform](https://www.dremio.com/wp-content/uploads/2021/12/5-Best-Practices-to-Completely-Eliminate-Costly-Data-Copies-With-a-SQL-Lakehouse-Platform.pdf)  
           * [Dremio Consumption Units | Dremio](https://www.dremio.com/dcus/)  
+          * [Dremio Test Drive | Dremio](https://www.dremio.com/test-drive/)  
           * [DremioArchitectureGuide.pdf](https://www.dremio.com/downloads/DremioArchitectureGuide.pdf)  
         * [Dremio - Escaping the Data Copy Pyramid of Doom](https://www.commonsense.events/vrt22-dremio-data-copy/)  
         * [Dremio Cloud is a Lakehouse Platform on AWS That Democratizes Data | AWS Partner Network (APN) Blog](https://aws.amazon.com/blogs/apn/dremio-cloud-is-a-lakehouse-platform-on-aws-that-democratizes-data/)  
@@ -413,6 +418,7 @@
         * [Dremio Cloud review: A fast and flexible data lakehouse on AWS | InfoWorld](https://www.infoworld.com/article/3671872/dremio-cloud-review-a-fast-and-flexible-data-lakehouse-on-aws.html?page=2)  
         * [Dremio launches free data lakehouse service for enterprises | VentureBeat](https://venturebeat.com/enterprise/dremio-launches-free-data-lakehouse-service-for-enterprises/)  
         * [Dremio Officially a ‘Unicorn’ As it Reaches $1B Valuation](https://www.datanami.com/2021/01/06/dremio-officially-a-unicorn-as-it-reaches-1b-valuation/)  
+        * [Dremio University](https://university.dremio.com/)  
         * [Dremio Workshop :: Dremio Modernization Workshop](https://dremio.awsworkshop.io/)  
         * [Dremio: Simpler and faster data analytics | InetServices Blog](https://www.inetservices.com/blog/dremio-simpler-and-faster-data-analytics/)  
         * [Dremio’s Data Lake Engine Enables Breakthrough Speed for Analytics on Data Lake Storage | Business Wire](https://www.businesswire.com/news/home/20190917005138/en/Dremio%E2%80%99s-Data-Lake-Engine-Enables-Breakthrough-Speed-for-Analytics-on-Data-Lake-Storage)  
@@ -426,6 +432,8 @@
     * [Data Mesh Principles and Logical Architecture](https://martinfowler.com/articles/data-mesh-principles.html)  
     * [Delta Lake](https://delta.io/)  
     * [Delta vs Iceberg : Performance as a decisive criteria | by DataBeans | Medium](https://databeans-blogs.medium.com/delta-vs-iceberg-performance-as-a-decisive-criteria-add7bcdde03d)  
+  * Data Science  
+    * [Einblick | Data science at the speed of thought](https://www.einblick.ai/)  
   * Data Streaming  
     * Apache Kafka  
       * Apache Kafka How To  
@@ -459,7 +467,7 @@
     * [Awesome dataviz tools by Cube.js](https://awesome.cube.dev/)  
     * [chroma.js palette helper](https://vis4.net/palettes/)  
     * [RAWGraphs](https://www.rawgraphs.io/)  
-    * [splitgraph/seafowl: Analytical database for data-driven Web applications](https://github.com/splitgraph/seafowl)  
+    * [Seafowl](https://seafowl.io/)  
     * [Word Cloud Generator](https://www.jasondavies.com/wordcloud/)  
   * Data Warehouses  
     * Snowflake  
@@ -712,6 +720,7 @@
       * [resilar/sqleet: SQLite3 encryption that sucks less](https://github.com/resilar/sqleet)  
       * [SQLite Home Page](https://www.sqlite.org/index.html)  
     * [ClickHouse - fast open-source OLAP DBMS](https://clickhouse.tech/)  
+    * [Database Normalization – Normal Forms 1nf 2nf 3nf Table Examples](https://www.freecodecamp.org/news/database-normalization-1nf-2nf-3nf-table-examples/)  
     * [HarperDB | Simplicity Without Sacrifice](https://harperdb.io/)  
     * [QuestDB | Time series data, faster](https://questdb.io/)  
     * [SQL vs. NoSQL Database: When to Use, How to Choose](https://www.ml4devs.com/articles/datastore-choices-sql-vs-nosql-database/)  
@@ -748,38 +757,6 @@
   * Hardware Diagnostics  
     * [HWiNFO & HWiNFO32 - Hardware Information and Analysis Tools](https://www.hwinfo.com/)  
     * [Memtest86+ - Advanced Memory Diagnostic Tool](https://www.memtest.org/)  
-  * Human Languages  
-    * Classical Languages  
-      * Ancient Greek  
-        * [Alpha online. Древнегреческо-русский словарь](http://gurin.tomsknet.ru/alphaonline.html)  
-        * [Alpha. Древнегреческо-русский словарь](http://gurin.tomsknet.ru/alpha.html)  
-        * [Ancient Greek Keyboard Online LEXILOGOS](https://www.lexilogos.com/keyboard/greek_ancient.htm)  
-        * [Thesaurus Linguae Graecae - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Thesaurus_Linguae_Graecae)  
-        * [Type Greek.com](http://www.typegreek.com/)  
-        * [Unicode Classical Greek](http://babel.mml.ox.ac.uk/naughton/polytonic-greek.html)  
-        * [Unicode Classical Greek Inputter 2](http://babel.mml.ox.ac.uk/naughton/polytonic-greek-inputter.html)  
-      * Latin  
-        * [Collatinus - Lemmatiseur et analyseur morphologique de textes latins](http://outils.biblissima.fr/fr/collatinus/)  
-        * [Collatinus-web - Lemmatiseur et analyseur morphologique de textes latins](http://outils.biblissima.fr/fr/collatinus-web/)  
-        * [Whitaker's WORDS Online](http://latin.ucant.org/)  
-        * [Whitaker's Words: Overview](https://mk270.github.io/whitakers-words/)  
-    * Modern Languages  
-      * English  
-        * [Hemingway Editor](http://www.hemingwayapp.com/)  
-        * [LanguageTool Style and Grammar Check](https://languagetool.org/)  
-        * [Англо-български терминологичен речник по информатика](http://lml.bas.bg/~anton/linux/rechnik.html)  
-      * [Fix Corrupted Chinese Email](http://www.mandarintools.com/email.html)  
-      * [Linguee | речник за английски, френски, немски, и други](https://bg.linguee.com/)  
-      * [Russian Keyboard Online LEXILOGOS](https://www.lexilogos.com/keyboard/russian.htm)  
-    * Unicode  
-      * [BabelStone : BabelMap (Unicode Character Map for Windows)](http://www.babelstone.co.uk/Software/BabelMap.html)  
-      * [BabelStone : BabelPad (Unicode Text Editor for Windows)](http://www.babelstone.co.uk/Software/BabelPad.html)  
-      * [Shapecatcher: Draw the Unicode character you want!](http://shapecatcher.com/)  
-      * [Unicode - Compart](https://www.compart.com/en/unicode/)  
-      * [Unicode – The World Standard for Text and Emoji](https://home.unicode.org/)  
-      * [Unicode Inputter Page](https://babel.mml.ox.ac.uk/naughton/inputter.html)  
-    * [ALT Key Code Shortcuts and How To Make Symbols With Keyboard – Essential IT Solutions](https://essentialit.co.za/blog/2013/08/alt-key-code-shortcuts-and-how-to-make-symbols-with-keyboard/)  
-    * [Laurence Anthony's AntConc](http://www.laurenceanthony.net/software/antconc/)  
   * Mathematics and Statistics  
     * www.mathsisfun.com  
       * [Calculating the mean from a frequency table](https://www.mathsisfun.com/data/mean-frequency-table.html)  
@@ -802,6 +779,44 @@
     * [ImgBurn](http://www.imgburn.com/)  
     * [Impressive](http://impressive.sourceforge.net/)  
     * [XnView · Image Viewer, Photo Resizer & Graphic Converter](https://www.xnview.com/en/)  
+  * Natural Languages  
+    * Classical Languages  
+      * Ancient Greek  
+        * [Alpha online. Древнегреческо-русский словарь](http://gurin.tomsknet.ru/alphaonline.html)  
+        * [Alpha. Древнегреческо-русский словарь](http://gurin.tomsknet.ru/alpha.html)  
+        * [Ancient Greek Keyboard Online LEXILOGOS](https://www.lexilogos.com/keyboard/greek_ancient.htm)  
+        * [Thesaurus Linguae Graecae - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Thesaurus_Linguae_Graecae)  
+        * [Type Greek.com](http://www.typegreek.com/)  
+        * [Unicode Classical Greek](http://babel.mml.ox.ac.uk/naughton/polytonic-greek.html)  
+        * [Unicode Classical Greek Inputter 2](http://babel.mml.ox.ac.uk/naughton/polytonic-greek-inputter.html)  
+      * Latin  
+        * github.com  
+          * [CIRCSE/LEMLAT3: Morphological analyzer and lemmatizer for Latin.](https://github.com/CIRCSE/LEMLAT3)  
+          * [mk270/whitakers-words: William Whitaker's WORDS, a Latin dictionary](https://github.com/mk270/whitakers-words)  
+        * [Collatinus - Lemmatiseur et analyseur morphologique de textes latins](http://outils.biblissima.fr/fr/collatinus/)  
+        * [Collatinus-web - Lemmatiseur et analyseur morphologique de textes latins](http://outils.biblissima.fr/fr/collatinus-web/)  
+        * [Corpus Corporum](https://www.mlat.uzh.ch/)  
+        * [Latin WordNet](https://latinwordnet.exeter.ac.uk/)  
+        * [Tesserae](https://tesserae.caset.buffalo.edu/)  
+        * [Whitaker's WORDS Online](http://latin.ucant.org/)  
+      * [aurelberra/stopwords: Ancient Greek and Latin stopwords for textual analysis](https://github.com/aurelberra/stopwords)  
+    * Modern Languages  
+      * English  
+        * [Hemingway Editor](http://www.hemingwayapp.com/)  
+        * [LanguageTool Style and Grammar Check](https://languagetool.org/)  
+        * [Англо-български терминологичен речник по информатика](http://lml.bas.bg/~anton/linux/rechnik.html)  
+      * [Fix Corrupted Chinese Email](http://www.mandarintools.com/email.html)  
+      * [Linguee | речник за английски, френски, немски, и други](https://bg.linguee.com/)  
+      * [Russian Keyboard Online LEXILOGOS](https://www.lexilogos.com/keyboard/russian.htm)  
+    * Unicode  
+      * [BabelStone : BabelMap (Unicode Character Map for Windows)](http://www.babelstone.co.uk/Software/BabelMap.html)  
+      * [BabelStone : BabelPad (Unicode Text Editor for Windows)](http://www.babelstone.co.uk/Software/BabelPad.html)  
+      * [Shapecatcher: Draw the Unicode character you want!](http://shapecatcher.com/)  
+      * [Unicode - Compart](https://www.compart.com/en/unicode/)  
+      * [Unicode – The World Standard for Text and Emoji](https://home.unicode.org/)  
+      * [Unicode Inputter Page](https://babel.mml.ox.ac.uk/naughton/inputter.html)  
+    * [Laurence Anthony's AntConc](http://www.laurenceanthony.net/software/antconc/)  
+    * [Voyant Tools](https://voyant-tools.org/)  
   * Network Administration  
     * Online Tools  
       * Speed Tests  
@@ -930,33 +945,27 @@
       * Cron  
         * Cron How To  
           * [automation - CRON job to run on the last day of the month - Stack Overflow](https://stackoverflow.com/questions/6139189/cron-job-to-run-on-the-last-day-of-the-month)  
-          * [crontab.guru - the cron schedule expression editor](https://crontab.guru/)  
           * [How To Add Jobs To cron Under Linux or UNIX - nixCraft](https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/)  
         * [aptible/supercronic: Cron for containers](https://github.com/aptible/supercronic)  
+        * [crontab.guru - the cron schedule expression editor](https://crontab.guru/)  
       * Linux Applications  
         * [HP Developers Portal | HP Linux Imaging and Printing](https://developers.hp.com/hp-linux-imaging-and-printing)  
         * [lookbusy -- a synthetic load generator](http://www.devin.com/lookbusy/)  
         * [PhotoRec - CGSecurity](http://www.cgsecurity.org/wiki/PhotoRec)  
+        * [Supervisor: A Process Control System](http://supervisord.org/index.html)  
         * [TestDisk - CGSecurity](http://www.cgsecurity.org/wiki/TestDisk)  
         * [Tomas-M/iotop: A top utility for IO](https://github.com/Tomas-M/iotop)  
         * [Webmin](http://www.webmin.com/)  
       * Linux Distributions  
-        * Termux  
-          * Termux How To  
-            * [Termux Wiki](https://wiki.termux.com/wiki/Main_Page)  
-            * [Termux:API - Termux Wiki](https://wiki.termux.com/wiki/Termux:API)  
-            * [Development Environments - Termux Wiki](https://wiki.termux.com/wiki/Development_Environments)  
-            * [Python - Termux Wiki](https://wiki.termux.com/wiki/Python)  
-            * [Sharing Data - Termux Wiki](https://wiki.termux.com/wiki/Sharing_Data)  
-          * [Termux](https://termux.com/)  
-          * [termux/termux-create-package: Python script to create Termux packages easily.](https://github.com/termux/termux-create-package)  
         * [CentOS Linux](https://www.centos.org/centos-linux/)  
         * [Debian -- The Universal Operating System](https://www.debian.org/index.en.html)  
         * [GParted -- Live CD/USB/PXE/HD](https://gparted.org/livecd.php)  
         * [KNOPPIX Linux Live CD](http://www.knoppix.org/)  
         * [lubuntu – lightweight, fast, easier](https://lubuntu.net/)  
         * [Slax Linux - your pocket operating system](https://www.slax.org/)  
+        * [Termux](https://termux.com/)  
         * [Ubuntu Minimal CD](https://help.ubuntu.com/community/Installation/MinimalCD)  
+        * [Xubuntu](https://xubuntu.org/)  
       * Linux How To  
         * askubuntu.com  
           * [apt - Is it possible to get a list of most recently installed packages? - Ask Ubuntu](http://askubuntu.com/questions/17012/is-it-possible-to-get-a-list-of-most-recently-installed-packages)  
@@ -1052,6 +1061,7 @@
       * [Scintilla and SciTE](https://www.scintilla.org/SciTE.html)  
     * Visual Studio Code  
       * Extensions  
+        * [Black - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mikoz.black-py)  
         * [Live Server - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)  
         * [Live Share Extension Pack - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)  
         * [Markdown Preview Enhanced - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)  
@@ -1294,6 +1304,7 @@
           * [stachenov/quazip: Qt/C++ wrapper over minizip](https://github.com/stachenov/quazip)  
           * [TinyAES - A very small AES encryption library for Qt 5.x (Page 1) / Community Contributions / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=173884)  
         * [Index of /archive/qt](https://download.qt.io/archive/qt/)  
+        * [Index of /new_archive/qt/5.5/5.5.1](https://download.qt.io/new_archive/qt/5.5/5.5.1/)  
         * [Qt | Cross-platform software development for embedded & desktop](https://www.qt.io/)  
       * [Cppcheck - A tool for static C/C++ code analysis](http://cppcheck.sourceforge.net/)  
     * Golang  
@@ -1423,7 +1434,6 @@
           * [javascript - how to get the last character of a string? - Stack Overflow](https://stackoverflow.com/questions/3884632/how-to-get-the-last-character-of-a-string)  
           * [javascript - How to get unique values in an array - Stack Overflow](https://stackoverflow.com/questions/11246758/how-to-get-unique-values-in-an-array)  
           * [javascript - How to load page dynamically in iframe - Stack Overflow](https://stackoverflow.com/questions/5142825/how-to-load-page-dynamically-in-iframe)  
-          * [javascript - How to parse XML using jQuery? - Stack Overflow](https://stackoverflow.com/questions/7228141/how-to-parse-xml-using-jquery)  
           * [javascript - How to read the txt file of the link taken in axios? - Stack Overflow](https://stackoverflow.com/questions/65052115/how-to-read-the-txt-file-of-the-link-taken-in-axios)  
           * [javascript - How to turn off iPhone keypad for a specified input field on web page - Stack Overflow](https://stackoverflow.com/questions/9812083/how-to-turn-off-iphone-keypad-for-a-specified-input-field-on-web-page)  
           * [javascript - Js remove all classes from element - Stack Overflow](https://stackoverflow.com/questions/30299693/js-remove-all-classes-from-element)  
@@ -1567,14 +1577,13 @@
             * [node.js - Nodejs Child Process: write to stdin from an already initialised process - Stack Overflow](https://stackoverflow.com/questions/13230370/nodejs-child-process-write-to-stdin-from-an-already-initialised-process)  
             * [node.js - Nodejs npm show latest version of a module - Stack Overflow](https://stackoverflow.com/questions/11949419/nodejs-npm-show-latest-version-of-a-module)  
             * [Node.js: Writing a function to return spawn stdout as a string - Stack Overflow](https://stackoverflow.com/questions/15515549/node-js-writing-a-function-to-return-spawn-stdout-as-a-string)  
-          * www.hacksparrow.com  
           * [Child Process Node.js v5.10.1 Manual & Documentation](https://nodejs.org/api/child_process.html)  
           * [Customizing your npm package's page on Tonic - npm - RunKit Discuss](https://discuss.runkit.com/t/customizing-your-npm-packages-page-on-tonic/23)  
           * [File Manipulation with Node.js | DevDungeon](http://www.devdungeon.com/content/file-manipulation-nodejs)  
           * [How To Install Node.js on Ubuntu 20.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)  
+          * [Installation · nodejs/help Wiki](https://github.com/nodejs/help/wiki/Installation)  
           * [Node - Child Processes](https://gist.github.com/leommoore/4484379)  
           * [Node.js Best Practices – Just Build Something](http://justbuildsomething.com/node-js-best-practices/)  
-          * [Package.json validator](http://package-json-validator.com/)  
           * [Writing cross-platform Node.js | George Ornbo](https://shapeshed.com/writing-cross-platform-node/)  
           * [Your first Node.js package](https://nodesource.com/blog/your-first-nodejs-package/)  
         * npm  
@@ -1587,6 +1596,7 @@
           * [executable-harness - npm](https://www.npmjs.com/package/executable-harness)  
         * [Node.js](https://nodejs.org/en/)  
         * [npms](https://npms.io/)  
+        * [nvm-sh/nvm: Node Version Manager](https://github.com/nvm-sh/nvm)  
       * NW.js  
         * NW.js How To  
           * [Changes related to node · nwjs/nw.js Wiki](https://github.com/nwjs/nw.js/wiki/Changes-related-to-node)  
@@ -1905,6 +1915,9 @@
         * [How to Set environment variables using PowerShell?](https://www.tutorialspoint.com/how-to-set-environment-variables-using-powershell)  
     * Python  
       * Jupyter  
+        * Google Colaboratory  
+          * [Colaboratory](https://colab.research.google.com/)  
+          * [colabtools/colab-github-demo.ipynb at master · googlecolab/colabtools](https://github.com/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)  
         * [Binder](https://mybinder.org/)  
         * [jupyterlab/jupyterlab_app: A desktop application for JupyterLab, based on Electron.](https://github.com/jupyterlab/jupyterlab_app)  
         * [Project Jupyter](https://jupyter.org/)  
@@ -1974,6 +1987,7 @@
           * [DuckDB - Pragmas](https://duckdb.org/docs/sql/pragmas)  
           * [DuckDB - Python API](https://duckdb.org/docs/api/python)  
           * [DuckDB - Querying Parquet with Precision using DuckDB](https://duckdb.org/2021/06/25/querying-parquet.html)  
+          * [DuckDB - S3 or GCS Parquet Import](https://duckdb.org/docs/guides/import/s3_import.html)  
           * [DuckDB - SQL Introduction](https://duckdb.org/docs/sql/introduction)  
           * [DuckDB - Text Functions](https://duckdb.org/docs/sql/functions/char)  
           * [DuckDB - Time Functions](https://duckdb.org/docs/sql/functions/time)  
@@ -2066,6 +2080,7 @@
           * [pandas.DataFrame.empty](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.empty.html)  
           * [pandas.DataFrame.equals](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.equals.html)  
           * [pandas.DataFrame.fillna](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.fillna.html)  
+          * [pandas.DataFrame.from_dict](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.from_dict.html)  
           * [pandas.DataFrame.groupby](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html)  
           * [pandas.DataFrame.merge](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.merge.html)  
           * [pandas.DataFrame.rename](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rename.html)  
@@ -2237,6 +2252,7 @@
           * [python - Assign schema to pa.Table.from_pandas() - Stack Overflow](https://stackoverflow.com/questions/49565713/assign-schema-to-pa-table-from-pandas)  
           * [Python - Automatically adjust width of an excel file's columns - Stack Overflow](https://stackoverflow.com/questions/39529662/python-automatically-adjust-width-of-an-excel-files-columns)  
           * [python - Average Time difference in pandas - Stack Overflow](https://stackoverflow.com/questions/39272470/average-time-difference-in-pandas)  
+          * [python - boto3 client NoRegionError: You must specify a region error only sometimes - Stack Overflow](https://stackoverflow.com/questions/40377662/boto3-client-noregionerror-you-must-specify-a-region-error-only-sometimes)  
           * [python - Boto3/S3: Renaming an object using copy_object - Stack Overflow](https://stackoverflow.com/questions/32501995/boto3-s3-renaming-an-object-using-copy-object)  
           * [python - Calculate time difference between Pandas Dataframe indices - Stack Overflow](https://stackoverflow.com/questions/16777570/calculate-time-difference-between-pandas-dataframe-indices)  
           * [python - Can't compare naive and aware datetime.now() <= challenge.datetime_end - Stack Overflow](https://stackoverflow.com/questions/15307623/cant-compare-naive-and-aware-datetime-now-challenge-datetime-end)  
@@ -2276,8 +2292,10 @@
           * [python - Generate SQL statements from a Pandas Dataframe - Stack Overflow](https://stackoverflow.com/questions/31071952/generate-sql-statements-from-a-pandas-dataframe)  
           * [python - Get first and second highest values in pandas columns - Stack Overflow](https://stackoverflow.com/questions/39066260/get-first-and-second-highest-values-in-pandas-columns)  
           * [python - get list from pandas dataframe column - Stack Overflow](https://stackoverflow.com/questions/22341271/get-list-from-pandas-dataframe-column)  
+          * [python - Given a URL to a text file, what is the simplest way to read the contents of the text file? - Stack Overflow](https://stackoverflow.com/questions/1393324/given-a-url-to-a-text-file-what-is-the-simplest-way-to-read-the-contents-of-the)  
           * [python - Group dataframe and get sum AND count? - Stack Overflow](https://stackoverflow.com/questions/38174155/group-dataframe-and-get-sum-and-count)  
           * [python - How can I detect if trend is increasing or decreasing in time series? - Stack Overflow](https://stackoverflow.com/questions/55649356/how-can-i-detect-if-trend-is-increasing-or-decreasing-in-time-series)  
+          * [python - How can i display all columns in google colab? - Stack Overflow](https://stackoverflow.com/questions/72287275/how-can-i-display-all-columns-in-google-colab)  
           * [python - How can I override the static file handler in Flask? - Stack Overflow](https://stackoverflow.com/questions/25412636/how-can-i-override-the-static-file-handler-in-flask)  
           * [python - How can I replace all the NaN values with Zeros in a column of a pandas dataframe - Stack Overflow](https://stackoverflow.com/questions/13295735/how-can-i-replace-all-the-nan-values-with-zeros-in-a-column-of-a-pandas-datafram)  
           * [python - How can I sort a dictionary by key? - Stack Overflow](https://stackoverflow.com/questions/9001509/how-can-i-sort-a-dictionary-by-key)  
@@ -2299,6 +2317,7 @@
           * [python - How to change the order of DataFrame columns? - Stack Overflow](https://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns)  
           * [python - How to check if a column exists in Pandas - Stack Overflow](https://stackoverflow.com/questions/24870306/how-to-check-if-a-column-exists-in-pandas)  
           * [python - How to check whether a pandas DataFrame is empty? - Stack Overflow](https://stackoverflow.com/questions/19828822/how-to-check-whether-a-pandas-dataframe-is-empty)  
+          * [python - How to cluster similar sentences using BERT - Stack Overflow](https://stackoverflow.com/questions/55619176/how-to-cluster-similar-sentences-using-bert)  
           * [python - How to convert list to string - Stack Overflow](https://stackoverflow.com/questions/5618878/how-to-convert-list-to-string)  
           * [python - How to convert local time string to UTC? - Stack Overflow](https://stackoverflow.com/questions/79797/how-to-convert-local-time-string-to-utc)  
           * [python - How to create a zip archive of a directory? - Stack Overflow](https://stackoverflow.com/questions/1855095/how-to-create-a-zip-archive-of-a-directory)  
@@ -2313,6 +2332,7 @@
           * [python - How to load a tsv file into a Pandas DataFrame? - Stack Overflow](https://stackoverflow.com/questions/9652832/how-to-load-a-tsv-file-into-a-pandas-dataframe)  
           * [python - How to merge two dataframes side-by-side? - Stack Overflow](https://stackoverflow.com/questions/23891575/how-to-merge-two-dataframes-side-by-side)  
           * [python - How to print a string multiple times? - Stack Overflow](https://stackoverflow.com/questions/6293421/how-to-print-a-string-multiple-times)  
+          * [python - How to print only a certain column of DataFrame in PySpark? - Stack Overflow](https://stackoverflow.com/questions/35913506/how-to-print-only-a-certain-column-of-dataframe-in-pyspark)  
           * [python - How to put two decimals in cell with type of percent - Stack Overflow](https://stackoverflow.com/questions/30050716/how-to-put-two-decimals-in-cell-with-type-of-percent)  
           * [python - How to read a Parquet file into Pandas DataFrame? - Stack Overflow](https://stackoverflow.com/questions/33813815/how-to-read-a-parquet-file-into-pandas-dataframe)  
           * [python - How to rearrange Pandas column sequence? - Stack Overflow](https://stackoverflow.com/questions/12329853/how-to-rearrange-pandas-column-sequence/23741704)  
@@ -2449,10 +2469,14 @@
           * [Strip HTML from strings in Python - Stack Overflow](https://stackoverflow.com/questions/753052/strip-html-from-strings-in-python)  
           * [time - High-precision clock in Python - Stack Overflow](https://stackoverflow.com/questions/1938048/high-precision-clock-in-python)  
           * [trim - Remove all whitespace in a string in Python - Stack Overflow](https://stackoverflow.com/questions/8270092/remove-all-whitespace-in-a-string-in-python/8270146)  
+          * [websocket - Problems with event_loops in Python 3.10 - Stack Overflow](https://stackoverflow.com/questions/69728622/problems-with-event-loops-in-python-3-10)  
           * [What is the difference between Python's list methods append and extend? - Stack Overflow](https://stackoverflow.com/questions/252703/what-is-the-difference-between-pythons-list-methods-append-and-extend)  
           * [What's the canonical way to check for type in Python? - Stack Overflow](https://stackoverflow.com/questions/152580/whats-the-canonical-way-to-check-for-type-in-python)  
           * [windows - How do I install a Python package with a .whl file? - Stack Overflow](https://stackoverflow.com/questions/27885397/how-do-i-install-a-python-package-with-a-whl-file)  
           * [windows - UnicodeDecodeError: 'charmap' codec can't decode byte X in position Y: character maps to <undefined> - Stack Overflow](https://stackoverflow.com/questions/9233027/unicodedecodeerror-charmap-codec-cant-decode-byte-x-in-position-y-character)  
+        * stanfordnlp.github.io  
+          * [Lemmatization - Stanza](https://stanfordnlp.github.io/stanza/lemma.html)  
+          * [Tokenization & Sentence Segmentation - Stanza](https://stanfordnlp.github.io/stanza/tokenize.html)  
         * thispointer.com  
           * [How to create a Directory in python ? – thisPointer](https://thispointer.com/how-to-create-a-directory-in-python/)  
           * [Pandas : Drop rows from a dataframe with missing values or NaN in columns – thispointer.com](https://thispointer.com/pandas-drop-rows-from-a-dataframe-with-missing-values-or-nan-in-columns/)  
@@ -2475,6 +2499,9 @@
           * [Check Python Module Version | Delft Stack](https://www.delftstack.com/howto/python/module-version-python/)  
           * [Count Unique Values Per Group(s) in Pandas | Delft Stack](https://www.delftstack.com/howto/python-pandas/how-to-count-unique-values-with-pandas-per-groups/)  
           * [Hide Axis Text Ticks and/or Tick Labels in Matplotlib | Delft Stack](https://www.delftstack.com/howto/matplotlib/how-to-hide-axis-text-ticks-and-or-tick-labels-in-matplotlib/#xaxis.set_ticklabels%2fyaxis.set_ticklabels-to-hide-axis-label-%2f-text-in-matplotlib)  
+        * www.nltk.org  
+          * [NLTK :: nltk.tokenize package](https://www.nltk.org/api/nltk.tokenize.html)  
+          * [NLTK :: Sample usage for concordance](https://www.nltk.org/howto/concordance.html)  
         * www.programiz.com  
           * [Python round() - Python Standard Library](https://www.programiz.com/python-programming/methods/built-in/round)  
           * [Python String encode() - Python Standard Library](https://www.programiz.com/python-programming/methods/string/encode)  
@@ -2486,6 +2513,9 @@
           * [How to change the order of DataFrame columns in Pandas? - PythonProgramming.in](https://www.pythonprogramming.in/how-to-change-the-order-of-dataframe-columns.html)  
           * [How to get a value from a cell of a DataFrame? - PythonProgramming.in](https://www.pythonprogramming.in/how-to-get-a-value-from-a-cell-of-a-dataframe.html)  
           * [Iterate over rows and columns in Pandas DataFrame - PythonProgramming.in](https://www.pythonprogramming.in/iterate-over-rows-and-columns-pandas-dataframe.html)  
+        * www.sbert.net  
+          * [Paraphrase Mining — Sentence-Transformers documentation](https://www.sbert.net/examples/applications/paraphrase-mining/README.html)  
+          * [Semantic Search — Sentence-Transformers documentation](https://www.sbert.net/examples/applications/semantic-search/README.html)  
         * www.statsmodels.org  
           * [statsmodels.tsa.seasonal.DecomposeResult — statsmodels](https://www.statsmodels.org/stable/generated/statsmodels.tsa.seasonal.DecomposeResult.html#statsmodels.tsa.seasonal.DecomposeResult)  
           * [statsmodels.tsa.seasonal.seasonal_decompose — statsmodels](https://www.statsmodels.org/stable/generated/statsmodels.tsa.seasonal.seasonal_decompose.html)  
@@ -2527,6 +2557,7 @@
           * [Python String split() Method](https://www.w3schools.com/python/ref_string_split.asp)  
           * [Python String zfill() Method](https://www.w3schools.com/python/ref_string_zfill.asp)  
           * [Python Try Except](https://www.w3schools.com/python/python_try_except.asp)  
+        * [3 Ways To Perform Quick Exploratory Data Analysis in Python – Predictive Hacks](https://predictivehacks.com/3-ways-to-perform-quick-exploratory-data-analysis-in-python/#more-6459)  
         * [Apply a function to every row in a pandas dataframe](http://jonathansoma.com/lede/foundations/classes/pandas%20columns%20and%20functions/apply-a-function-to-every-row-in-a-pandas-dataframe/)  
         * [Arguments to waitress.serve — waitress 2.0.0 documentation](https://docs.pylonsproject.org/projects/waitress/en/stable/arguments.html)  
         * [Asyncio Event Loops Tutorial | TutorialEdge.net](https://tutorialedge.net/python/concurrency/asyncio-event-loops-tutorial/)  
@@ -2608,18 +2639,35 @@
           * [Downloading files — Boto3 Docs 1.16.59 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-example-download-file.html)  
           * [Uploading files — Boto3 Docs 1.17.5 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-uploading-files.html)  
         * github.com  
+          * [adbar/simplemma: Simple multilingual lemmatizer for Python, especially useful for speed and efficiency](https://github.com/adbar/simplemma)  
+          * [andbue/latin-bert-huggingface: Tokenizer config files to integrate Latin BERT in 🤗 transformers](https://github.com/andbue/latin-bert-huggingface)  
+          * [dbamman/latin-bert: Latin BERT](https://github.com/dbamman/latin-bert)  
           * [fbdesignpro/sweetviz: Visualize and compare datasets, target values and associations, with one line of code.](https://github.com/fbdesignpro/sweetviz)  
+          * [GitHub - abhijithneilabraham/tableQA: AI Tool for querying natural language on tabular data.](https://github.com/abhijithneilabraham/tableQA)  
+          * [GitHub - MaartenGr/KeyBERT: Minimal keyword extraction with BERT](https://github.com/MaartenGr/KeyBERT)  
+          * [GitHub - marqo-ai/marqo: Tensor search for humans.](https://github.com/marqo-ai/marqo)  
           * [jonashaag/bjoern: A screamingly fast Python 2/3 WSGI server written in C.](https://github.com/jonashaag/bjoern)  
+          * [kristopherkyle/corpus_toolkit: A simple toolkit for conducting analyses using corpus methods](https://github.com/kristopherkyle/corpus_toolkit)  
           * [linkedin/greykite: A flexible, intuitive and fast forecasting library](https://github.com/linkedin/greykite)  
           * [noplay/python-mysql-replication: Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL](https://github.com/noplay/python-mysql-replication)  
           * [pallets/quart: An async Python micro framework for building web applications.](https://github.com/pallets/quart)  
           * [pantsbuild/pex: A library and tool for generating .pex (Python EXecutable) files](https://github.com/pantsbuild/pex)  
           * [plotly/dash-pivottable: react-pivottable in Dash](https://github.com/plotly/dash-pivottable)  
           * [PyCQA/pycodestyle: Simple Python style checker in one Python file](https://github.com/PyCQA/pycodestyle)  
+          * [UKPLab/sentence-transformers: Multilingual Sentence & Image Embeddings with BERT](https://github.com/UKPLab/sentence-transformers)  
           * [viniciuschiele/flask-apscheduler: Adds APScheduler support to Flask](https://github.com/viniciuschiele/flask-apscheduler)  
           * [winedarksea/AutoTS: Automated Time Series Forecasting](https://github.com/winedarksea/AutoTS)  
+        * huggingface.co  
+          * [facebook/bart-large-cnn · Hugging Face](https://huggingface.co/facebook/bart-large-cnn?text=The+tower+is+324+metres+%281%2C063+ft%29+tall%2C+about+the+same+height+as+an+81-storey+building%2C+and+the+tallest+structure+in+Paris.+Its+base+is+square%2C+measuring+125+metres+%28410+ft%29+on+each+side.+During+its+construction%2C+the+Eiffel+Tower+surpassed+the+Washington+Monument+to+become+the+tallest+man-made+structure+in+the+world%2C+a+title+it+held+for+41+years+until+the+Chrysler+Building+in+New+York+City+was+finished+in+1930.+It+was+the+first+structure+to+reach+a+height+of+300+metres.+Due+to+the+addition+of+a+broadcasting+aerial+at+the+top+of+the+tower+in+1957%2C+it+is+now+taller+than+the+Chrysler+Building+by+5.2+metres+%2817+ft%29.+Excluding+transmitters%2C+the+Eiffel+Tower+is+the+second+tallest+free-standing+structure+in+France+after+the+Millau+Viaduct)  
+          * [google/pegasus-xsum · Hugging Face](https://huggingface.co/google/pegasus-xsum)  
+          * [google/tapas-base-finetuned-wtq · Hugging Face](https://huggingface.co/google/tapas-base-finetuned-wtq)  
+          * [juierror/text-to-sql-with-table-schema · Hugging Face](https://huggingface.co/juierror/text-to-sql-with-table-schema?text=question%3A+get+people+name+with+age+equal+25+table%3A+id%2C+name%2C+age)  
+          * [shahrukhx01/schema-aware-denoising-bart-large-cnn-text2sql · Hugging Face](https://huggingface.co/shahrukhx01/schema-aware-denoising-bart-large-cnn-text2sql)  
+          * [silencesys/paraphrase-xlm-r-multilingual-v1-fine-tuned-for-medieval-latin · Hugging Face](https://huggingface.co/silencesys/paraphrase-xlm-r-multilingual-v1-fine-tuned-for-medieval-latin)  
+          * [stanfordnlp/stanza-la · Hugging Face](https://huggingface.co/stanfordnlp/stanza-la)  
         * pypi.org  
           * [dtale · PyPI](https://pypi.org/project/dtale/)  
+          * [latinwordnet · PyPI](https://pypi.org/project/latinwordnet/)  
           * [pykeepass · PyPI](https://pypi.org/project/pykeepass/)  
           * [pymsteams · PyPI](https://pypi.org/project/pymsteams/)  
           * [redis · PyPI](https://pypi.org/project/redis/)  
@@ -2627,6 +2675,7 @@
         * readthedocs.io  
           * [aioredis](https://aioredis.readthedocs.io/)  
           * [Asyncio](https://asyncio.readthedocs.io/)  
+          * [Black](https://black.readthedocs.io/en/stable/)  
           * [Confluence](https://atlassian-python-api.readthedocs.io/confluence.html)  
           * [Example Google Style Python Docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)  
           * [Flask-Caching](https://flask-caching.readthedocs.io/en/latest/)  
@@ -2644,6 +2693,7 @@
           * [XlsxWriter](https://xlsxwriter.readthedocs.io/)  
         * [DuckDB - An in-process SQL OLAP database management system](https://duckdb.org/)  
         * [Greykite: A flexible, intuitive, and fast forecasting library | LinkedIn Engineering](https://engineering.linkedin.com/blog/2021/greykite--a-flexible--intuitive--and-fast-forecasting-library)  
+        * [NLTK :: Natural Language Toolkit](https://www.nltk.org/)  
         * [Polars](https://www.pola.rs/)  
         * [Prophet | Forecasting at scale.](https://facebook.github.io/prophet/)  
         * [PyCaret](https://pycaret.gitbook.io/docs/)  
@@ -2748,7 +2798,7 @@
         * github.com  
           * [Configuring Git to handle line endings - GitHub Docs](https://docs.github.com/en/github/using-git/configuring-git-to-handle-line-endings)  
           * [GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.](https://pages.github.com/)  
-          * [github/gitignore: A collection of useful .gitignore templates](https://github.com/github/gitignore)  
+          * [Managing your subscriptions - GitHub Docs](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/managing-subscriptions-for-activity-on-github/managing-your-subscriptions)  
         * stackoverflow.com  
           * [controls - Accidentally deleted .git folder - can it be restored? - Stack Overflow](https://stackoverflow.com/questions/30993981/accidentally-deleted-git-folder-can-it-be-restored/40561212)  
           * [git - Cannot push to GitHub - keeps saying need merge - Stack Overflow](https://stackoverflow.com/questions/10298291/cannot-push-to-github-keeps-saying-need-merge)  
