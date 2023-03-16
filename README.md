@@ -1,7 +1,14 @@
 ## Software
   * Architecture  
+    * chelseatroy.com  
+      * [A Rubric for Evaluating Team Members’ Contributions to a Maintainable Code Base – Chelsea Troy](https://chelseatroy.com/2021/10/29/a-rubric-for-evaluating-team-members-contributions-to-a-maintainable-code-base/)  
+      * [Quantifying Technical Debt – Chelsea Troy](https://chelseatroy.com/2021/01/14/quantifying-technical-debt/)  
+    * [3 ways to manage concurrency in serverless applications | theburningmonk.com](https://theburningmonk.com/2023/02/3-ways-to-manage-concurrency-in-serverless-applications/)  
     * [Complexity is the biggest threat to cloud success and security | InfoWorld](https://www.infoworld.com/article/3620944/complexity-is-the-biggest-threat-to-cloud-success-and-security.html)  
     * [ConwaysLaw](https://www.martinfowler.com/bliki/ConwaysLaw.html)  
+    * [Event-Driven Architectures vs. Event-Based Compute in Serverless Applications | DeBrie Advisory](https://www.alexdebrie.com/posts/event-driven-vs-event-based/)  
+    * [Introduction to event-based programming](https://aiven.io/blog/introduction-to-event-based-programming)  
+    * [MotherDuck: Big Data is Dead](https://motherduck.com/blog/big-data-is-dead/)  
   * Archivers  
     * [7-Zip](https://www.7-zip.org/)  
     * [IZArc - Free Zip/Unzip Files Utility](https://www.izarc.org/)  
@@ -49,108 +56,154 @@
       * [Jira 8.22.0](https://docs.atlassian.com/software/jira/docs/api/REST/8.22.0/)  
       * [JQL: The most flexible way to search Jira](https://www.atlassian.com/blog/jira-software/jql-the-most-flexible-way-to-search-jira-14)  
     * [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)  
-  * Cloud Computing  
-    * Cloud Platforms  
-      * Amazon Web Services  
-        * Amazon Web Services How To  
-          * amazon.com  
-            * CLI  
-              * [AWS Command Line Interface](https://aws.amazon.com/cli/)  
-              * [Configuring the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)  
-              * [describe-rule — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/describe-rule.html)  
-              * [get-function — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-function.html)  
-              * [Installing or updating the latest version of the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)  
-              * [lambda — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/index.html#cli-aws-lambda)  
-              * [list-functions — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-functions.html)  
-              * [list-rules — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-rules.html)  
-              * [list-tags — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-tags.html)  
-              * [list-targets-by-rule — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-targets-by-rule.html)  
-              * [Named profiles for the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html)  
-            * ECR  
-              * [Private registry authentication - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/registry_auth.html)  
-              * [Pushing a Docker image - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/docker-push-ecr-image.html)  
-              * [Troubleshooting errors with Docker commands when using Amazon ECR - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/common-errors-docker.html)  
-              * [Using Amazon ECR with the AWS CLI - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/getting-started-cli.html)  
-            * IAM  
-              * [Creating an IAM user in your AWS account - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html)  
-              * [Creating your first IAM admin user and user group - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html)  
-              * [Tagging IAM resources - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags.html)  
-            * Lambda  
-              * [AWS Lambda function handler in Python - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html)  
-              * [Lambda quotas - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html)  
-              * [Understanding quotas - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/operatorguide/quotas.html)  
-              * [Using AWS Lambda with Amazon API Gateway - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway.html)  
-            * RDS  
-              * [Allow users to connect to Amazon RDS with IAM credentials](https://aws.amazon.com/premiumsupport/knowledge-center/users-connect-rds-iam/)  
-              * [Enable Binary Logging for Amazon Aurora Instances Running MySQL](https://aws.amazon.com/premiumsupport/knowledge-center/enable-binary-logging-aurora/)  
-              * [IAM database authentication for MySQL and PostgreSQL - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.html)  
-              * [MySQL database log files - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_LogAccess.Concepts.MySQL.html#USER_LogAccess.MySQL.BinaryFormat)  
-              * [Replication between Aurora and MySQL or between Aurora and another Aurora DB cluster (binary log replication) - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.MySQL.html)  
-              * [Using SSL/TLS to Encrypt a Connection to a DB Instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html)  
-            * S3  
-              * S3 Select  
-                * [Filtering and retrieving data using Amazon S3 Select - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/selecting-content-from-objects.html)  
-                * [Querying data without servers or databases using Amazon S3 Select | AWS Storage Blog](https://aws.amazon.com/blogs/storage/querying-data-without-servers-or-databases-using-amazon-s3-select/)  
-                * [Selecting content from objects - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/dev/selecting-content-from-objects.html)  
-              * [Bucket naming rules - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html)  
-              * [Bucket restrictions and limitations - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/BucketRestrictions.html)  
-              * [Create your first S3 bucket - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-bucket.html)  
-              * [Resolve Throttling on Your Amazon S3 Bucket](https://aws.amazon.com/premiumsupport/knowledge-center/s3-request-limit-avoid-throttling/)  
-              * [Understand S3 Object Key Naming Patterns for High Request Rates](https://aws.amazon.com/premiumsupport/knowledge-center/s3-object-key-naming-pattern/)  
-            * VPC  
-              * [Control traffic to resources using security groups - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)  
-              * [Work with VPCs - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/working-with-vpcs.html)  
-            * [Amazon EC2 Instance Types](https://www.amazonaws.cn/en/ec2/instance-types/)  
-            * [AWS Account Identifiers - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/acct-identifiers.html)  
-            * [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/)  
-            * [AWS service endpoints - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/rande.html)  
-            * [Check for active AWS resources](https://aws.amazon.com/premiumsupport/knowledge-center/check-for-active-resources/)  
-            * [checkip.amazonaws.com](http://checkip.amazonaws.com/)  
-            * [Create and attach a policy to an IAM user - Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-and-attach-iam-policy.html)  
-            * [Creating a billing alarm to monitor your estimated AWS charges - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html)  
-          * [AWS Cloud Ping - Latency & Response Speed Test](https://www.cloudping.cloud/aws)  
-          * [Is it on AWS?](https://isitonaws.com/)  
-          * [Lambda Warmer: Optimize AWS Lambda Function Cold Starts - Jeremy Daly](https://www.jeremydaly.com/lambda-warmer-optimize-aws-lambda-function-cold-starts/)  
-          * [Serverless patterns | Serverless Land](https://serverlessland.com/patterns)  
-        * [AWS Pricing Calculator](https://calculator.aws/)  
-        * [AWS Service Health Dashboard](https://status.aws.amazon.com/)  
-        * [Cloud Services - Amazon Web Services (AWS)](https://aws.amazon.com/)  
-      * Fly  
-        * Fly How To  
-          * [App Configuration (fly.toml) · Fly](https://fly.io/docs/reference/configuration/)  
-          * [Introducing Flyctl - The Fly CLI · Fly](https://fly.io/docs/flyctl/)  
-          * [Build, Deploy And Run A Python Application · Fly](https://fly.io/docs/getting-started/python/)  
-        * [Fly](https://fly.io/)  
-        * [Fly.io Status](https://status.flyio.net/)  
-      * Heroku  
-        * Heroku How To  
-          * [How to create a named app in heroku | The Agile Warrior](https://agilewarrior.wordpress.com/2014/05/16/how-to-create-a-named-app-in-heroku/)  
-          * [judofyr/perloku: Perl on Heroku](https://github.com/judofyr/perloku)  
-        * [Cloud Application Platform | Heroku](https://www.heroku.com/)  
-      * [Public Cloud Services Comparison](https://comparecloud.in/)  
-    * Cloud Software  
-      * Amazon Web Services  
-        * [asagage/aws-adfs-cli-mfa: Python CLI tool for Authenticating into AWS using ADFS with Azure MFA enabled](https://github.com/asagage/aws-adfs-cli-mfa)  
-      * Utilities  
-        * rclone  
-          * rclone how to  
-            * rclone.org  
-              * [Microsoft OneDrive](https://rclone.org/onedrive/)  
-              * [OneDrive Size/Hash differs - Help and Support - rclone forum](https://forum.rclone.org/t/onedrive-size-hash-differs/11869/4)  
-              * [Rclone config different path - Help and Support - rclone forum](https://forum.rclone.org/t/rclone-config-different-path/4672/6)  
-              * [rclone config file](https://rclone.org/commands/rclone_config_file/)  
-              * [rclone link](https://rclone.org/commands/rclone_link/)  
-              * [Remote Setup](https://rclone.org/remote_setup/)  
-              * [Storj](https://rclone.org/storj/)  
-            * [Transferring files to OneDrive for Business via rclone - Academic Computing Team](https://research.reading.ac.uk/act/knowledgebase/rclone-sync/)  
-          * [rclone - rsync for cloud storage](https://rclone.org/)  
-        * [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)  
+  * Cloud Platforms  
+    * Amazon Web Services  
+      * Amazon Web Services Applications  
+      * Amazon Web Services How To  
+        * amazon.com  
+          * CLI  
+            * [AWS Command Line Interface](https://aws.amazon.com/cli/)  
+            * [Configuration and credential file settings - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)  
+            * [Configuring the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)  
+            * [describe-rule — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/describe-rule.html)  
+            * [get-function — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-function.html)  
+            * [Installing or updating the latest version of the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)  
+            * [lambda — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/index.html#cli-aws-lambda)  
+            * [list-functions — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-functions.html)  
+            * [list-rules — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-rules.html)  
+            * [list-tags — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-tags.html)  
+            * [list-targets-by-rule — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-targets-by-rule.html)  
+            * [Named profiles for the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html)  
+          * ECR  
+            * [Private registry authentication - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/registry_auth.html)  
+            * [Pushing a Docker image - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/docker-push-ecr-image.html)  
+            * [Troubleshooting errors with Docker commands when using Amazon ECR - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/common-errors-docker.html)  
+            * [Using Amazon ECR with the AWS CLI - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/getting-started-cli.html)  
+          * IAM  
+            * [Creating an IAM user in your AWS account - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html)  
+            * [Creating your first IAM admin user and user group - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html)  
+            * [Tagging IAM resources - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags.html)  
+            * [Understanding how IAM works - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/intro-structure.html#intro-structure-terms)  
+          * Lambda  
+            * [AWS Lambda function handler in Python - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html)  
+            * [Lambda quotas - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html)  
+            * [Understanding quotas - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/operatorguide/quotas.html)  
+            * [Using AWS Lambda with Amazon API Gateway - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway.html)  
+          * RDS  
+            * [Allow users to connect to Amazon RDS with IAM credentials](https://aws.amazon.com/premiumsupport/knowledge-center/users-connect-rds-iam/)  
+            * [Enable Binary Logging for Amazon Aurora Instances Running MySQL](https://aws.amazon.com/premiumsupport/knowledge-center/enable-binary-logging-aurora/)  
+            * [IAM database authentication for MySQL and PostgreSQL - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.html)  
+            * [MySQL database log files - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_LogAccess.Concepts.MySQL.html#USER_LogAccess.MySQL.BinaryFormat)  
+            * [Replication between Aurora and MySQL or between Aurora and another Aurora DB cluster (binary log replication) - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.MySQL.html)  
+            * [Using SSL/TLS to Encrypt a Connection to a DB Instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html)  
+          * S3  
+            * S3 Select  
+              * [Filtering and retrieving data using Amazon S3 Select - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/selecting-content-from-objects.html)  
+              * [Querying data without servers or databases using Amazon S3 Select | AWS Storage Blog](https://aws.amazon.com/blogs/storage/querying-data-without-servers-or-databases-using-amazon-s3-select/)  
+              * [Selecting content from objects - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/dev/selecting-content-from-objects.html)  
+            * [Bucket naming rules - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html)  
+            * [Bucket restrictions and limitations - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/BucketRestrictions.html)  
+            * [Create your first S3 bucket - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-bucket.html)  
+            * [Fanout S3 Event Notifications to Multiple Endpoints | AWS Compute Blog](https://aws.amazon.com/blogs/compute/fanout-s3-event-notifications-to-multiple-endpoints/)  
+            * [Get Started with Amazon S3 Event Driven Design Patterns | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/get-started-with-amazon-s3-event-driven-design-patterns/)  
+            * [Resolve Throttling on Your Amazon S3 Bucket](https://aws.amazon.com/premiumsupport/knowledge-center/s3-request-limit-avoid-throttling/)  
+            * [Understand S3 Object Key Naming Patterns for High Request Rates](https://aws.amazon.com/premiumsupport/knowledge-center/s3-object-key-naming-pattern/)  
+          * VPC  
+            * [Control traffic to resources using security groups - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)  
+            * [Work with VPCs - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/working-with-vpcs.html)  
+          * [Amazon EC2 Instance Types](https://www.amazonaws.cn/en/ec2/instance-types/)  
+          * [AWS Account Identifiers - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/acct-identifiers.html)  
+          * [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/)  
+          * [AWS service endpoints - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/rande.html)  
+          * [Check for active AWS resources](https://aws.amazon.com/premiumsupport/knowledge-center/check-for-active-resources/)  
+          * [checkip.amazonaws.com](http://checkip.amazonaws.com/)  
+          * [Create and attach a policy to an IAM user - Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-and-attach-iam-policy.html)  
+          * [Creating a billing alarm to monitor your estimated AWS charges - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html)  
+          * [The pillars of the framework - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html)  
+        * github.com  
+          * [asagage/aws-adfs-cli-mfa: Python CLI tool for Authenticating into AWS using ADFS with Azure MFA enabled](https://github.com/asagage/aws-adfs-cli-mfa)  
+          * [robertd/alpine-aws-cdk: Minimal AWSCLI & AWS-CDK & NodeJS/NPM built on top of Alpine Linux Docker Image](https://github.com/robertd/alpine-aws-cdk)  
+        * localstack.cloud  
+          * [Installation - LocalStack](https://docs.localstack.cloud/getting-started/installation/)  
+          * [Features - LocalStack](https://localstack.cloud/features/)  
+        * www.thelambdablog.com  
+          * [A concise guide to setting up the AWS command-line libraries on your local development environment](https://www.thelambdablog.com/a-concise-guide-to-setting-up-the-aws-command-line-libraries-on-your-local-development-environment/)  
+          * [Configuring and reviewing the new Lambda Function URLs feature in AWS](https://www.thelambdablog.com/configuring-and-reviewing-the-new-lambda-function-urls-feature-in-aws/)  
+        * [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)  
+        * [AWS Cloud Ping - Latency & Response Speed Test](https://www.cloudping.cloud/aws)  
+        * [Is it on AWS?](https://isitonaws.com/)  
+        * [Lambda Warmer: Optimize AWS Lambda Function Cold Starts - Jeremy Daly](https://www.jeremydaly.com/lambda-warmer-optimize-aws-lambda-function-cold-starts/)  
+        * [Serverless Land | Resources for learning about AWS serverless technology](https://serverlessland.com/)  
+        * [Validate a User's Credentials with AWS CLI | bobbyhadz](https://bobbyhadz.com/blog/aws-cli-validate-credentials)  
+      * [AWS Pricing Calculator](https://calculator.aws/)  
+      * [AWS Service Health Dashboard](https://status.aws.amazon.com/)  
+      * [Cloud Services - Amazon Web Services (AWS)](https://aws.amazon.com/)  
+      * [LocalStack - A fully functional local cloud stack](https://localstack.cloud/)  
+    * Fly  
+      * Fly How To  
+        * [App Configuration (fly.toml) · Fly](https://fly.io/docs/reference/configuration/)  
+        * [Build, Deploy And Run A Python Application · Fly](https://fly.io/docs/getting-started/python/)  
+        * [Docker without Docker · Fly](https://fly.io/blog/docker-without-docker/)  
+        * [Introducing Flyctl - The Fly CLI · Fly](https://fly.io/docs/flyctl/)  
+      * [Fly](https://fly.io/)  
+      * [Fly.io Status](https://status.flyio.net/)  
+    * Heroku  
+      * Heroku How To  
+        * [How to create a named app in heroku | The Agile Warrior](https://agilewarrior.wordpress.com/2014/05/16/how-to-create-a-named-app-in-heroku/)  
+        * [judofyr/perloku: Perl on Heroku](https://github.com/judofyr/perloku)  
+      * [Cloud Application Platform | Heroku](https://www.heroku.com/)  
+    * [Public Cloud Services Comparison](https://comparecloud.in/)  
+  * Cloud Storage  
+    * Ceph  
+      * Ceph How To  
+        * [Bucket Notifications — Ceph Documentation](https://docs.ceph.com/en/quincy/radosgw/notifications/)  
+      * [Ceph.io — Home](https://ceph.io/en/)  
+    * MinIO  
+      * MinIO How To  
+        * min.io  
+          * [mc cp — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc/mc-cp.html)  
+          * [mc ls — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc/mc-ls.html)  
+          * [mc watch — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc/mc-watch.html#command-mc.watch)  
+          * [MinIO Client — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc.html)  
+          * [MinIO High Performance Object Storage — MinIO Object Storage for Container](https://min.io/docs/minio/container/index.html)  
+        * [docker - Minio: How to make folders and files already in mount point available when starting minio server? - Stack Overflow](https://stackoverflow.com/questions/55496594/minio-how-to-make-folders-and-files-already-in-mount-point-available-when-start)  
+        * [minio-docker-config/docker-compose.yaml at master · Anagraph/minio-docker-config](https://github.com/Anagraph/minio-docker-config/blob/master/docker-compose.yaml)  
+      * [MinIO | High Performance, Kubernetes Native Object Storage](https://min.io/)  
+      * [minio/mc - Docker Image | Docker Hub](https://hub.docker.com/r/minio/mc/)  
+      * [minio/minio - Docker Image | Docker Hub](https://hub.docker.com/r/minio/minio)  
+    * rclone  
+      * rclone how to  
+        * rclone.org  
+          * [Microsoft OneDrive](https://rclone.org/onedrive/)  
+          * [OneDrive Size/Hash differs - Help and Support - rclone forum](https://forum.rclone.org/t/onedrive-size-hash-differs/11869/4)  
+          * [Rclone config different path - Help and Support - rclone forum](https://forum.rclone.org/t/rclone-config-different-path/4672/6)  
+          * [rclone config file](https://rclone.org/commands/rclone_config_file/)  
+          * [rclone link](https://rclone.org/commands/rclone_link/)  
+          * [Remote Setup](https://rclone.org/remote_setup/)  
+          * [Storj](https://rclone.org/storj/)  
+        * [Transferring files to OneDrive for Business via rclone - Academic Computing Team](https://research.reading.ac.uk/act/knowledgebase/rclone-sync/)  
+      * [rclone - rsync for cloud storage](https://rclone.org/)  
+    * Storj  
+      * Storj How To  
+        * docs.storj.io  
+          * [Create Access Grant in CLI - Storj DCS](https://docs.storj.io/dcs/getting-started/quickstart-uplink-cli/generate-access-grants-and-tokens/generate-a-token)  
+          * [Rclone with Native Integration | Storj Docs](https://docs.storj.io/dcs/how-tos/sync-files-with-rclone/rclone-with-native-integration/)  
+          * [Uplink CLI - Storj DCS](https://docs.storj.io/dcs/api-reference/uplink-cli)  
+          * [Usage Limits - Storj DCS](https://docs.storj.io/dcs/concepts/limits)  
+      * [Storj - Decentralized Cloud Storage](https://www.storj.io/)  
+    * Swift  
+      * Swift How To  
+        * [Send notifications on PUT/POST/DELETE requests — swift-specs 0.0.1.dev82 documentation](https://specs.openstack.org/openstack/swift-specs/specs/in_progress/notifications.html)  
+      * [openstack/swift: OpenStack Storage (Swift). Mirror of code maintained at opendev.org.](https://github.com/openstack/swift)  
+    * [Cloudflare R2 | Rapid and Reliable Object Storage, without Egress Fees | Cloudflare](https://www.cloudflare.com/lp/pg-r2/?utm_source=google&utm_medium=cpc&utm_campaign=PAYGO_MLT_NONAT_ENG_G_Search_BG_Experiment_ADD-ON-P&utm_content=&utm_term=object%20storage&campaignid=19688395871&adgroupid=145641159029&creativeid=648087168156&&_bt=648087168156&_bk=object%20storage&_bm=b&_bn=g&_bg=145641159029&_placement=&_target=&_loc=9040114&_dv=c&awsearchcpc=1&gclid=Cj0KCQjw2cWgBhDYARIsALggUhrkr09Gg5uZF32G0D_z-49YovCo2fZCym5S5h9qNK7IlX7I_sEUueQaAs4fEALw_wcB&gclsrc=aw.ds)  
   * Containers  
     * Docker  
       * Docker How To  
         * docs.docker.com  
           * [Build your Python image | Docker Documentation](https://docs.docker.com/language/python/build-images/)  
+          * [Compose file build reference | Docker Documentation](https://docs.docker.com/compose/compose-file/build/)  
           * [Compose file version 3 reference | Docker Documentation](https://docs.docker.com/compose/compose-file/compose-file-v3/)  
+          * [Compose specification | Docker Documentation](https://docs.docker.com/compose/compose-file/#volume-configuration-reference)  
           * [Control startup and shutdown order in Compose | Docker Documentation](https://docs.docker.com/compose/startup-order/)  
           * [docker | Docker Documentation](https://docs.docker.com/engine/reference/commandline/docker/)  
           * [docker container ls | Docker Documentation](https://docs.docker.com/engine/reference/commandline/container_ls/)  
@@ -181,13 +234,37 @@
           * [Difference Between links and depends_on in Docker Compose | Baeldung](https://www.baeldung.com/ops/docker-compose-links-depends-on)  
           * [Mounting a Single File in a Volume Using Docker | Baeldung](https://www.baeldung.com/ops/docker-mount-single-file-in-volume)  
         * [Demonstrating Hello World Example | dockerlabs](https://dockerlabs.collabnix.com/beginners/helloworld/)  
+        * [Docker Api Infographic All Roles - Docker Architecture Overview](https://www.seekpng.com/ima/u2w7u2q8y3q8w7o0/)  
+        * [Docker containers, images, and registries | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/container-docker-introduction/docker-containers-images-registries)  
         * [Docker: Remove all images and containers – TechOverflow](https://techoverflow.net/2013/10/22/docker-remove-all-images-and-containers/)  
         * [Exiting a Docker Container · vsupalov.com](https://vsupalov.com/exit-docker-container/)  
         * [How To Remove Docker Containers, Images, Volumes, and Networks | Linuxize](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/)  
         * [Howto use docker-compose to Start, Stop, Remove Docker Containers](https://www.thegeekstuff.com/2016/04/docker-compose-up-stop-rm/)  
         * [Understanding Docker Volumes - Earthly Blog](https://earthly.dev/blog/docker-volumes/)  
+        * [What is Docker? - Docker Tutorials](https://techtutorialsite.com/what-is-docker-and-container/)  
+        * [Why use Containers? - Tutorial Works](https://www.tutorialworks.com/why-use-containers/)  
       * [Docker](https://www.docker.com/)  
-    * [MicroK8s - Fast, Light, Upstream Developer Kubernetes](https://microk8s.io/)  
+    * Kubernetes  
+      * Kubernetes How To  
+        * helm.sh  
+          * [Helm | Helm Repo List](https://helm.sh/docs/helm/helm_repo_list/)  
+          * [Helm | Helm Repo Remove](https://helm.sh/docs/helm/helm_repo_remove/)  
+          * [Helm | Installing Helm](https://helm.sh/docs/intro/install/)  
+          * [Helm | Quickstart Guide](https://helm.sh/docs/intro/quickstart/)  
+        * kubernetes.io  
+          * [Glossary | Kubernetes](https://kubernetes.io/docs/reference/glossary/?fundamental=true)  
+          * [Install and Set Up kubectl on Linux | Kubernetes](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)  
+          * [Resource Management for Pods and Containers | Kubernetes](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/)  
+        * [Deploying KEDA | KEDA](https://keda.sh/docs/2.9/deploy/)  
+        * [kind – Quick Start](https://kind.sigs.k8s.io/docs/user/quick-start/)  
+        * [Local kubernetes with kind, helm and a sample service | by Renjith Babu | FAUN Publication](https://faun.pub/local-kubernetes-with-kind-helm-and-a-sample-service-4755e3e6eff4)  
+        * [Tutorial: Spin up Your Kubernetes-in-Docker Cluster and They Will Come - Conjur](https://www.conjur.org/blog/tutorial-spin-up-your-kubernetes-in-docker-cluster-and-they-will-come/)  
+        * [Understanding Kubernetes Architecture with Diagrams](https://phoenixnap.com/kb/understanding-kubernetes-architecture-diagrams)  
+        * [Using Helm and Kubernetes | Baeldung](https://www.baeldung.com/ops/kubernetes-helm)  
+      * [Helm](https://helm.sh/)  
+      * [KEDA | Kubernetes Event-driven Autoscaling](https://keda.sh/)  
+      * [kind](https://kind.sigs.k8s.io/)  
+      * [MicroK8s - Fast, Light, Upstream Developer Kubernetes](https://microk8s.io/)  
   * Continuous Integration  
     * [Customizing the Build - Travis CI](https://docs.travis-ci.com/user/customizing-the-build)  
     * [How do I get Travis' build working directory in .travis.yml? - Stack Overflow](https://stackoverflow.com/questions/14006810/how-do-i-get-travis-build-working-directory-in-travis-yml)  
@@ -209,6 +286,7 @@
         * [JSON Diff - The semantic JSON compare tool](http://www.jsondiff.com/)  
         * [JSONLint - The JSON Validator](https://jsonlint.com/)  
       * [JSON](https://www.json.org/json-en.html)  
+      * [ndjson](http://ndjson.org/)  
     * Parquet  
       * [Apache Parquet](https://parquet.apache.org/)  
       * [What is the Parquet File Format? Use Cases & Benefits | Upsolver](https://www.upsolver.com/blog/apache-parquet-why-use)  
@@ -285,9 +363,9 @@
           * cloud  
             * [Accelerating Queries with Reflections - Dremio](https://docs.dremio.com/cloud/reflections/)  
             * [API Reference - Dremio](https://docs.dremio.com/cloud/api/)  
-            * [Configuring Amazon S3 for MinIO - Dremio](https://docs.dremio.com/cloud/sources/amazon-s3/configuring-s3-for-minio/)  
             * [Connecting from Apache Superset or Preset to Dremio Cloud - Dremio](https://docs.dremio.com/cloud/client-applications/superset/)  
             * [Connecting from Microsoft Power BI - Dremio Cloud](https://docs.dremio.com/cloud/client-applications/power-bi/)  
+            * [Connecting to a Dremio Software Cluster - Dremio](https://docs.dremio.com/cloud/sources/dremio/?mkt_tok=MzIxLU9EWC0xMTcAAAGJp_X04M_t63v2maBuof0AXmttGyoNw4rdh26UtBuu7mLw3Qb_ipsA5VYGYobfXW0dDdNvCWds2qIwGeiwXHPaetydJhQ_3HzsJZg9qdst6IYgnw)  
             * [Creating Apache Iceberg Tables - Dremio](https://docs.dremio.com/cloud/sql/commands/apache-iceberg-tables/apache-iceberg-create/)  
             * [Developing Client Applications with Apache Arrow Flight - Dremio](https://docs.dremio.com/cloud/arrow-flight/)  
             * [Engines - Dremio](https://docs.dremio.com/cloud/api/engines/)  
@@ -372,6 +450,7 @@
           * blog  
             * [5 Limitations of Data Warehouses in Today’s World of Infinite Data | Dremio](https://www.dremio.com/blog/5-limitations-of-data-warehouses-in-today-s-world-of-infinite-data/)  
             * [Announcing Direct Connect from Power BI to Dremio | Dremio](https://www.dremio.com/blog/announcing-direct-connect-from-power-bi-to-dremio/)  
+            * [Dealing with Data Incidents Using the Rollback Feature in Apache Iceberg | Dremio](https://www.dremio.com/blog/dealing-with-data-incidents-using-the-rollback-feature-in-apache-iceberg)  
             * [Dremio Cloud Now Available on the AWS Marketplace! | Dremio](https://www.dremio.com/blog/dremio-cloud-now-available-on-the-aws-marketplace/?utm_content=1660143005&utm_medium=social-free&utm_source=linkedin)  
             * [Dremio Cloud: Under the Hood | Dremio](https://www.dremio.com/blog/dremio-cloud-under-the-hood/)  
             * [Dremio Events - Eliminating Data Exports for Data Science with Apache Arrow Flight | Dremio](https://www.dremio.com/blog/eliminating-data-exports-for-data-science-with-apache-arrow-flight/)  
@@ -436,19 +515,26 @@
     * [Data Mesh Principles and Logical Architecture](https://martinfowler.com/articles/data-mesh-principles.html)  
     * [Delta Lake](https://delta.io/)  
     * [Delta vs Iceberg : Performance as a decisive criteria | by DataBeans | Medium](https://databeans-blogs.medium.com/delta-vs-iceberg-performance-as-a-decisive-criteria-add7bcdde03d)  
+  * Data Processing  
+    * Data Streaming  
+      * Apache Kafka  
+        * Apache Kafka How To  
+          * [confluentinc/examples: Apache Kafka and Confluent Platform examples and demos](https://github.com/confluentinc/examples)  
+          * [Guide to Setting Up Apache Kafka Using Docker | Baeldung](https://www.baeldung.com/ops/kafka-docker-setup)  
+        * [Apache Kafka](https://kafka.apache.org/)  
+      * Redpanda  
+        * Redpanda How To  
+          * [Docker | Redpanda Documentation](https://docs.redpanda.com/docs/getting-started/quick-start-docker)  
+        * [Redpanda is a Kafka® compatible event streaming platform](https://redpanda.com/)  
+      * [Real-time query engine | Deephaven](https://deephaven.io/)  
+    * OSCAR  
+      * OSCAR How To  
+        * [Local testing - OSCAR Documentation](https://docs.oscar.grycap.net/local-testing/)  
+        * [On-Premises Serverless Container-Aware Architecture (OSCAR)](https://www.slideshare.net/gmolto/onpremises-serverless-containeraware-architecture-oscar)  
+      * [OSCAR](https://oscar.grycap.net/)  
+      * [fdl composer](https://composer.oscar.grycap.net/)  
   * Data Science  
     * [Einblick | Data science at the speed of thought](https://www.einblick.ai/)  
-  * Data Streaming  
-    * Apache Kafka  
-      * Apache Kafka How To  
-        * [confluentinc/examples: Apache Kafka and Confluent Platform examples and demos](https://github.com/confluentinc/examples)  
-        * [Guide to Setting Up Apache Kafka Using Docker | Baeldung](https://www.baeldung.com/ops/kafka-docker-setup)  
-      * [Apache Kafka](https://kafka.apache.org/)  
-    * Redpanda  
-      * Redpanda How To  
-        * [Docker | Redpanda Documentation](https://docs.redpanda.com/docs/getting-started/quick-start-docker)  
-      * [Redpanda is a Kafka® compatible event streaming platform](https://redpanda.com/)  
-    * [Real-time query engine | Deephaven](https://deephaven.io/)  
   * Data Visualization  
     * Data Visualization How To  
       * [20 ideas for better data visualization | by Taras Bakusevych | Aug, 2021 | UX Collective](https://uxdesign.cc/20-ideas-for-better-data-visualization-73f7e3c2782d)  
@@ -527,6 +613,7 @@
     * Concepts  
       * [Database Normalization – Normal Forms 1nf 2nf 3nf Table Examples](https://www.freecodecamp.org/news/database-normalization-1nf-2nf-3nf-table-examples/)  
       * [SQL vs. NoSQL Database: When to Use, How to Choose](https://www.ml4devs.com/articles/datastore-choices-sql-vs-nosql-database/)  
+      * [Star schema - Wikipedia](https://en.wikipedia.org/wiki/Star_schema)  
       * [Structured Query Language - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Structured_Query_Language)  
     * Graph  
       * Memgraph How To  
@@ -543,7 +630,8 @@
             * [Command reference – Redis](https://redis.io/commands)  
             * [Data types – Redis](https://redis.io/topics/data-types)  
             * [Introduction to Redis Streams – Redis](https://redis.io/topics/streams-intro)  
-            * [Redis configuration – Redis](https://redis.io/topics/config)  
+            * [Redis configuration | Redis](https://redis.io/docs/management/config/)  
+            * [Redis security | Redis](https://redis.io/docs/management/security/#authentication)  
             * [Redis Streams | Redis](https://redis.io/docs/data-types/streams/)  
             * [Redis Streams tutorial | Redis](https://redis.io/docs/data-types/streams-tutorial/)  
             * [redis-cli, the Redis command line interface – Redis](https://redis.io/topics/rediscli)  
@@ -551,9 +639,10 @@
           * stackoverflow.com  
             * [celery - What is the maximum value size you can store in redis? - Stack Overflow](https://stackoverflow.com/questions/5606106/what-is-the-maximum-value-size-you-can-store-in-redis)  
             * [How do I delete everything in Redis? - Stack Overflow](https://stackoverflow.com/questions/6851909/how-do-i-delete-everything-in-redis)  
-          * [6.4.2 Delayed tasks | Redis](https://redis.com/ebook/part-2-core-concepts/chapter-6-application-components-in-redis/6-4-task-queues/6-4-2-delayed-tasks/)  
+          * [[Redis Streams]: How to get acked/unacked messages stats in redis streams · Issue #8392 · redis/redis](https://github.com/redis/redis/issues/8392)  
           * [Beyond the Cache with Python | Redis Labs](https://redislabs.com/blog/beyond-the-cache-with-python/)  
         * [Redis](https://redis.io/)  
+        * [KeyDB - The Faster Redis Alternative](https://docs.keydb.dev/)  
     * NoSQL  
       * MongoDB  
         * MongoDB How To  
@@ -741,15 +830,10 @@
       * [ClickHouse - fast open-source OLAP DBMS](https://clickhouse.tech/)  
       * [QuestDB | Time series data, faster](https://questdb.io/)  
   * Datasets  
-    * Datalake Datasets  
-      * [Iowa Liquor Sales | Kaggle](https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales)  
-      * [TLC Trip Record Data - TLC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)  
-      * [Yelp Dataset](https://www.yelp.com/dataset)  
-    * Relational Datasets  
-      * [Chinook sample database | YugabyteDB Docs](https://docs.yugabyte.com/preview/sample-data/chinook/)  
-      * [Retail analytics sample database | YugabyteDB Docs](https://docs.yugabyte.com/preview/sample-data/retail-analytics/)  
-      * [SportsDB sample database | YugabyteDB Docs](https://docs.yugabyte.com/preview/sample-data/sportsdb/)  
-      * [SQLite Sample Database And Its Diagram (in PDF format)](https://www.sqlitetutorial.net/sqlite-sample-database/)  
+    * [Chinook sample database | YugabyteDB Docs](https://docs.yugabyte.com/preview/sample-data/chinook/)  
+    * [Department of Justice 2009-2018 Press Releases | Kaggle](https://www.kaggle.com/datasets/jbencina/department-of-justice-20092018-press-releases)  
+    * [SQLite Sample Database And Its Diagram (in PDF format)](https://www.sqlitetutorial.net/sqlite-sample-database/)  
+    * [TLC Trip Record Data - TLC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)  
   * Development Best Practices  
     * [Avoid Common Software Project Mistakes](https://ovid.github.io/articles/avoid-common-software-project-mistakes.html)  
     * [Ind.ie — Ethical Design Manifesto](https://ind.ie/ethical-design/)  
@@ -849,27 +933,6 @@
     * [How To Ping Specific Port Number – devconnected](https://devconnected.com/how-to-ping-specific-port-number/)  
     * [OSI model - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/OSI_model)  
     * [Technitium MAC Address Changer v5 Release 3 (FREEWARE)](http://www.technitium.com/tmac/index.html)  
-  * Object Storage  
-    * MinIO  
-      * MinIO How To  
-        * min.io  
-          * [Generate Let’s Encrypt certificate using Certbot for MinIO — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/integrations/generate-lets-encrypt-certificate-using-certbot-for-minio.html)  
-          * [mc admin service — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc-admin/mc-admin-service.html)  
-          * [mc cp — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc/mc-cp.html)  
-          * [mc watch — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc/mc-watch.html#command-mc.watch)  
-          * [MinIO Admin Client — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc-admin.html)  
-          * [MinIO Client — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc.html)  
-          * [MinIO High Performance Object Storage — MinIO Object Storage for Container](https://min.io/docs/minio/container/index.html)  
-        * [docker - Minio: How to make folders and files already in mount point available when starting minio server? - Stack Overflow](https://stackoverflow.com/questions/55496594/minio-how-to-make-folders-and-files-already-in-mount-point-available-when-start)  
-      * [MinIO | High Performance, Kubernetes Native Object Storage](https://min.io/)  
-    * Storj  
-      * Storj How To  
-        * docs.storj.io  
-          * [Create Access Grant in CLI - Storj DCS](https://docs.storj.io/dcs/getting-started/quickstart-uplink-cli/generate-access-grants-and-tokens/generate-a-token)  
-          * [Rclone with Native Integration | Storj Docs](https://docs.storj.io/dcs/how-tos/sync-files-with-rclone/rclone-with-native-integration/)  
-          * [Uplink CLI - Storj DCS](https://docs.storj.io/dcs/api-reference/uplink-cli)  
-          * [Usage Limits - Storj DCS](https://docs.storj.io/dcs/concepts/limits)  
-      * [Storj - Decentralized Cloud Storage](https://www.storj.io/)  
   * Office Software  
     * Document Search  
       * Xapian  
@@ -1037,6 +1100,7 @@
         * [How To Suspend A Process And Resume It Later In Linux - OSTechNix](https://www.ostechnix.com/suspend-process-resume-later-linux/)  
         * [Linux and Unix du command tutorial with examples | George Ornbo](https://shapeshed.com/unix-du/)  
         * [LXDE: Autostart Apps With .desktop Files](http://pclosmag.com/html/Issues/201009/page10.html)  
+        * [Make Directory Only if it Doesn't Exist Already in Linux](https://linuxhandbook.com/make-directory-only-if-doesnt-exist/)  
         * [pstree - Wikipedia](https://en.wikipedia.org/wiki/Pstree)  
         * [System Program Problem Detected in Ubuntu](https://itsfoss.com/how-to-fix-system-program-problem-detected-ubuntu/)  
         * [Volume Control and Output Selection with PulseAudio Command Line Tools | Tero Karvinen](http://terokarvinen.com/2015/volume-control-with-pulseaudio-command-line-tools)  
@@ -1087,7 +1151,9 @@
         * [vscode-base64 - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=adamhartford.vscode-base64)  
       * Visual Studio Code How To  
         * code.visualstudio.com  
+          * [Attach to a running container using Visual Studio Code Remote Development](https://code.visualstudio.com/docs/devcontainers/attach-container)  
           * [Basic Editing in Visual Studio Code](https://code.visualstudio.com/docs/editor/codebasics)  
+          * [Get started with development Containers in Visual Studio Code](https://code.visualstudio.com/docs/devcontainers/tutorial)  
           * [Integrated Terminal in Visual Studio Code](https://code.visualstudio.com/docs/editor/integrated-terminal)  
           * [JSON editing in Visual Studio Code](https://code.visualstudio.com/docs/languages/json)  
           * [keyboard-shortcuts-linux.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)  
@@ -1936,6 +2002,17 @@
         * [Binder](https://mybinder.org/)  
         * [jupyterlab/jupyterlab_app: A desktop application for JupyterLab, based on Electron.](https://github.com/jupyterlab/jupyterlab_app)  
         * [Project Jupyter](https://jupyter.org/)  
+      * Machine Learning Models  
+        * huggingface.co  
+          * [dslim/bert-large-NER · Hugging Face](https://huggingface.co/dslim/bert-large-NER)  
+          * [google/tapas-base-finetuned-wtq · Hugging Face](https://huggingface.co/google/tapas-base-finetuned-wtq)  
+          * [juierror/text-to-sql-with-table-schema · Hugging Face](https://huggingface.co/juierror/text-to-sql-with-table-schema?text=question%3A+get+people+name+with+age+equal+25+table%3A+id%2C+name%2C+age)  
+          * [shahrukhx01/schema-aware-denoising-bart-large-cnn-text2sql · Hugging Face](https://huggingface.co/shahrukhx01/schema-aware-denoising-bart-large-cnn-text2sql)  
+          * [silencesys/paraphrase-xlm-r-multilingual-v1-fine-tuned-for-medieval-latin · Hugging Face](https://huggingface.co/silencesys/paraphrase-xlm-r-multilingual-v1-fine-tuned-for-medieval-latin)  
+          * [stanfordnlp/stanza-la · Hugging Face](https://huggingface.co/stanfordnlp/stanza-la)  
+      * Python Applications  
+        * [Blee1077/spotify-recommender-system-demo: Serverless Gradio demo for my Spotify KNN recommender system blog article.](https://github.com/Blee1077/spotify-recommender-system-demo)  
+        * [philschmid/serverless-machine-learning: collection of serverless machine learning use cases and examples including Hugging Face transformers, timm, Gradio](https://github.com/philschmid/serverless-machine-learning)  
       * Python How To  
         * arrow.apache.org  
           * [Arrow Flight — Apache Arrow Python Cookbook documentation](https://arrow.apache.org/cookbook/py/flight.html)  
@@ -1990,6 +2067,7 @@
           * [subprocess — Subprocess management](https://docs.python.org/3/library/subprocess.html)  
           * [Subprocesses](https://docs.python.org/3/library/asyncio-subprocess.html)  
           * [threading — Thread-based parallelism](https://docs.python.org/3/library/threading.html)  
+          * [unittest.mock — mock object library — Python 3.11.1 documentation](https://docs.python.org/3/library/unittest.mock.html)  
           * [urllib.parse — Parse URLs into components](https://docs.python.org/3/library/urllib.parse.html)  
           * [venv — Creation of virtual environments](https://docs.python.org/3/library/venv.html)  
           * [webbrowser — Convenient web-browser controller](https://docs.python.org/3/library/webbrowser.html)  
@@ -2024,6 +2102,7 @@
           * [arrow/python/examples/flight at master · apache/arrow](https://github.com/apache/arrow/tree/master/python/examples/flight)  
           * [arrow/test_flight.py at master · apache/arrow](https://github.com/apache/arrow/blob/master/python/pyarrow/tests/test_flight.py)  
           * [derrekyoung/url-checker-python: Python scripts to check URLs](https://github.com/derrekyoung/url-checker-python)  
+          * [Downloading pre-trained model during docker build · Issue #352 · UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers/issues/352)  
           * [selenium/headless.py at master · pyzzled/selenium](https://github.com/pyzzled/selenium/blob/master/headless_browser/headless.py)  
           * [spark_medium/thriftserver-spark.ipynb at master · SomanathSankaran/spark_medium](https://github.com/SomanathSankaran/spark_medium/blob/master/spark_csv/thriftserver-spark.ipynb)  
           * [Support Arrow for table scans and result sets · Issue #151 · duckdb/duckdb](https://github.com/duckdb/duckdb/issues/151)  
@@ -2152,10 +2231,17 @@
           * [Creating Web APIs with Python and Flask | Programming Historian](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)  
           * [Installing Python Modules with pip | Programming Historian](https://programminghistorian.org/en/lessons/installing-python-modules-pip)  
           * [Working with Text Files in Python | Programming Historian](https://programminghistorian.org/lessons/working-with-text-files)  
+        * pynative.com  
+          * [Python JSON Encode Unicode and non-Ascii characters as-is](https://pynative.com/python-json-encode-unicode-and-non-ascii-characters-as-is/)  
+          * [Python random randrange() & randint() to get Random Integer number](https://pynative.com/python-random-randrange/)  
+          * [Python Range() function explained with Examples [Complete Guide]](https://pynative.com/python-range-function/)  
         * pythonexamples.org  
           * [How to Add or Insert Row to Pandas DataFrame?](https://pythonexamples.org/pandas-dataframe-add-append-row/)  
           * [How to set Column as Index in Pandas DataFrame? - Python Examples](https://pythonexamples.org/pandas-set-column-as-index/)  
           * [How to Write Pandas DataFrame to Excel Sheet? - Python Examples](https://pythonexamples.org/pandas-write-dataframe-to-excel-sheet/)  
+        * pythonspeed.com  
+          * [The best Docker base image for your Python application (Sep 2022)](https://pythonspeed.com/articles/base-image-python-docker-images/)  
+          * [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)  
         * queirozf.com  
           * [Matplotlib examples: Number Formatting for Axis Labels](https://queirozf.com/entries/matplotlib-examples-number-formatting-for-axes-labels)  
           * [Pandas DataFrame: GroupBy Examples](http://queirozf.com/entries/pandas-dataframe-groupby-examples)  
@@ -2211,6 +2297,7 @@
           * [exception - How can I safely create a nested directory in Python? - Stack Overflow](https://stackoverflow.com/questions/273192/how-can-i-safely-create-a-nested-directory-in-python)  
           * [Executing periodic actions in Python - Stack Overflow](https://stackoverflow.com/questions/8600161/executing-periodic-actions-in-python)  
           * [Extracting Hyperlinks From Excel (.xlsx) with Python - Stack Overflow](https://stackoverflow.com/questions/16676727/extracting-hyperlinks-from-excel-xlsx-with-python)  
+          * [fedora - How to install Python 3.8.1 on RHEL 8 UBI container with dnf? - Stack Overflow](https://stackoverflow.com/questions/59653487/how-to-install-python-3-8-1-on-rhel-8-ubi-container-with-dnf)  
           * [Find all files in a directory with extension .txt in Python - Stack Overflow](https://stackoverflow.com/questions/3964681/find-all-files-in-a-directory-with-extension-txt-in-python)  
           * [floating point - How to manage division of huge numbers in Python? - Stack Overflow](https://stackoverflow.com/questions/27946595/how-to-manage-division-of-huge-numbers-in-python)  
           * [Get children of JSON object python - Stack Overflow](https://stackoverflow.com/questions/40847029/get-children-of-json-object-python)  
@@ -2250,8 +2337,10 @@
           * [How to use a variable as function name in Python - Stack Overflow](https://stackoverflow.com/questions/34794634/how-to-use-a-variable-as-function-name-in-python)  
           * [How to write a pandas dataframe to .arrow file - Stack Overflow](https://stackoverflow.com/questions/64629670/how-to-write-a-pandas-dataframe-to-arrow-file)  
           * [https - How do I disable the security certificate check in Python requests - Stack Overflow](https://stackoverflow.com/questions/15445981/how-do-i-disable-the-security-certificate-check-in-python-requests)  
+          * [Import data into Google Colaboratory - Stack Overflow](https://stackoverflow.com/questions/46986398/import-data-into-google-colaboratory)  
           * [javascript - How to correctly read an Apache Arrow Feather file produced by pyarrow? - Stack Overflow](https://stackoverflow.com/questions/66585511/how-to-correctly-read-an-apache-arrow-feather-file-produced-by-pyarrow)  
           * [Jira python calculate time - Stack Overflow](https://stackoverflow.com/questions/37744027/jira-python-calculate-time)  
+          * [json - How to open .ndjson file in Python? - Stack Overflow](https://stackoverflow.com/questions/63501251/how-to-open-ndjson-file-in-python)  
           * [linux - Force python to use an older version of module (than what I have installed now) - Stack Overflow](https://stackoverflow.com/questions/6445167/force-python-to-use-an-older-version-of-module-than-what-i-have-installed-now)  
           * [newline - How to write Unix end of line characters in Windows using Python - Stack Overflow](https://stackoverflow.com/questions/2536545/how-to-write-unix-end-of-line-characters-in-windows-using-python)  
           * [openpyxl - read only one column from excel file in python? - Stack Overflow](https://stackoverflow.com/questions/34754077/openpyxl-read-only-one-column-from-excel-file-in-python)  
@@ -2458,6 +2547,7 @@
           * [python 3.x - How to return 401 in flask despite authorization - Stack Overflow](https://stackoverflow.com/questions/67156668/how-to-return-401-in-flask-despite-authorization)  
           * [python 3.x - How to use Tor with Chrome browser through Selenium - Stack Overflow](https://stackoverflow.com/questions/55689701/how-to-use-tor-with-chrome-browser-through-selenium)  
           * [python 3.x - pymysql stopped working : NameError: name 'byte2int' is not defined - Stack Overflow](https://stackoverflow.com/questions/51565646/pymysql-stopped-working-nameerror-name-byte2int-is-not-defined)  
+          * [Python app does not print anything when running detached in docker - Stack Overflow](https://stackoverflow.com/questions/29663459/python-app-does-not-print-anything-when-running-detached-in-docker)  
           * [Python argparse command line flags without arguments - Stack Overflow](https://stackoverflow.com/questions/8259001/python-argparse-command-line-flags-without-arguments)  
           * [python dataframe pandas drop column using int - Stack Overflow](https://stackoverflow.com/questions/20297317/python-dataframe-pandas-drop-column-using-int)  
           * [python date of the previous month - Stack Overflow](https://stackoverflow.com/questions/9724906/python-date-of-the-previous-month)  
@@ -2500,6 +2590,7 @@
           * [What's the canonical way to check for type in Python? - Stack Overflow](https://stackoverflow.com/questions/152580/whats-the-canonical-way-to-check-for-type-in-python)  
           * [windows - How do I install a Python package with a .whl file? - Stack Overflow](https://stackoverflow.com/questions/27885397/how-do-i-install-a-python-package-with-a-whl-file)  
           * [windows - UnicodeDecodeError: 'charmap' codec can't decode byte X in position Y: character maps to <undefined> - Stack Overflow](https://stackoverflow.com/questions/9233027/unicodedecodeerror-charmap-codec-cant-decode-byte-x-in-position-y-character)  
+          * [word embedding - Download pre-trained sentence-transformers model locally - Stack Overflow](https://stackoverflow.com/questions/65419499/download-pre-trained-sentence-transformers-model-locally)  
         * stanfordnlp.github.io  
           * [Lemmatization - Stanza](https://stanfordnlp.github.io/stanza/lemma.html)  
           * [Tokenization & Sentence Segmentation - Stanza](https://stanfordnlp.github.io/stanza/tokenize.html)  
@@ -2515,6 +2606,10 @@
           * [Python Pandas : How to add rows in a DataFrame using dataframe.append() & loc[] , iloc[] – thispointer.com](https://thispointer.com/python-pandas-how-to-add-rows-in-a-dataframe-using-dataframe-append-loc-iloc/)  
           * [Python: How to create a zip archive from multiple files or Directory – thispointer.com](https://thispointer.com/python-how-to-create-a-zip-archive-from-multiple-files-or-directory/)  
           * [Select Rows & Columns by Name or Index in DataFrame using loc & iloc – thispointer.com](https://thispointer.com/select-rows-columns-by-name-or-index-in-dataframe-using-loc-iloc-python-pandas/)  
+        * voltrondata.com  
+          * [Arrow Database Connectivity: Apache Arrow for Every Database User | Voltron Data](https://voltrondata.com/resources/arrow-database-connectivity-apache-arrow-for-every-database-user)  
+          * [Quick Wins: Accelerating pandas CSV Reading with Apache Arrow - Voltron Data](https://voltrondata.com/news/quick-wins-accelerating-pandas-csv-reading-with-apache-arrow/)  
+          * [Running an Arrow Flight SQL Server and Querying Data with JDBC and ADBC | Voltron Data](https://voltrondata.com/resources/running-arrow-flight-server-querying-data-jdbc-adbc)  
         * wiki.python.org  
           * [HandlingExceptions - Python Wiki](https://wiki.python.org/moin/HandlingExceptions)  
           * [WhileLoop - Python Wiki](https://wiki.python.org/moin/WhileLoop)  
@@ -2610,11 +2705,13 @@
         * [How to Add Leading Zeros to a Number in MySQL | Database.Guide](https://database.guide/how-to-add-leading-zeros-to-a-number-in-mysql/)  
         * [How to Convert a Tuple to a String in Python [With Examples]](https://codefather.tech/blog/tuple-to-string-python/)  
         * [How to Create Stunning QR Codes with Python](https://www.freecodecamp.org/news/how-to-create-stunning-qr-codes-with-python/)  
+        * [How to Deal With Files in Google Colab: Everything You Need to Know - neptune.ai](https://neptune.ai/blog/google-colab-dealing-with-files)  
         * [How to encode URLs in Python | URLEncoder](https://www.urlencoder.io/python/)  
         * [How to flatten a hierarchical index in pandas DataFrame columns in Python](https://kite.com/python/answers/how-to-flatten-a-hierarchical-index-in-pandas-dataframe-columns-in-python)  
         * [How to Merge Two Pandas DataFrames on Index - Statology](https://www.statology.org/pandas-merge-on-index/)  
         * [How to Plot Multiple Lines in Matplotlib - Statology](https://www.statology.org/plot-multiple-lines-matplotlib/)  
         * [How To Redirect To Url In Python Flask - Vegibit](https://vegibit.com/how-to-redirect-to-url-in-python-flask/)  
+        * [How To Remove Spaces from a String In Python | DigitalOcean](https://www.digitalocean.com/community/tutorials/python-remove-spaces-from-string)  
         * [How to use proxies with Python Requests module](https://blog.scrapinghub.com/python-requests-proxy)  
         * [How to use sys.argv in Python](http://www.pythonforbeginners.com/system/python-sys-argv)  
         * [How to write parquet file from pandas dataframe in S3 in python | Newbedev](https://newbedev.com/how-to-write-parquet-file-from-pandas-dataframe-in-s3-in-python)  
@@ -2636,6 +2733,7 @@
         * [python - Calculating time deltas between rows in a Pandas dataframe - Code Review Stack Exchange](https://codereview.stackexchange.com/questions/210070/calculating-time-deltas-between-rows-in-a-pandas-dataframe)  
         * [python - Export pandas to dictionary by combining multiple row values - Data Science Stack Exchange](https://datascience.stackexchange.com/questions/32328/export-pandas-to-dictionary-by-combining-multiple-row-values)  
         * [Python argparse tutorial - parsing command line arguments in Python with argparse module](http://zetcode.com/python/argparse/)  
+        * [Python asyncio.create_task(): Run Multiple Tasks Concurrently](https://www.pythontutorial.net/python-concurrency/python-asyncio-create_task/)  
         * [Python Cheatsheet - Python Cheatsheet](https://www.pythoncheatsheet.org/)  
         * [Python Clocks Explained - Webucator Blog](https://www.webucator.com/blog/2015/08/python-clocks-explained/)  
         * [Python Code Best Practices - DEV Community](https://dev.to/dollardhingra/python-code-best-practices-4k96)  
@@ -2643,10 +2741,9 @@
         * [Python Excel win32com Mini Cookbook | Python Excels](https://pythonexcels.com/python/2009/10/05/python-excel-mini-cookbook)  
         * [Python Exception Handling - ImportError and ModuleNotFoundError](https://airbrake.io/blog/python-exception-handling/importerror-and-modulenotfounderror)  
         * [Python How To Get Date Range From Week Number - MVSourceCode - mvsourcecode](http://mvsourcecode.com/python-how-to-get-date-range-from-week-number-mvsourcecode/)  
+        * [python interrupt, sigterm, sigkill, exception handling experiments - Chadrick's Blog](https://chadrick-kwag.net/python-interrupt-sigterm-sigkill-exception-handling-experiments/)  
         * [Python io - BytesIO, StringIO - JournalDev](https://www.journaldev.com/19178/python-io-bytesio-stringio)  
         * [Python Openpyxl Tutorial - javatpoint](https://www.javatpoint.com/python-openpyxl)  
-        * [Python random randrange() & randint() to get Random Integer number](https://pynative.com/python-random-randrange/)  
-        * [Python Range() function explained with Examples [Complete Guide]](https://pynative.com/python-range-function/)  
         * [Python RegEx: re.match(), re.search(), re.findall() with Example](https://www.guru99.com/python-regular-expressions-complete-tutorial.html)  
         * [Python Sorting  |  Python Education  |  Google Developers](https://developers.google.com/edu/python/sorting)  
         * [Python strftime reference](https://strftime.org/)  
@@ -2654,7 +2751,8 @@
         * [Python: How to Print Without Newline? (The Idiomatic Way) - Afternerd](https://www.afternerd.com/blog/how-to-print-without-a-newline-in-python/)  
         * [Python: Sort dictionary by value](https://code-maven.com/slides/python-programming/sort-dictionary-by-value)  
         * [PyWin32 - How to Bring a Window to Front - The Mouse Vs. The Python](https://www.blog.pythonlibrary.org/2014/10/20/pywin32-how-to-bring-a-window-to-front/)  
-        * [Quick Wins: Accelerating pandas CSV Reading with Apache Arrow - Voltron Data](https://voltrondata.com/news/quick-wins-accelerating-pandas-csv-reading-with-apache-arrow/)  
+        * [Remove Unicode Characters In Python - Python Guides](https://pythonguides.com/remove-unicode-characters-in-python/)  
+        * [Running python-on-whales inside a container - Python on whales](https://gabrieldemarmiesse.github.io/python-on-whales/user_guide/running_python_on_whales_inside_a_container/)  
         * [Serverless Machine Learning Applications with Hugging Face Gradio and AWS Lambda](https://www.philschmid.de/serverless-gradio)  
         * [SettingwithCopyWarning: How to Fix This Warning in Pandas – Dataquest](https://www.dataquest.io/blog/settingwithcopywarning/)  
         * [SQLite Python](http://www.sqlitetutorial.net/sqlite-python/)  
@@ -2683,23 +2781,19 @@
           * [kristopherkyle/corpus_toolkit: A simple toolkit for conducting analyses using corpus methods](https://github.com/kristopherkyle/corpus_toolkit)  
           * [linkedin/greykite: A flexible, intuitive and fast forecasting library](https://github.com/linkedin/greykite)  
           * [marqo-ai/marqo: Tensor search for humans.](https://github.com/marqo-ai/marqo)  
+          * [minio/minio-py: MinIO Client SDK for Python](https://github.com/minio/minio-py)  
+          * [Nixtla/neuralforecast: Scalable and user friendly neural forecasting algorithms.](https://github.com/Nixtla/neuralforecast)  
           * [noplay/python-mysql-replication: Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL](https://github.com/noplay/python-mysql-replication)  
           * [pallets/quart: An async Python micro framework for building web applications.](https://github.com/pallets/quart)  
           * [pantsbuild/pex: A library and tool for generating .pex (Python EXecutable) files](https://github.com/pantsbuild/pex)  
           * [plotly/dash-pivottable: react-pivottable in Dash](https://github.com/plotly/dash-pivottable)  
           * [PyCQA/pycodestyle: Simple Python style checker in one Python file](https://github.com/PyCQA/pycodestyle)  
+          * [UKPLab/EasyNMT: Easy to use, state-of-the-art Neural Machine Translation for 100+ languages](https://github.com/UKPLab/EasyNMT)  
           * [UKPLab/sentence-transformers: Multilingual Sentence & Image Embeddings with BERT](https://github.com/UKPLab/sentence-transformers)  
           * [viniciuschiele/flask-apscheduler: Adds APScheduler support to Flask](https://github.com/viniciuschiele/flask-apscheduler)  
           * [winedarksea/AutoTS: Automated Time Series Forecasting](https://github.com/winedarksea/AutoTS)  
-        * huggingface.co  
-          * [facebook/bart-large-cnn · Hugging Face](https://huggingface.co/facebook/bart-large-cnn?text=The+tower+is+324+metres+%281%2C063+ft%29+tall%2C+about+the+same+height+as+an+81-storey+building%2C+and+the+tallest+structure+in+Paris.+Its+base+is+square%2C+measuring+125+metres+%28410+ft%29+on+each+side.+During+its+construction%2C+the+Eiffel+Tower+surpassed+the+Washington+Monument+to+become+the+tallest+man-made+structure+in+the+world%2C+a+title+it+held+for+41+years+until+the+Chrysler+Building+in+New+York+City+was+finished+in+1930.+It+was+the+first+structure+to+reach+a+height+of+300+metres.+Due+to+the+addition+of+a+broadcasting+aerial+at+the+top+of+the+tower+in+1957%2C+it+is+now+taller+than+the+Chrysler+Building+by+5.2+metres+%2817+ft%29.+Excluding+transmitters%2C+the+Eiffel+Tower+is+the+second+tallest+free-standing+structure+in+France+after+the+Millau+Viaduct)  
-          * [google/tapas-base-finetuned-wtq · Hugging Face](https://huggingface.co/google/tapas-base-finetuned-wtq)  
-          * [juierror/text-to-sql-with-table-schema · Hugging Face](https://huggingface.co/juierror/text-to-sql-with-table-schema?text=question%3A+get+people+name+with+age+equal+25+table%3A+id%2C+name%2C+age)  
-          * [pszemraj/long-t5-tglobal-base-16384-book-summary · Hugging Face](https://huggingface.co/pszemraj/long-t5-tglobal-base-16384-book-summary)  
-          * [shahrukhx01/schema-aware-denoising-bart-large-cnn-text2sql · Hugging Face](https://huggingface.co/shahrukhx01/schema-aware-denoising-bart-large-cnn-text2sql)  
-          * [silencesys/paraphrase-xlm-r-multilingual-v1-fine-tuned-for-medieval-latin · Hugging Face](https://huggingface.co/silencesys/paraphrase-xlm-r-multilingual-v1-fine-tuned-for-medieval-latin)  
-          * [stanfordnlp/stanza-la · Hugging Face](https://huggingface.co/stanfordnlp/stanza-la)  
         * pypi.org  
+          * [dremio-simple-query · PyPI](https://pypi.org/project/dremio-simple-query/)  
           * [dtale · PyPI](https://pypi.org/project/dtale/)  
           * [latinwordnet · PyPI](https://pypi.org/project/latinwordnet/)  
           * [pykeepass · PyPI](https://pypi.org/project/pykeepass/)  
@@ -2733,8 +2827,10 @@
         * [PyCaret](https://pycaret.gitbook.io/docs/)  
         * [scikit-learn: machine learning in Python](https://scikit-learn.org/stable/)  
         * [Vaex.io: An ML Ready Fast DataFrame for Python 🚀](https://vaex.io/)  
+      * [python - Official Image | Docker Hub](https://hub.docker.com/_/python)  
       * [Python.org](https://www.python.org/)  
       * [Spyder Website](https://www.spyder-ide.org/)  
+      * [Status of Python Versions](https://devguide.python.org/versions/#versions)  
     * R  
       * R How To  
         * stackoverflow.com  
@@ -2806,6 +2902,7 @@
       * [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.](https://mermaid-js.github.io/)  
       * [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaid.live/edit)  
     * [DevDocs](http://devdocs.io/)  
+    * [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)  
     * [diagrams.net](https://app.diagrams.net/)  
     * [Zeal - Offline Documentation Browser](https://zealdocs.org/)  
   * Software Licensing  
@@ -2830,6 +2927,7 @@
           * [Git - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)  
           * [Git - git-credential-store Documentation](https://git-scm.com/docs/git-credential-store)  
         * github.com  
+          * [Configuring commit squashing for pull requests - GitHub Docs](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/configuring-commit-squashing-for-pull-requests)  
           * [Configuring Git to handle line endings - GitHub Docs](https://docs.github.com/en/github/using-git/configuring-git-to-handle-line-endings)  
           * [GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.](https://pages.github.com/)  
           * [Managing your subscriptions - GitHub Docs](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/managing-subscriptions-for-activity-on-github/managing-your-subscriptions)  
