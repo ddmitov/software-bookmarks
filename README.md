@@ -9,6 +9,8 @@
     * [Event-Driven Architectures vs. Event-Based Compute in Serverless Applications | DeBrie Advisory](https://www.alexdebrie.com/posts/event-driven-vs-event-based/)  
     * [Introduction to event-based programming](https://aiven.io/blog/introduction-to-event-based-programming)  
     * [MotherDuck: Big Data is Dead](https://motherduck.com/blog/big-data-is-dead/)  
+    * [Radical Simplicity in Technology](https://www.radicalsimpli.city/)  
+    * [The Reactive Manifesto](https://www.reactivemanifesto.org/)  
   * Archivers  
     * [7-Zip](https://www.7-zip.org/)  
     * [IZArc - Free Zip/Unzip Files Utility](https://www.izarc.org/)  
@@ -60,80 +62,109 @@
     * Amazon Web Services  
       * Amazon Web Services Applications  
       * Amazon Web Services How To  
-        * amazon.com  
-          * CLI  
-            * [AWS Command Line Interface](https://aws.amazon.com/cli/)  
-            * [Configuration and credential file settings - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)  
-            * [Configuring the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)  
-            * [describe-rule — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/describe-rule.html)  
-            * [get-function — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-function.html)  
-            * [Installing or updating the latest version of the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)  
-            * [lambda — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/index.html#cli-aws-lambda)  
-            * [list-functions — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-functions.html)  
-            * [list-rules — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-rules.html)  
-            * [list-tags — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-tags.html)  
-            * [list-targets-by-rule — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-targets-by-rule.html)  
-            * [Named profiles for the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html)  
-          * ECR  
-            * [Private registry authentication - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/registry_auth.html)  
-            * [Pushing a Docker image - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/docker-push-ecr-image.html)  
-            * [Troubleshooting errors with Docker commands when using Amazon ECR - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/common-errors-docker.html)  
-            * [Using Amazon ECR with the AWS CLI - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/getting-started-cli.html)  
-          * IAM  
-            * [Creating an IAM user in your AWS account - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html)  
-            * [Creating your first IAM admin user and user group - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html)  
-            * [Tagging IAM resources - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags.html)  
-            * [Understanding how IAM works - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/intro-structure.html#intro-structure-terms)  
-          * Lambda  
-            * [AWS Lambda function handler in Python - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html)  
-            * [Lambda quotas - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html)  
-            * [Understanding quotas - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/operatorguide/quotas.html)  
-            * [Using AWS Lambda with Amazon API Gateway - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway.html)  
-          * RDS  
-            * [Allow users to connect to Amazon RDS with IAM credentials](https://aws.amazon.com/premiumsupport/knowledge-center/users-connect-rds-iam/)  
-            * [Enable Binary Logging for Amazon Aurora Instances Running MySQL](https://aws.amazon.com/premiumsupport/knowledge-center/enable-binary-logging-aurora/)  
-            * [IAM database authentication for MySQL and PostgreSQL - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.html)  
-            * [MySQL database log files - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_LogAccess.Concepts.MySQL.html#USER_LogAccess.MySQL.BinaryFormat)  
-            * [Replication between Aurora and MySQL or between Aurora and another Aurora DB cluster (binary log replication) - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.MySQL.html)  
-            * [Using SSL/TLS to Encrypt a Connection to a DB Instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html)  
-          * S3  
-            * S3 Select  
-              * [Filtering and retrieving data using Amazon S3 Select - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/selecting-content-from-objects.html)  
-              * [Querying data without servers or databases using Amazon S3 Select | AWS Storage Blog](https://aws.amazon.com/blogs/storage/querying-data-without-servers-or-databases-using-amazon-s3-select/)  
-              * [Selecting content from objects - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/dev/selecting-content-from-objects.html)  
-            * [Bucket naming rules - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html)  
-            * [Bucket restrictions and limitations - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/BucketRestrictions.html)  
-            * [Create your first S3 bucket - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-bucket.html)  
+        * aws.amazon.com  
+          * blogs  
             * [Fanout S3 Event Notifications to Multiple Endpoints | AWS Compute Blog](https://aws.amazon.com/blogs/compute/fanout-s3-event-notifications-to-multiple-endpoints/)  
             * [Get Started with Amazon S3 Event Driven Design Patterns | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/get-started-with-amazon-s3-event-driven-design-patterns/)  
+            * [Querying data without servers or databases using Amazon S3 Select | AWS Storage Blog](https://aws.amazon.com/blogs/storage/querying-data-without-servers-or-databases-using-amazon-s3-select/)  
+          * docs  
+            * API Gateway  
+              * [Create and attach a policy to an IAM user - Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-and-attach-iam-policy.html)  
+            * Application Composer  
+              * [Serverless concepts - AWS Application Composer](https://docs.aws.amazon.com/application-composer/latest/dg/what-is-concepts.html)  
+              * [What is AWS Application Composer? - AWS Application Composer](https://docs.aws.amazon.com/application-composer/latest/dg/what-is-composer.html)  
+            * Cloud Development Kit  
+              * [AWS CDK Toolkit (cdk command) - AWS Cloud Development Kit (AWS CDK) v2](https://docs.aws.amazon.com/cdk/v2/guide/cli.html)  
+              * [Bootstrapping - AWS Cloud Development Kit (AWS CDK) v2](https://docs.aws.amazon.com/cdk/v2/guide/bootstrapping.html)  
+            * Cloud Watch  
+              * [Creating a billing alarm to monitor your estimated AWS charges - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html)  
+            * Command Line Interface  
+              * [Configuration and credential file settings - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)  
+              * [Configuring the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)  
+              * [describe-rule — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/describe-rule.html)  
+              * [get-function — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-function.html)  
+              * [Installing or updating the latest version of the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)  
+              * [lambda — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/index.html#cli-aws-lambda)  
+              * [list-functions — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-functions.html)  
+              * [list-rules — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-rules.html)  
+              * [list-tags — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-tags.html)  
+              * [list-targets-by-rule — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/events/list-targets-by-rule.html)  
+              * [Named profiles for the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html)  
+            * ECR  
+              * [Private registry authentication - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/registry_auth.html)  
+              * [Pushing a Docker image - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/docker-push-ecr-image.html)  
+              * [Troubleshooting errors with Docker commands when using Amazon ECR - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/common-errors-docker.html)  
+              * [Using Amazon ECR with the AWS CLI - Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/getting-started-cli.html)  
+            * General  
+              * [Amazon Simple Notification Service endpoints and quotas - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/sns.html)  
+              * [AWS Account Identifiers - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/acct-identifiers.html)  
+              * [AWS service endpoints - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/rande.html)  
+            * Identity and Access Management  
+              * [Creating an IAM user in your AWS account - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html)  
+              * [Creating your first IAM admin user and user group - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html)  
+              * [Tagging IAM resources - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_tags.html)  
+              * [Understanding how IAM works - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/intro-structure.html#intro-structure-terms)  
+            * Lambda  
+              * [Anti-patterns in Lambda-based applications - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/operatorguide/anti-patterns.html)  
+              * [AWS Lambda function handler in Python - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html)  
+              * [Lambda quotas - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html)  
+              * [Understanding quotas - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/operatorguide/quotas.html)  
+              * [Using AWS Lambda with Amazon API Gateway - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway.html)  
+            * Relational Database Service  
+              * [IAM database authentication for MySQL and PostgreSQL - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.html)  
+              * [MySQL database log files - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_LogAccess.Concepts.MySQL.html#USER_LogAccess.MySQL.BinaryFormat)  
+              * [Replication between Aurora and MySQL or between Aurora and another Aurora DB cluster (binary log replication) - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Replication.MySQL.html)  
+              * [Using SSL/TLS to Encrypt a Connection to a DB Instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html)  
+            * Simple Storage Service  
+              * S3 Select  
+                * [Filtering and retrieving data using Amazon S3 Select - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/selecting-content-from-objects.html)  
+                * [Selecting content from objects - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/dev/selecting-content-from-objects.html)  
+              * [Amazon S3 Event Notifications - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/NotificationHowTo.html)  
+              * [Bucket naming rules - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html)  
+              * [Bucket restrictions and limitations - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/BucketRestrictions.html)  
+              * [Create your first S3 bucket - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-bucket.html)  
+              * [Walkthrough: Configuring a bucket for notifications (SNS topic or SQS queue) - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ways-to-add-notification-config-to-bucket.html)  
+            * Virtual Private Cloud  
+              * [Control traffic to resources using security groups - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)  
+              * [Work with VPCs - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/working-with-vpcs.html)  
+            * Well-Architected Framework  
+              * [The pillars of the framework - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html)  
+          * getting-started  
+            * [Send Fanout Event Notifications with Amazon SQS and Amazon SNS](https://aws.amazon.com/getting-started/hands-on/send-fanout-event-notifications/)  
+          * premiumsupport  
+            * [Allow users to connect to Amazon RDS with IAM credentials](https://aws.amazon.com/premiumsupport/knowledge-center/users-connect-rds-iam/)  
+            * [Create a subscription between my Amazon SQS queue and an Amazon SNS topic in CloudFormation](https://aws.amazon.com/premiumsupport/knowledge-center/sqs-sns-subscribe-cloudformation/)  
+            * [Enable Binary Logging for Amazon Aurora Instances Running MySQL](https://aws.amazon.com/premiumsupport/knowledge-center/enable-binary-logging-aurora/)  
             * [Resolve Throttling on Your Amazon S3 Bucket](https://aws.amazon.com/premiumsupport/knowledge-center/s3-request-limit-avoid-throttling/)  
             * [Understand S3 Object Key Naming Patterns for High Request Rates](https://aws.amazon.com/premiumsupport/knowledge-center/s3-object-key-naming-pattern/)  
-          * VPC  
-            * [Control traffic to resources using security groups - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)  
-            * [Work with VPCs - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/working-with-vpcs.html)  
-          * [Amazon EC2 Instance Types](https://www.amazonaws.cn/en/ec2/instance-types/)  
-          * [AWS Account Identifiers - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/acct-identifiers.html)  
           * [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/)  
-          * [AWS service endpoints - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/rande.html)  
-          * [Check for active AWS resources](https://aws.amazon.com/premiumsupport/knowledge-center/check-for-active-resources/)  
-          * [checkip.amazonaws.com](http://checkip.amazonaws.com/)  
-          * [Create and attach a policy to an IAM user - Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-and-attach-iam-policy.html)  
-          * [Creating a billing alarm to monitor your estimated AWS charges - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html)  
-          * [The pillars of the framework - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html)  
+          * [Event-Driven Architecture](https://aws.amazon.com/event-driven-architecture/)  
+          * [What is EDA? - Event-Driven Architecture Explained - AWS](https://aws.amazon.com/what-is/eda/)  
         * github.com  
           * [asagage/aws-adfs-cli-mfa: Python CLI tool for Authenticating into AWS using ADFS with Azure MFA enabled](https://github.com/asagage/aws-adfs-cli-mfa)  
           * [robertd/alpine-aws-cdk: Minimal AWSCLI & AWS-CDK & NodeJS/NPM built on top of Alpine Linux Docker Image](https://github.com/robertd/alpine-aws-cdk)  
+          * [aws-cdk-examples/python/s3-sns-sqs-lambda-chain at master · aws-samples/aws-cdk-examples · GitHub](https://github.com/aws-samples/aws-cdk-examples/tree/master/python/s3-sns-sqs-lambda-chain)  
         * localstack.cloud  
-          * [Installation - LocalStack](https://docs.localstack.cloud/getting-started/installation/)  
           * [Features - LocalStack](https://localstack.cloud/features/)  
+          * [Installation - LocalStack](https://docs.localstack.cloud/getting-started/installation/)  
+        * serverlessland.com  
+          * [S3 to SNS to SQS to Lambda | Serverless Land](https://serverlessland.com/patterns/s3-sns-sqs-lambda-sam-java)  
+          * [Serverless Land - Event Driven Architecture](https://serverlessland.com/event-driven-architecture)  
+          * [Serverless Land - Event Driven Architecture Visuals](https://serverlessland.com/event-driven-architecture/visuals)  
+          * [Serverless Land - Why use message brokers?](https://serverlessland.com/event-driven-architecture/visuals/why-use-message-brokers)  
+          * [Serverless Land | Resources for learning about AWS serverless technology](https://serverlessland.com/)  
+          * [Serverless Repos | Serverless Land](https://serverlessland.com/repos)  
         * www.thelambdablog.com  
           * [A concise guide to setting up the AWS command-line libraries on your local development environment](https://www.thelambdablog.com/a-concise-guide-to-setting-up-the-aws-command-line-libraries-on-your-local-development-environment/)  
           * [Configuring and reviewing the new Lambda Function URLs feature in AWS](https://www.thelambdablog.com/configuring-and-reviewing-the-new-lambda-function-urls-feature-in-aws/)  
         * [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)  
         * [AWS Cloud Ping - Latency & Response Speed Test](https://www.cloudping.cloud/aws)  
+        * [checkip.amazonaws.com](http://checkip.amazonaws.com/)  
+        * [DynamoDB Python Boto3 Query Cheat Sheet](https://dynobase.dev/dynamodb-python-with-boto3/)  
+        * [How to fix the issue to allow s3 to publish message to an SNS Topic?](https://twwip.com/2019/12/17/how-to-fix-the-issue-to-allow-s3-to-publish-message-to-an-sns-topic-explained/)  
+        * [How to implement a Lambda Authorizer for an AWS AppSync API and invoke the API with the required Authorization Token](https://www.thelambdablog.com/how-to-implement-a-lambda-authorizer-for-an-aws-appsync-api-and-invoke-the-api-with-the-required-authorization-token/)  
         * [Is it on AWS?](https://isitonaws.com/)  
         * [Lambda Warmer: Optimize AWS Lambda Function Cold Starts - Jeremy Daly](https://www.jeremydaly.com/lambda-warmer-optimize-aws-lambda-function-cold-starts/)  
-        * [Serverless Land | Resources for learning about AWS serverless technology](https://serverlessland.com/)  
         * [Validate a User's Credentials with AWS CLI | bobbyhadz](https://bobbyhadz.com/blog/aws-cli-validate-credentials)  
       * [AWS Pricing Calculator](https://calculator.aws/)  
       * [AWS Service Health Dashboard](https://status.aws.amazon.com/)  
@@ -161,11 +192,13 @@
     * MinIO  
       * MinIO How To  
         * min.io  
+          * [Introducing Webhooks for MinIO](https://blog.min.io/introducing-webhooks-for-minio/)  
           * [mc cp — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc/mc-cp.html)  
           * [mc ls — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc/mc-ls.html)  
           * [mc watch — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc/mc-watch.html#command-mc.watch)  
           * [MinIO Client — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc.html)  
           * [MinIO High Performance Object Storage — MinIO Object Storage for Container](https://min.io/docs/minio/container/index.html)  
+          * [Monitoring Bucket and Object Events — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/administration/monitoring.html)  
         * [docker - Minio: How to make folders and files already in mount point available when starting minio server? - Stack Overflow](https://stackoverflow.com/questions/55496594/minio-how-to-make-folders-and-files-already-in-mount-point-available-when-start)  
         * [minio-docker-config/docker-compose.yaml at master · Anagraph/minio-docker-config](https://github.com/Anagraph/minio-docker-config/blob/master/docker-compose.yaml)  
       * [MinIO | High Performance, Kubernetes Native Object Storage](https://min.io/)  
@@ -205,6 +238,7 @@
           * [Compose file version 3 reference | Docker Documentation](https://docs.docker.com/compose/compose-file/compose-file-v3/)  
           * [Compose specification | Docker Documentation](https://docs.docker.com/compose/compose-file/#volume-configuration-reference)  
           * [Control startup and shutdown order in Compose | Docker Documentation](https://docs.docker.com/compose/startup-order/)  
+          * [Deploy a registry server](https://docs.docker.com/registry/deploying/)  
           * [docker | Docker Documentation](https://docs.docker.com/engine/reference/commandline/docker/)  
           * [docker container ls | Docker Documentation](https://docs.docker.com/engine/reference/commandline/container_ls/)  
           * [docker container stop | Docker Documentation](https://docs.docker.com/engine/reference/commandline/container_stop/)  
@@ -216,10 +250,12 @@
           * [docker ps | Docker Documentation](https://docs.docker.com/engine/reference/commandline/ps/)  
           * [docker save | Docker Documentation](https://docs.docker.com/engine/reference/commandline/save/)  
           * [docker stats | Docker Documentation](https://docs.docker.com/engine/reference/commandline/stats/)  
+          * [docker stop](https://docs.docker.com/engine/reference/commandline/stop/)  
           * [docker system df | Docker Documentation](https://docs.docker.com/engine/reference/commandline/system_df/)  
           * [docker volume create | Docker Documentation](https://docs.docker.com/engine/reference/commandline/volume_create/)  
           * [docker-compose stop | Docker Documentation](https://docs.docker.com/compose/reference/stop/)  
           * [Get started with Docker Compose | Docker Documentation](https://docs.docker.com/compose/gettingstarted/)  
+          * [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)  
           * [Networking in Compose | Docker Documentation](https://docs.docker.com/compose/networking/)  
           * [Runtime metrics | Docker Documentation](https://docs.docker.com/config/containers/runmetrics/)  
           * [Runtime options with Memory, CPUs, and GPUs | Docker Documentation](https://docs.docker.com/config/containers/resource_constraints/)  
@@ -232,6 +268,7 @@
           * [Stopping Docker containers by image name - Ubuntu - Stack Overflow](https://stackoverflow.com/questions/32073971/stopping-docker-containers-by-image-name-ubuntu)  
         * www.baeldung.com  
           * [Difference Between links and depends_on in Docker Compose | Baeldung](https://www.baeldung.com/ops/docker-compose-links-depends-on)  
+          * [Docker Compose Restart Policies | Baeldung](https://www.baeldung.com/ops/docker-compose-restart-policies)  
           * [Mounting a Single File in a Volume Using Docker | Baeldung](https://www.baeldung.com/ops/docker-mount-single-file-in-volume)  
         * [Demonstrating Hello World Example | dockerlabs](https://dockerlabs.collabnix.com/beginners/helloworld/)  
         * [Docker Api Infographic All Roles - Docker Architecture Overview](https://www.seekpng.com/ima/u2w7u2q8y3q8w7o0/)  
@@ -244,6 +281,7 @@
         * [What is Docker? - Docker Tutorials](https://techtutorialsite.com/what-is-docker-and-container/)  
         * [Why use Containers? - Tutorial Works](https://www.tutorialworks.com/why-use-containers/)  
       * [Docker](https://www.docker.com/)  
+      * [sgerrand/alpine-pkg-glibc: A glibc compatibility layer package for Alpine Linux](https://github.com/sgerrand/alpine-pkg-glibc/)  
     * Kubernetes  
       * Kubernetes How To  
         * helm.sh  
@@ -529,12 +567,13 @@
       * [Real-time query engine | Deephaven](https://deephaven.io/)  
     * OSCAR  
       * OSCAR How To  
-        * [Local testing - OSCAR Documentation](https://docs.oscar.grycap.net/local-testing/)  
+        * docs.oscar.grycap.net  
+          * [FDL Composer - OSCAR Documentation](https://docs.oscar.grycap.net/fdl-composer/)  
+          * [Local testing - OSCAR Documentation](https://docs.oscar.grycap.net/local-testing/)  
+          * [Using OSCAR through the web-based UI - OSCAR Documentation](https://docs.oscar.grycap.net/usage/)  
         * [On-Premises Serverless Container-Aware Architecture (OSCAR)](https://www.slideshare.net/gmolto/onpremises-serverless-containeraware-architecture-oscar)  
-      * [OSCAR](https://oscar.grycap.net/)  
       * [fdl composer](https://composer.oscar.grycap.net/)  
-  * Data Science  
-    * [Einblick | Data science at the speed of thought](https://www.einblick.ai/)  
+      * [OSCAR](https://oscar.grycap.net/)  
   * Data Visualization  
     * Data Visualization How To  
       * [20 ideas for better data visualization | by Taras Bakusevych | Aug, 2021 | UX Collective](https://uxdesign.cc/20-ideas-for-better-data-visualization-73f7e3c2782d)  
@@ -636,6 +675,7 @@
             * [Redis Streams tutorial | Redis](https://redis.io/docs/data-types/streams-tutorial/)  
             * [redis-cli, the Redis command line interface – Redis](https://redis.io/topics/rediscli)  
             * [XADD | Redis](https://redis.io/commands/xadd/)  
+            * [XPENDING | Redis](https://redis.io/commands/xpending/)  
           * stackoverflow.com  
             * [celery - What is the maximum value size you can store in redis? - Stack Overflow](https://stackoverflow.com/questions/5606106/what-is-the-maximum-value-size-you-can-store-in-redis)  
             * [How do I delete everything in Redis? - Stack Overflow](https://stackoverflow.com/questions/6851909/how-do-i-delete-everything-in-redis)  
@@ -859,6 +899,12 @@
   * Hardware Diagnostics  
     * [HWiNFO & HWiNFO32 - Hardware Information and Analysis Tools](https://www.hwinfo.com/)  
     * [Memtest86+ - Advanced Memory Diagnostic Tool](https://www.memtest.org/)  
+  * Machine Learning  
+    * OpenAI  
+      * [API Reference - OpenAI API](https://platform.openai.com/docs/api-reference/introduction)  
+      * [Examples - OpenAI API](https://platform.openai.com/examples)  
+    * [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/)  
+    * [Einblick | Data science at the speed of thought](https://www.einblick.ai/)  
   * Mathematics and Statistics  
     * www.mathsisfun.com  
       * [Calculating the mean from a frequency table](https://www.mathsisfun.com/data/mean-frequency-table.html)  
@@ -2046,6 +2092,9 @@
           * [How to Export Pandas DataFrame to an Excel File - Data to Fish](https://datatofish.com/export-dataframe-to-excel/)  
           * [How to Import an Excel File into Python using Pandas - Data to Fish](https://datatofish.com/read_excel/)  
           * [How to use PIP to Uninstall a Package in Python - Data to Fish](https://datatofish.com/pip-uninstall-package/)  
+        * dev.to  
+          * [Creating a Spark Standalone Cluster with Docker and docker-compose(2021 update) - DEV Community](https://dev.to/mvillarrealb/creating-a-spark-standalone-cluster-with-docker-and-docker-compose-2021-update-6l4)  
+          * [Using .env Files for Environment Variables in Python Applications - DEV Community](https://dev.to/jakewitcher/using-env-files-for-environment-variables-in-python-applications-55a1)  
         * docs.djangoproject.com  
           * [How to manage static files (e.g. images, JavaScript, CSS) | Django documentation | Django](https://docs.djangoproject.com/en/4.1/howto/static-files/)  
           * [Writing your first Django app, part 1 | Django documentation | Django](https://docs.djangoproject.com/en/4.1/intro/tutorial01/)  
@@ -2215,6 +2264,7 @@
           * [pandas.Series.values](https://pandas.pydata.org/docs/reference/api/pandas.Series.values.html)  
           * [pandas.Timestamp.isocalendar](https://pandas.pydata.org/docs/reference/api/pandas.Timestamp.isocalendar.html)  
           * [pandas.to_datetime](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html)  
+          * [What’s new in 2.0.0](https://pandas.pydata.org/pandas-docs/version/2.0/whatsnew/v2.0.0.html)  
           * [Working with missing data](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html)  
         * pbpython.com  
           * [Automating Windows Applications Using COM - Practical Business Python](https://pbpython.com/windows-com.html)  
@@ -2692,7 +2742,6 @@
         * [Convert a string representing the date or epoch time to datetime and change timezone in Python - Sou-Nan-De-Gesu](https://www.soudegesu.com/en/python/python-datetime/)  
         * [Convert string to int in Python – Python Principles](https://pythonprinciples.com/blog/python-convert-string-to-int/)  
         * [Converting time zones for datetime objects in Python - SaltyCrane Blog](https://www.saltycrane.com/blog/2009/05/converting-time-zones-datetime-objects-python/)  
-        * [Creating a Spark Standalone Cluster with Docker and docker-compose(2021 update) - DEV Community](https://dev.to/mvillarrealb/creating-a-spark-standalone-cluster-with-docker-and-docker-compose-2021-update-6l4)  
         * [Dash Bootstrap Components Quickstart](https://dash-bootstrap-components.opensource.faculty.ai/docs/)  
         * [Data Science with DuckDB](https://deepnote.com/@abid/Data-Science-with-DuckDB-9KKvj1EoQrmj6nj4Y2prkg)  
         * [decimal – Fixed and floating point math - Python Module of the Week](https://pymotw.com/2/decimal/)  
@@ -2712,8 +2761,10 @@
         * [How to Plot Multiple Lines in Matplotlib - Statology](https://www.statology.org/plot-multiple-lines-matplotlib/)  
         * [How To Redirect To Url In Python Flask - Vegibit](https://vegibit.com/how-to-redirect-to-url-in-python-flask/)  
         * [How To Remove Spaces from a String In Python | DigitalOcean](https://www.digitalocean.com/community/tutorials/python-remove-spaces-from-string)  
+        * [How to Train an AI Chatbot With Custom Knowledge Base Using ChatGPT API](https://beebom.com/how-train-ai-chatbot-custom-knowledge-base-chatgpt-api/)  
         * [How to use proxies with Python Requests module](https://blog.scrapinghub.com/python-requests-proxy)  
         * [How to use sys.argv in Python](http://www.pythonforbeginners.com/system/python-sys-argv)  
+        * [How to use the Python Debugger using the breakpoint() - Python Engineer](https://www.python-engineer.com/posts/python-debugger-and-breakpoint/)  
         * [How to write parquet file from pandas dataframe in S3 in python | Newbedev](https://newbedev.com/how-to-write-parquet-file-from-pandas-dataframe-in-s3-in-python)  
         * [Installing packages using pip and virtual environments — Python Packaging User Guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)  
         * [Learn How to Open Web Browser in Python Script](https://elearning.wsldp.com/python3/python-open-web-browser/)  
@@ -2735,8 +2786,8 @@
         * [Python argparse tutorial - parsing command line arguments in Python with argparse module](http://zetcode.com/python/argparse/)  
         * [Python asyncio.create_task(): Run Multiple Tasks Concurrently](https://www.pythontutorial.net/python-concurrency/python-asyncio-create_task/)  
         * [Python Cheatsheet - Python Cheatsheet](https://www.pythoncheatsheet.org/)  
+        * [Python Circular Import Problem and Solutions - Python Pool](https://www.pythonpool.com/python-circular-import/)  
         * [Python Clocks Explained - Webucator Blog](https://www.webucator.com/blog/2015/08/python-clocks-explained/)  
-        * [Python Code Best Practices - DEV Community](https://dev.to/dollardhingra/python-code-best-practices-4k96)  
         * [Python Convert list to set - Java2Blog](https://java2blog.com/python-list-to-set/)  
         * [Python Excel win32com Mini Cookbook | Python Excels](https://pythonexcels.com/python/2009/10/05/python-excel-mini-cookbook)  
         * [Python Exception Handling - ImportError and ModuleNotFoundError](https://airbrake.io/blog/python-exception-handling/importerror-and-modulenotfounderror)  
@@ -2777,6 +2828,7 @@
           * [GitHub - abhijithneilabraham/tableQA: AI Tool for querying natural language on tabular data.](https://github.com/abhijithneilabraham/tableQA)  
           * [GitHub - MaartenGr/KeyBERT: Minimal keyword extraction with BERT](https://github.com/MaartenGr/KeyBERT)  
           * [gradio-app/gradio: Create UIs for your machine learning model in Python in 3 minutes](https://github.com/gradio-app/gradio)  
+          * [jerryjliu/llama_index: LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.](https://github.com/jerryjliu/llama_index)  
           * [jonashaag/bjoern: A screamingly fast Python 2/3 WSGI server written in C.](https://github.com/jonashaag/bjoern)  
           * [kristopherkyle/corpus_toolkit: A simple toolkit for conducting analyses using corpus methods](https://github.com/kristopherkyle/corpus_toolkit)  
           * [linkedin/greykite: A flexible, intuitive and fast forecasting library](https://github.com/linkedin/greykite)  
@@ -2798,6 +2850,7 @@
           * [latinwordnet · PyPI](https://pypi.org/project/latinwordnet/)  
           * [pykeepass · PyPI](https://pypi.org/project/pykeepass/)  
           * [pymsteams · PyPI](https://pypi.org/project/pymsteams/)  
+          * [python-dotenv · PyPI](https://pypi.org/project/python-dotenv/)  
           * [redis · PyPI](https://pypi.org/project/redis/)  
           * [unicodecsv · PyPI](https://pypi.org/project/unicodecsv/)  
         * readthedocs.io  
@@ -2822,6 +2875,7 @@
         * [DuckDB - An in-process SQL OLAP database management system](https://duckdb.org/)  
         * [Greykite: A flexible, intuitive, and fast forecasting library | LinkedIn Engineering](https://engineering.linkedin.com/blog/2021/greykite--a-flexible--intuitive--and-fast-forecasting-library)  
         * [NLTK :: Natural Language Toolkit](https://www.nltk.org/)  
+        * [pdoc – Auto-generate API documentation for Python projects](https://pdoc3.github.io/pdoc/)  
         * [Polars](https://www.pola.rs/)  
         * [Prophet | Forecasting at scale.](https://facebook.github.io/prophet/)  
         * [PyCaret](https://pycaret.gitbook.io/docs/)  
