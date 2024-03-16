@@ -178,9 +178,8 @@
           * [DynamoDB Python Boto3 Query Cheat Sheet](https://dynobase.dev/dynamodb-python-with-boto3/)  
           * [How to fix the issue to allow s3 to publish message to an SNS Topic?](https://twwip.com/2019/12/17/how-to-fix-the-issue-to-allow-s3-to-publish-message-to-an-sns-topic-explained/)  
           * [How to turn DDOS attacks into a business opportunity - Let's Debug It](https://www.letsdebug.it/post/34-ddos-as-business-opportunity/)  
+          * [Invoking Amazon API Gateway with an API Key - Nelson Figueroa](https://nelson.cloud/invoking-amazon-api-gateway-with-an-api-key/)  
           * [Is it on AWS?](https://isitonaws.com/)  
-          * [Lambda Warmer: Optimize AWS Lambda Function Cold Starts - Jeremy Daly](https://www.jeremydaly.com/lambda-warmer-optimize-aws-lambda-function-cold-starts/)  
-          * [Scaling Fargate Based On SQS Queue Depth • Adam Tuttle](https://adamtuttle.codes/blog/2022/scaling-fargate-based-on-sqs-queue-depth/)  
           * [Troubleshoot HTTP 5xx errors from Amazon S3 | AWS re:Post](https://repost.aws/knowledge-center/http-5xx-errors-s3)  
         * [AWS Pricing Calculator](https://calculator.aws/)  
         * [AWS Service Health Dashboard](https://status.aws.amazon.com/)  
@@ -189,6 +188,7 @@
       * Fly  
         * Fly How To  
           * [App Configuration (fly.toml) · Fly](https://fly.io/docs/reference/configuration/)  
+          * [Automatically stop and start Machines · Fly Docs](https://fly.io/docs/apps/autostart-stop/)  
           * [Build, Deploy And Run A Python Application · Fly](https://fly.io/docs/getting-started/python/)  
           * [Docker without Docker · Fly](https://fly.io/blog/docker-without-docker/)  
           * [Introducing Flyctl - The Fly CLI · Fly](https://fly.io/docs/flyctl/)  
@@ -205,6 +205,8 @@
             * [MinIO Client — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/reference/minio-mc.html)  
             * [MinIO High Performance Object Storage — MinIO Object Storage for Container](https://min.io/docs/minio/container/index.html)  
             * [Monitoring Bucket and Object Events — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/administration/monitoring.html)  
+            * [Smooth Sailing from Docker to Localhost](https://resources.min.io/january-2024-newsletter-linkedin/from-docker-to-localhost)  
+            * [Thresholds and Limits — MinIO Object Storage for Linux](https://min.io/docs/minio/linux/operations/concepts/thresholds.html)  
           * [docker - Minio: How to make folders and files already in mount point available when starting minio server? - Stack Overflow](https://stackoverflow.com/questions/55496594/minio-how-to-make-folders-and-files-already-in-mount-point-available-when-start)  
           * [minio-docker-config/docker-compose.yaml at master · Anagraph/minio-docker-config](https://github.com/Anagraph/minio-docker-config/blob/master/docker-compose.yaml)  
           * [Regulatory Compliance with MinIO Object Lambdas](https://blog-min-io.cdn.ampproject.org/c/s/blog.min.io/regulatory-compliance-with-minio-object-lambdas/amp/)  
@@ -305,14 +307,16 @@
         * [Tutorial: Spin up Your Kubernetes-in-Docker Cluster and They Will Come - Conjur](https://www.conjur.org/blog/tutorial-spin-up-your-kubernetes-in-docker-cluster-and-they-will-come/)  
         * [Understanding Kubernetes Architecture with Diagrams](https://phoenixnap.com/kb/understanding-kubernetes-architecture-diagrams)  
         * [Using Helm and Kubernetes | Baeldung](https://www.baeldung.com/ops/kubernetes-helm)  
-      * [Helm](https://helm.sh/)  
-      * [KEDA | Kubernetes Event-driven Autoscaling](https://keda.sh/)  
       * [kind](https://kind.sigs.k8s.io/)  
       * [MicroK8s - Fast, Light, Upstream Developer Kubernetes](https://microk8s.io/)  
   * Continuous Integration  
     * [Customizing the Build - Travis CI](https://docs.travis-ci.com/user/customizing-the-build)  
     * [How do I get Travis' build working directory in .travis.yml? - Stack Overflow](https://stackoverflow.com/questions/14006810/how-do-i-get-travis-build-working-directory-in-travis-yml)  
   * Data Engineering  
+    * Concepts  
+      * [Data Pipeline Design Patterns](https://www.startdataengineering.com/post/design-patterns/)  
+      * [Data Warehouse Essentials: Mastering Star & Snowflake Schemas | GlobalLogic](https://www.globallogic.com/insights/white-papers/data-warehouse/)  
+      * [Functional Data Engineering - A Blueprint](https://www.dataengineeringweekly.com/p/functional-data-engineering-a-blueprint)  
     * Data APIs  
       * [ROAPI](https://roapi.github.io/docs/)  
       * [Seafowl](https://seafowl.io/)  
@@ -566,12 +570,13 @@
       * [Change the order of columns in Pandas dataframe](https://erikrood.com/Python_References/change_order_dataframe_columns_final.html)  
       * [Check if a column contains specific string in a Pandas Dataframe - The Coding Bot](https://thecodingbot.com/check-if-a-column-contains-specific-string-in-a-pandas-dataframe/)  
       * [Dash Bootstrap Components Quickstart](https://dash-bootstrap-components.opensource.faculty.ai/docs/)  
-      * [Embedded databases: The harmony of DuckDB, KùzuDB and LanceDB · The Data Quarry](https://thedataquarry.com/posts/embedded-db-1)  
       * [How to add a dataframe to an existing excel file](https://python-forum.io/Thread-How-to-add-a-dataframe-to-an-existing-excel-file)  
       * [How to iterate over rows in Pandas: Most efficient options – LearnDataSci](https://www.learndatasci.com/solutions/how-iterate-over-rows-pandas/)  
       * [How to write parquet file from pandas dataframe in S3 in python | Newbedev](https://newbedev.com/how-to-write-parquet-file-from-pandas-dataframe-in-s3-in-python)  
+      * [LanceDB: Your Trusted Steed in the Joust Against Data Complexity](https://blog.min.io/lancedb-trusted-steed-against-data-complexity/)  
       * [Mirai Solutions :: Apache Arrow Flight at first glance](https://mirai-solutions.ch/news/2020/06/11/apache-arrow-flight-tutorial/)  
       * [Multiple Criteria Filtering | Machine Learning, Deep Learning, and Computer Vision](https://www.ritchieng.com/pandas-multi-criteria-filtering/)  
+      * [OSS Python API - LanceDB Docs](https://lancedb.github.io/lancedb/python/python/#lancedb.table.Table)  
       * [Pandas - Split Column by Delimiter - Data Science Parichay](https://datascienceparichay.com/article/pandas-split-column-by-delimiter/)  
       * [Pandas DataFrames - Writing to and reading from MySQL Table | Pythontic.com](https://pythontic.com/pandas/serialization/mysql)  
       * [Pandas Tutorial - Selecting Rows From a DataFrame | Novixys Software Dev Blog](https://www.novixys.com/blog/pandas-tutorial-select-dataframe/)  
@@ -598,9 +603,9 @@
             * [arrow-flight-client-examples/python at main · dremio-hub/arrow-flight-client-examples](https://github.com/dremio-hub/arrow-flight-client-examples/tree/main/python)  
             * [arrow/python/examples/flight at master · apache/arrow](https://github.com/apache/arrow/tree/master/python/examples/flight)  
             * [arrow/test_flight.py at master · apache/arrow](https://github.com/apache/arrow/blob/master/python/pyarrow/tests/test_flight.py)  
-            * [voltrondata/flight-sql-server-example: An example Flight SQL Server implementation - with DuckDB and SQLite back-ends.](https://github.com/voltrondata/flight-sql-server-example/tree/main)  
+            * [voltrondata/flight-sql-server-example: An example Flight SQL Server implementation](https://github.com/voltrondata/flight-sql-server-example)  
           * voltrondata.com  
-            * [Apache Arrow Flight: A Primer - Voltron Data](https://voltrondata.com/news/apache-arrow-flight-primer/)  
+            * [Apache Arrow Flight: A Primer | Voltron Data](https://voltrondata.com/resources/apache-arrow-flight-primer)  
             * [Simplifying database connectivity with Arrow Flight SQL and ADBC • Voltron Data](https://voltrondata.com/resources/simplifying-database-connectivity-with-arrow-flight-sql-and-adbc)  
           * [Benchmarking Apache Arrow Flight -- A wire-speed protocol for data transfer, querying and microservices](https://www.researchgate.net/publication/359814346_Benchmarking_Apache_Arrow_Flight_--_A_wire-speed_protocol_for_data_transfer_querying_and_microservices)  
           * [Notes from a data witch - Building an Arrow Flight server](https://blog.djnavarro.net/posts/2022-10-18_arrow-flight/)  
@@ -637,13 +642,13 @@
           * [GeoJSON](https://geojson.org/)  
           * [GeoJSON - Wikipedia](https://en.wikipedia.org/wiki/GeoJSON)  
           * [geojson.io](https://geojson.io/)  
-          * [World countries in JSON, CSV, XML and YAML. | World countries in JSON, CSV and XML and Yaml](https://mledoze.github.io/countries/)  
+          * [World countries in JSON, CSV, XML and YAML](https://mledoze.github.io/countries/)  
         * JSON Processing  
           * [JSON Diff - The semantic JSON compare tool](http://www.jsondiff.com/)  
           * [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/#)  
           * [JSONLint - The JSON Validator](https://jsonlint.com/)  
         * [JSON](https://www.json.org/json-en.html)  
-        * [ndjson - Newline delimited JSON - Format for Structured Data](https://ndjson.org/)  
+        * [JSON Lines](https://jsonlines.org/)  
       * Parquet  
         * [Apache Parquet](https://parquet.apache.org/)  
         * [What is the Parquet File Format? Use Cases & Benefits | Upsolver](https://www.upsolver.com/blog/apache-parquet-why-use)  
@@ -980,12 +985,9 @@
             * [Local testing - OSCAR Documentation](https://docs.oscar.grycap.net/local-testing/)  
             * [Using OSCAR through the web-based UI - OSCAR Documentation](https://docs.oscar.grycap.net/usage/)  
           * [On-Premises Serverless Container-Aware Architecture (OSCAR)](https://www.slideshare.net/gmolto/onpremises-serverless-containeraware-architecture-oscar)  
-        * [fdl composer](https://composer.oscar.grycap.net/)  
         * [OSCAR](https://oscar.grycap.net/)  
-      * [ArcticDB](https://arcticdb.io/)  
       * [GlareDB | Your Data Pipeline, Simplified](https://glaredb.com/)  
-      * [Ibis](https://ibis-project.org/)  
-      * [Real-time query engine | Deephaven](https://deephaven.io/)  
+      * [Nuclio: Serverless Platform for Automated Data Science](https://nuclio.io/)  
     * Data Visualization  
       * Data Visualization How To  
         * dash.plotly.com  
@@ -1088,6 +1090,9 @@
       * [Databend](https://databend.rs/doc/)  
     * Database  
       * Concepts  
+        * www.kdnuggets.com  
+          * [SQL Simplified: Crafting Modular and Understandable Queries with CTEs - KDnuggets](https://www.kdnuggets.com/sql-simplified-crafting-modular-and-understandable-queries-with-ctes)  
+          * [The Essential Guide to SQL’s Execution Order - KDnuggets](https://www.kdnuggets.com/the-essential-guide-to-sql-execution-order)  
         * [Database Normalization – Normal Forms 1nf 2nf 3nf Table Examples](https://www.freecodecamp.org/news/database-normalization-1nf-2nf-3nf-table-examples/)  
         * [SQL vs. NoSQL Database: When to Use, How to Choose](https://www.ml4devs.com/articles/datastore-choices-sql-vs-nosql-database/)  
         * [Star schema - Wikipedia](https://en.wikipedia.org/wiki/Star_schema)  
@@ -1176,6 +1181,9 @@
               * [How to get the last N records in mongodb? - Stack Overflow](https://stackoverflow.com/questions/4421207/how-to-get-the-last-n-records-in-mongodb)  
               * [mongoose - Find MongoDB records where array field is not empty - Stack Overflow](https://stackoverflow.com/questions/14789684/find-mongodb-records-where-array-field-is-not-empty)  
               * [node.js - Update And Return Document In Mongodb - Stack Overflow](https://stackoverflow.com/questions/24747189/update-and-return-document-in-mongodb)  
+              * [pymongo - How to convert objectid to string - Stack Overflow](https://stackoverflow.com/questions/26353627/how-to-convert-objectid-to-string)  
+              * [python - How to select a single field in MongoDB using Pymongo? - Stack Overflow](https://stackoverflow.com/questions/35145333/how-to-select-a-single-field-in-mongodb-using-pymongo)  
+              * [python - Querying MongoDB (via pymongo) in case insensitive efficiently - Stack Overflow](https://stackoverflow.com/questions/6266555/querying-mongodb-via-pymongo-in-case-insensitive-efficiently)  
             * [MongoDB - Query a Collection](https://www.quackit.com/mongodb/tutorial/mongodb_query_a_collection.cfm)  
             * [MongoDB Query Operators](https://www.w3schools.com/mongodb/mongodb_query_operators.php)  
       * SQL  
@@ -1342,6 +1350,7 @@
               * [SQLITE Compilation Options](https://www.sqlite.org/compile.html)  
               * [SQLite Query Language](https://www.sqlite.org/lang_expr.html)  
               * [The SQLite Amalgamation](https://www.sqlite.org/amalgamation.html)  
+            * [JSON Changelog with SQLite](https://www.budgetwithbuckets.com/es/blog/2018/08/27/sqlite-changelog.html/)  
             * [sqlite - How to convert sqlite2 to sqlite3 and what are the differences between both versions? - Stack Overflow](https://stackoverflow.com/questions/9409073/how-to-convert-sqlite2-to-sqlite3-and-what-are-the-differences-between-both-vers)  
           * [libsql/sqlalchemy-libsql](https://github.com/libsql/sqlalchemy-libsql#readme)  
           * [libsql/sqld: LibSQL with extended capabilities like HTTP protocol, replication, and more.](https://github.com/libsql/sqld)  
@@ -1363,20 +1372,6 @@
         * Redpanda How To  
           * [Docker | Redpanda Documentation](https://docs.redpanda.com/docs/getting-started/quick-start-docker)  
         * [Redpanda is a Kafka® compatible event streaming platform](https://redpanda.com/)  
-    * Ideas  
-      * voltrondata.com  
-        * [Data Sprawl | Voltron Data](https://voltrondata.com/codex/data-sprawl)  
-        * [Standards Over Silos • Voltron Data](https://voltrondata.com/codex/standards-over-silos)  
-        * [The Wall & The Machine | Voltron Data](https://voltrondata.com/codex/wall-and-machine)  
-      * wikipedia.org  
-        * [Online analytical processing - Wikipedia](https://en.m.wikipedia.org/wiki/Online_analytical_processing)  
-        * [Snowflake schema - Wikipedia](https://en.m.wikipedia.org/wiki/Snowflake_schema)  
-        * [Star schema - Wikipedia](https://en.m.wikipedia.org/wiki/Star_schema)  
-      * [Big Data Is Dead... Long Live Big Data](https://ponder.io/big-data-is-dead-long-live-big-data/)  
-      * [Data Pipeline Design Patterns](https://www.startdataengineering.com/post/design-patterns/)  
-      * [Functional Data Engineering - A Blueprint](https://www.dataengineeringweekly.com/p/functional-data-engineering-a-blueprint)  
-      * [MotherDuck: Big Data is Dead](https://motherduck.com/blog/big-data-is-dead/)  
-      * [S3 as the universal infrastructure backend | by Davis Treybig | Innovation Endeavors | Oct, 2023 | Medium](https://medium.com/innovationendeavors/s3-as-the-universal-infrastructure-backend-a104a8cc6991)  
     * Python Packages  
       * github.com  
         * [minio/minio-py: MinIO Client SDK for Python](https://github.com/minio/minio-py)  
@@ -1434,29 +1429,62 @@
     * Jupyter Notebook  
       * [jupyterlab/jupyterlab_app: A desktop application for JupyterLab, based on Electron.](https://github.com/jupyterlab/jupyterlab_app)  
       * [Project Jupyter](https://jupyter.org/)  
+    * LLM Applications  
+      * [Fast inference engine | Nitro](https://nitro.jan.ai/)  
+      * [Open-source ChatGPT Alternative | Jan](https://jan.ai/)  
     * Machine Learning How To  
       * github.com  
+        * onprem  
+          * [onprem - OnPrem.LLM](https://amaiya.github.io/onprem/)  
+          * [onprem - Talk to Your Documents](https://amaiya.github.io/onprem/examples_rag.html)  
         * [Downloading pre-trained model during docker build · Issue #352 · UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers/issues/352)  
+        * [Saving Model · Issue #762 · UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers/issues/762)  
         * [Suppressing Stan optimizer printing in Python · Issue #223 · facebook/prophet](https://github.com/facebook/prophet/issues/223#issuecomment-326455744)  
       * gradio.app  
+        * [Authentication](https://www.gradio.app/sharing_your_app/#authentication)  
         * [Gradio](https://gradio.app/)  
         * [Gradio Docs](https://gradio.app/docs/)  
         * [Gradio Quickstart](https://gradio.app/quickstart/)  
-        * [Authentication](https://www.gradio.app/sharing_your_app/#authentication)  
+      * huggingface.co  
+        * [Export to ONNX](https://huggingface.co/docs/transformers/serialization)  
+        * [Inference pipelines with the ONNX Runtime accelerator](https://huggingface.co/docs/optimum/onnxruntime/usage_guides/pipelines)  
+        * [ONNX Runtime Models](https://huggingface.co/docs/optimum/onnxruntime/package_reference/modeling_ort)  
+        * [ORTModelForFeatureExtraction](https://huggingface.co/docs/optimum/v1.2.1/en/onnxruntime/modeling_ort#optimum.onnxruntime.ORTModelForFeatureExtraction)  
+        * [Padding and truncation](https://huggingface.co/docs/transformers/pad_truncation)  
+        * [Pipeline batching](https://huggingface.co/docs/transformers/main_classes/pipelines#pipeline-batching)  
       * machinelearningmastery.com  
         * [A Gentle Introduction to SARIMA for Time Series Forecasting in Python](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)  
         * [How to Decompose Time Series Data into Trend and Seasonality](https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/)  
         * [Time Series Forecasting With Prophet in Python](https://machinelearningmastery.com/time-series-forecasting-with-prophet-in-python/)  
       * numpy.org  
-        * [numpy.polyfit — NumPy v1.20 Manual](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)  
-        * [numpy.polynomial.polynomial.Polynomial.fit — NumPy v1.20 Manual](https://numpy.org/doc/stable/reference/generated/numpy.polynomial.polynomial.Polynomial.fit.html#numpy.polynomial.polynomial.Polynomial.fit)  
+        * [numpy.ndarray.tolist](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.tolist.html)  
+        * [numpy.pad](https://numpy.org/doc/stable/reference/generated/numpy.pad.html)  
+        * [numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)  
+        * [numpy.polynomial.polynomial.Polynomial.fit](https://numpy.org/doc/stable/reference/generated/numpy.polynomial.polynomial.Polynomial.fit.html#numpy.polynomial.polynomial.Polynomial.fit)  
+      * onnxruntime.ai  
+        * [Execution Providers | onnxruntime](https://onnxruntime.ai/docs/execution-providers/)  
+        * [ONNX | Home](https://onnx.ai/)  
+        * [ONNX Runtime | Home](https://onnxruntime.ai/)  
+        * [Thread management | onnxruntime](https://onnxruntime.ai/docs/performance/tune-performance/threading.html)  
+      * qdrant.tech  
+        * [FastEmbed: Fast and Lightweight Embedding Generation for Text - Qdrant](https://qdrant.tech/articles/fastembed/#)  
+        * [Semantic Search 101 - Qdrant](https://qdrant.tech/documentation/tutorials/search-beginners/)  
+        * [Sparse Vectors in Qdrant: Pure Vector-based Hybrid Search - Qdrant](https://qdrant.tech/articles/sparse-vectors/)  
       * stackoverflow.com  
+        * [How to truncate input in the Huggingface pipeline? - Stack Overflow](https://stackoverflow.com/questions/67849833/how-to-truncate-input-in-the-huggingface-pipeline/76880269#76880269)  
+        * [python - Detach sentence-transformer model from GPU to cpu - Stack Overflow](https://stackoverflow.com/questions/72733960/detach-sentence-transformer-model-from-gpu-to-cpu)  
         * [python - How to cluster similar sentences using BERT - Stack Overflow](https://stackoverflow.com/questions/55619176/how-to-cluster-similar-sentences-using-bert)  
         * [python - How to determine if two sentences talk about similar topics? - Stack Overflow](https://stackoverflow.com/questions/63157909/how-to-determine-if-two-sentences-talk-about-similar-topics)  
+        * [python - The size of tensor a (707) must match the size of tensor b (512) at non-singleton dimension 1 - Stack Overflow](https://stackoverflow.com/questions/64320883/the-size-of-tensor-a-707-must-match-the-size-of-tensor-b-512-at-non-singleto)  
+        * [python - Tokenize a paragraph into sentence and then into words in NLTK - Stack Overflow](https://stackoverflow.com/questions/37605710/tokenize-a-paragraph-into-sentence-and-then-into-words-in-nltk)  
+        * [python 3.x - How to compile torch 1.5.0 without GPU support? - Stack Overflow](https://stackoverflow.com/questions/62134409/how-to-compile-torch-1-5-0-without-gpu-support)  
         * [word embedding - Download pre-trained sentence-transformers model locally - Stack Overflow](https://stackoverflow.com/questions/65419499/download-pre-trained-sentence-transformers-model-locally)  
       * stanfordnlp.github.io  
         * [Lemmatization - Stanza](https://stanfordnlp.github.io/stanza/lemma.html)  
         * [Tokenization & Sentence Segmentation - Stanza](https://stanfordnlp.github.io/stanza/tokenize.html)  
+      * www.datacamp.com  
+        * [Lasso and Ridge Regression in Python Tutorial | DataCamp](https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression)  
+        * [Llama.cpp Tutorial: A Complete Guide to Efficient LLM Inference and Implementation | DataCamp](https://www.datacamp.com/tutorial/llama-cpp-tutorial)  
       * www.mathsisfun.com  
         * [Calculating the mean from a frequency table](https://www.mathsisfun.com/data/mean-frequency-table.html)  
         * [Finding a Central Value](https://www.mathsisfun.com/data/central-measures.html)  
@@ -1465,6 +1493,7 @@
         * [How to Find the Median Value](https://www.mathsisfun.com/median.html)  
         * [Standard Deviation and Variance](https://www.mathsisfun.com/data/standard-deviation.html)  
       * www.nltk.org  
+        * [NLTK :: nltk.downloader module](https://www.nltk.org/api/nltk.downloader.html)  
         * [NLTK :: nltk.text module](https://www.nltk.org/api/nltk.text.html)  
         * [NLTK :: nltk.tokenize package](https://www.nltk.org/api/nltk.tokenize.html)  
         * [NLTK :: Sample usage for concordance](https://www.nltk.org/howto/concordance.html)  
@@ -1476,36 +1505,66 @@
         * [statsmodels.tsa.seasonal.seasonal_decompose — statsmodels](https://www.statsmodels.org/stable/generated/statsmodels.tsa.seasonal.seasonal_decompose.html)  
         * [statsmodels.tsa.statespace.sarimax.SARIMAX — statsmodels](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)  
       * [AutoTS Documentation](https://winedarksea.github.io/AutoTS/build/html/source/tutorial.html)  
-      * [Building an AI powered REST API with Gradio and Huggingface Spaces – for free! – Tom Söderlund](https://www.tomsoderlund.com/ai/building-ai-powered-rest-api)  
+      * [Convert Hugging Face model to GGUF | Medium](https://mdeore.medium.com/transpose-huggingface-models-to-gguf-format-6071c86ad2cc)  
+      * [CTranslate2 Quickstart](https://opennmt.net/CTranslate2/quickstart.html)  
+      * [Embedding texts that are longer than the model's maximum context length | OpenAI Cookbook](https://cookbook.openai.com/examples/embedding_long_inputs)  
+      * [How to Download Multiple Files or an Entire Folder from Google Colab | Saturn Cloud Blog](https://saturncloud.io/blog/how-to-download-multiple-files-or-an-entire-folder-from-google-colab/)  
+      * [How to install CUDA on Ubuntu 20.04 Focal Fossa Linux - Linux Tutorials - Learn Linux Configuration](https://linuxconfig.org/how-to-install-cuda-on-ubuntu-20-04-focal-fossa-linux)  
       * [How to Train an AI Chatbot With Custom Knowledge Base Using ChatGPT API](https://beebom.com/how-train-ai-chatbot-custom-knowledge-base-chatgpt-api/)  
       * [Installing the NVIDIA Container Toolkit — NVIDIA Container Toolkit 1.14.3 documentation](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)  
+      * [Local Embeddings with HuggingFace - LlamaIndex 🦙 v0.10.10](https://docs.llamaindex.ai/en/stable/examples/embeddings/huggingface.html)  
       * [Named Entity Recognition (NER) — DeepPavlov 1.0.2 documentation](http://docs.deeppavlov.ai/en/master/features/models/NER.html)  
+      * [nlp - Recommended way to embed a text thousands of tokens long? - Data Science Stack Exchange](https://datascience.stackexchange.com/questions/123036/recommended-way-to-embed-a-text-thousands-of-tokens-long)  
+      * [NLTK Tokenize: Words and Sentences Tokenizer with Example](https://www.guru99.com/tokenize-words-sentences-nltk.html)  
       * [Non-Daily Data | Prophet](https://facebook.github.io/prophet/docs/non-daily_data.html)  
+      * [ONNX for Sentence Transformer Models | Medium](https://medium.com/@TheHaseebHassan/pytorch-onnx-sentence-transformer-optimization-e24bdbed9696)  
+      * [Python Machine Learning Multiple Regression](https://www.w3schools.com/python/python_ml_multiple_regression.asp)  
+      * [Run your private LLM: Falcon-7B-Instruct with less than 6GB of GPU using 4-bit quantization | by Vilson Rodrigues | Medium](https://vilsonrodrigues.medium.com/run-your-private-llm-falcon-7b-instruct-with-less-than-6gb-of-gpu-using-4-bit-quantization-ff1d4ffbabcc)  
+      * [seaborn.regplot](https://seaborn.pydata.org/generated/seaborn.regplot.html)  
       * [Serverless Machine Learning Applications with Hugging Face Gradio and AWS Lambda](https://www.philschmid.de/serverless-gradio)  
+      * [sklearn.pipeline.Pipeline — scikit-learn 1.3.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)  
+      * [Split by tokens | 🦜️🔗 Langchain](https://python.langchain.com/docs/modules/data_connection/document_transformers/split_by_token)  
+      * [torch.Tensor.tolist — PyTorch 2.1 documentation](https://pytorch.org/docs/stable/generated/torch.Tensor.tolist.html)  
     * Machine Learning Models  
       * huggingface.co  
+        * [CohereForAI/aya-101 · Hugging Face](https://huggingface.co/CohereForAI/aya-101)  
         * [databricks/dolly-v2-3b · Hugging Face](https://huggingface.co/databricks/dolly-v2-3b)  
         * [dslim/bert-large-NER · Hugging Face](https://huggingface.co/dslim/bert-large-NER)  
+        * [intfloat/multilingual-e5-large · Hugging Face](https://huggingface.co/intfloat/multilingual-e5-large)  
+        * [llmware/dragon-mistral-7b-v0 · Hugging Face](https://huggingface.co/llmware/dragon-mistral-7b-v0)  
+        * [maddes8cht/tiiuae-falcon-40b-instruct-gguf · Hugging Face](https://huggingface.co/maddes8cht/tiiuae-falcon-40b-instruct-gguf)  
+        * [Qdrant/multilingual-e5-large-onnx · Hugging Face](https://huggingface.co/Qdrant/multilingual-e5-large-onnx)  
+        * [setu4993/LEALLA-large · Hugging Face](https://huggingface.co/setu4993/LEALLA-large)  
         * [shahrukhx01/schema-aware-denoising-bart-large-cnn-text2sql · Hugging Face](https://huggingface.co/shahrukhx01/schema-aware-denoising-bart-large-cnn-text2sql)  
         * [silencesys/paraphrase-xlm-r-multilingual-v1-fine-tuned-for-medieval-latin · Hugging Face](https://huggingface.co/silencesys/paraphrase-xlm-r-multilingual-v1-fine-tuned-for-medieval-latin)  
+        * [Sosnitskij/mGPT-13B-gguf · Hugging Face](https://huggingface.co/Sosnitskij/mGPT-13B-gguf)  
         * [stanfordnlp/stanza-la · Hugging Face](https://huggingface.co/stanfordnlp/stanza-la)  
+        * [TheBloke/claude2-alpaca-13B-GGUF · Hugging Face](https://huggingface.co/TheBloke/claude2-alpaca-13B-GGUF)  
+        * [TheBloke/SauerkrautLM-Mixtral-8x7B-Instruct-GGUF · Hugging Face](https://huggingface.co/TheBloke/SauerkrautLM-Mixtral-8x7B-Instruct-GGUF)  
+        * [TheBloke/WizardLM-13B-V1.2-GGUF · Hugging Face](https://huggingface.co/TheBloke/WizardLM-13B-V1.2-GGUF)  
       * [dbamman/latin-bert: Latin BERT](https://github.com/dbamman/latin-bert)  
       * [deeppavlov/DeepPavlov: An open source library for deep learning end-to-end dialog systems and chatbots.](https://github.com/deeppavlov/DeepPavlov)  
+      * [MTEB Leaderboard - a Hugging Face Space by mteb](https://huggingface.co/spaces/mteb/leaderboard)  
+      * [RWKV Language Model](https://www.rwkv.com/)  
     * Python Packages  
       * github.com  
+        * [abetlen/llama-cpp-python: Python bindings for llama.cpp](https://github.com/abetlen/llama-cpp-python)  
         * [adbar/simplemma: Simple multilingual lemmatizer for Python, especially useful for speed and efficiency](https://github.com/adbar/simplemma)  
+        * [AI-Northstar-Tech/vector-io: Use the universal VDF format for vector datasets to easily export and import data from all vector databases](https://github.com/AI-Northstar-Tech/vector-io)  
         * [andbue/latin-bert-huggingface: Tokenizer config files to integrate Latin BERT in 🤗 transformers](https://github.com/andbue/latin-bert-huggingface)  
         * [GitHub - abhijithneilabraham/tableQA: AI Tool for querying natural language on tabular data.](https://github.com/abhijithneilabraham/tableQA)  
         * [GitHub - awslabs/gluonts: Probabilistic time series modeling in Python](https://github.com/awslabs/gluonts)  
         * [GitHub - MaartenGr/KeyBERT: Minimal keyword extraction with BERT](https://github.com/MaartenGr/KeyBERT)  
         * [gradio-app/gradio: Create UIs for your machine learning model in Python in 3 minutes](https://github.com/gradio-app/gradio)  
         * [kristopherkyle/corpus_toolkit: A simple toolkit for conducting analyses using corpus methods](https://github.com/kristopherkyle/corpus_toolkit)  
+        * [MaartenGr/KeyBERT: Minimal keyword extraction with BERT](https://github.com/MaartenGr/keyBERT)  
         * [marella/ctransformers: Python bindings for the Transformer models implemented in C/C++ using GGML library.](https://github.com/marella/ctransformers)  
         * [Nixtla/neuralforecast: Scalable and user friendly neural forecasting algorithms.](https://github.com/Nixtla/neuralforecast)  
+        * [plasticityai/magnitude: A fast, efficient universal vector embedding utility package.](https://github.com/plasticityai/magnitude)  
+        * [qdrant/fastembed: Fast, Accurate, Lightweight Python library to make State of the Art Embedding](https://github.com/qdrant/fastembed)  
         * [UKPLab/EasyNMT: Easy to use, state-of-the-art Neural Machine Translation for 100+ languages](https://github.com/UKPLab/EasyNMT)  
         * [UKPLab/sentence-transformers: Multilingual Sentence & Image Embeddings with BERT](https://github.com/UKPLab/sentence-transformers)  
         * [winedarksea/AutoTS: Automated Time Series Forecasting](https://github.com/winedarksea/AutoTS)  
-        * [MaartenGr/KeyBERT: Minimal keyword extraction with BERT](https://github.com/MaartenGr/keyBERT)  
       * pypi.org  
         * [latinwordnet · PyPI](https://pypi.org/project/latinwordnet/)  
       * [Greykite: A flexible, intuitive, and fast forecasting library | LinkedIn Engineering](https://engineering.linkedin.com/blog/2021/greykite--a-flexible--intuitive--and-fast-forecasting-library)  
@@ -1521,7 +1580,6 @@
         * [API Reference - OpenAI API](https://platform.openai.com/docs/api-reference/introduction)  
         * [Examples - OpenAI API](https://platform.openai.com/examples)  
       * [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/)  
-      * [Einblick | Data science at the speed of thought](https://www.einblick.ai/)  
     * Vector Search  
       * Qdrant  
         * [qdrant/qdrant-client: Python client for Qdrant vector search engine](https://github.com/qdrant/qdrant-client)  
@@ -1529,6 +1587,7 @@
       * [marqo-ai/marqo: Tensor search for humans.](https://github.com/marqo-ai/marqo)  
     * [BERT + Nearest Neighbors - Product Recommendation | Kaggle](https://www.kaggle.com/code/auhide/bert-nearest-neighbors-product-recommendation)  
     * [mindsdb/mindsdb: MindsDB connects AI models to databases.](https://github.com/mindsdb/mindsdb)  
+    * [unum-cloud/usearch: Fast Open-Source Search & Clustering engine](https://github.com/unum-cloud/usearch)  
   * Maps  
     * [Organic Maps | Fast detailed offline maps for travelers, tourists, hikers and cyclists](https://organicmaps.app/)  
     * [Organic Maps | Flathub](https://flathub.org/apps/app.organicmaps.desktop)  
@@ -1773,6 +1832,7 @@
         * [Basic Overview of the debian/ Directory — Ubuntu Packaging Guide](https://packaging.ubuntu.com/html/debian-dir-overview.html)  
         * [Building binary deb packages: a practical guide - Internal Pointers](https://www.internalpointers.com/post/build-binary-deb-package-practical-guide)  
         * [Check which folders use the highest disk space in linux - Tutorials and How To - CloudCone](https://cloudcone.com/docs/article/check-which-folders-use-the-highest-disk-space-in-linux/)  
+        * [Erasing Data Securely From Your SSD or HDD - Privacy Guides](https://blog.privacyguides.org/2022/05/25/secure-data-erasure/)  
         * [How to check CentOS version - LinuxConfig.org](https://linuxconfig.org/how-to-check-centos-version)  
         * [How to Check Disk Type SSD in Linux](https://linuxopsys.com/topics/check-disk-type-ssd-in-linux)  
         * [How to Disable Auto Login in Xubuntu: 4 Steps (with Pictures)](https://www.wikihow.tech/Disable-Auto-Login-in-Xubuntu)  
@@ -1784,10 +1844,10 @@
         * [Linux and Unix du command tutorial with examples | George Ornbo](https://shapeshed.com/unix-du/)  
         * [LXDE: Autostart Apps With .desktop Files](http://pclosmag.com/html/Issues/201009/page10.html)  
         * [Make Directory Only if it Doesn't Exist Already in Linux](https://linuxhandbook.com/make-directory-only-if-doesnt-exist/)  
+        * [Multipass documentation - How-to guides](https://multipass.run/docs/how-to-guides)  
         * [pstree - Wikipedia](https://en.wikipedia.org/wiki/Pstree)  
         * [System Program Problem Detected in Ubuntu](https://itsfoss.com/how-to-fix-system-program-problem-detected-ubuntu/)  
         * [Volume Control and Output Selection with PulseAudio Command Line Tools | Tero Karvinen](http://terokarvinen.com/2015/volume-control-with-pulseaudio-command-line-tools)  
-      * [Multipass orchestrates virtual Ubuntu instances](https://multipass.run/)  
     * Windows  
       * Windows Applications  
         * Portable Applications  
@@ -1931,6 +1991,7 @@
             * [QStandardPaths Class | Qt Core 5.5](http://doc.qt.io/qt-5/qstandardpaths.html)  
             * [Qt for Windows - Requirements | Qt 5.5](http://doc.qt.io/qt-5/windows-requirements.html)  
             * [Qt WebEngine Debugging and Profiling | Qt WebEngine 5.9](https://doc.qt.io/qt-5/qtwebengine-debugging.html)  
+            * [Qt WebEngine Debugging and Profiling | Qt WebEngine 6.6.0](https://doc.qt.io/qt-6/qtwebengine-debugging.html)  
             * [QTimer Class | Qt 4.8](http://doc.qt.io/qt-4.8/qtimer.html)  
             * [QWebEngineContextMenuData Class | Qt WebEngine 5.8](http://doc.qt.io/qt-5/qwebenginecontextmenudata.html)  
             * [QWebInspector Class | Qt 4.8](http://doc.qt.io/qt-4.8/qwebinspector.html)  
@@ -1943,7 +2004,7 @@
             * [The Qt Resource System | Qt 4.8](http://doc.qt.io/qt-4.8/resources.html)  
             * [The Qt Resource System | Qt Core 5.5](http://doc.qt.io/qt-5/resources.html)  
             * [WebEngine Widgets Minimal Example | Qt WebEngine 5.8](http://doc.qt.io/qt-5/qtwebengine-webenginewidgets-minimal-example.html)  
-            * [Qt WebEngine Debugging and Profiling | Qt WebEngine 6.6.0](https://doc.qt.io/qt-6/qtwebengine-debugging.html)  
+            * [WebEngine Widgets Simple Browser Example | Qt WebEngine 6.6.0](https://doc.qt.io/qt-6/qtwebengine-webenginewidgets-simplebrowser-example.html)  
           * forum.qt.io  
             * [Extract a QString with a regular expression. | Qt Forum](https://forum.qt.io/topic/77152/extract-a-qstring-with-a-regular-expression/10)  
             * [How to set the operations of right click | Qt Forum](https://forum.qt.io/topic/14709/how-to-set-the-operations-of-right-click/16)  
@@ -2064,6 +2125,7 @@
             * [using two .qrc files in one application](http://www.qtcentre.org/threads/45001-using-two-qrc-files-in-one-application)  
             * [writing a username and password dialog](http://www.qtcentre.org/threads/6695-writing-a-username-and-password-dialog)  
             * [How to return QString from function](https://www.qtcentre.org/threads/51965-How-to-return-QString-from-function)  
+          * [C++ – Obtaining command line arguments in a Qt application – iTecNote](https://itecnote.com/tecnote/c-obtaining-command-line-arguments-in-a-qt-application/)  
           * [Deploying Qt or how to avoid “could not find or load the Qt platform plugin” | Tripleboot blog](http://www.tripleboot.org/?p=138)  
           * [Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown](https://gist.github.com/jeffcogswell/62395900725acef1c0a5a608f7eb7a05)  
           * [In-memory ZIP File Access Using Qt » asmaloney.com](http://asmaloney.com/2011/12/code/in-memory-zip-file-access-using-qt/)  
@@ -3212,6 +3274,7 @@
           * [Organizing information with tables - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)  
           * [Basic writing and formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
         * [Extended Syntax | Markdown Guide](https://www.markdownguide.org/extended-syntax/)  
+        * [Guide to aligning images in github readme.md files](https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d)  
         * [markdown - Is there a way to represent a directory tree in a Github README.md? - Stack Overflow](https://stackoverflow.com/questions/23989232/is-there-a-way-to-represent-a-directory-tree-in-a-github-readme-md)  
       * [License Badges for your Project](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)  
       * [linguist/languages.yml at master · github/linguist](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)  
@@ -3262,7 +3325,11 @@
           * [credentials - How can I save username and password in Git? - Stack Overflow](https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git)  
         * [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)  
         * [How can I undo the last commit?](https://www.git-tower.com/learn/git/faq/undo-last-commit)  
+        * [How to delete a local Git branch](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/delete-local-git-branch-origin-force-merge-all)  
         * [Introduction to Github APIs | LoginRadius Blog](https://www.loginradius.com/blog/engineering/github-api/)  
+      * Git LFS  
+        * [Git Large File Storage | Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.](https://git-lfs.com/)  
+        * [github/git-lfs - Installation · packagecloud- Bash Scripts](https://packagecloud.io/github/git-lfs/install)  
       * [Git for Windows](https://gitforwindows.org/)  
       * [GitHub](https://github.com/)  
       * [GitHub Résumé](http://resume.github.io/)  
