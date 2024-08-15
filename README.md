@@ -181,6 +181,7 @@
           * [Invoking Amazon API Gateway with an API Key - Nelson Figueroa](https://nelson.cloud/invoking-amazon-api-gateway-with-an-api-key/)  
           * [Is it on AWS?](https://isitonaws.com/)  
           * [Troubleshoot HTTP 5xx errors from Amazon S3 | AWS re:Post](https://repost.aws/knowledge-center/http-5xx-errors-s3)  
+        * [Amazon WorkSpaces Client Download](https://clients.amazonworkspaces.com/)  
         * [AWS Pricing Calculator](https://calculator.aws/)  
         * [AWS Service Health Dashboard](https://status.aws.amazon.com/)  
         * [Cloud Services - Amazon Web Services (AWS)](https://aws.amazon.com/)  
@@ -217,7 +218,9 @@
       * rclone  
         * rclone how to  
           * rclone.org  
+            * [Global Flags](https://rclone.org/flags/)  
             * [Google drive](https://rclone.org/drive/)  
+            * [Install](https://rclone.org/install/)  
             * [Microsoft OneDrive](https://rclone.org/onedrive/)  
             * [rclone link](https://rclone.org/commands/rclone_link/)  
             * [Remote Setup](https://rclone.org/remote_setup/)  
@@ -228,8 +231,11 @@
         * Storj How To  
           * docs.storj.io  
             * [Create Access Grant in CLI - Storj DCS](https://docs.storj.io/dcs/getting-started/quickstart-uplink-cli/generate-access-grants-and-tokens/generate-a-token)  
+            * [Download and install uplink - Storj Docs](https://docs.storj.io/dcs/api/uplink-cli/installation)  
             * [Rclone with Native Integration | Storj Docs](https://docs.storj.io/dcs/how-tos/sync-files-with-rclone/rclone-with-native-integration/)  
             * [S3 Compatible Gateway Hosted by Storj - Storj Docs](https://docs.storj.io/dcs/api/s3/s3-compatible-gateway)  
+            * [Understanding Storj Pricing Structure - Storj Docs](https://docs.storj.io/dcs/pricing)  
+            * [Understanding Storj Usage Limits - Storj Docs](https://docs.storj.io/learn/concepts/limits)  
             * [Uplink CLI - Storj DCS](https://docs.storj.io/dcs/api-reference/uplink-cli)  
             * [Usage Limits - Storj DCS](https://docs.storj.io/dcs/concepts/limits)  
         * [GitHub - storj-thirdparty/uplink-python: Python bindings for libuplink](https://github.com/storj-thirdparty/uplink-python)  
@@ -372,6 +378,8 @@
         * [Pandas DataFrame: GroupBy Examples](https://queirozf.com/entries/pandas-dataframe-groupby-examples)  
         * [Pandas Query Examples: SQL-like queries in dataframes](https://queirozf.com/entries/pandas-query-examples-sql-like-syntax-queries-in-dataframes)  
       * saturncloud.io  
+        * [How to Delete Rows with Null Values in a Specific Column in Pandas DataFrame | Saturn Cloud Blog](https://saturncloud.io/blog/how-to-delete-rows-with-null-values-in-a-specific-column-in-pandas-dataframe/)  
+        * [How to Download Multiple Files or an Entire Folder from Google Colab | Saturn Cloud Blog](https://saturncloud.io/blog/how-to-download-multiple-files-or-an-entire-folder-from-google-colab/)  
         * [How to Split a Large Pandas DataFrame | Saturn Cloud Blog](https://saturncloud.io/blog/how-to-split-a-large-pandas-dataframe/)  
         * [The Fastest Way to Apply an Async Function to a Pandas DataFrame | Saturn Cloud Blog](https://saturncloud.io/blog/the-fastest-way-to-apply-an-async-function-to-a-pandas-dataframe/)  
       * stackoverflow.com  
@@ -407,6 +415,7 @@
         * [python - Check if a value exists in pandas dataframe index - Stack Overflow](https://stackoverflow.com/questions/23549231/check-if-a-value-exists-in-pandas-dataframe-index)  
         * [python - Check if an INSERT with a SELECT was successfull in PyMySQL - Stack Overflow](https://stackoverflow.com/questions/51983057/check-if-an-insert-with-a-select-was-successfull-in-pymysql)  
         * [python - check if variable is dataframe - Stack Overflow](https://stackoverflow.com/questions/14808945/check-if-variable-is-dataframe)  
+        * [python - Constructing pandas DataFrame from values in variables gives "ValueError: If using all scalar values, you must pass an index" - Stack Overflow](https://stackoverflow.com/questions/17839973/constructing-pandas-dataframe-from-values-in-variables-gives-valueerror-if-usi)  
         * [python - Convert floats to ints in Pandas? - Stack Overflow](https://stackoverflow.com/questions/21291259/convert-floats-to-ints-in-pandas)  
         * [python - Convert Pandas dataframe to csv string - Stack Overflow](https://stackoverflow.com/questions/23231605/convert-pandas-dataframe-to-csv-string)  
         * [python - Convert pandas dataframe to tuple of tuples - Stack Overflow](https://stackoverflow.com/questions/51897708/convert-pandas-dataframe-to-tuple-of-tuples)  
@@ -719,10 +728,13 @@
           * [XML Validator](https://www.w3schools.com/xml/xml_validator.asp)  
       * [Storage size and generation time in popular file formats | Adaltas](https://www.adaltas.com/en/2021/03/22/performance-comparison-of-file-formats/)  
     * Data Lakes  
+      * Benchmarks  
+        * [Setting the Table: Benchmarking Open Table Formats](https://brooklyndata.co/blog/benchmarking-open-table-formats?ref=arecadata.com)  
       * Formats  
         * Delta Lake  
           * [Delta Lake](https://delta.io/)  
           * [Delta Lake Documentation](https://delta-io.github.io/delta-rs/)  
+          * [ingkle-oss/deltaquery](https://github.com/ingkle-oss/deltaquery/tree/main)  
         * [Apache Iceberg Documentation](https://iceberg.apache.org/docs/latest/)  
         * [OneTable](https://onetable.dev/)  
       * Ideas  
@@ -802,7 +814,6 @@
                 * [Data Formats - Dremio](https://docs.dremio.com/software/data-formats/)  
                 * [Data Sources - Dremio](https://docs.dremio.com/software/data-sources/)  
                 * [Data Types - Dremio](https://docs.dremio.com/software/sql-reference/data-types/)  
-                * [Dataset Concepts - Dremio](https://docs.dremio.com/software/managing-data/concepts/)  
                 * [DBeaver - Dremio](https://docs.dremio.com/software/client-applications/dbeaver/)  
                 * [Delta Lake - Dremio](https://docs.dremio.com/software/data-formats/delta-lake/)  
                 * [Deployment Models - Dremio](https://docs.dremio.com/software/deployment/deployment-models/)  
@@ -830,7 +841,6 @@
                 * [System Tables - Dremio](https://docs.dremio.com/software/sql-reference/system-tables/)  
                 * [Table SQL Statements - Dremio](https://docs.dremio.com/software/sql-reference/sql-commands/tables/#create-table-as)  
                 * [User-Defined Functions - Dremio](https://docs.dremio.com/software/sql-reference/sql-commands/functions/)  
-                * [Virtual Datasets - Dremio](https://docs.dremio.com/software/managing-data/virtual-datasets/)  
               * [Dremio Documentation](https://docs.dremio.com/)  
               * [Dremio Hub](https://www.dremio.com/hub/)  
             * github.com  
@@ -868,10 +878,7 @@
                 * [The Data Lakehouse Query Engine | Dremio](https://www.dremio.com/platform/sonar/query-engine/)  
               * subsurface  
                 * [An Introduction to Apache Arrow Flight SQL | Dremio](https://www.dremio.com/subsurface/an-introduction-to-apache-arrow-flight-sql/)  
-                * [Apache Iceberg 101 - Your Guide to Learning Apache Iceberg Concepts and Practices](https://www.dremio.com/subsurface/apache-iceberg-101-your-guide-to-learning-apache-iceberg-concepts-and-practices/)  
-                * [Comparison of Data Lake Table Formats (Iceberg, Hudi and Delta Lake)](https://www.dremio.com/subsurface/comparison-of-data-lake-table-formats-iceberg-hudi-and-delta-lake/)  
                 * [Ensuring High Performance at Any Scale with Apache Iceberg's Object Store File Layout](https://www.dremio.com/subsurface/ensuring-high-performance-at-any-scale-with-apache-icebergs-object-store-file-layout/)  
-                * [Getting Started with Apache Iceberg in Databricks](https://www.dremio.com/subsurface/getting-started-with-apache-iceberg-in-databricks/)  
                 * [Nessie: Git for Data Lakes](https://www.dremio.com/subsurface/nessie-git-for-data-lakes/)  
                 * [The Origins of Apache Arrow & Its Fit in Today's Data Landscape](https://www.dremio.com/subsurface/the-origins-of-apache-arrow-its-fit-in-todays-data-landscape/)  
               * tutorials  
@@ -941,13 +948,13 @@
             * blog  
               * [DuckDB - DuckDB quacks Arrow: A zero-copy data integration between Apache Arrow and DuckDB](https://duckdb.org/2021/12/03/duck-arrow.html)  
               * [DuckDB - Efficient SQL on Pandas with DuckDB](https://duckdb.org/2021/05/14/sql-on-pandas.html)  
-              * [DuckDB - Querying Parquet with Precision using DuckDB](https://duckdb.org/2021/06/25/querying-parquet.html)  
               * [DuckDB's CSV Sniffer: Automatic Detection of Types and Dialects - DuckDB](https://duckdb.org/2023/10/27/csv-sniffer.html)  
               * [Even Friendlier SQL with DuckDB - DuckDB](https://duckdb.org/2023/08/23/even-friendlier-sql.html)  
               * [From Waddle to Flying: Quickly expanding DuckDB's functionality with Scalar Python UDFs - DuckDB](https://duckdb.org/2023/07/07/python-udf.html)  
             * docs  
               * [AWS Extension - DuckDB](https://duckdb.org/docs/extensions/aws.html)  
               * [Configuration - DuckDB](https://duckdb.org/docs/sql/configuration.html)  
+              * [CREATE SEQUENCE Statement - DuckDB](https://duckdb.org/docs/sql/statements/create_sequence.html)  
               * [DuckDB - Aggregate Functions](https://duckdb.org/docs/sql/aggregates)  
               * [DuckDB - Date Format](https://duckdb.org/docs/sql/functions/dateformat)  
               * [DuckDB - Date Functions](https://duckdb.org/docs/sql/functions/date)  
@@ -960,11 +967,14 @@
               * [DuckDB - Text Functions](https://duckdb.org/docs/sql/functions/char)  
               * [DuckDB - Time Functions](https://duckdb.org/docs/sql/functions/time)  
               * [DuckDB - Timestamp Functions](https://duckdb.org/docs/sql/functions/timestamp)  
+              * [Export to Apache Arrow - DuckDB](https://duckdb.org/docs/guides/python/export_arrow.html)  
               * [httpfs Extension - DuckDB](https://duckdb.org/docs/extensions/httpfs)  
               * [Official Extensions - DuckDB](https://duckdb.org/docs/extensions/official_extensions)  
               * [Performance Guide - DuckDB](https://duckdb.org/docs/guides/performance/overview)  
               * [Pivot Statement - DuckDB](https://duckdb.org/docs/sql/statements/pivot.html)  
+              * [Python Function API - DuckDB](https://duckdb.org/docs/api/python/function)  
               * [Result Conversion - DuckDB](https://duckdb.org/docs/api/python/result_conversion)  
+              * [WITH Clause - DuckDB](https://duckdb.org/docs/sql/query_syntax/with.html)  
             * [DuckDB Shell](https://shell.duckdb.org/)  
           * duckdbsnippets.com  
             * [City air quality insights based on WHO data | DuckDB Snippets](https://duckdbsnippets.com/snippets/110/city-air-quality-insights-based-on-who-data)  
@@ -1130,6 +1140,9 @@
           * [SQLite browser - Online SQL interpreter](https://extendsclass.com/sqlite-browser.html)  
           * [SQLiteStudio](https://sqlitestudio.pl/)  
         * [Robo 3T | Free, open-source MongoDB GUI (formerly Robomongo)](https://robomongo.org/)  
+      * Datasets  
+        * [SQLite Sample Database And Its Diagram (in PDF format)](https://www.sqlitetutorial.net/sqlite-sample-database/)  
+        * [MySQL :: Sakila Sample Database](https://dev.mysql.com/doc/sakila/en/)  
       * Graph  
         * Memgraph How To  
           * [First steps with Memgraph | Memgraph Docs](https://memgraph.com/docs/memgraph/tutorials/first-steps-with-memgraph)  
@@ -1329,6 +1342,7 @@
             * [Overview of the SQL REPLACE function](https://www.sqlshack.com/overview-of-the-sql-replace-function/)  
             * [SQL Notes for Professionals](https://books.goalkicker.com/SQLBook/)  
             * [SQL style guide by Simon Holywell](https://www.sqlstyle.guide/)  
+            * [The problem with using a UUID primary key in MySQL](https://planetscale.com/blog/the-problem-with-using-a-uuid-primary-key-in-mysql)  
             * [What are SQL Joins? Types of SQL joins explained - DEV](https://dev.to/educative/what-are-sql-joins-types-of-sql-joins-explained-5ci5)  
           * [Free Mysql Database - Remote Mysql Hosting](https://freedb.tech/)  
         * PostgreSQL  
@@ -1358,10 +1372,9 @@
           * [nalgeon/sqlime: Online SQLite playground](https://github.com/nalgeon/sqlime)  
           * [resilar/sqleet: SQLite3 encryption that sucks less](https://github.com/resilar/sqleet)  
           * [SQLite Home Page](https://www.sqlite.org/index.html)  
-          * [Turso | SQLite Developer Experience in an Edge Database](https://turso.tech/)  
         * [ClickHouse - fast open-source OLAP DBMS](https://clickhouse.tech/)  
         * [QuestDB | Time series data, faster](https://questdb.io/)  
-      * [SQLite Sample Database And Its Diagram (in PDF format)](https://www.sqlitetutorial.net/sqlite-sample-database/)  
+      * [drawDB | Online database diagram editor and SQL generator](https://drawdb.vercel.app/)  
     * Event Streaming  
       * Apache Kafka  
         * Apache Kafka How To  
@@ -1382,9 +1395,25 @@
         * [dremio-simple-query · PyPI](https://pypi.org/project/dremio-simple-query/)  
         * [dtale · PyPI](https://pypi.org/project/dtale/)  
       * [Polars](https://www.pola.rs/)  
-      * [PyIceberg](https://py.iceberg.apache.org/)  
       * [Python deltalake package](https://delta-io.github.io/delta-rs/python/index.html)  
       * [Vaex.io: An ML Ready Fast DataFrame for Python 🚀](https://vaex.io/)  
+    * Workflow Management  
+      * Apache Airflow  
+        * Apache Airflow How To  
+          * airflow.apache.org  
+            * [SnowflakeOperator — apache-airflow-providers-snowflake Documentation](https://airflow.apache.org/docs/apache-airflow-providers-snowflake/stable/operators/snowflake.html)  
+            * [Variables — Airflow Documentation](https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/variables.html)  
+          * github.com  
+            * [airflow-guides/guides/airflow-sql-tutorial.md at main · astronomer/airflow-guides](https://github.com/astronomer/airflow-guides/blob/main/guides/airflow-sql-tutorial.md)  
+            * [nydasco/data-pipeline-demo: A demonstration of an ELT (Extract, Load, Transform) pipeline](https://github.com/nydasco/data-pipeline-demo/tree/main)  
+          * stackoverflow.com  
+            * [Airflow Task is not failing for Snowflake Query - Stack Overflow](https://stackoverflow.com/questions/77374383/airflow-task-is-not-failing-for-snowflake-query)  
+            * [python - Running airflow tasks/dags in parallel - Stack Overflow](https://stackoverflow.com/questions/52741536/running-airflow-tasks-dags-in-parallel)  
+          * www.astronomer.io  
+            * [Orchestrate Snowflake Queries with Airflow | Astronomer Documentation](https://www.astronomer.io/docs/learn/airflow-snowflake)  
+            * [Using Airflow to Execute SQL | Astronomer Documentation](https://www.astronomer.io/docs/learn/airflow-sql)  
+          * [A complete Apache Airflow tutorial: building data pipelines with Python | AI Summer](https://theaisummer.com/apache-airflow-tutorial/)  
+          * [Apache Airflow Operators 101 Guide | Censius](https://censius.ai/blogs/apache-airflow-operators-guide)  
     * [GitHub - DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)  
     * [Substrait: Cross-Language Serialization for Relational Algebra](https://substrait.io/)  
   * Development Best Practices  
@@ -1422,9 +1451,11 @@
       * [Department of Justice 2009-2018 Press Releases | Kaggle](https://www.kaggle.com/datasets/jbencina/department-of-justice-20092018-press-releases)  
       * [TLC Trip Record Data - TLC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)  
     * Google Colab  
+      * stackoverflow.com  
+        * [How to change the theme to dark in Google Colab? - Stack Overflow](https://stackoverflow.com/questions/49894993/how-to-change-the-theme-to-dark-in-google-colab)  
+        * [Import data into Google Colaboratory - Stack Overflow](https://stackoverflow.com/questions/46986398/import-data-into-google-colaboratory)  
       * [colabtools/colab-github-demo.ipynb at master · googlecolab/colabtools](https://github.com/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)  
       * [Google Colab, RAM, VRAM and GPU usage limits](https://linux-blog.anracom.com/2023/05/04/google-colab-ram-vram-and-gpu-usage-limits-i-no-clear-conditions-over-multiple-sessions/)  
-      * [Import data into Google Colaboratory - Stack Overflow](https://stackoverflow.com/questions/46986398/import-data-into-google-colaboratory)  
       * [How to Deal With Files in Google Colab: Everything You Need to Know - neptune.ai](https://neptune.ai/blog/google-colab-dealing-with-files)  
     * Jupyter Notebook  
       * [jupyterlab/jupyterlab_app: A desktop application for JupyterLab, based on Electron.](https://github.com/jupyterlab/jupyterlab_app)  
@@ -1443,12 +1474,16 @@
       * gradio.app  
         * [Authentication](https://www.gradio.app/sharing_your_app/#authentication)  
         * [Gradio](https://gradio.app/)  
+        * [Gradio ClearButton Docs](https://www.gradio.app/docs/clearbutton)  
         * [Gradio Docs](https://gradio.app/docs/)  
+        * [Gradio JSON Docs](https://www.gradio.app/docs/json)  
         * [Gradio Quickstart](https://gradio.app/quickstart/)  
       * huggingface.co  
+        * [🪆 Introduction to Matryoshka Embedding Models](https://huggingface.co/blog/matryoshka)  
         * [Export to ONNX](https://huggingface.co/docs/transformers/serialization)  
         * [Inference pipelines with the ONNX Runtime accelerator](https://huggingface.co/docs/optimum/onnxruntime/usage_guides/pipelines)  
         * [ONNX Runtime Models](https://huggingface.co/docs/optimum/onnxruntime/package_reference/modeling_ort)  
+        * [Optimum Inference with ONNX Runtime](https://huggingface.co/docs/optimum/v1.2.1/en/onnxruntime/modeling_ort)  
         * [ORTModelForFeatureExtraction](https://huggingface.co/docs/optimum/v1.2.1/en/onnxruntime/modeling_ort#optimum.onnxruntime.ORTModelForFeatureExtraction)  
         * [Padding and truncation](https://huggingface.co/docs/transformers/pad_truncation)  
         * [Pipeline batching](https://huggingface.co/docs/transformers/main_classes/pipelines#pipeline-batching)  
@@ -1459,13 +1494,15 @@
       * numpy.org  
         * [numpy.ndarray.tolist](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.tolist.html)  
         * [numpy.pad](https://numpy.org/doc/stable/reference/generated/numpy.pad.html)  
-        * [numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)  
-        * [numpy.polynomial.polynomial.Polynomial.fit](https://numpy.org/doc/stable/reference/generated/numpy.polynomial.polynomial.Polynomial.fit.html#numpy.polynomial.polynomial.Polynomial.fit)  
       * onnxruntime.ai  
         * [Execution Providers | onnxruntime](https://onnxruntime.ai/docs/execution-providers/)  
         * [ONNX | Home](https://onnx.ai/)  
         * [ONNX Runtime | Home](https://onnxruntime.ai/)  
         * [Thread management | onnxruntime](https://onnxruntime.ai/docs/performance/tune-performance/threading.html)  
+      * opennmt.net  
+        * [OPUS-MT — CTranslate2 4.1.0 documentation](https://opennmt.net/CTranslate2/guides/opus_mt.html)  
+        * [Transformers — CTranslate2 4.1.0 documentation](https://opennmt.net/CTranslate2/guides/transformers.html)  
+        * [Multithreading and parallelism — CTranslate2 4.1.0 documentation](https://opennmt.net/CTranslate2/parallel.html)  
       * qdrant.tech  
         * [FastEmbed: Fast and Lightweight Embedding Generation for Text - Qdrant](https://qdrant.tech/articles/fastembed/#)  
         * [Semantic Search 101 - Qdrant](https://qdrant.tech/documentation/tutorials/search-beginners/)  
@@ -1504,11 +1541,11 @@
         * [statsmodels.tsa.seasonal.DecomposeResult — statsmodels](https://www.statsmodels.org/stable/generated/statsmodels.tsa.seasonal.DecomposeResult.html#statsmodels.tsa.seasonal.DecomposeResult)  
         * [statsmodels.tsa.seasonal.seasonal_decompose — statsmodels](https://www.statsmodels.org/stable/generated/statsmodels.tsa.seasonal.seasonal_decompose.html)  
         * [statsmodels.tsa.statespace.sarimax.SARIMAX — statsmodels](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)  
+      * [A Beginner-friendly and Comprehensive Deep Dive on Vector Databases](https://www.dailydoseofds.com/a-beginner-friendly-and-comprehensive-deep-dive-on-vector-databases)  
       * [AutoTS Documentation](https://winedarksea.github.io/AutoTS/build/html/source/tutorial.html)  
       * [Convert Hugging Face model to GGUF | Medium](https://mdeore.medium.com/transpose-huggingface-models-to-gguf-format-6071c86ad2cc)  
       * [CTranslate2 Quickstart](https://opennmt.net/CTranslate2/quickstart.html)  
       * [Embedding texts that are longer than the model's maximum context length | OpenAI Cookbook](https://cookbook.openai.com/examples/embedding_long_inputs)  
-      * [How to Download Multiple Files or an Entire Folder from Google Colab | Saturn Cloud Blog](https://saturncloud.io/blog/how-to-download-multiple-files-or-an-entire-folder-from-google-colab/)  
       * [How to install CUDA on Ubuntu 20.04 Focal Fossa Linux - Linux Tutorials - Learn Linux Configuration](https://linuxconfig.org/how-to-install-cuda-on-ubuntu-20-04-focal-fossa-linux)  
       * [How to Train an AI Chatbot With Custom Knowledge Base Using ChatGPT API](https://beebom.com/how-train-ai-chatbot-custom-knowledge-base-chatgpt-api/)  
       * [Installing the NVIDIA Container Toolkit — NVIDIA Container Toolkit 1.14.3 documentation](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)  
@@ -1517,14 +1554,17 @@
       * [nlp - Recommended way to embed a text thousands of tokens long? - Data Science Stack Exchange](https://datascience.stackexchange.com/questions/123036/recommended-way-to-embed-a-text-thousands-of-tokens-long)  
       * [NLTK Tokenize: Words and Sentences Tokenizer with Example](https://www.guru99.com/tokenize-words-sentences-nltk.html)  
       * [Non-Daily Data | Prophet](https://facebook.github.io/prophet/docs/non-daily_data.html)  
-      * [ONNX for Sentence Transformer Models | Medium](https://medium.com/@TheHaseebHassan/pytorch-onnx-sentence-transformer-optimization-e24bdbed9696)  
       * [Python Machine Learning Multiple Regression](https://www.w3schools.com/python/python_ml_multiple_regression.asp)  
-      * [Run your private LLM: Falcon-7B-Instruct with less than 6GB of GPU using 4-bit quantization | by Vilson Rodrigues | Medium](https://vilsonrodrigues.medium.com/run-your-private-llm-falcon-7b-instruct-with-less-than-6gb-of-gpu-using-4-bit-quantization-ff1d4ffbabcc)  
-      * [seaborn.regplot](https://seaborn.pydata.org/generated/seaborn.regplot.html)  
       * [Serverless Machine Learning Applications with Hugging Face Gradio and AWS Lambda](https://www.philschmid.de/serverless-gradio)  
       * [sklearn.pipeline.Pipeline — scikit-learn 1.3.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)  
       * [Split by tokens | 🦜️🔗 Langchain](https://python.langchain.com/docs/modules/data_connection/document_transformers/split_by_token)  
       * [torch.Tensor.tolist — PyTorch 2.1 documentation](https://pytorch.org/docs/stable/generated/torch.Tensor.tolist.html)  
+      * [Vector databases (1): What makes each one different? | The Data Quarry](https://thedataquarry.com/posts/vector-db-1/)  
+      * [Vector databases (2): Understanding their internals | The Data Quarry](https://thedataquarry.com/posts/vector-db-2/)  
+      * [Vector databases (3): Not all indexes are created equal | The Data Quarry](https://thedataquarry.com/posts/vector-db-3/)  
+      * [Vector databases (4): Analyzing the trade-offs | The Data Quarry](https://thedataquarry.com/posts/vector-db-4/)  
+      * [Vector Databases for generative AI applications - DEV Community](https://dev.to/aws/vector-databases-for-generative-ai-applications-1n8e)  
+      * [Vector DB Comparison](https://superlinked.com/vector-db-comparison)  
     * Machine Learning Models  
       * huggingface.co  
         * [CohereForAI/aya-101 · Hugging Face](https://huggingface.co/CohereForAI/aya-101)  
@@ -1533,6 +1573,7 @@
         * [intfloat/multilingual-e5-large · Hugging Face](https://huggingface.co/intfloat/multilingual-e5-large)  
         * [llmware/dragon-mistral-7b-v0 · Hugging Face](https://huggingface.co/llmware/dragon-mistral-7b-v0)  
         * [maddes8cht/tiiuae-falcon-40b-instruct-gguf · Hugging Face](https://huggingface.co/maddes8cht/tiiuae-falcon-40b-instruct-gguf)  
+        * [MaziyarPanahi/Mistral-7B-Instruct-Aya-101-GGUF · Hugging Face](https://huggingface.co/MaziyarPanahi/Mistral-7B-Instruct-Aya-101-GGUF)  
         * [Qdrant/multilingual-e5-large-onnx · Hugging Face](https://huggingface.co/Qdrant/multilingual-e5-large-onnx)  
         * [setu4993/LEALLA-large · Hugging Face](https://huggingface.co/setu4993/LEALLA-large)  
         * [shahrukhx01/schema-aware-denoising-bart-large-cnn-text2sql · Hugging Face](https://huggingface.co/shahrukhx01/schema-aware-denoising-bart-large-cnn-text2sql)  
@@ -1545,19 +1586,19 @@
       * [dbamman/latin-bert: Latin BERT](https://github.com/dbamman/latin-bert)  
       * [deeppavlov/DeepPavlov: An open source library for deep learning end-to-end dialog systems and chatbots.](https://github.com/deeppavlov/DeepPavlov)  
       * [MTEB Leaderboard - a Hugging Face Space by mteb](https://huggingface.co/spaces/mteb/leaderboard)  
-      * [RWKV Language Model](https://www.rwkv.com/)  
     * Python Packages  
       * github.com  
         * [abetlen/llama-cpp-python: Python bindings for llama.cpp](https://github.com/abetlen/llama-cpp-python)  
         * [adbar/simplemma: Simple multilingual lemmatizer for Python, especially useful for speed and efficiency](https://github.com/adbar/simplemma)  
         * [AI-Northstar-Tech/vector-io: Use the universal VDF format for vector datasets to easily export and import data from all vector databases](https://github.com/AI-Northstar-Tech/vector-io)  
         * [andbue/latin-bert-huggingface: Tokenizer config files to integrate Latin BERT in 🤗 transformers](https://github.com/andbue/latin-bert-huggingface)  
+        * [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille)  
+        * [dorianbrown/rank_bm25: A Collection of BM25 Algorithms in Python](https://github.com/dorianbrown/rank_bm25)  
         * [GitHub - abhijithneilabraham/tableQA: AI Tool for querying natural language on tabular data.](https://github.com/abhijithneilabraham/tableQA)  
         * [GitHub - awslabs/gluonts: Probabilistic time series modeling in Python](https://github.com/awslabs/gluonts)  
-        * [GitHub - MaartenGr/KeyBERT: Minimal keyword extraction with BERT](https://github.com/MaartenGr/KeyBERT)  
         * [gradio-app/gradio: Create UIs for your machine learning model in Python in 3 minutes](https://github.com/gradio-app/gradio)  
         * [kristopherkyle/corpus_toolkit: A simple toolkit for conducting analyses using corpus methods](https://github.com/kristopherkyle/corpus_toolkit)  
-        * [MaartenGr/KeyBERT: Minimal keyword extraction with BERT](https://github.com/MaartenGr/keyBERT)  
+        * [MaartenGr/KeyBERT: Minimal keyword extraction with BERT](https://github.com/MaartenGr/KeyBERT)  
         * [marella/ctransformers: Python bindings for the Transformer models implemented in C/C++ using GGML library.](https://github.com/marella/ctransformers)  
         * [Nixtla/neuralforecast: Scalable and user friendly neural forecasting algorithms.](https://github.com/Nixtla/neuralforecast)  
         * [plasticityai/magnitude: A fast, efficient universal vector embedding utility package.](https://github.com/plasticityai/magnitude)  
@@ -1630,6 +1671,7 @@
         * [Linguee | речник за английски, френски, немски, и други](https://bg.linguee.com/)  
         * [stelf/en2bg4term: речник с грижливо подбирани преводи на често срещани понятия от света на ИТ](https://github.com/stelf/en2bg4term)  
         * [Англо-български терминологичен речник по информатика](http://lml.bas.bg/~anton/linux/rechnik.html)  
+        * [Български езикови ресурси онлайн • БЕРОН](https://beron.mon.bg/)  
       * English  
         * [Free Grammar Checker - Online Grammar Check](https://grammarchecker.io/)  
         * [Hemingway Editor](http://www.hemingwayapp.com/)  
@@ -1637,8 +1679,9 @@
         * [RedPen](https://redpen.cc/)  
       * [Fix Corrupted Chinese Email](http://www.mandarintools.com/email.html)  
     * Unicode  
-      * [BabelStone : BabelMap (Unicode Character Map for Windows)](http://www.babelstone.co.uk/Software/BabelMap.html)  
-      * [BabelStone : BabelPad (Unicode Text Editor for Windows)](http://www.babelstone.co.uk/Software/BabelPad.html)  
+      * [BabelStone : BabelMap (Unicode Character Map for Windows)](https://www.babelstone.co.uk/Software/BabelMap.html)  
+      * [BabelStone : BabelPad (Unicode Text Editor for Windows)](https://www.babelstone.co.uk/Software/BabelPad.html)  
+      * [graphemica](https://graphemica.com/)  
       * [Shapecatcher: Draw the Unicode character you want!](http://shapecatcher.com/)  
       * [Unicode - Compart](https://www.compart.com/en/unicode/)  
       * [Unicode – The World Standard for Text and Emoji](https://home.unicode.org/)  
@@ -1646,7 +1689,7 @@
       * [Unicode Character Search](https://www.fileformat.info/info/unicode/char/search.htm)  
       * [Unicode Inputter Page](https://babel.mml.ox.ac.uk/naughton/inputter.html)  
       * [UnicodeRanges Class (System.Text.Unicode) | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.text.unicode.unicoderanges?view=net-7.0)  
-      * [graphemica](https://graphemica.com/)  
+      * [What Unicode character is this ?](https://www.babelstone.co.uk/Unicode/whatisit.html)  
     * [Laurence Anthony's AntConc](http://www.laurenceanthony.net/software/antconc/)  
     * [Voyant Tools](https://voyant-tools.org/)  
   * Network Administration  
@@ -1908,11 +1951,13 @@
           * [Visual Studio Code User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings)  
         * stackoverflow.com  
           * [How to add a right margin to the Visual Studio Code editor? - Stack Overflow](https://stackoverflow.com/questions/42607666/how-to-add-a-right-margin-to-the-visual-studio-code-editor)  
+          * [How to sort files by type in folder view of Visual Studio Code - Stack Overflow](https://stackoverflow.com/questions/48761246/how-to-sort-files-by-type-in-folder-view-of-visual-studio-code)  
           * [Show whitespace characters in Visual Studio Code - Stack Overflow](https://stackoverflow.com/questions/30140595/show-whitespace-characters-in-visual-studio-code)  
           * [visual studio code - How to turn off copy with syntax highlighting? - Stack Overflow](https://stackoverflow.com/questions/44461520/how-to-turn-off-copy-with-syntax-highlighting)  
           * [visual studio code - Make selected block of text uppercase - Stack Overflow](https://stackoverflow.com/questions/35184509/make-selected-block-of-text-uppercase)  
           * [visual studio code - Match the beginning of a file in a VSCode regex search - Stack Overflow](https://stackoverflow.com/questions/60090875/match-the-beginning-of-a-file-in-a-vscode-regex-search)  
           * [Visual Studio Code: How to show line endings - Stack Overflow](https://stackoverflow.com/questions/39525417/visual-studio-code-how-to-show-line-endings)  
+        * [Disable middle-click paste · Issue #14610 · microsoft/vscode](https://github.com/microsoft/vscode/issues/14610)  
         * [formatting - Visual Studio code - convert spaces to tab and then save in spaces again - Super User](https://superuser.com/questions/1437044/visual-studio-code-convert-spaces-to-tab-and-then-save-in-spaces-again)  
         * [Linting | Python in Visual Studio Code](https://donjayamanne.github.io/pythonVSCodeDocs/docs/linting/)  
         * [Using Standard with VSCode | Zell Liew](https://zellwk.com/blog/standard-with-vscode/)  
@@ -2892,6 +2937,7 @@
           * [Python random randrange() & randint() to get Random Integer number](https://pynative.com/python-random-randrange/)  
           * [Python Range() function explained with Examples [Complete Guide]](https://pynative.com/python-range-function/)  
         * pythonspeed.com  
+          * [Python’s multiprocessing performance problem](https://pythonspeed.com/articles/faster-multiprocessing-pickle/)  
           * [The best Docker base image for your Python application (Sep 2022)](https://pythonspeed.com/articles/base-image-python-docker-images/)  
           * [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)  
         * stackabuse.com  
@@ -2923,6 +2969,7 @@
           * [datetime - How to get the current time in Python - Stack Overflow](https://stackoverflow.com/questions/415511/how-to-get-the-current-time-in-python)  
           * [datetime - How would I compute exactly 30 days into the past with Python (down to the minute)? - Stack Overflow](https://stackoverflow.com/questions/703907/how-would-i-compute-exactly-30-days-into-the-past-with-python-down-to-the-minut)  
           * [datetime - Round time to nearest hour python - Stack Overflow](https://stackoverflow.com/questions/48937900/round-time-to-nearest-hour-python)  
+          * [Does Python Multiprocessing Copy All Modules From The Parent? - Stack Overflow](https://stackoverflow.com/questions/57558784/does-python-multiprocessing-copy-all-modules-from-the-parent)  
           * [email - Specify a sender when sending mail with Python (smtplib) - Stack Overflow](https://stackoverflow.com/questions/540976/specify-a-sender-when-sending-mail-with-python-smtplib)  
           * [exception - How can I safely create a nested directory in Python? - Stack Overflow](https://stackoverflow.com/questions/273192/how-can-i-safely-create-a-nested-directory-in-python)  
           * [Executing periodic actions in Python - Stack Overflow](https://stackoverflow.com/questions/8600161/executing-periodic-actions-in-python)  
@@ -2964,6 +3011,7 @@
           * [https - How do I disable the security certificate check in Python requests - Stack Overflow](https://stackoverflow.com/questions/15445981/how-do-i-disable-the-security-certificate-check-in-python-requests)  
           * [Jira python calculate time - Stack Overflow](https://stackoverflow.com/questions/37744027/jira-python-calculate-time)  
           * [linux - Force python to use an older version of module (than what I have installed now) - Stack Overflow](https://stackoverflow.com/questions/6445167/force-python-to-use-an-older-version-of-module-than-what-i-have-installed-now)  
+          * [multiprocessing - Python Process Pool non-daemonic? - Stack Overflow](https://stackoverflow.com/questions/6974695/python-process-pool-non-daemonic)  
           * [newline - How to write Unix end of line characters in Windows using Python - Stack Overflow](https://stackoverflow.com/questions/2536545/how-to-write-unix-end-of-line-characters-in-windows-using-python)  
           * [partition string in python and get value of last segment after colon - Stack Overflow](https://stackoverflow.com/questions/6169324/partition-string-in-python-and-get-value-of-last-segment-after-colon/6169363)  
           * [performance - How do I profile a Python script? - Stack Overflow](https://stackoverflow.com/questions/582336/how-do-i-profile-a-python-script)  
@@ -2982,8 +3030,10 @@
           * [python - Creating a dictionary from an iterable - Stack Overflow](https://stackoverflow.com/questions/4084749/creating-a-dictionary-from-an-iterable)  
           * [python - Define functions with too many arguments to abide by PEP8 standard - Stack Overflow](https://stackoverflow.com/questions/24988162/define-functions-with-too-many-arguments-to-abide-by-pep8-standard)  
           * [python - Display number with leading zeros - Stack Overflow](https://stackoverflow.com/questions/134934/display-number-with-leading-zeros)  
+          * [python - Efficient way to remove keys with empty strings from a dict - Stack Overflow](https://stackoverflow.com/questions/12118695/efficient-way-to-remove-keys-with-empty-strings-from-a-dict)  
           * [python - extract column value based on another column pandas dataframe - Stack Overflow](https://stackoverflow.com/questions/36684013/extract-column-value-based-on-another-column-pandas-dataframe)  
           * [python - Extract part of a regex match - Stack Overflow](https://stackoverflow.com/questions/1327369/extract-part-of-a-regex-match)  
+          * [python - Extract the extra fields in logging call in log formatter - Stack Overflow](https://stackoverflow.com/questions/59176101/extract-the-extra-fields-in-logging-call-in-log-formatter)  
           * [python - Find oldest/youngest datetime object in a list - Stack Overflow](https://stackoverflow.com/questions/3922644/find-oldest-youngest-datetime-object-in-a-list)  
           * [python - Find which version of package is installed with pip - Stack Overflow](https://stackoverflow.com/questions/10214827/find-which-version-of-package-is-installed-with-pip)  
           * [python - Flask raises TemplateNotFound error even though template file exists - Stack Overflow](https://stackoverflow.com/questions/23327293/flask-raises-templatenotfound-error-even-though-template-file-exists)  
@@ -3168,6 +3218,7 @@
         * [windows - How to install the win32com python library - Super User](https://superuser.com/questions/609447/how-to-install-the-win32com-python-library)  
         * [Working with Datetime Objects and Timezones in Python - Howchoo](https://howchoo.com/g/ywi5m2vkodk/working-with-datetime-objects-and-timezones-in-python)  
         * [Writing and Reading config files in Python :: TutsWiki Beta](https://tutswiki.com/read-write-config-files-in-python/)  
+        * [Writing Custom Log Handlers In Python - DEV Community](https://dev.to/salemzii/writing-custom-log-handlers-in-python-58bi)  
       * Python Packages  
         * github.com  
           * [jonashaag/bjoern: A screamingly fast Python 2/3 WSGI server written in C.](https://github.com/jonashaag/bjoern)  
@@ -3203,7 +3254,7 @@
       * [python - Official Image | Docker Hub](https://hub.docker.com/_/python)  
       * [Python.org](https://www.python.org/)  
       * [Spyder Website](https://www.spyder-ide.org/)  
-      * [Status of Python Versions](https://devguide.python.org/versions/#versions)  
+      * [Status of Python versions](https://devguide.python.org/versions/)  
     * R  
       * R How To  
         * stackoverflow.com  
@@ -3310,7 +3361,6 @@
           * [git stash - Saving Changes | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)  
         * git-scm.com  
           * [Git - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)  
-          * [Git - git-credential-store Documentation](https://git-scm.com/docs/git-credential-store)  
           * [Git - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)  
         * github.com  
           * [Configuring commit squashing for pull requests - GitHub Docs](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/configuring-commit-squashing-for-pull-requests)  
@@ -3322,11 +3372,9 @@
           * [git - Cannot push to GitHub - keeps saying need merge - Stack Overflow](https://stackoverflow.com/questions/10298291/cannot-push-to-github-keeps-saying-need-merge)  
           * [How do I properly force a Git push? - Stack Overflow](https://stackoverflow.com/questions/5509543/how-do-i-properly-force-a-git-push)  
           * [msysgit - How do I force git to use LF instead of CR+LF under windows? - Stack Overflow](https://stackoverflow.com/questions/2517190/how-do-i-force-git-to-use-lf-instead-of-crlf-under-windows)  
-          * [credentials - How can I save username and password in Git? - Stack Overflow](https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git)  
         * [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)  
         * [How can I undo the last commit?](https://www.git-tower.com/learn/git/faq/undo-last-commit)  
         * [How to delete a local Git branch](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/delete-local-git-branch-origin-force-merge-all)  
-        * [Introduction to Github APIs | LoginRadius Blog](https://www.loginradius.com/blog/engineering/github-api/)  
       * Git LFS  
         * [Git Large File Storage | Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.](https://git-lfs.com/)  
         * [github/git-lfs - Installation · packagecloud- Bash Scripts](https://packagecloud.io/github/git-lfs/install)  
